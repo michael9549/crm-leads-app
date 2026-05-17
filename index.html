@@ -204,6 +204,7 @@
         <button class="nav-button" data-view="watched">Watched Not Closed</button>
         <button class="nav-button" data-view="nurture">Nurture</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
+        <button class="nav-button" onclick="openSettings()">⚙️ Settings</button>
       </div>
     </div>
   </div>
@@ -308,6 +309,10 @@
               <label class="form-label">Phone</label>
               <input type="tel" id="lead-phone" class="form-input">
             </div>
+          </div>
+          <div class="form-group">
+            <label class="form-label">Social Media Link</label>
+            <input type="url" id="lead-social" class="form-input" placeholder="https://facebook.com/...">
           </div>
           <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
             <div class="form-group">
