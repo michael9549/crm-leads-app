@@ -403,13 +403,17 @@
 
     async function loadLeads() {
       try {
+        console.log('Loading leads...');
         const response = await fetch('/api/leads');
+        console.log('Response status:', response.status);
         
         if (response.ok) {
           const data = await response.json();
+          console.log('Data received:', data);
           leads = data.leads || [];
           sha = data.sha || '';
         } else {
+          console.error('Response not ok:', await response.text());
           leads = [];
           sha = '';
         }
@@ -527,6 +531,7 @@
     }
 
     function renderView() {
+      console.log('Rendering view:', currentView, 'Leads:', leads);
       if (currentView === 'metrics') {
         document.getElementById('metrics-view').classList.remove('hidden');
         document.getElementById('leads-view').classList.add('hidden');
