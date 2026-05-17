@@ -210,7 +210,7 @@
 
   <div class="container">
     <!-- Token Setup -->
-    <div id="token-setup" class="card hidden" style="max-width: 400px; margin: 100px auto;">
+    <div id="token-setup" class="card" style="max-width: 400px; margin: 100px auto;">
       <h2 style="margin-top: 0;">GitHub Token Required</h2>
       <p style="color: var(--gray-600);">Enter your GitHub personal access token to access the CRM data.</p>
       <div class="form-group">
@@ -370,8 +370,12 @@
 
     // Initialize
     document.addEventListener('DOMContentLoaded', () => {
-      showMainApp();
-      loadLeads();
+      const savedToken = localStorage.getItem('github_token');
+      if (savedToken) {
+        GITHUB_TOKEN = savedToken;
+        showMainApp();
+        loadLeads();
+      }
       setupNavigation();
     });
 
@@ -403,17 +407,30 @@
 
     async function loadLeads() {
       try {
-        console.log('Loading leads...');
-        const response = await fetch('/api/leads');
-        console.log('Response status:', response.status);
-        
-        if (response.ok) {
+        console.log('Loading leads from GitHub...');
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${LEADS_FILE}`,
+          {
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json'
+            }
+          }
+        );
+
+        if (response.status === 404) {
+          console.log('File not found, initializing...');
+          leads = [];
+          sha = '';
+          await initializeRepo();
+        } else if (response.ok) {
           const data = await response.json();
-          console.log('Data received:', data);
-          leads = data.leads || [];
-          sha = data.sha || '';
+          const content = JSON.parse(atob(data.content));
+          leads = content.leads || [];
+          sha = data.sha;
+          console.log('Leads loaded:', leads.length);
         } else {
-          console.error('Response not ok:', await response.text());
+          console.error('GitHub API error:', response.status, await response.text());
           leads = [];
           sha = '';
         }
@@ -458,19 +475,30 @@
 
     async function saveLeadsToGitHub() {
       try {
-        const response = await fetch('/api/leads', {
-          method: 'PUT',
-          headers: {
-            'Content-Type': 'application/json'
-          },
-          body: JSON.stringify({ leads, sha })
-        });
+        const content = btoa(JSON.stringify({ leads, lastUpdated: new Date().toISOString() }, null, 2));
+        const response = await fetch(
+          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${LEADS_FILE}`,
+          {
+            method: 'PUT',
+            headers: {
+              'Authorization': `token ${GITHUB_TOKEN}`,
+              'Accept': 'application/vnd.github.v3+json',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+              message: 'Update leads',
+              content,
+              sha: sha || undefined
+            })
+          }
+        );
 
         if (response.ok) {
           const data = await response.json();
-          sha = data.sha;
+          sha = data.content.sha;
           return true;
         }
+        console.error('Save failed:', await response.text());
         return false;
       } catch (error) {
         console.error('Error saving leads:', error);
