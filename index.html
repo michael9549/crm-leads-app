@@ -210,7 +210,7 @@
 
   <div class="container">
     <!-- Token Setup -->
-    <div id="token-setup" class="card" style="max-width: 400px; margin: 100px auto;">
+    <div id="token-setup" class="card hidden" style="max-width: 400px; margin: 100px auto;">
       <h2 style="margin-top: 0;">GitHub Token Required</h2>
       <p style="color: var(--gray-600);">Enter your GitHub personal access token to access the CRM data.</p>
       <div class="form-group">
@@ -370,10 +370,8 @@
 
     // Initialize
     document.addEventListener('DOMContentLoaded', () => {
-      if (GITHUB_TOKEN) {
-        showMainApp();
-        loadLeads();
-      }
+      showMainApp();
+      loadLeads();
       setupNavigation();
     });
 
