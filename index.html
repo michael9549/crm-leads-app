@@ -843,6 +843,26 @@
       document.getElementById('lead-next-followup').value = lead.nextFollowUp || '';
       document.getElementById('lead-notes').value = lead.notes || '';
       document.getElementById('modal').classList.remove('hidden');
+      
+      // Add event listener to auto-calculate when follow-up count changes
+      const countInput = document.getElementById('lead-followup-count');
+      countInput.addEventListener('change', autoCalculateDates);
+      countInput.addEventListener('input', autoCalculateDates);
+    }
+    
+    function autoCalculateDates() {
+      const count = parseInt(document.getElementById('lead-followup-count').value) || 0;
+      if (count > 0) {
+        const today = new Date().toISOString().split('T')[0];
+        const nextFollowUp = calculateNextFollowUp(count, today);
+        
+        document.getElementById('lead-last-contact').value = today;
+        document.getElementById('lead-next-followup').value = nextFollowUp;
+        
+        // Update last action based on count
+        const actions = ['Initial Contact', 'Follow-up 1', 'Follow-up 2', 'Follow-up 3', 'Follow-up 4', 'Follow-up 5', 'Follow-up 6+'];
+        document.getElementById('lead-last-action').value = actions[Math.min(count, 6)];
+      }
     }
 
     function closeModal(e) {
