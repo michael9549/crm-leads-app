@@ -907,7 +907,7 @@
         
         // If follow-up count changed, auto-calculate dates
         if (newCount !== oldCount && newCount > 0) {
-          const today = new Date().toISOString().split('T')[0];
+          const today = getTodayPacific();
           leadData.lastContact = today;
           leadData.nextFollowUp = calculateNextFollowUp(newCount, today);
           
