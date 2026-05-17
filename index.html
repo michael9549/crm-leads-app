@@ -394,18 +394,36 @@
     }
 
     function saveToken() {
-      const token = document.getElementById('github-token').value.trim();
-      if (token) {
-        GITHUB_TOKEN = token;
-        localStorage.setItem('github_token', token);
-        showMainApp();
-        loadLeads();
+      try {
+        const tokenInput = document.getElementById('github-token');
+        if (!tokenInput) {
+          alert('Error: Token input field not found');
+          return;
+        }
+        const token = tokenInput.value.trim();
+        if (token) {
+          GITHUB_TOKEN = token;
+          localStorage.setItem('github_token', token);
+          showMainApp();
+          loadLeads();
+        } else {
+          alert('Please enter a token');
+        }
+      } catch (error) {
+        alert('Error saving token: ' + error.message);
+        console.error(error);
       }
     }
 
     function showMainApp() {
-      document.getElementById('token-setup').classList.add('hidden');
-      document.getElementById('main-app').classList.remove('hidden');
+      try {
+        const tokenSetup = document.getElementById('token-setup');
+        const mainApp = document.getElementById('main-app');
+        if (tokenSetup) tokenSetup.classList.add('hidden');
+        if (mainApp) mainApp.classList.remove('hidden');
+      } catch (error) {
+        console.error('Error showing main app:', error);
+      }
     }
 
     async function loadLeads() {
