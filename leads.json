@@ -239,7 +239,23 @@
       "notes": "",
       "lastModified": "2026-05-18",
       "dateAdded": "2026-05-18"
+    },
+    {
+      "id": "mpbri8tu46vlt7shzmw",
+      "name": "Kim Fatz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kam.fatz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-18",
+      "nextFollowUp": "2026-05-20",
+      "notes": "",
+      "lastModified": "2026-05-18",
+      "dateAdded": "2026-05-18"
     }
   ],
-  "lastUpdated": "2026-05-18T22:14:15.479Z"
+  "lastUpdated": "2026-05-18T22:14:57.330Z"
 }
