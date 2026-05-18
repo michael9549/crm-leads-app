@@ -815,14 +815,17 @@
     }
 
     function getFilteredLeads() {
+      // Customers and IBOs should only appear in their respective tabs
+      const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
+      
       switch (currentView) {
-        case 'hot': return leads.filter(l => l.temperature === 'Hot');
-        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp));
+        case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l));
+        case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l));
         case 'watched': return leads.filter(l => l.status === 'Watched');
         case 'customers': return leads.filter(l => l.status === 'Customer');
         case 'ibos': return leads.filter(l => l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
-        default: return leads;
+        default: return leads.filter(l => !isClosed(l)); // Master Pipeline excludes Customers/IBOs
       }
     }
 
