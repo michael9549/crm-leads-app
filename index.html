@@ -523,6 +523,7 @@
                 <option>New Lead</option>
                 <option>Prospect</option>
                 <option>Watched</option>
+                <option>Sent Video</option>
                 <option>Customer</option>
                 <option>IBO</option>
                 <option>Nurture</option>
@@ -843,7 +844,7 @@
       document.getElementById('stat-overdue').textContent = stats.overdue;
       document.getElementById('stat-new').textContent = stats.newThisWeek;
 
-      const statuses = ['New Lead', 'Prospect', 'Proposal Sent', 'Contract Sent', 'Watched', 'Closed Won', 'Closed Lost', 'Nurture'];
+      const statuses = ['New Lead', 'Prospect', 'Watched', 'Sent Video', 'Customer', 'IBO', 'Nurture'];
       document.getElementById('status-breakdown').innerHTML = statuses.map(s => {
         const count = leads.filter(l => l.status === s).length;
         return `<div style="display: flex; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid var(--gray-200);"><span>${s}</span><span style="font-weight: 600;">${count}</span></div>`;
@@ -924,6 +925,7 @@
     function getStatusColor(status) {
       const colors = {
         'Watched': '#3b82f6',
+        'Sent Video': '#ec4899',
         'New Lead': '#6b7280',
         'Prospect': '#f59e0b',
         'Customer': '#10b981',
