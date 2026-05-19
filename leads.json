@@ -351,7 +351,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpcu6cct1ox7tdzvyz8",
+      "name": "Richard Bellamy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richard.bellamy.2024",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-21",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T16:16:00.786Z"
+  "lastUpdated": "2026-05-19T16:17:27.053Z"
 }
