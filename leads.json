@@ -431,7 +431,23 @@
       "notes": "",
       "lastModified": "2026-05-19",
       "dateAdded": "2026-05-19"
+    },
+    {
+      "id": "mpcuejsfq0wx3vgwftp",
+      "name": "Rick Hagar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rickhagarmedia",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-19",
+      "nextFollowUp": "2026-05-21",
+      "notes": "",
+      "lastModified": "2026-05-19",
+      "dateAdded": "2026-05-19"
     }
   ],
-  "lastUpdated": "2026-05-19T16:22:56.499Z"
+  "lastUpdated": "2026-05-19T16:23:49.935Z"
 }
