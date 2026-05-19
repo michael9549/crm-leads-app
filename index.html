@@ -1433,6 +1433,27 @@
       document.getElementById('script-modal').classList.add('hidden');
     }
 
+    function insertFirstNameToken() {
+      const textarea = document.getElementById('script-content');
+      const token = '{{firstName}}';
+      
+      // Get cursor position
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+      const text = textarea.value;
+      
+      // Insert token at cursor position
+      const before = text.substring(0, start);
+      const after = text.substring(end, text.length);
+      textarea.value = before + token + after;
+      
+      // Move cursor after the inserted token
+      textarea.selectionStart = textarea.selectionEnd = start + token.length;
+      
+      // Focus back on textarea
+      textarea.focus();
+    }
+
     // Search functionality
     function clearSearch() {
       const searchInput = document.getElementById('lead-search');
@@ -1500,7 +1521,10 @@
           <div class="form-group">
             <label class="form-label">Script Content</label>
             <textarea id="script-content" class="form-textarea" rows="6" placeholder="Use {{firstName}} where you want the person's first name to appear..." required></textarea>
-            <small style="color: var(--gray-500);">Use {{firstName}} as a placeholder for the lead's first name</small>
+            <div style="margin-top: 8px;">
+              <button type="button" onclick="insertFirstNameToken()" class="button button-secondary" style="font-size: 12px; padding: 6px 12px;">➕ Insert {{firstName}}</button>
+              <small style="color: var(--gray-500); margin-left: 8px;">Click to insert first name token at cursor position</small>
+            </div>
           </div>
           <div class="modal-footer" style="padding: 16px 0 0 0; border-top: 1px solid var(--gray-200);">
             <button type="button" onclick="closeScriptFormModal()" class="button button-secondary">Cancel</button>
