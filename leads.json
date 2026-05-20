@@ -818,7 +818,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-20T22:05:04.545Z"
+    },
+    {
+      "id": "mpem2ut3xei9jaqfb4",
+      "name": "Rick Benson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rick.benson.779",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-20T22:06:19.767Z"
     }
   ],
-  "lastUpdated": "2026-05-20T22:05:04.545Z"
+  "lastUpdated": "2026-05-20T22:06:19.767Z"
 }
