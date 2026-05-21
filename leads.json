@@ -920,7 +920,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T00:52:03.642Z"
+    },
+    {
+      "id": "mpes1aq87pwf3b3zmcv",
+      "name": "Martin Dimitrov",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/martindimitrovofficialprofile",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T00:53:04.784Z"
     }
   ],
-  "lastUpdated": "2026-05-21T00:52:03.642Z"
+  "lastUpdated": "2026-05-21T00:53:04.784Z"
 }
