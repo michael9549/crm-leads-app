@@ -1175,7 +1175,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:13:55.814Z"
+    },
+    {
+      "id": "mpestq6jii6lan6xxy",
+      "name": "Dennis Griffiths",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DennismGriffiths",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T01:15:11.179Z"
     }
   ],
-  "lastUpdated": "2026-05-21T01:13:55.814Z"
+  "lastUpdated": "2026-05-21T01:15:11.179Z"
 }
