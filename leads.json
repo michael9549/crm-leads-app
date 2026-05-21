@@ -1039,7 +1039,24 @@
       "lastModified": "2026-05-20",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:02:28.127Z"
+    },
+    {
+      "id": "mpeseqaii2owvjb1ac",
+      "name": "Spencer Williams",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/spencer.williams.3726",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-20",
+      "nextFollowUp": "2026-05-22",
+      "notes": "",
+      "lastModified": "2026-05-20",
+      "dateAdded": "2026-05-20",
+      "addedAt": "2026-05-21T01:03:31.482Z"
     }
   ],
-  "lastUpdated": "2026-05-21T01:02:28.127Z"
+  "lastUpdated": "2026-05-21T01:03:31.482Z"
 }
