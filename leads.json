@@ -1414,7 +1414,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T23:58:29.903Z"
+    },
+    {
+      "id": "mpg5karrc7jaj6ewahn",
+      "name": "Domenic Amato",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/domenicamato1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-21T23:59:32.487Z"
     }
   ],
-  "lastUpdated": "2026-05-21T23:58:29.903Z"
+  "lastUpdated": "2026-05-21T23:59:32.487Z"
 }
