@@ -1499,7 +1499,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-22T00:04:52.493Z"
+    },
+    {
+      "id": "mpg5rq4g1qsfggzkwoy",
+      "name": "Bill Simms",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gobillsimms",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-22T00:05:18.976Z"
     }
   ],
-  "lastUpdated": "2026-05-22T00:04:52.493Z"
+  "lastUpdated": "2026-05-22T00:05:18.976Z"
 }
