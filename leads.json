@@ -1431,7 +1431,24 @@
       "lastModified": "2026-05-21",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T23:59:32.487Z"
+    },
+    {
+      "id": "mpg5nn3s788u7gsdyjx",
+      "name": "Dave Hurley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.hurley.10297701",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-21",
+      "nextFollowUp": "2026-05-23",
+      "notes": "",
+      "lastModified": "2026-05-21",
+      "dateAdded": "2026-05-21",
+      "addedAt": "2026-05-22T00:02:08.440Z"
     }
   ],
-  "lastUpdated": "2026-05-21T23:59:32.487Z"
+  "lastUpdated": "2026-05-22T00:02:08.440Z"
 }
