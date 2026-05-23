@@ -337,22 +337,6 @@
       "dateAdded": "2026-05-19"
     },
     {
-      "id": "mpcu6cct1ox7tdzvyz8",
-      "name": "Richard Bellamy",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/richard.bellamy.2024",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-23",
-      "notes": "",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-19"
-    },
-    {
       "id": "mpcu7c4oej3zyy0safq",
       "name": "Brandon Hudgens",
       "email": "",
@@ -1879,5 +1863,5 @@
       "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-23T23:42:15.174Z"
+  "lastUpdated": "2026-05-23T23:42:43.939Z"
 }
