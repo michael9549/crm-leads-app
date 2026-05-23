@@ -1047,23 +1047,6 @@
       "addedAt": "2026-05-21T23:45:33.438Z"
     },
     {
-      "id": "mpg55ooijt3eifpzck",
-      "name": "Marianne Houck",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/marianne.perrellihouck",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-23",
-      "notes": "",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T23:48:10.674Z"
-    },
-    {
       "id": "mpg598y78lxl3nxtce",
       "name": "Edward Taylor",
       "email": "",
@@ -1846,5 +1829,5 @@
       "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-23T23:45:38.456Z"
+  "lastUpdated": "2026-05-23T23:46:02.806Z"
 }
