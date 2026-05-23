@@ -481,22 +481,6 @@
       "dateAdded": "2026-05-19"
     },
     {
-      "id": "mpd7s80ljtrakkgcgil",
-      "name": "Charles Bennet",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=61576318260685",
-      "source": "Facebook",
-      "status": "New Lead",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-21",
-      "nextFollowUp": "2026-05-23",
-      "notes": "",
-      "lastModified": "2026-05-21",
-      "dateAdded": "2026-05-19"
-    },
-    {
       "id": "mpd7tdls061oaqd3h8yi",
       "name": "Riven Wolf",
       "email": "",
@@ -1895,5 +1879,5 @@
       "addedAt": "2026-05-23T17:02:58.870Z"
     }
   ],
-  "lastUpdated": "2026-05-23T23:38:57.098Z"
+  "lastUpdated": "2026-05-23T23:39:22.991Z"
 }
