@@ -1793,7 +1793,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:55:39.149Z"
+    },
+    {
+      "id": "mplqx4os63z2rfzw03n",
+      "name": "David Trimble",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DavidWTrimble",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:56:13.948Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:55:39.149Z"
+  "lastUpdated": "2026-05-25T21:56:13.949Z"
 }
