@@ -1776,7 +1776,24 @@
       "lastModified": "2026-05-25",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:53:58.748Z"
+    },
+    {
+      "id": "mplqwdu5sqsxw67ggp",
+      "name": "Levi Drakis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100089756142640",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-25",
+      "nextFollowUp": "2026-05-27",
+      "notes": "",
+      "lastModified": "2026-05-25",
+      "dateAdded": "2026-05-25",
+      "addedAt": "2026-05-25T21:55:39.149Z"
     }
   ],
-  "lastUpdated": "2026-05-25T21:53:58.748Z"
+  "lastUpdated": "2026-05-25T21:55:39.149Z"
 }
