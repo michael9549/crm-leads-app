@@ -2405,7 +2405,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:53:17.328Z"
+    },
+    {
+      "id": "mpnalw7rsn5eg8yqsvo",
+      "name": "Greg Kr",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/GregNAab",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:55:08.247Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:53:17.328Z"
+  "lastUpdated": "2026-05-26T23:55:08.247Z"
 }
