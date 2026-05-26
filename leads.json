@@ -2048,7 +2048,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:25:16.208Z"
+    },
+    {
+      "id": "mpn9kt7hdrwvqfcr84a",
+      "name": "Jonathan Roach Sr.",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jonathan.roach.148",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:26:18.077Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:25:16.208Z"
+  "lastUpdated": "2026-05-26T23:26:18.077Z"
 }
