@@ -2388,7 +2388,24 @@
       "lastModified": "2026-05-26",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:49:42.242Z"
+    },
+    {
+      "id": "mpnajimocvvwgvca4n4",
+      "name": "Wayne Partridge",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wayne.partridge.90",
+      "source": "Facebook",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-28",
+      "notes": "",
+      "lastModified": "2026-05-26",
+      "dateAdded": "2026-05-26",
+      "addedAt": "2026-05-26T23:53:17.328Z"
     }
   ],
-  "lastUpdated": "2026-05-26T23:49:42.242Z"
+  "lastUpdated": "2026-05-26T23:53:17.328Z"
 }
