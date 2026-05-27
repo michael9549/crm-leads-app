@@ -671,14 +671,15 @@
       "phone": "",
       "social": "https://www.facebook.com/suzette.lee.306383",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-20",
+      "videoSent": false
     },
     {
       "id": "mpelyh2dp2jr57he5n",
@@ -2418,5 +2419,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:58:07.930Z"
+  "lastUpdated": "2026-05-27T22:58:54.766Z"
 }
