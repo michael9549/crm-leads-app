@@ -1327,11 +1327,11 @@
       "source": "Facebook",
       "status": "New Lead",
       "temperature": "Cold",
-      "lastAction": "Follow-up 1",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-26",
+      "lastAction": "Follow-up 2",
+      "lastContact": "2026-05-26",
+      "nextFollowUp": "2026-05-29",
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-26",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T00:52:59.395Z"
     },
@@ -2458,5 +2458,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T00:14:12.782Z"
+  "lastUpdated": "2026-05-27T00:15:09.984Z"
 }
