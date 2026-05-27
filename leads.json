@@ -686,15 +686,16 @@
       "phone": "",
       "social": "https://www.facebook.com/shiftwithrob",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-24",
+      "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-20T22:02:55.333Z"
+      "addedAt": "2026-05-20T22:02:55.333Z",
+      "videoSent": false
     },
     {
       "id": "mpem05quipp1elwjuhd",
@@ -2416,5 +2417,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:55:06.327Z"
+  "lastUpdated": "2026-05-27T22:56:51.163Z"
 }
