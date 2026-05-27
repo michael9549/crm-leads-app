@@ -638,14 +638,15 @@
       "phone": "",
       "social": "https://www.facebook.com/todd.connell.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-06-26",
       "notes": "",
-      "lastModified": "2026-05-24",
-      "dateAdded": "2026-05-20"
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-20",
+      "videoSent": false
     },
     {
       "id": "mpeloptkxh1nl32w92",
@@ -2417,5 +2418,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:56:51.163Z"
+  "lastUpdated": "2026-05-27T22:58:07.930Z"
 }
