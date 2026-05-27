@@ -924,11 +924,11 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61585476429362",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-24",
-      "nextFollowUp": "2026-05-27",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-20",
@@ -2406,5 +2406,5 @@
       "addedAt": "2026-05-26T23:58:30.950Z"
     }
   ],
-  "lastUpdated": "2026-05-27T22:37:37.571Z"
+  "lastUpdated": "2026-05-27T22:38:23.489Z"
 }
