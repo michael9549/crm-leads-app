@@ -2440,7 +2440,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T23:50:30.129Z"
+    },
+    {
+      "id": "mpouulnl1vl1m0a5pnb",
+      "name": "Derek Sutton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derek.sutton1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-28T02:09:32.961Z"
     }
   ],
-  "lastUpdated": "2026-05-27T23:50:30.129Z"
+  "lastUpdated": "2026-05-28T02:09:32.961Z"
 }
