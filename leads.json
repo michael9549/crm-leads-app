@@ -2566,7 +2566,25 @@
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:24:54.459Z"
+    },
+    {
+      "id": "mpovgbte4uswz5luvc6",
+      "name": "Shayla Rae",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shayla.girard.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-27",
+      "nextFollowUp": "2026-05-30",
+      "notes": "",
+      "lastModified": "2026-05-27",
+      "dateAdded": "2026-05-27",
+      "addedAt": "2026-05-28T02:26:26.642Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:24:54.459Z"
+  "lastUpdated": "2026-05-28T02:26:26.642Z"
 }
