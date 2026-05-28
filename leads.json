@@ -2543,12 +2543,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-27",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-05-30",
       "notes": "",
       "lastModified": "2026-05-27",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:20:14.835Z"
     }
   ],
-  "lastUpdated": "2026-05-28T02:20:14.835Z"
+  "lastUpdated": "2026-05-28T02:20:23.101Z"
 }
