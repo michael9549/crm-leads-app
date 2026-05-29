@@ -1046,15 +1046,16 @@
       "phone": "",
       "social": "https://www.facebook.com/ginakroezen",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T23:54:01.081Z"
+      "addedAt": "2026-05-21T23:54:01.081Z",
+      "videoSent": false
     },
     {
       "id": "mpg5e27teb8tve2jjat",
@@ -2630,5 +2631,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:09:09.509Z"
+  "lastUpdated": "2026-05-29T01:10:48.643Z"
 }
