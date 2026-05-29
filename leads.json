@@ -2825,7 +2825,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:01:19.043Z"
+    },
+    {
+      "id": "mprcqa7jtc7bfnuqrp",
+      "name": "Shawn Wheeland",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shawn.wheeland.981113",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T20:05:36.943Z"
     }
   ],
-  "lastUpdated": "2026-05-29T20:01:19.043Z"
+  "lastUpdated": "2026-05-29T20:05:36.943Z"
 }
