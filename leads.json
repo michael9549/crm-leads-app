@@ -2073,15 +2073,16 @@
       "phone": "",
       "social": "https://www.facebook.com/emj210",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:30:11.598Z"
+      "addedAt": "2026-05-26T23:30:11.598Z",
+      "videoSent": true
     },
     {
       "id": "mpn9qwtm6n4z515bjv8",
@@ -2623,5 +2624,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:40:42.818Z"
+  "lastUpdated": "2026-05-29T00:41:24.303Z"
 }
