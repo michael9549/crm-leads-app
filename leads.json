@@ -2436,11 +2436,11 @@
       "status": "Sent Video",
       "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-29",
+      "lastAction": "Follow-up 1",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-29",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T23:50:30.129Z"
     },
@@ -2625,5 +2625,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:30:13.348Z"
+  "lastUpdated": "2026-05-29T19:32:11.982Z"
 }
