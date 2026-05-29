@@ -2771,7 +2771,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:55:29.911Z"
+    },
+    {
+      "id": "mprceevrma352qpk3i8",
+      "name": "Israel Salazar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100094547367416",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T19:56:23.127Z"
     }
   ],
-  "lastUpdated": "2026-05-29T19:55:29.911Z"
+  "lastUpdated": "2026-05-29T19:56:23.127Z"
 }
