@@ -1012,15 +1012,16 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61581646648590",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Nurture",
       "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "lastAction": "Nurture",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-06-27",
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-21T23:28:21.194Z"
+      "addedAt": "2026-05-21T23:28:21.194Z",
+      "videoSent": true
     },
     {
       "id": "mpg5abyeizpi89jv1v",
@@ -2632,5 +2633,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:12:19.843Z"
+  "lastUpdated": "2026-05-29T01:13:17.238Z"
 }
