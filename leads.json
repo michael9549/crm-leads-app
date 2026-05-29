@@ -1250,15 +1250,16 @@
       "phone": "",
       "social": "https://www.facebook.com/christopher.shivers.560",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-21",
-      "addedAt": "2026-05-22T00:11:26.897Z"
+      "addedAt": "2026-05-22T00:11:26.897Z",
+      "videoSent": false
     },
     {
       "id": "mpg60e9mupic4tnc3i",
@@ -2618,5 +2619,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:53:59.623Z"
+  "lastUpdated": "2026-05-29T00:55:13.875Z"
 }
