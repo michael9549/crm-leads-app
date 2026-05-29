@@ -3041,7 +3041,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T20:19:01.466Z"
+    },
+    {
+      "id": "mprd87wnokebhgvyfpd",
+      "name": "Cerrell Barner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/FirstDayOutLLC",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-29T20:19:33.767Z"
     }
   ],
-  "lastUpdated": "2026-05-29T20:19:01.466Z"
+  "lastUpdated": "2026-05-29T20:19:33.767Z"
 }
