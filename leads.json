@@ -1936,13 +1936,13 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61589384020598",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T15:08:45.140Z",
       "videoSent": true
@@ -2631,5 +2631,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:49:25.384Z"
+  "lastUpdated": "2026-05-29T00:49:44.584Z"
 }
