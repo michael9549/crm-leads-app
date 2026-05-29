@@ -2328,15 +2328,16 @@
       "phone": "",
       "social": "https://www.facebook.com/jerry.humbert",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Sent Video",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "lastContact": "2026-05-28",
+      "nextFollowUp": "2026-05-31",
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:49:42.242Z"
+      "addedAt": "2026-05-26T23:49:42.242Z",
+      "videoSent": true
     },
     {
       "id": "mpnajimocvvwgvca4n4",
@@ -2626,5 +2627,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:29:31.704Z"
+  "lastUpdated": "2026-05-29T00:30:40.005Z"
 }
