@@ -2005,15 +2005,16 @@
       "phone": "",
       "social": "https://www.facebook.com/jonathan.roach.148",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-26",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-26",
+      "lastModified": "2026-05-28",
       "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:26:18.077Z"
+      "addedAt": "2026-05-26T23:26:18.077Z",
+      "videoSent": false
     },
     {
       "id": "mpn9ndtt740gmg5j6fg",
@@ -2627,5 +2628,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T00:45:30.228Z"
+  "lastUpdated": "2026-05-29T00:46:18.847Z"
 }
