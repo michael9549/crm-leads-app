@@ -415,14 +415,15 @@
       "phone": "",
       "social": "https://www.facebook.com/rickhagarmedia",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-05-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-19"
+      "lastModified": "2026-05-28",
+      "dateAdded": "2026-05-19",
+      "videoSent": false
     },
     {
       "id": "mpcug03zt3bsm3br25",
@@ -2635,5 +2636,5 @@
       "addedAt": "2026-05-28T13:39:15.552Z"
     }
   ],
-  "lastUpdated": "2026-05-29T01:15:35.026Z"
+  "lastUpdated": "2026-05-29T01:16:18.993Z"
 }
