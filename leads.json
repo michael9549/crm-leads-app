@@ -1505,15 +1505,16 @@
       "phone": "",
       "social": "https://www.facebook.com/bill.yeager.100046",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T01:08:47.550Z"
+      "addedAt": "2026-05-23T01:08:47.550Z",
+      "videoSent": false
     },
     {
       "id": "mphniesjkh5914uum4",
@@ -3549,5 +3550,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T16:10:30.620Z"
+  "lastUpdated": "2026-05-30T16:11:13.088Z"
 }
