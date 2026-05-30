@@ -3892,7 +3892,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T22:08:38.700Z"
+    },
+    {
+      "id": "mpsx1cbv3dmo0alvzr",
+      "name": "Jerold J",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeroldadvisor",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T22:21:51.403Z"
     }
   ],
-  "lastUpdated": "2026-05-30T22:08:38.700Z"
+  "lastUpdated": "2026-05-30T22:21:51.403Z"
 }
