@@ -1763,15 +1763,16 @@
       "phone": "",
       "social": "https://www.facebook.com/VoxyLady",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T21:53:58.748Z"
+      "addedAt": "2026-05-25T21:53:58.748Z",
+      "videoSent": false
     },
     {
       "id": "mplqwdu5sqsxw67ggp",
@@ -3537,5 +3538,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T15:57:09.651Z"
+  "lastUpdated": "2026-05-30T15:58:10.451Z"
 }
