@@ -1900,15 +1900,16 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61550533414725",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-25",
-      "addedAt": "2026-05-25T22:03:47.107Z"
+      "addedAt": "2026-05-25T22:03:47.107Z",
+      "videoSent": false
     },
     {
       "id": "mpmnfdu5cqt18r584s",
@@ -3530,5 +3531,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T15:49:53.911Z"
+  "lastUpdated": "2026-05-30T15:50:59.445Z"
 }
