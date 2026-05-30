@@ -3509,7 +3509,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:37:41.071Z"
+    },
+    {
+      "id": "mproma325wo790gog7r",
+      "name": "Brandon Quick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brandon.quick.934758",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:37:41.071Z"
+  "lastUpdated": "2026-05-30T01:38:25.550Z"
 }
