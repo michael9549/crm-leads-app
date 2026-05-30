@@ -3838,7 +3838,25 @@
       "lastModified": "2026-05-30",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T21:33:01.305Z"
+    },
+    {
+      "id": "mpsvbg6y4g6mgxxvg03",
+      "name": "Zack Vedder",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zack.vedder.977551",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-30",
+      "nextFollowUp": "2026-06-02",
+      "notes": "",
+      "lastModified": "2026-05-30",
+      "dateAdded": "2026-05-30",
+      "addedAt": "2026-05-30T21:33:43.738Z"
     }
   ],
-  "lastUpdated": "2026-05-30T21:33:01.305Z"
+  "lastUpdated": "2026-05-30T21:33:43.738Z"
 }
