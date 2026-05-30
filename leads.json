@@ -3455,7 +3455,25 @@
       "lastModified": "2026-05-29",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-30T01:35:14.924Z"
+    },
+    {
+      "id": "mprojq0i0smcc5aa87u",
+      "name": "Noah V Haener",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/noah.v.haener",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-29",
+      "nextFollowUp": "2026-06-01",
+      "notes": "",
+      "lastModified": "2026-05-29",
+      "dateAdded": "2026-05-29",
+      "addedAt": "2026-05-30T01:36:26.226Z"
     }
   ],
-  "lastUpdated": "2026-05-30T01:35:14.924Z"
+  "lastUpdated": "2026-05-30T01:36:26.226Z"
 }
