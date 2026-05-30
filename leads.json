@@ -1434,13 +1434,13 @@
       "phone": "",
       "social": "https://www.facebook.com/holly.williams.747777",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-05-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-05-30",
       "dateAdded": "2026-05-22",
       "addedAt": "2026-05-23T01:03:01.251Z",
       "videoSent": true
@@ -3551,5 +3551,5 @@
       "addedAt": "2026-05-30T01:38:25.550Z"
     }
   ],
-  "lastUpdated": "2026-05-30T16:14:17.605Z"
+  "lastUpdated": "2026-05-30T16:17:42.886Z"
 }
