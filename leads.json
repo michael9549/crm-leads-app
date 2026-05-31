@@ -4486,7 +4486,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:45:37.735Z"
+    },
+    {
+      "id": "mpufhlaqlwmdv7rkvrq",
+      "name": "George Earl Hock",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/georgehock2627",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T23:46:08.786Z"
     }
   ],
-  "lastUpdated": "2026-05-31T23:45:37.735Z"
+  "lastUpdated": "2026-05-31T23:46:08.786Z"
 }
