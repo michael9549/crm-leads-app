@@ -212,8 +212,7 @@
         <button class="nav-button" data-view="actions">Actions</button>
         <button class="nav-button" data-view="nurture">Nurture</button>
         <button class="nav-button" data-view="hot">Hot Leads</button>
-        <button class="nav-button" data-view="customers">Customers</button>
-        <button class="nav-button" data-view="ibos">IBOs</button>
+        <button class="nav-button" data-view="customers-ibos">Customers / IBOs</button>
         <button class="nav-button" data-view="training">Training</button>
         <button class="nav-button" data-view="message-scripts">Message Scripts</button>
         <button class="nav-button" data-view="metrics">Metrics</button>
@@ -867,8 +866,7 @@
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
         case 'followups': return leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isNotInterested(l));
         case 'actions': return leads.filter(l => l.status === 'Watched' || l.status === 'Sent Video' || l.status === '2WT');
-        case 'customers': return leads.filter(l => l.status === 'Customer');
-        case 'ibos': return leads.filter(l => l.status === 'IBO');
+        case 'customers-ibos': return leads.filter(l => l.status === 'Customer' || l.status === 'IBO');
         case 'nurture': return leads.filter(l => l.status === 'Nurture');
         default: return leads.filter(l => !isClosed(l)); // Master Pipeline excludes Customers/IBOs but shows Not Interested
       }
@@ -977,8 +975,7 @@
         hot: 'Hot Leads',
         followups: 'Follow-ups Due',
         actions: 'Actions Needed',
-        customers: 'Customers',
-        ibos: 'IBOs',
+        'customers-ibos': 'Customers / IBOs',
         nurture: 'Nurture'
       };
       document.getElementById('view-title').textContent = titles[currentView];
