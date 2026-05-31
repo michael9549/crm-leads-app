@@ -2352,13 +2352,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jerry.humbert",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-05-31",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-05-31",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:49:42.242Z",
       "videoSent": true
@@ -4092,5 +4092,5 @@
       "addedAt": "2026-05-30T22:30:11.714Z"
     }
   ],
-  "lastUpdated": "2026-05-31T18:11:40.154Z"
+  "lastUpdated": "2026-05-31T18:14:45.058Z"
 }
