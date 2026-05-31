@@ -4288,7 +4288,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:03:28.887Z"
+    },
+    {
+      "id": "mpudzjmdn8h2y8s9xj",
+      "name": "Javon Charles",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/javon.charles.995849",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T23:04:07.189Z"
     }
   ],
-  "lastUpdated": "2026-05-31T23:03:28.887Z"
+  "lastUpdated": "2026-05-31T23:04:07.189Z"
 }
