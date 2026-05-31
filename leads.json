@@ -4108,7 +4108,25 @@
       "lastModified": "2026-05-31",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T21:44:41.171Z"
+    },
+    {
+      "id": "mpub6sm6tvqqvkc10p",
+      "name": "Alice Strassburger",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alice.clipa",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-05-31",
+      "nextFollowUp": "2026-06-03",
+      "notes": "",
+      "lastModified": "2026-05-31",
+      "dateAdded": "2026-05-31",
+      "addedAt": "2026-05-31T21:45:46.590Z"
     }
   ],
-  "lastUpdated": "2026-05-31T21:44:41.171Z"
+  "lastUpdated": "2026-05-31T21:45:46.590Z"
 }
