@@ -2766,14 +2766,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jim.orshall",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-05-29",
-      "nextFollowUp": "2026-06-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-29",
+      "lastModified": "2026-06-01",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:54:58.094Z"
     },
@@ -4651,5 +4651,5 @@
       "addedAt": "2026-06-01T03:06:57.220Z"
     }
   ],
-  "lastUpdated": "2026-06-01T15:17:22.268Z"
+  "lastUpdated": "2026-06-01T15:19:16.519Z"
 }
