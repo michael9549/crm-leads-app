@@ -4703,7 +4703,25 @@
       "lastModified": "2026-06-01",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:03:05.345Z"
+    },
+    {
+      "id": "mpvr9rhkeoosjqyx8lv",
+      "name": "YahraYah TsataYah",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/yahrayaht",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-01",
+      "nextFollowUp": "2026-06-04",
+      "notes": "",
+      "lastModified": "2026-06-01",
+      "dateAdded": "2026-06-01",
+      "addedAt": "2026-06-01T22:03:45.128Z"
     }
   ],
-  "lastUpdated": "2026-06-01T22:03:05.345Z"
+  "lastUpdated": "2026-06-01T22:03:45.128Z"
 }
