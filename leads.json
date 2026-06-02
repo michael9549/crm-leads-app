@@ -5351,7 +5351,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T23:58:55.151Z"
+    },
+    {
+      "id": "mpxauc6nnlb6ogas9o9",
+      "name": "Donte Alipia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dontie.alipia",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-02T23:59:23.951Z"
     }
   ],
-  "lastUpdated": "2026-06-02T23:58:55.151Z"
+  "lastUpdated": "2026-06-02T23:59:23.951Z"
 }
