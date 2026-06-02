@@ -2509,7 +2509,7 @@
     },
     {
       "id": "mpov4l8ih9ub3t9emkv",
-      "name": "Arild BjÃ¸rnestad",
+      "name": "Arild BjÃÂ¸rnestad",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/abbjornestad83",
@@ -3950,7 +3950,7 @@
     },
     {
       "id": "mpsx3zus2mqywsdjm3",
-      "name": "Finca El Tucán",
+      "name": "Finca El TucÃ¡n",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/finca.el.tucan",
@@ -4085,10 +4085,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-02",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
       "notes": "",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-30",
       "addedAt": "2026-05-30T22:30:11.714Z"
     },
@@ -4760,7 +4760,7 @@
     },
     {
       "id": "mpvrc8ns7r0rw3jnliu",
-      "name": "Robyn Mascare�as",
+      "name": "Robyn Mascareñas",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100088182527778",
@@ -5084,7 +5084,7 @@
     },
     {
       "id": "mpvryi0wk0bpe8pafkn",
-      "name": "To�o Camarena",
+      "name": "Toño Camarena",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/tono.camarena.545780",
@@ -5245,5 +5245,5 @@
       "addedAt": "2026-06-01T22:27:30.103Z"
     }
   ],
-  "lastUpdated": "2026-06-01T22:27:30.103Z"
+  "lastUpdated": "2026-06-02T20:29:07.808Z"
 }
