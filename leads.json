@@ -1615,13 +1615,13 @@
       "phone": "",
       "social": "https://www.facebook.com/sjadlowkier",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:44:41.650Z",
       "videoSent": false
@@ -5245,5 +5245,5 @@
       "addedAt": "2026-06-01T22:27:30.103Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:59:22.769Z"
+  "lastUpdated": "2026-06-02T21:00:00.720Z"
 }
