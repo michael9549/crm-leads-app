@@ -2586,14 +2586,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bobby.robinson.3958",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-05-30",
-      "nextFollowUp": "2026-06-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-30",
+      "lastModified": "2026-06-02",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:24:54.459Z"
     },
@@ -5245,5 +5245,5 @@
       "addedAt": "2026-06-01T22:27:30.103Z"
     }
   ],
-  "lastUpdated": "2026-06-02T20:48:07.587Z"
+  "lastUpdated": "2026-06-02T20:48:54.206Z"
 }
