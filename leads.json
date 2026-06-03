@@ -4363,24 +4363,6 @@
       "addedAt": "2026-05-31T23:06:03.907Z"
     },
     {
-      "id": "mpue2q53q114wwf3ysn",
-      "name": "Brent Attaway",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/brent.attaway.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-03",
-      "notes": "",
-      "lastModified": "2026-05-31",
-      "dateAdded": "2026-05-31",
-      "addedAt": "2026-05-31T23:06:35.607Z"
-    },
-    {
       "id": "mpue3niz4xwd7k2nqbl",
       "name": "JW Pools Pavers",
       "email": "",
@@ -5605,5 +5587,5 @@
       "addedAt": "2026-06-03T00:38:55.683Z"
     }
   ],
-  "lastUpdated": "2026-06-03T21:25:07.523Z"
+  "lastUpdated": "2026-06-03T21:25:21.822Z"
 }
