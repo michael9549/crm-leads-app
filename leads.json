@@ -2100,13 +2100,13 @@
       "phone": "",
       "social": "https://www.facebook.com/emj210",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-31",
-      "nextFollowUp": "2026-06-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-31",
+      "lastModified": "2026-06-03",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:30:11.598Z",
       "videoSent": true
@@ -5587,5 +5587,5 @@
       "addedAt": "2026-06-03T00:38:55.683Z"
     }
   ],
-  "lastUpdated": "2026-06-03T21:47:41.158Z"
+  "lastUpdated": "2026-06-03T21:48:15.108Z"
 }
