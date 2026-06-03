@@ -5567,7 +5567,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:28:16.723Z"
+    },
+    {
+      "id": "mpxbwho57ehzxllll2b",
+      "name": "Clint Westerhold",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/clintwesterhold",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-02",
+      "nextFollowUp": "2026-06-05",
+      "notes": "",
+      "lastModified": "2026-06-02",
+      "dateAdded": "2026-06-02",
+      "addedAt": "2026-06-03T00:29:03.989Z"
     }
   ],
-  "lastUpdated": "2026-06-03T00:28:16.723Z"
+  "lastUpdated": "2026-06-03T00:29:03.989Z"
 }
