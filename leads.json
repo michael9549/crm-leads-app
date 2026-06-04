@@ -6449,7 +6449,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:10:28.905Z"
+    },
+    {
+      "id": "mpzzpu4wi8pc2v4eirb",
+      "name": "George Macaulay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/moosewing",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:11:16.688Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:10:28.905Z"
+  "lastUpdated": "2026-06-04T21:11:16.688Z"
 }
