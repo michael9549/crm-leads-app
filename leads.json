@@ -6323,7 +6323,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:59:27.740Z"
+    },
+    {
+      "id": "mpzzc5sz46u0bzgne0t",
+      "name": "VaNessa Duplessie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/vduplessie",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:00:38.627Z"
     }
   ],
-  "lastUpdated": "2026-06-04T20:59:27.740Z"
+  "lastUpdated": "2026-06-04T21:00:38.627Z"
 }
