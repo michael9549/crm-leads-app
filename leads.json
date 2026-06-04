@@ -6125,7 +6125,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T01:06:21.906Z"
+    },
+    {
+      "id": "mpzyvvo3ipxm2ehhzb",
+      "name": "Jim Heiring",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jim.heiring",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T20:47:58.996Z"
     }
   ],
-  "lastUpdated": "2026-06-04T15:38:40.054Z"
+  "lastUpdated": "2026-06-04T20:47:58.996Z"
 }
