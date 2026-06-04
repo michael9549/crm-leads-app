@@ -5693,7 +5693,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:45:49.641Z"
+    },
+    {
+      "id": "mpyryx083t9rcnjtb28",
+      "name": "Carlos Arenas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlos.arenas.5682944",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:46:37.208Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:45:49.641Z"
+  "lastUpdated": "2026-06-04T00:46:37.208Z"
 }
