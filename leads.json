@@ -5927,7 +5927,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:57:18.247Z"
+    },
+    {
+      "id": "mpysde6ymelxuzzo9gi",
+      "name": "William Senn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=61568708435994",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:57:52.666Z"
     }
   ],
-  "lastUpdated": "2026-06-04T00:57:18.247Z"
+  "lastUpdated": "2026-06-04T00:57:52.666Z"
 }
