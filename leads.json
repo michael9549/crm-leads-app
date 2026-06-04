@@ -6305,7 +6305,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:58:37.457Z"
+    },
+    {
+      "id": "mpzzan3w54zm52zao4",
+      "name": "Paul Andrews",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.andrews.501",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T20:59:27.740Z"
     }
   ],
-  "lastUpdated": "2026-06-04T20:58:37.457Z"
+  "lastUpdated": "2026-06-04T20:59:27.740Z"
 }
