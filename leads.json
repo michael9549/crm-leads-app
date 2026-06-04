@@ -6485,7 +6485,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:11:56.624Z"
+    },
+    {
+      "id": "mpzzslhd6bsaimqfixm",
+      "name": "Jeffrey Haynes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeffrey.haynes.395",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:13:25.441Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:11:56.624Z"
+  "lastUpdated": "2026-06-04T21:13:25.441Z"
 }
