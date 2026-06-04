@@ -5585,7 +5585,25 @@
       "lastModified": "2026-06-02",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:38:55.683Z"
+    },
+    {
+      "id": "mpyrk46lka8e8ruelu",
+      "name": "Felicia Drastaru",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100044152191102",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T00:35:06.669Z"
     }
   ],
-  "lastUpdated": "2026-06-03T21:50:54.694Z"
+  "lastUpdated": "2026-06-04T00:35:06.669Z"
 }
