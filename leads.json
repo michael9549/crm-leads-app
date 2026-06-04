@@ -2712,14 +2712,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100095089765751",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-05-29",
       "addedAt": "2026-05-29T19:52:43.595Z"
     },
@@ -6127,5 +6127,5 @@
       "addedAt": "2026-06-04T01:06:21.906Z"
     }
   ],
-  "lastUpdated": "2026-06-04T15:32:56.116Z"
+  "lastUpdated": "2026-06-04T15:34:00.933Z"
 }
