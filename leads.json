@@ -6017,7 +6017,25 @@
       "lastModified": "2026-06-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T01:01:22.084Z"
+    },
+    {
+      "id": "mpysikjdsr2frz094k",
+      "name": "Nengas Wayaki",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wana.nengas.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-03",
+      "nextFollowUp": "2026-06-06",
+      "notes": "",
+      "lastModified": "2026-06-03",
+      "dateAdded": "2026-06-03",
+      "addedAt": "2026-06-04T01:01:54.169Z"
     }
   ],
-  "lastUpdated": "2026-06-04T01:01:22.084Z"
+  "lastUpdated": "2026-06-04T01:01:54.169Z"
 }
