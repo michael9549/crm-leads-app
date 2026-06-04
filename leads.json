@@ -5035,14 +5035,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jorge.weatherford.2025",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-01",
-      "nextFollowUp": "2026-06-04",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
       "notes": "",
-      "lastModified": "2026-06-01",
+      "lastModified": "2026-06-04",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:17:57.638Z"
     },
@@ -6127,5 +6127,5 @@
       "addedAt": "2026-06-04T01:06:21.906Z"
     }
   ],
-  "lastUpdated": "2026-06-04T14:44:29.634Z"
+  "lastUpdated": "2026-06-04T14:45:12.669Z"
 }
