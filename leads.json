@@ -6575,7 +6575,25 @@
       "lastModified": "2026-06-04",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T21:16:23.023Z"
+    },
+    {
+      "id": "mpzzx2euiff7q87bb3o",
+      "name": "Eric Robinson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.robinson.990975",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-04",
+      "nextFollowUp": "2026-06-07",
+      "notes": "",
+      "lastModified": "2026-06-04",
+      "dateAdded": "2026-06-04",
+      "addedAt": "2026-06-04T21:16:54.006Z"
     }
   ],
-  "lastUpdated": "2026-06-04T21:16:23.023Z"
+  "lastUpdated": "2026-06-04T21:16:54.006Z"
 }
