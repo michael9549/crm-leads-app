@@ -1831,13 +1831,13 @@
       "phone": "",
       "social": "https://www.facebook.com/Briansjohnson1975",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-05",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T21:56:53.965Z",
       "videoSent": false
@@ -6667,5 +6667,5 @@
       "addedAt": "2026-06-05T13:31:12.238Z"
     }
   ],
-  "lastUpdated": "2026-06-05T15:02:32.663Z"
+  "lastUpdated": "2026-06-05T15:03:06.281Z"
 }
