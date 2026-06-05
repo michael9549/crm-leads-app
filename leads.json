@@ -1561,13 +1561,13 @@
       "phone": "",
       "social": "https://www.facebook.com/aientrepreneur",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
-      "lastContact": "2026-06-02",
-      "nextFollowUp": "2026-06-05",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-07-05",
       "notes": "",
-      "lastModified": "2026-06-02",
+      "lastModified": "2026-06-05",
       "dateAdded": "2026-05-25",
       "addedAt": "2026-05-25T18:35:57.783Z",
       "videoSent": true
@@ -6668,5 +6668,5 @@
       "customerSince": "2026-06-05"
     }
   ],
-  "lastUpdated": "2026-06-05T15:09:07.862Z"
+  "lastUpdated": "2026-06-05T15:09:49.679Z"
 }
