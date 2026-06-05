@@ -302,10 +302,22 @@
         <button class="subtab-button" data-subtab="customers-ibos" onclick="setFollowUpSubTab('customers-ibos')">Customers / IBOs</button>
       </div>
 
+      <!-- Follow-up Count Boxes -->
+      <div id="followup-counts" style="display: none; gap: 16px; margin-bottom: 16px; flex-wrap: wrap;">
+        <div class="card" style="flex: 1; min-width: 200px; padding: 16px; text-align: center; margin-bottom: 0;">
+          <div style="font-size: 32px; font-weight: 700; color: var(--primary);" id="followup-prospect-count">0</div>
+          <div style="font-size: 14px; color: var(--gray-600); margin-top: 4px;">Prospects Needing Follow-up</div>
+        </div>
+        <div class="card" style="flex: 1; min-width: 200px; padding: 16px; text-align: center; margin-bottom: 0;">
+          <div style="font-size: 32px; font-weight: 700; color: var(--success);" id="followup-customer-count">0</div>
+          <div style="font-size: 14px; color: var(--gray-600); margin-top: 4px;">Customers / IBOs Needing Follow-up</div>
+        </div>
+      </div>
+
       <div id="search-container" class="card" style="padding: 12px 20px; margin-bottom: 16px;">
           <div style="display: flex; gap: 12px; align-items: center;">
             <span style="color: var(--gray-500); font-size: 14px;">🔍</span>
-            <input type="text" id="lead-search" class="form-input" placeholder="Search leads by name..." style="flex: 1; border: none; background: transparent; padding: 0;">
+            <input type="text" id="lead-search" class="form-input" placeholder="Search leads by name or notes..." style="flex: 1; border: none; background: transparent; padding: 0;">
             <button id="clear-search" class="button button-secondary" onclick="clearSearch()" style="padding: 6px 12px; font-size: 12px; display: none;">Clear</button>
           </div>
         </div>
@@ -997,7 +1009,11 @@
       // Apply search filter if search term exists
       const searchTerm = document.getElementById('lead-search')?.value?.toLowerCase().trim();
       if (searchTerm) {
-        filtered = filtered.filter(l => l.name.toLowerCase().includes(searchTerm));
+        filtered = filtered.filter(l => {
+          const nameMatch = l.name.toLowerCase().includes(searchTerm);
+          const notesMatch = l.notes && l.notes.toLowerCase().includes(searchTerm);
+          return nameMatch || notesMatch;
+        });
       }
       
       const titles = {
@@ -1020,12 +1036,14 @@
       const emptyAddBtn = document.getElementById('empty-add-btn');
       const sortToggleBtn = document.getElementById('sort-toggle-btn');
       const followUpSubTabs = document.getElementById('followup-subtabs');
+      const followUpCounts = document.getElementById('followup-counts');
       
       if (currentView === 'pipeline') {
         if (addBtn) addBtn.classList.remove('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.remove('hidden');
         if (sortToggleBtn) sortToggleBtn.style.display = 'inline-block';
         if (followUpSubTabs) followUpSubTabs.style.display = 'none';
+        if (followUpCounts) followUpCounts.style.display = 'none';
       } else if (currentView === 'followups') {
         if (addBtn) addBtn.classList.add('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
@@ -1037,11 +1055,21 @@
             btn.classList.toggle('active', btn.dataset.subtab === followUpSubTab);
           });
         }
+        if (followUpCounts) {
+          followUpCounts.style.display = 'flex';
+          // Update counts
+          const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
+          const prospectCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && l.status !== 'Not Interested').length;
+          const customerCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && isClosed(l)).length;
+          document.getElementById('followup-prospect-count').textContent = prospectCount;
+          document.getElementById('followup-customer-count').textContent = customerCount;
+        }
       } else {
         if (addBtn) addBtn.classList.add('hidden');
         if (emptyAddBtn) emptyAddBtn.classList.add('hidden');
         if (sortToggleBtn) sortToggleBtn.style.display = 'none';
         if (followUpSubTabs) followUpSubTabs.style.display = 'none';
+        if (followUpCounts) followUpCounts.style.display = 'none';
       }
 
       if (filtered.length === 0) {
