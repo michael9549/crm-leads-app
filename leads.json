@@ -6937,7 +6937,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:54:36.460Z"
+    },
+    {
+      "id": "mq1n5k6lmhet4p2i0v",
+      "name": "David Puttemans",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.puttemans",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:55:07.629Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:54:36.460Z"
+  "lastUpdated": "2026-06-06T00:55:07.629Z"
 }
