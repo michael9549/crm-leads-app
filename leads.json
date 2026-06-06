@@ -7081,7 +7081,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:00:16.249Z"
+    },
+    {
+      "id": "mq1ncx5kkpvu8aqp22q",
+      "name": "Kevin Gaie",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kevingaie2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T01:00:51.032Z"
     }
   ],
-  "lastUpdated": "2026-06-06T01:00:16.249Z"
+  "lastUpdated": "2026-06-06T01:00:51.032Z"
 }
