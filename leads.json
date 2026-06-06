@@ -7045,7 +7045,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:59:03.548Z"
+    },
+    {
+      "id": "mq1nbfxe95wfd198zid",
+      "name": "Peter Julian",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/peter.julian.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:59:42.050Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:59:03.548Z"
+  "lastUpdated": "2026-06-06T00:59:42.050Z"
 }
