@@ -2245,13 +2245,13 @@
       "phone": "",
       "social": "https://www.facebook.com/davidmanning",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-03",
-      "nextFollowUp": "2026-06-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-03",
+      "lastModified": "2026-06-06",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:40:10.393Z",
       "videoSent": true
@@ -7355,5 +7355,5 @@
       "addedAt": "2026-06-06T01:29:09.981Z"
     }
   ],
-  "lastUpdated": "2026-06-06T22:03:03.568Z"
+  "lastUpdated": "2026-06-06T22:03:43.203Z"
 }
