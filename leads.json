@@ -6703,7 +6703,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:44:00.335Z"
+    },
+    {
+      "id": "mq1msfm8f91cwwx8qvn",
+      "name": "Adam McMillian",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/adam.mcmillian.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T00:44:55.184Z"
     }
   ],
-  "lastUpdated": "2026-06-06T00:44:00.335Z"
+  "lastUpdated": "2026-06-06T00:44:55.184Z"
 }
