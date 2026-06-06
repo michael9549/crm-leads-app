@@ -7333,7 +7333,25 @@
       "lastModified": "2026-06-05",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:26:39.062Z"
+    },
+    {
+      "id": "mq1ocmo8qpoehgpnny",
+      "name": "Stephanie Ray",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephanie.ray.693804",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-05",
+      "nextFollowUp": "2026-06-08",
+      "notes": "",
+      "lastModified": "2026-06-05",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-06T01:28:37.064Z"
     }
   ],
-  "lastUpdated": "2026-06-06T01:26:39.062Z"
+  "lastUpdated": "2026-06-06T01:28:37.064Z"
 }
