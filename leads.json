@@ -2461,14 +2461,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dave.marchrones",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-04",
-      "nextFollowUp": "2026-06-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-04",
+      "lastModified": "2026-06-07",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-27T23:50:30.129Z"
     },
@@ -7931,5 +7931,5 @@
       "addedAt": "2026-06-07T19:36:33.991Z"
     }
   ],
-  "lastUpdated": "2026-06-07T20:16:56.966Z"
+  "lastUpdated": "2026-06-07T20:17:44.165Z"
 }
