@@ -7515,7 +7515,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:23:40.826Z"
+    },
+    {
+      "id": "mq31ix3x5vi7lgbobf4",
+      "name": "Namir Sagheenanajar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100082769143130",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:25:11.709Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:23:40.826Z"
+  "lastUpdated": "2026-06-07T00:25:11.709Z"
 }
