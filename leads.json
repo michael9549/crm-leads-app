@@ -7875,7 +7875,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:39:20.822Z"
+    },
+    {
+      "id": "mq321saa6x8fc5c6fs8",
+      "name": "Victor Guaman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/victor.guaman.647309",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:39:51.922Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:39:20.822Z"
+  "lastUpdated": "2026-06-07T00:39:51.922Z"
 }
