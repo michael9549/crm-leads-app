@@ -7767,7 +7767,25 @@
       "lastModified": "2026-06-06",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:35:38.223Z"
+    },
+    {
+      "id": "mq31x838lx4c6gu9x9b",
+      "name": "Christian Cox",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/christianlcox.realtor",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-06",
+      "nextFollowUp": "2026-06-09",
+      "notes": "",
+      "lastModified": "2026-06-06",
+      "dateAdded": "2026-06-06",
+      "addedAt": "2026-06-07T00:36:19.124Z"
     }
   ],
-  "lastUpdated": "2026-06-07T00:35:38.223Z"
+  "lastUpdated": "2026-06-07T00:36:19.124Z"
 }
