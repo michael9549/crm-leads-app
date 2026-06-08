@@ -8397,7 +8397,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:51:19.336Z"
+    },
+    {
+      "id": "mq5v7rk810g8p9m3hpki",
+      "name": "Meredith MacKay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mfmackay",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:51:52.136Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:51:19.336Z"
+  "lastUpdated": "2026-06-08T23:51:52.136Z"
 }
