@@ -8343,7 +8343,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:45:51.135Z"
+    },
+    {
+      "id": "mq5v1dmf06n0082rndwy",
+      "name": "SI Mitchell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sean.mitchell.68",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:46:54.135Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:45:51.135Z"
+  "lastUpdated": "2026-06-08T23:46:54.135Z"
 }
