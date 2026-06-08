@@ -7983,7 +7983,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:24:42.389Z"
+    },
+    {
+      "id": "mq5u9gp9zcgqe0j21",
+      "name": "William Chiaro",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/william.chiaro.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:25:11.757Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:24:42.389Z"
+  "lastUpdated": "2026-06-08T23:25:11.757Z"
 }
