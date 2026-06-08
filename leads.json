@@ -7965,7 +7965,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:24:03.405Z"
+    },
+    {
+      "id": "mq5u8u1hup6ki3i9c9i",
+      "name": "Blake Silva",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100079447058610",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-08",
+      "nextFollowUp": "2026-06-11",
+      "notes": "",
+      "lastModified": "2026-06-08",
+      "dateAdded": "2026-06-08",
+      "addedAt": "2026-06-08T23:24:42.389Z"
     }
   ],
-  "lastUpdated": "2026-06-08T23:24:03.405Z"
+  "lastUpdated": "2026-06-08T23:24:42.389Z"
 }
