@@ -7721,14 +7721,14 @@
       "phone": "",
       "social": "https://www.facebook.com/Natashaawaisofficial",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-06",
-      "nextFollowUp": "2026-06-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-06",
+      "lastModified": "2026-06-09",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:33:51.236Z"
     },
@@ -8471,5 +8471,5 @@
       "addedAt": "2026-06-08T23:54:22.693Z"
     }
   ],
-  "lastUpdated": "2026-06-09T14:53:33.205Z"
+  "lastUpdated": "2026-06-09T14:53:57.538Z"
 }
