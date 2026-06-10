@@ -8595,7 +8595,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:34:13.875Z"
+    },
+    {
+      "id": "mq7c710fft1qi0070rg",
+      "name": "Abdullah Al Khalid",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/khaliddaguider",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T00:34:57.375Z"
     }
   ],
-  "lastUpdated": "2026-06-10T00:34:13.875Z"
+  "lastUpdated": "2026-06-10T00:34:57.375Z"
 }
