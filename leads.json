@@ -8667,7 +8667,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:38:43.724Z"
+    },
+    {
+      "id": "mq7cd3q2o9wq3yvv0ci",
+      "name": "Aidan Allen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100074688364130",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T00:39:40.826Z"
     }
   ],
-  "lastUpdated": "2026-06-10T00:38:43.725Z"
+  "lastUpdated": "2026-06-10T00:39:40.826Z"
 }
