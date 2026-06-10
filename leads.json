@@ -8793,7 +8793,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:43:40.813Z"
+    },
+    {
+      "id": "mq7cizy1h73ivscu7ah",
+      "name": "Trent Lowenstein",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/trentlowenstein28",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T00:44:15.865Z"
     }
   ],
-  "lastUpdated": "2026-06-10T00:43:40.813Z"
+  "lastUpdated": "2026-06-10T00:44:15.865Z"
 }
