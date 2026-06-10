@@ -8559,7 +8559,25 @@
       "lastModified": "2026-06-09",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:33:00.391Z"
+    },
+    {
+      "id": "mq7c5ekosqzyusd528",
+      "name": "Ruthanne Koyama",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100074938667771",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T00:33:41.640Z"
     }
   ],
-  "lastUpdated": "2026-06-10T00:33:00.391Z"
+  "lastUpdated": "2026-06-10T00:33:41.640Z"
 }
