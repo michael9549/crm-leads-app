@@ -8469,7 +8469,25 @@
       "lastModified": "2026-06-08",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:54:22.693Z"
+    },
+    {
+      "id": "mq7byx92rwinsuieqgm",
+      "name": "Nick Herndon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.herndon.591927",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-09",
+      "nextFollowUp": "2026-06-12",
+      "notes": "",
+      "lastModified": "2026-06-09",
+      "dateAdded": "2026-06-09",
+      "addedAt": "2026-06-10T00:28:39.254Z"
     }
   ],
-  "lastUpdated": "2026-06-09T20:54:44.443Z"
+  "lastUpdated": "2026-06-10T00:28:39.254Z"
 }
