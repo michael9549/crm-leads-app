@@ -9676,7 +9676,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:34:14.239Z"
+    },
+    {
+      "id": "mq9wcmz1lz8lvjgag1i",
+      "name": "Eric Barton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.barton.7792",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:34:43.789Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:34:14.239Z"
+  "lastUpdated": "2026-06-11T19:34:43.789Z"
 }
