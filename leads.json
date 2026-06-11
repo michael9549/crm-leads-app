@@ -9513,7 +9513,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:59:16.848Z"
+    },
+    {
+      "id": "mq8sj5gqn11jlj3f9im",
+      "name": "Jacob Craft",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jacob.craft.142576",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T01:00:03.050Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:59:16.848Z"
+  "lastUpdated": "2026-06-11T01:00:03.050Z"
 }
