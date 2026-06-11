@@ -9081,7 +9081,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:42:16.349Z"
+    },
+    {
+      "id": "mq8rx4iw039x5nhe6oi2",
+      "name": "Phillip Cantu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/phillip.cantu.199554",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:42:55.400Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:42:16.349Z"
+  "lastUpdated": "2026-06-11T00:42:55.400Z"
 }
