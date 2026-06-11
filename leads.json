@@ -9117,7 +9117,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:43:24.582Z"
+    },
+    {
+      "id": "mq8ryd4hk9wfenneo8",
+      "name": "Lea Anne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/LeaanneKev",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:43:53.201Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:43:24.582Z"
+  "lastUpdated": "2026-06-11T00:43:53.201Z"
 }
