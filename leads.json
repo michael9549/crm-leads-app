@@ -8279,14 +8279,14 @@
       "phone": "",
       "social": "https://www.facebook.com/emmanuel.kpodaho.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-11",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:44:07.551Z"
     },
@@ -9551,5 +9551,5 @@
       "addedAt": "2026-06-11T01:00:43.017Z"
     }
   ],
-  "lastUpdated": "2026-06-11T14:15:21.668Z"
+  "lastUpdated": "2026-06-11T14:16:03.235Z"
 }
