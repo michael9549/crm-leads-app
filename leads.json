@@ -9640,7 +9640,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:33:18.237Z"
+    },
+    {
+      "id": "mq9wbdzk9l9zk84ywh5",
+      "name": "Aaron Dillard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aaron.dillard.357",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:33:45.488Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:33:18.237Z"
+  "lastUpdated": "2026-06-11T19:33:45.488Z"
 }
