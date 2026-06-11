@@ -9531,7 +9531,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T01:00:03.050Z"
+    },
+    {
+      "id": "mq8sk0axyu57bn6fcy8",
+      "name": "Miggy Miggy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/miggy.miggy.568294",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T01:00:43.017Z"
     }
   ],
-  "lastUpdated": "2026-06-11T01:00:03.050Z"
+  "lastUpdated": "2026-06-11T01:00:43.017Z"
 }
