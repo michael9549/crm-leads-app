@@ -9225,7 +9225,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:48:45.089Z"
+    },
+    {
+      "id": "mq8s59wmd7no1i9mnbo",
+      "name": "Paulo Ferreira",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alkimisthpg",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:49:15.622Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:48:45.090Z"
+  "lastUpdated": "2026-06-11T00:49:15.622Z"
 }
