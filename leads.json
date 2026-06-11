@@ -9171,7 +9171,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:46:50.137Z"
+    },
+    {
+      "id": "mq8s2vwkc15jdglehzd",
+      "name": "Bob Holub",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bob.holub.official",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:47:24.164Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:46:50.137Z"
+  "lastUpdated": "2026-06-11T00:47:24.164Z"
 }
