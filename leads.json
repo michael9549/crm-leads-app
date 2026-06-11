@@ -9441,7 +9441,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:57:13.163Z"
+    },
+    {
+      "id": "mq8sg6mekzc87h76kne",
+      "name": "Justin Curatola",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/justin.curatola",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:57:44.582Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:57:13.163Z"
+  "lastUpdated": "2026-06-11T00:57:44.582Z"
 }
