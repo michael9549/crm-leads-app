@@ -7181,14 +7181,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100084998274981",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-11",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:22:34.005Z"
     },
@@ -9552,5 +9552,5 @@
       "addedAt": "2026-06-11T01:00:43.017Z"
     }
   ],
-  "lastUpdated": "2026-06-11T14:32:44.284Z"
+  "lastUpdated": "2026-06-11T14:33:42.287Z"
 }
