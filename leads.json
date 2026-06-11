@@ -9622,7 +9622,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:32:39.970Z"
+    },
+    {
+      "id": "mq9wasylwzd1lof1vp",
+      "name": "Schacobie Manning",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/schacobie.manning",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-11",
+      "nextFollowUp": "2026-06-14",
+      "notes": "",
+      "lastModified": "2026-06-11",
+      "dateAdded": "2026-06-11",
+      "addedAt": "2026-06-11T19:33:18.237Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:32:39.970Z"
+  "lastUpdated": "2026-06-11T19:33:18.237Z"
 }
