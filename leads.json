@@ -9387,7 +9387,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:55:30.945Z"
+    },
+    {
+      "id": "mq8se04eyfqw5vkcb5b",
+      "name": "Samsuddin Khan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/samsuddin.khan.586613",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:56:02.846Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:55:30.945Z"
+  "lastUpdated": "2026-06-11T00:56:02.846Z"
 }
