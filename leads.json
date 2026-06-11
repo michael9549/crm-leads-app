@@ -5234,14 +5234,14 @@
       "phone": "",
       "social": "https://www.facebook.com/hongyihherng",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-08",
-      "nextFollowUp": "2026-06-11",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-08",
+      "lastModified": "2026-06-11",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-02T23:56:06.667Z"
     },
@@ -9552,5 +9552,5 @@
       "addedAt": "2026-06-11T01:00:43.017Z"
     }
   ],
-  "lastUpdated": "2026-06-11T15:25:39.425Z"
+  "lastUpdated": "2026-06-11T15:26:12.393Z"
 }
