@@ -9243,7 +9243,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:49:15.622Z"
+    },
+    {
+      "id": "mq8s5vwcojd6v1y28ym",
+      "name": "Brad Mitchell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brad.mitchell.542109",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:49:44.124Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:49:15.622Z"
+  "lastUpdated": "2026-06-11T00:49:44.124Z"
 }
