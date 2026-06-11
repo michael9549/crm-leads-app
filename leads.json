@@ -9333,7 +9333,25 @@
       "lastModified": "2026-06-10",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:53:18.409Z"
+    },
+    {
+      "id": "mq8sb3a9rtdx5a1daq",
+      "name": "Eric Washington",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.washington.477757",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-10",
+      "nextFollowUp": "2026-06-13",
+      "notes": "",
+      "lastModified": "2026-06-10",
+      "dateAdded": "2026-06-10",
+      "addedAt": "2026-06-11T00:53:46.977Z"
     }
   ],
-  "lastUpdated": "2026-06-11T00:53:18.409Z"
+  "lastUpdated": "2026-06-11T00:53:46.977Z"
 }
