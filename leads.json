@@ -9802,7 +9802,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:16:33.846Z"
+    },
+    {
+      "id": "mqaybimp5910sln1u3q",
+      "name": "Grzegorz Piersiak",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/grzegorz.piersiak",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:17:36.913Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:16:33.846Z"
+  "lastUpdated": "2026-06-12T13:17:36.913Z"
 }
