@@ -10001,7 +10001,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:35:55.611Z"
+    },
+    {
+      "id": "mqbiader9jrwdtpm4k6",
+      "name": "Scott Horner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.horner.967",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:36:35.811Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:35:55.611Z"
+  "lastUpdated": "2026-06-12T22:36:35.811Z"
 }
