@@ -10217,7 +10217,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:54:19.845Z"
+    },
+    {
+      "id": "mqbiyxw0sz328u23nn",
+      "name": "Lane A Houk",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lane.a.houk",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:55:42.096Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:54:19.845Z"
+  "lastUpdated": "2026-06-12T22:55:42.096Z"
 }
