@@ -9983,7 +9983,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:35:04.611Z"
+    },
+    {
+      "id": "mqbi9ie3jd60fgd17eh",
+      "name": "Brad Stanford",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brad.stanford.7921",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:35:55.611Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:35:04.611Z"
+  "lastUpdated": "2026-06-12T22:35:55.611Z"
 }
