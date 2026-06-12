@@ -10181,7 +10181,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:52:47.159Z"
+    },
+    {
+      "id": "mqbiwhkbwlk7kyn8vhk",
+      "name": "Jason Wyatt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.wyatt.313924",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:53:47.627Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:52:47.159Z"
+  "lastUpdated": "2026-06-12T22:53:47.627Z"
 }
