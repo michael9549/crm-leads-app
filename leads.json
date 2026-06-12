@@ -4244,14 +4244,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chris.meyer.29632",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-09",
-      "nextFollowUp": "2026-06-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-09",
+      "lastModified": "2026-06-12",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T22:31:06.809Z"
     },
@@ -9894,5 +9894,5 @@
       "addedAt": "2026-06-12T13:20:02.549Z"
     }
   ],
-  "lastUpdated": "2026-06-12T16:01:57.555Z"
+  "lastUpdated": "2026-06-12T16:02:08.455Z"
 }
