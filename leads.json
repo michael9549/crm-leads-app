@@ -10235,7 +10235,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:55:42.096Z"
+    },
+    {
+      "id": "mqbizong2jez6uxt72f",
+      "name": "Jesse Ramirez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jesse.xact",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:56:16.780Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:55:42.096Z"
+  "lastUpdated": "2026-06-12T22:56:16.780Z"
 }
