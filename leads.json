@@ -9893,7 +9893,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:20:02.549Z"
+    },
+    {
+      "id": "mqbi3h7ivd9rw5n5joo",
+      "name": "Robert Swims",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.swims.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:31:14.142Z"
     }
   ],
-  "lastUpdated": "2026-06-12T20:15:05.186Z"
+  "lastUpdated": "2026-06-12T22:31:14.142Z"
 }
