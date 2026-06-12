@@ -9766,7 +9766,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T13:15:19.297Z"
+    },
+    {
+      "id": "mqay9ceirsz6zfn0wob",
+      "name": "David Denton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DavidDenton317",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:15:55.530Z"
     }
   ],
-  "lastUpdated": "2026-06-12T13:15:19.297Z"
+  "lastUpdated": "2026-06-12T13:15:55.530Z"
 }
