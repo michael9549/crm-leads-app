@@ -9748,7 +9748,25 @@
       "lastModified": "2026-06-11",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:46:39.969Z"
+    },
+    {
+      "id": "mqay8kg1jyux00luhdo",
+      "name": "Emmitt Summers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/emmitt.summers.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T13:15:19.297Z"
     }
   ],
-  "lastUpdated": "2026-06-11T19:46:39.969Z"
+  "lastUpdated": "2026-06-12T13:15:19.297Z"
 }
