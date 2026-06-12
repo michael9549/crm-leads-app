@@ -9911,7 +9911,25 @@
       "lastModified": "2026-06-12",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:31:14.142Z"
+    },
+    {
+      "id": "mqbi4lqbjz9oqgq8fq",
+      "name": "Matt Garabedian",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/matt.garabedian.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-12",
+      "nextFollowUp": "2026-06-15",
+      "notes": "",
+      "lastModified": "2026-06-12",
+      "dateAdded": "2026-06-12",
+      "addedAt": "2026-06-12T22:32:06.659Z"
     }
   ],
-  "lastUpdated": "2026-06-12T22:31:14.142Z"
+  "lastUpdated": "2026-06-12T22:32:06.659Z"
 }
