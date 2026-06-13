@@ -5055,14 +5055,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tono.camarena.545780",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-01",
       "addedAt": "2026-06-01T22:22:59.264Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T14:54:18.510Z"
+  "lastUpdated": "2026-06-13T14:55:10.777Z"
 }
