@@ -7686,14 +7686,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100082041601258",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:31:24.852Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T14:29:53.440Z"
+  "lastUpdated": "2026-06-13T14:30:36.825Z"
 }
