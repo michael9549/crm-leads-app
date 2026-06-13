@@ -9505,14 +9505,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.frey.584683",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-10",
-      "nextFollowUp": "2026-06-13",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-10",
+      "lastModified": "2026-06-13",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:59:16.848Z"
     },
@@ -10291,5 +10291,5 @@
       "addedAt": "2026-06-12T22:57:57.483Z"
     }
   ],
-  "lastUpdated": "2026-06-13T13:54:33.149Z"
+  "lastUpdated": "2026-06-13T13:55:01.848Z"
 }
