@@ -10307,7 +10307,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:36:11.427Z"
+    },
+    {
+      "id": "mqd6bjkm3eeasyhnzc8",
+      "name": "Mike Blanton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.blanton.3388",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:37:07.414Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:36:24.429Z"
+  "lastUpdated": "2026-06-14T02:37:07.414Z"
 }
