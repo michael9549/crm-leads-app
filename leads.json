@@ -10487,7 +10487,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:43:24.432Z"
+    },
+    {
+      "id": "mqd6kh1ejn2cc1fvwxa",
+      "name": "Lou J Moya",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lou.j.moya",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:44:04.034Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:43:24.432Z"
+  "lastUpdated": "2026-06-14T02:44:04.034Z"
 }
