@@ -10325,7 +10325,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:37:07.414Z"
+    },
+    {
+      "id": "mqd6c9950ro168ssb20l",
+      "name": "Thomas Schuler",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thomas.schuler.9659",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:37:40.697Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:37:07.414Z"
+  "lastUpdated": "2026-06-14T02:37:40.697Z"
 }
