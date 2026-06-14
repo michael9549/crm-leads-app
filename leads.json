@@ -10523,7 +10523,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:44:34.001Z"
+    },
+    {
+      "id": "mqd6ltcbkaa24aqamd",
+      "name": "Ezequiel Escobar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ezequiel.escobar.200102",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:45:06.635Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:44:34.001Z"
+  "lastUpdated": "2026-06-14T02:45:06.635Z"
 }
