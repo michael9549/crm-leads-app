@@ -10541,7 +10541,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:45:06.635Z"
+    },
+    {
+      "id": "mqd6mf8api9gyal3iyq",
+      "name": "Mike Lo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mikelo888",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:45:35.002Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:45:06.635Z"
+  "lastUpdated": "2026-06-14T02:45:35.002Z"
 }
