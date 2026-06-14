@@ -10433,7 +10433,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:40:22.013Z"
+    },
+    {
+      "id": "mqd6gdnsp2l1wuvpiu",
+      "name": "Michael Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/michael.brown.434237",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:40:53.032Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:40:22.013Z"
+  "lastUpdated": "2026-06-14T02:40:53.032Z"
 }
