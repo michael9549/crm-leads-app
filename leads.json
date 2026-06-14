@@ -10577,7 +10577,25 @@
       "lastModified": "2026-06-13",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:46:14.036Z"
+    },
+    {
+      "id": "mqd6nw7piwi3lbwgi8k",
+      "name": "Alexander Stephens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/alexander.designflix",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-13",
+      "nextFollowUp": "2026-06-16",
+      "notes": "",
+      "lastModified": "2026-06-13",
+      "dateAdded": "2026-06-13",
+      "addedAt": "2026-06-14T02:46:43.669Z"
     }
   ],
-  "lastUpdated": "2026-06-14T02:46:14.036Z"
+  "lastUpdated": "2026-06-14T02:46:43.669Z"
 }
