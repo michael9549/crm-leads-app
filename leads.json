@@ -9613,14 +9613,14 @@
       "phone": "",
       "social": "https://www.facebook.com/james.kiesewetter",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
       "notes": "",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-14",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:32:39.970Z"
     },
@@ -10651,5 +10651,5 @@
       "addedAt": "2026-06-14T02:48:12.654Z"
     }
   ],
-  "lastUpdated": "2026-06-14T16:06:07.932Z"
+  "lastUpdated": "2026-06-14T16:06:37.718Z"
 }
