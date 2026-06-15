@@ -10955,7 +10955,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:20:04.188Z"
+    },
+    {
+      "id": "mqej2yjtsdpz1z24qtn",
+      "name": "Conny C. Young",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/connycyoung",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:22:08.105Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:20:04.188Z"
+  "lastUpdated": "2026-06-15T01:22:08.105Z"
 }
