@@ -11117,7 +11117,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:31:06.058Z"
+    },
+    {
+      "id": "mqejg96i5i0h9kp430l",
+      "name": "Chris Pollard",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chris.pollard.18041",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:32:28.410Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:31:06.058Z"
+  "lastUpdated": "2026-06-15T01:32:28.410Z"
 }
