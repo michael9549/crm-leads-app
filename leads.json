@@ -10721,7 +10721,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:09:34.359Z"
+    },
+    {
+      "id": "mqeingewzqu8de5tg9o",
+      "name": "Paul Wiersma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.wiersma.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:10:04.760Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:09:34.359Z"
+  "lastUpdated": "2026-06-15T01:10:04.760Z"
 }
