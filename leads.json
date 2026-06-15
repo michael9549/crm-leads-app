@@ -10901,7 +10901,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:17:49.836Z"
+    },
+    {
+      "id": "mqeiyoivttj0hsx9hem",
+      "name": "Cassandra Tremblay",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cassandra.tremblay.180",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:18:48.487Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:17:49.836Z"
+  "lastUpdated": "2026-06-15T01:18:48.487Z"
 }
