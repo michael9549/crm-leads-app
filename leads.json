@@ -5705,14 +5705,14 @@
       "phone": "",
       "social": "https://www.facebook.com/drew.gilpin.3",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-06-15",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-06-15",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:47:26.823Z"
     },
@@ -11137,5 +11137,5 @@
       "addedAt": "2026-06-15T01:32:28.410Z"
     }
   ],
-  "lastUpdated": "2026-06-15T18:50:01.766Z"
+  "lastUpdated": "2026-06-15T18:51:19.719Z"
 }
