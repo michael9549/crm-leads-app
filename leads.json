@@ -11099,7 +11099,25 @@
       "lastModified": "2026-06-14",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:29:38.841Z"
+    },
+    {
+      "id": "mqejehmy5eni3ubztl8",
+      "name": "John Ryman III",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.ryman.313",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-14",
+      "nextFollowUp": "2026-06-17",
+      "notes": "",
+      "lastModified": "2026-06-14",
+      "dateAdded": "2026-06-14",
+      "addedAt": "2026-06-15T01:31:06.058Z"
     }
   ],
-  "lastUpdated": "2026-06-15T01:29:38.841Z"
+  "lastUpdated": "2026-06-15T01:31:06.058Z"
 }
