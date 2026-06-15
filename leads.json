@@ -7110,14 +7110,14 @@
       "phone": "",
       "social": "https://www.facebook.com/rainsback",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-11",
-      "nextFollowUp": "2026-06-14",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-11",
+      "lastModified": "2026-06-14",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:02:09.017Z"
     },
@@ -10651,5 +10651,5 @@
       "addedAt": "2026-06-14T02:48:12.654Z"
     }
   ],
-  "lastUpdated": "2026-06-15T00:44:29.604Z"
+  "lastUpdated": "2026-06-15T00:45:20.388Z"
 }
