@@ -11567,7 +11567,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:37:33.230Z"
+    },
+    {
+      "id": "mqfz3hz1jmbl34hoa2",
+      "name": "Javier Hurtado",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/javier.hurtado.233165",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:38:13.309Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:37:33.230Z"
+  "lastUpdated": "2026-06-16T01:38:13.309Z"
 }
