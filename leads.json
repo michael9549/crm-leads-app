@@ -11657,7 +11657,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:40:32.059Z"
+    },
+    {
+      "id": "mqfz7db4t9ueb27ixxr",
+      "name": "Troy Lamont Bailey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/troy.bailey.9406",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:41:13.888Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:40:32.059Z"
+  "lastUpdated": "2026-06-16T01:41:13.888Z"
 }
