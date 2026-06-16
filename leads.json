@@ -11639,7 +11639,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:39:56.244Z"
+    },
+    {
+      "id": "mqfz6h17igr5bi3ybls",
+      "name": "Derek Aarstad",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/derek.aarstad",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:40:32.059Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:39:56.244Z"
+  "lastUpdated": "2026-06-16T01:40:32.059Z"
 }
