@@ -11369,7 +11369,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:28:16.914Z"
+    },
+    {
+      "id": "mqfyug8cegt3k30uvua",
+      "name": "Andrew Palosi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andrew.palosi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:31:11.148Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:28:16.914Z"
+  "lastUpdated": "2026-06-16T01:31:11.148Z"
 }
