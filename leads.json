@@ -10459,14 +10459,14 @@
       "phone": "",
       "social": "https://www.facebook.com/devon.harrison.75641",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-13",
-      "nextFollowUp": "2026-06-16",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-06-16",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:41:32.650Z"
     },
@@ -11695,5 +11695,5 @@
       "addedAt": "2026-06-16T01:41:40.016Z"
     }
   ],
-  "lastUpdated": "2026-06-16T14:24:43.876Z"
+  "lastUpdated": "2026-06-16T14:25:09.097Z"
 }
