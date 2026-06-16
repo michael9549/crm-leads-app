@@ -11621,7 +11621,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:39:17.908Z"
+    },
+    {
+      "id": "mqfz5pecaxwdj6q80g5",
+      "name": "Rich Roberts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rich.roberts.75641",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:39:56.244Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:39:17.908Z"
+  "lastUpdated": "2026-06-16T01:39:56.244Z"
 }
