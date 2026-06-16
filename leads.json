@@ -11315,7 +11315,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:26:36.548Z"
+    },
+    {
+      "id": "mqfyp6s2e1og8312odu",
+      "name": "Riley Eastburn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rilee.eastburn",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:27:05.618Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:26:36.548Z"
+  "lastUpdated": "2026-06-16T01:27:05.618Z"
 }
