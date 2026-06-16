@@ -11495,7 +11495,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:34:20.767Z"
+    },
+    {
+      "id": "mqfyz7ad0ly40ezx1l6c",
+      "name": "Joseph Marc Lalonde",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/josephmarclalonde",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:34:52.837Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:34:20.767Z"
+  "lastUpdated": "2026-06-16T01:34:52.837Z"
 }
