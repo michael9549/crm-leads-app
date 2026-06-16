@@ -11405,7 +11405,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:31:48.591Z"
+    },
+    {
+      "id": "mqfyvybayaxoi9hm0i",
+      "name": "Joey Jones",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/SyncGrid.io",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-15",
+      "nextFollowUp": "2026-06-18",
+      "notes": "",
+      "lastModified": "2026-06-15",
+      "dateAdded": "2026-06-15",
+      "addedAt": "2026-06-16T01:32:21.238Z"
     }
   ],
-  "lastUpdated": "2026-06-16T01:31:48.591Z"
+  "lastUpdated": "2026-06-16T01:32:21.238Z"
 }
