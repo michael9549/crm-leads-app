@@ -11693,7 +11693,25 @@
       "lastModified": "2026-06-15",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:41:40.016Z"
+    },
+    {
+      "id": "mqilx54awi8wty21nrf",
+      "name": "Keith Hawkins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thekeithhawkins1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T21:52:40.234Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:49:56.488Z"
+  "lastUpdated": "2026-06-17T21:52:40.234Z"
 }
