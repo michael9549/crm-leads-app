@@ -11711,7 +11711,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:52:40.234Z"
+    },
+    {
+      "id": "mqilyitl8e83rvdohq",
+      "name": "Tim W Cyopeck",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/timw.cyopeck.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T21:53:44.649Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:52:40.234Z"
+  "lastUpdated": "2026-06-17T21:53:44.649Z"
 }
