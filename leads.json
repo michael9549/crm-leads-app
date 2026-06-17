@@ -11729,7 +11729,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:53:44.649Z"
+    },
+    {
+      "id": "mqilzeztrggss6jtv8r",
+      "name": "Akshay Gupta",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/akshay.gupta.929528",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T21:54:26.345Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:53:44.649Z"
+  "lastUpdated": "2026-06-17T21:54:26.345Z"
 }
