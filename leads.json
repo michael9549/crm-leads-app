@@ -12215,7 +12215,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T23:06:53.548Z"
+    },
+    {
+      "id": "mqiomig80cpm6g5svmd9",
+      "name": "Ilan Rahav",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ilan.rahav.official.page",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T23:08:23.144Z"
     }
   ],
-  "lastUpdated": "2026-06-17T23:06:53.548Z"
+  "lastUpdated": "2026-06-17T23:08:23.144Z"
 }
