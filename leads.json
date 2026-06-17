@@ -12197,7 +12197,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T23:06:20.988Z"
+    },
+    {
+      "id": "mqioklbg4nsmcsqu9q",
+      "name": "Drew Whitlock",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/drew.whitlock.58",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T23:06:53.548Z"
     }
   ],
-  "lastUpdated": "2026-06-17T23:06:20.988Z"
+  "lastUpdated": "2026-06-17T23:06:53.548Z"
 }
