@@ -6984,14 +6984,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bebout",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-14",
-      "nextFollowUp": "2026-06-17",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-07-17",
       "notes": "",
-      "lastModified": "2026-06-14",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:57:44.881Z"
     },
@@ -11695,5 +11695,5 @@
       "addedAt": "2026-06-16T01:41:40.016Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:46:42.558Z"
+  "lastUpdated": "2026-06-17T21:47:22.966Z"
 }
