@@ -7956,14 +7956,14 @@
       "phone": "",
       "social": "https://www.facebook.com/andre.mccollough.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-14",
-      "nextFollowUp": "2026-06-17",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-14",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-08",
       "addedAt": "2026-06-08T23:24:03.405Z"
     },
@@ -11695,5 +11695,5 @@
       "addedAt": "2026-06-16T01:41:40.016Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:45:24.901Z"
+  "lastUpdated": "2026-06-17T21:45:54.958Z"
 }
