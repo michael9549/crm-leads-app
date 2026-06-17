@@ -7254,14 +7254,14 @@
       "phone": "",
       "social": "https://www.facebook.com/chad.moreschi.2025",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
-      "lastContact": "2026-06-14",
-      "nextFollowUp": "2026-06-17",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-14",
+      "lastModified": "2026-06-17",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T01:24:59.943Z"
     },
@@ -11695,5 +11695,5 @@
       "addedAt": "2026-06-16T01:41:40.016Z"
     }
   ],
-  "lastUpdated": "2026-06-17T21:46:23.163Z"
+  "lastUpdated": "2026-06-17T21:46:42.558Z"
 }
