@@ -11981,7 +11981,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T22:03:59.423Z"
+    },
+    {
+      "id": "mqimcd8nn96tf9mpd29",
+      "name": "Justin Malakou",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/justin.malakou.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T22:04:30.599Z"
     }
   ],
-  "lastUpdated": "2026-06-17T22:03:59.423Z"
+  "lastUpdated": "2026-06-17T22:04:30.599Z"
 }
