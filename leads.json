@@ -11945,7 +11945,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T22:02:43.269Z"
+    },
+    {
+      "id": "mqimawkf61jfknmf9ok",
+      "name": "Robert Collins",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.collins.347007",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T22:03:22.335Z"
     }
   ],
-  "lastUpdated": "2026-06-17T22:02:43.269Z"
+  "lastUpdated": "2026-06-17T22:03:22.335Z"
 }
