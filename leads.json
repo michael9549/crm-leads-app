@@ -12107,7 +12107,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T23:03:05.725Z"
+    },
+    {
+      "id": "mqioge3djqpw3ll92z",
+      "name": "Will Spencer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/will.spencer.39142",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T23:03:37.561Z"
     }
   ],
-  "lastUpdated": "2026-06-17T23:03:05.725Z"
+  "lastUpdated": "2026-06-17T23:03:37.562Z"
 }
