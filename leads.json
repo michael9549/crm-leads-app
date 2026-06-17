@@ -12179,7 +12179,25 @@
       "lastModified": "2026-06-17",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T23:05:50.024Z"
+    },
+    {
+      "id": "mqiojw704kw1l4t0ceg",
+      "name": "Jim Douglas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/douglas.interiors.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-17",
+      "nextFollowUp": "2026-06-20",
+      "notes": "",
+      "lastModified": "2026-06-17",
+      "dateAdded": "2026-06-17",
+      "addedAt": "2026-06-17T23:06:20.988Z"
     }
   ],
-  "lastUpdated": "2026-06-17T23:05:50.024Z"
+  "lastUpdated": "2026-06-17T23:06:20.988Z"
 }
