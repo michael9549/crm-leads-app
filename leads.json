@@ -7596,14 +7596,14 @@
       "phone": "",
       "social": "https://www.facebook.com/raquel.angel.985925",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-15",
-      "nextFollowUp": "2026-06-18",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-15",
+      "lastModified": "2026-06-18",
       "dateAdded": "2026-06-06",
       "addedAt": "2026-06-07T00:28:36.198Z"
     },
@@ -12235,5 +12235,5 @@
       "addedAt": "2026-06-17T23:08:23.144Z"
     }
   ],
-  "lastUpdated": "2026-06-18T18:39:09.570Z"
+  "lastUpdated": "2026-06-18T18:44:30.423Z"
 }
