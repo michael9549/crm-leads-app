@@ -9091,14 +9091,14 @@
       "phone": "",
       "social": "https://www.facebook.com/phillip.cantu.199554",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:42:55.400Z"
     },
@@ -12776,5 +12776,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:50:50.267Z"
+  "lastUpdated": "2026-06-19T21:51:19.699Z"
 }
