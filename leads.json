@@ -12701,7 +12701,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:44:32.223Z"
+    },
+    {
+      "id": "mqkbszi4i4r41rbs5oa",
+      "name": "Danny Washburn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joe.sixflop",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:45:02.524Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:44:32.223Z"
+  "lastUpdated": "2026-06-19T02:45:02.524Z"
 }
