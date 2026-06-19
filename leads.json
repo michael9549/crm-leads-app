@@ -12611,7 +12611,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:41:23.126Z"
+    },
+    {
+      "id": "mqkbpkhznmtkjfxsip",
+      "name": "Gary Bittner",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gvbittner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:42:23.111Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:41:23.126Z"
+  "lastUpdated": "2026-06-19T02:42:23.111Z"
 }
