@@ -10297,14 +10297,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jim.johnson.733710",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:36:11.427Z"
     },
@@ -12775,5 +12775,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:28:23.640Z"
+  "lastUpdated": "2026-06-19T21:28:43.049Z"
 }
