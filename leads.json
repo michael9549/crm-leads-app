@@ -12287,7 +12287,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:28:18.122Z"
+    },
+    {
+      "id": "mqkb89cv1no5mey65ia",
+      "name": "Julio Cruz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julio.cruz.499368",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:28:55.519Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:28:18.122Z"
+  "lastUpdated": "2026-06-19T02:28:55.519Z"
 }
