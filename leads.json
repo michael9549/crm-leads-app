@@ -12269,7 +12269,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:27:30.182Z"
+    },
+    {
+      "id": "mqkb7gi2if11oga0l5",
+      "name": "Preston Petersen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/preston.petersen.311",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:28:18.122Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:27:30.182Z"
+  "lastUpdated": "2026-06-19T02:28:18.122Z"
 }
