@@ -10279,14 +10279,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.page.209968",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:57:57.483Z"
     },
@@ -12775,5 +12775,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:28:43.049Z"
+  "lastUpdated": "2026-06-19T21:29:15.976Z"
 }
