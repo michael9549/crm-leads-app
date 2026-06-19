@@ -9163,14 +9163,14 @@
       "phone": "",
       "social": "https://www.facebook.com/brandon.simmons.121971",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-06-19",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-06-19",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:46:50.137Z"
     },
@@ -12776,5 +12776,5 @@
       "addedAt": "2026-06-19T02:47:06.296Z"
     }
   ],
-  "lastUpdated": "2026-06-19T21:48:19.509Z"
+  "lastUpdated": "2026-06-19T21:48:58.845Z"
 }
