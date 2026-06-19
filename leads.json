@@ -12683,7 +12683,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:43:57.086Z"
+    },
+    {
+      "id": "mqkbsc4f634a18upwa",
+      "name": "Norville Rodgers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/norville.rodgers.547",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:44:32.223Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:43:57.086Z"
+  "lastUpdated": "2026-06-19T02:44:32.223Z"
 }
