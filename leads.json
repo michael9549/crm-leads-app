@@ -12647,7 +12647,25 @@
       "lastModified": "2026-06-18",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:42:56.295Z"
+    },
+    {
+      "id": "mqkbqw7aojgwej0p38",
+      "name": "Mark Bruce",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100044135654167",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-18",
+      "nextFollowUp": "2026-06-21",
+      "notes": "",
+      "lastModified": "2026-06-18",
+      "dateAdded": "2026-06-18",
+      "addedAt": "2026-06-19T02:43:24.934Z"
     }
   ],
-  "lastUpdated": "2026-06-19T02:42:56.295Z"
+  "lastUpdated": "2026-06-19T02:43:24.934Z"
 }
