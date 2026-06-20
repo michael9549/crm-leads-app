@@ -11810,14 +11810,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nodefault4you",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:56:56.950Z"
     },
@@ -13424,5 +13424,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T21:35:11.754Z"
+  "lastUpdated": "2026-06-20T21:35:39.826Z"
 }
