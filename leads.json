@@ -13188,7 +13188,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:57:10.432Z"
+    },
+    {
+      "id": "mqlneqlpz0cd6oxkgfi",
+      "name": "Stephen Scott",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stephen.scott.994485",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:57:39.373Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:57:10.432Z"
+  "lastUpdated": "2026-06-20T00:57:39.373Z"
 }
