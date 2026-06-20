@@ -12882,7 +12882,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:45:59.575Z"
+    },
+    {
+      "id": "mqln27ta1st7zg69p8k",
+      "name": "Lisa Briscoe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lisa.briscoe.9828",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:47:55.150Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:45:59.575Z"
+  "lastUpdated": "2026-06-20T00:47:55.150Z"
 }
