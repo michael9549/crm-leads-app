@@ -13098,7 +13098,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:54:51.461Z"
+    },
+    {
+      "id": "mqlnbs83law15iu14x8",
+      "name": "Carlton Dickens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carlton.dickens.official",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:55:21.507Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:54:51.461Z"
+  "lastUpdated": "2026-06-20T00:55:21.507Z"
 }
