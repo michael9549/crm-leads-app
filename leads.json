@@ -13386,7 +13386,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T01:04:15.362Z"
+    },
+    {
+      "id": "mqlnnyvz4ug5q15k0ov",
+      "name": "Fredy Sanchez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/fredy.sanchez.485660",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T01:04:50.015Z"
     }
   ],
-  "lastUpdated": "2026-06-20T01:04:15.362Z"
+  "lastUpdated": "2026-06-20T01:04:50.015Z"
 }
