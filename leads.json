@@ -13134,7 +13134,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:55:48.982Z"
+    },
+    {
+      "id": "mqlncyr0s52ckmday1j",
+      "name": "Tony Starx",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tony.starx.696986",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:56:16.620Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:55:48.982Z"
+  "lastUpdated": "2026-06-20T00:56:16.620Z"
 }
