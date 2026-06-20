@@ -13206,7 +13206,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:57:39.373Z"
+    },
+    {
+      "id": "mqlnfn889v19o0wkztn",
+      "name": "Jim Thom",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jimmy.thom.315",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:58:21.656Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:57:39.373Z"
+  "lastUpdated": "2026-06-20T00:58:21.656Z"
 }
