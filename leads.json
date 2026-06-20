@@ -12792,7 +12792,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:42:39.338Z"
+    },
+    {
+      "id": "mqlmwdzh7t0r52ftfs5",
+      "name": "Cmjm Modeste",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cmjm.modeste",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:43:23.213Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:42:39.338Z"
+  "lastUpdated": "2026-06-20T00:43:23.214Z"
 }
