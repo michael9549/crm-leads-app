@@ -12918,7 +12918,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:48:27.850Z"
+    },
+    {
+      "id": "mqln3v26b9vhx0w6cuw",
+      "name": "Tyrone Gilbert",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyrone.gilbert.37853",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:49:11.934Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:48:27.850Z"
+  "lastUpdated": "2026-06-20T00:49:11.934Z"
 }
