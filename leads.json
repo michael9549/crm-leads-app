@@ -9560,14 +9560,14 @@
       "phone": "",
       "social": "https://www.facebook.com/steve.engstrom.948",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-06-20",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-06-20",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:29:50.282Z"
     },
@@ -13425,5 +13425,5 @@
       "addedAt": "2026-06-20T01:05:23.055Z"
     }
   ],
-  "lastUpdated": "2026-06-20T22:19:31.474Z"
+  "lastUpdated": "2026-06-20T22:20:07.336Z"
 }
