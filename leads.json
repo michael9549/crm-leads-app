@@ -13242,7 +13242,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:58:51.019Z"
+    },
+    {
+      "id": "mqlni7nhooaa4z5fbs",
+      "name": "Corby Romano",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/corby.romano.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T01:00:21.437Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:58:51.019Z"
+  "lastUpdated": "2026-06-20T01:00:21.437Z"
 }
