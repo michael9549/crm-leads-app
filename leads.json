@@ -13224,7 +13224,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:58:21.656Z"
+    },
+    {
+      "id": "mqlng9vvfl0r4xedm3s",
+      "name": "Jake McKinney",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jake.mckinney.7798",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T00:58:51.019Z"
     }
   ],
-  "lastUpdated": "2026-06-20T00:58:21.656Z"
+  "lastUpdated": "2026-06-20T00:58:51.019Z"
 }
