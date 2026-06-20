@@ -13332,7 +13332,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T01:02:42.556Z"
+    },
+    {
+      "id": "mqlnluxt8cdkb2dsba9",
+      "name": "Mike Kelley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.kelley.313945",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-19",
+      "nextFollowUp": "2026-06-22",
+      "notes": "",
+      "lastModified": "2026-06-19",
+      "dateAdded": "2026-06-19",
+      "addedAt": "2026-06-20T01:03:11.585Z"
     }
   ],
-  "lastUpdated": "2026-06-20T01:02:42.556Z"
+  "lastUpdated": "2026-06-20T01:03:11.585Z"
 }
