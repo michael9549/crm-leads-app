@@ -13550,7 +13550,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:42:36.499Z"
+    },
+    {
+      "id": "mqn2byivju2p9617qc",
+      "name": "Aaron Wynn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wynn.plumbing",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:43:10.087Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:42:36.499Z"
+  "lastUpdated": "2026-06-21T00:43:10.087Z"
 }
