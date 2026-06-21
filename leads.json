@@ -13442,7 +13442,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:38:32.469Z"
+    },
+    {
+      "id": "mqn270js8ch6qni2tey",
+      "name": "Steven Stallone",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Suprisinglycheffy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:39:19.432Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:38:32.469Z"
+  "lastUpdated": "2026-06-21T00:39:19.432Z"
 }
