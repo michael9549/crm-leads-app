@@ -5922,14 +5922,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61568708435994",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-06-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-06-21",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:57:52.666Z"
     },
@@ -13966,5 +13966,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-21T19:02:53.633Z"
+  "lastUpdated": "2026-06-21T19:03:38.558Z"
 }
