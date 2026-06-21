@@ -13424,7 +13424,25 @@
       "lastModified": "2026-06-19",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T01:05:23.055Z"
+    },
+    {
+      "id": "mqn260b9s4dl2zczeqg",
+      "name": "Justin Mundinger",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/justin.mundinger.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:38:32.469Z"
     }
   ],
-  "lastUpdated": "2026-06-20T22:22:56.591Z"
+  "lastUpdated": "2026-06-21T00:38:32.469Z"
 }
