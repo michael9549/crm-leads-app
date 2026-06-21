@@ -13928,7 +13928,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:05:10.757Z"
+    },
+    {
+      "id": "mqn34v5x6tp624ase6v",
+      "name": "Julie Giancola",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/julieagiancola",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T01:05:38.757Z"
     }
   ],
-  "lastUpdated": "2026-06-21T01:05:10.757Z"
+  "lastUpdated": "2026-06-21T01:05:38.757Z"
 }
