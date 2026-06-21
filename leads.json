@@ -13766,7 +13766,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:57:56.976Z"
+    },
+    {
+      "id": "mqn2w5tsdufe8wrtqo9",
+      "name": "Sela Fuka",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sela.fuka.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:58:52.672Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:57:56.976Z"
+  "lastUpdated": "2026-06-21T00:58:52.672Z"
 }
