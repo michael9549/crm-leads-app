@@ -13802,7 +13802,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:59:17.749Z"
+    },
+    {
+      "id": "mqn2xcy7zo62280n3br",
+      "name": "Toni Counts",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/toni.counts.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:59:48.559Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:59:17.749Z"
+  "lastUpdated": "2026-06-21T00:59:48.559Z"
 }
