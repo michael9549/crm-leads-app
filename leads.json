@@ -13532,7 +13532,25 @@
       "lastModified": "2026-06-20",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:41:41.183Z"
+    },
+    {
+      "id": "mqn2b8lvwmrabkhc5z8",
+      "name": "Nancy Mwangobwe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nancy.mwangobwe.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-20",
+      "nextFollowUp": "2026-06-23",
+      "notes": "",
+      "lastModified": "2026-06-20",
+      "dateAdded": "2026-06-20",
+      "addedAt": "2026-06-21T00:42:36.499Z"
     }
   ],
-  "lastUpdated": "2026-06-21T00:41:41.183Z"
+  "lastUpdated": "2026-06-21T00:42:36.499Z"
 }
