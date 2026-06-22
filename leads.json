@@ -10515,14 +10515,14 @@
       "phone": "",
       "social": "https://www.facebook.com/saqib.bilal.790256",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-06-22",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:44:34.001Z"
     },
@@ -13966,5 +13966,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-22T23:52:57.782Z"
+  "lastUpdated": "2026-06-22T23:53:20.573Z"
 }
