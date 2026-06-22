@@ -10353,14 +10353,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kalmago.edwards.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-19",
-      "nextFollowUp": "2026-06-22",
+      "lastContact": "2026-06-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-19",
+      "lastModified": "2026-06-22",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:38:13.329Z"
     },
@@ -13966,5 +13966,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-22T23:55:28.109Z"
+  "lastUpdated": "2026-06-22T23:56:00.990Z"
 }
