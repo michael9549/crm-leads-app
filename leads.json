@@ -13774,16 +13774,17 @@
       "phone": "",
       "social": "https://www.facebook.com/sela.fuka.73",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": "2027-08-23",
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-20",
-      "addedAt": "2026-06-21T00:58:52.672Z"
+      "addedAt": "2026-06-21T00:58:52.672Z",
+      "customerSince": "2026-06-23"
     },
     {
       "id": "mqn2wp6dub1r2u2xcwi",
@@ -13966,5 +13967,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T13:51:53.792Z"
+  "lastUpdated": "2026-06-23T13:52:38.520Z"
 }
