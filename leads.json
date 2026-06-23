@@ -13970,7 +13970,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:06:06.209Z"
+    },
+    {
+      "id": "mqqzt7b150hmfwbwwmx",
+      "name": "Zach Patronis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zach.patronis.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:43:40.477Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:40:00.539Z"
+  "lastUpdated": "2026-06-23T18:43:40.477Z"
 }
