@@ -11092,14 +11092,14 @@
       "phone": "",
       "social": "https://www.facebook.com/MatthewFoxhunter",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:29:38.841Z"
     },
@@ -13967,5 +13967,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:21:04.726Z"
+  "lastUpdated": "2026-06-23T14:21:32.215Z"
 }
