@@ -14348,7 +14348,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T19:01:12.280Z"
+    },
+    {
+      "id": "mqr0guq2h4cumt55u7",
+      "name": "James Earl Dickens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JamesEarlDickens60",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T19:02:03.914Z"
     }
   ],
-  "lastUpdated": "2026-06-23T19:01:12.280Z"
+  "lastUpdated": "2026-06-23T19:02:03.914Z"
 }
