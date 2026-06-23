@@ -9597,14 +9597,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kyle.geroski.77",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-11",
       "addedAt": "2026-06-11T19:32:08.385Z"
     },
@@ -13967,5 +13967,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:35:33.650Z"
+  "lastUpdated": "2026-06-23T14:35:58.245Z"
 }
