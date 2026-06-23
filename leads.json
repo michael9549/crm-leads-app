@@ -13846,14 +13846,14 @@
       "phone": "",
       "social": "https://www.facebook.com/matthew.thome.96",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:02:32.432Z"
     },
@@ -13966,5 +13966,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T13:48:45.862Z"
+  "lastUpdated": "2026-06-23T13:50:08.559Z"
 }
