@@ -14150,7 +14150,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:51:16.178Z"
+    },
+    {
+      "id": "mqr05c0uabtxqrrrtdc",
+      "name": "Frank Nova",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/frank.koki.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:53:06.462Z"
     }
   ],
-  "lastUpdated": "2026-06-23T18:51:16.178Z"
+  "lastUpdated": "2026-06-23T18:53:06.462Z"
 }
