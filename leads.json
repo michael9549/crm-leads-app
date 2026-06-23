@@ -14330,7 +14330,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T19:00:41.587Z"
+    },
+    {
+      "id": "mqr0fqvs48ou6xdtg79",
+      "name": "Kelly Conners",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kelly.conners.127",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T19:01:12.280Z"
     }
   ],
-  "lastUpdated": "2026-06-23T19:00:41.587Z"
+  "lastUpdated": "2026-06-23T19:01:12.280Z"
 }
