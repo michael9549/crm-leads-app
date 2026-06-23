@@ -14294,7 +14294,25 @@
       "lastModified": "2026-06-23",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:57:45.768Z"
+    },
+    {
+      "id": "mqr0c2hh2phgdhvmgor",
+      "name": "Angie Sturges",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/angie.sturges.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-06-26",
+      "notes": "",
+      "lastModified": "2026-06-23",
+      "dateAdded": "2026-06-23",
+      "addedAt": "2026-06-23T18:58:20.693Z"
     }
   ],
-  "lastUpdated": "2026-06-23T18:57:45.768Z"
+  "lastUpdated": "2026-06-23T18:58:20.693Z"
 }
