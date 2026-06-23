@@ -10749,14 +10749,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mark.hall.623436",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-20",
-      "nextFollowUp": "2026-06-23",
+      "lastContact": "2026-06-23",
+      "nextFollowUp": "2026-07-23",
       "notes": "",
-      "lastModified": "2026-06-20",
+      "lastModified": "2026-06-23",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:10:35.659Z"
     },
@@ -13967,5 +13967,5 @@
       "addedAt": "2026-06-21T01:06:06.209Z"
     }
   ],
-  "lastUpdated": "2026-06-23T14:30:34.472Z"
+  "lastUpdated": "2026-06-23T14:31:44.951Z"
 }
