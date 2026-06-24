@@ -14550,7 +14550,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:16:16.776Z"
+    },
+    {
+      "id": "mqsp0cnxqg5aa4ngba",
+      "name": "Ryan Fisher",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ryan.fisherAi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-24T23:16:50.589Z"
     }
   ],
-  "lastUpdated": "2026-06-24T23:16:16.776Z"
+  "lastUpdated": "2026-06-24T23:16:50.589Z"
 }
