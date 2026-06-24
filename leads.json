@@ -11441,14 +11441,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dalton.hanson.359",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-21",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-21",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:32:54.394Z"
     },
@@ -14478,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:01:39.075Z"
+  "lastUpdated": "2026-06-24T16:02:51.877Z"
 }
