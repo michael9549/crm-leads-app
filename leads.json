@@ -11207,14 +11207,14 @@
       "phone": "",
       "social": "https://www.facebook.com/maxwell.plumbing.2025",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-21",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-21",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:07:55.018Z"
     },
@@ -14478,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:25:07.453Z"
+  "lastUpdated": "2026-06-24T16:26:34.573Z"
 }
