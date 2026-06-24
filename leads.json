@@ -10054,14 +10054,14 @@
       "phone": "",
       "social": "https://www.facebook.com/layne.mayes.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-21",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-21",
+      "lastModified": "2026-06-24",
       "dateAdded": "2026-06-12",
       "addedAt": "2026-06-12T22:39:21.730Z"
     },
@@ -14478,5 +14478,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:30:32.102Z"
+  "lastUpdated": "2026-06-24T16:30:57.899Z"
 }
