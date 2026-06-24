@@ -292,14 +292,15 @@
       "phone": "",
       "social": "https://www.facebook.com/appointmentboost101",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-05-25",
-      "nextFollowUp": "2026-06-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-25",
-      "dateAdded": "2026-05-18"
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-05-18",
+      "videoSent": false
     },
     {
       "id": "mpbrod3nqgo5b0l8mxp",
@@ -14479,5 +14480,5 @@
       "addedAt": "2026-06-23T19:06:27.672Z"
     }
   ],
-  "lastUpdated": "2026-06-24T16:33:48.470Z"
+  "lastUpdated": "2026-06-24T16:34:14.821Z"
 }
