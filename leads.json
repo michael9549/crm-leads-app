@@ -10380,14 +10380,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dyana.barron.9",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-25",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:38:49.298Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-25T15:36:14.079Z"
+  "lastUpdated": "2026-06-25T15:36:32.190Z"
 }
