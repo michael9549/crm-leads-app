@@ -12937,14 +12937,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tyrone.gilbert.37853",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-22",
-      "nextFollowUp": "2026-06-25",
+      "lastContact": "2026-06-25",
+      "nextFollowUp": "2026-07-25",
       "notes": "",
-      "lastModified": "2026-06-22",
+      "lastModified": "2026-06-25",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:49:11.934Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-25T15:28:58.599Z"
+  "lastUpdated": "2026-06-25T15:31:56.049Z"
 }
