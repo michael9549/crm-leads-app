@@ -14784,7 +14784,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:42:26.987Z"
+    },
+    {
+      "id": "mqss33uu4jcdq296xq7",
+      "name": "Steven Arreaga",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/magnolia.restoration",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-25T00:42:57.990Z"
     }
   ],
-  "lastUpdated": "2026-06-25T00:42:26.987Z"
+  "lastUpdated": "2026-06-25T00:42:57.990Z"
 }
