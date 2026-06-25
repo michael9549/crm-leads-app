@@ -14802,7 +14802,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:42:57.990Z"
+    },
+    {
+      "id": "mqss3ramck8skexamr8",
+      "name": "Madalyn Holbrooks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/madalyn.holbrooks.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-25T00:42:57.990Z"
+  "lastUpdated": "2026-06-25T00:43:28.366Z"
 }
