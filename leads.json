@@ -14676,7 +14676,25 @@
       "lastModified": "2026-06-24",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:39:11.462Z"
+    },
+    {
+      "id": "mqsryw4ctur94hm1m3",
+      "name": "Mihail Wendt",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mihail.wendt.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-24",
+      "nextFollowUp": "2026-06-27",
+      "notes": "",
+      "lastModified": "2026-06-24",
+      "dateAdded": "2026-06-24",
+      "addedAt": "2026-06-25T00:39:41.340Z"
     }
   ],
-  "lastUpdated": "2026-06-25T00:39:11.462Z"
+  "lastUpdated": "2026-06-25T00:39:41.340Z"
 }
