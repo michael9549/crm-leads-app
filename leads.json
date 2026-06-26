@@ -11857,14 +11857,14 @@
       "phone": "",
       "social": "https://www.facebook.com/herb.ptho",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:58:09.878Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T22:13:56.489Z"
+  "lastUpdated": "2026-06-26T22:14:28.064Z"
 }
