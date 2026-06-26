@@ -983,12 +983,13 @@
       "status": "Nurture",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
-      "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-26",
+      "lastContact": "2026-06-26",
+      "nextFollowUp": "2026-06-29",
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-05-20",
-      "addedAt": "2026-05-21T01:16:43.340Z"
+      "addedAt": "2026-05-21T01:16:43.340Z",
+      "videoSent": false
     },
     {
       "id": "mpesxcvxh9pj94fjxjt",
@@ -1414,7 +1415,7 @@
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-06-26",
       "notes": "",
       "lastModified": "2026-06-26",
       "dateAdded": "2026-05-22",
@@ -14823,5 +14824,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T22:24:08.920Z"
+  "lastUpdated": "2026-06-26T22:26:38.112Z"
 }
