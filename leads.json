@@ -13441,14 +13441,14 @@
       "phone": "",
       "social": "https://www.facebook.com/justin.mundinger.9",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:38:32.469Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T21:58:23.374Z"
+  "lastUpdated": "2026-06-26T21:58:47.398Z"
 }
