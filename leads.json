@@ -13928,14 +13928,14 @@
       "phone": "",
       "social": "https://www.facebook.com/carlos.flores.579064",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T01:05:10.757Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T21:30:48.811Z"
+  "lastUpdated": "2026-06-26T21:31:07.223Z"
 }
