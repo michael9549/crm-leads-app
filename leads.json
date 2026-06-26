@@ -14162,14 +14162,14 @@
       "phone": "",
       "social": "https://www.facebook.com/frank.koki.79",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-23",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T18:53:06.462Z"
     },
@@ -14822,5 +14822,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T21:22:01.910Z"
+  "lastUpdated": "2026-06-26T21:22:23.496Z"
 }
