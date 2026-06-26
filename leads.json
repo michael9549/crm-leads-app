@@ -1410,15 +1410,16 @@
       "phone": "",
       "social": "https://www.facebook.com/LEECONRADO",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-05-27",
-      "nextFollowUp": "2026-06-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-27",
+      "lastModified": "2026-06-26",
       "dateAdded": "2026-05-22",
-      "addedAt": "2026-05-23T01:00:07.582Z"
+      "addedAt": "2026-05-23T01:00:07.582Z",
+      "videoSent": false
     },
     {
       "id": "mphn8mkera78u9pxkel",
@@ -14822,5 +14823,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-26T22:23:27.852Z"
+  "lastUpdated": "2026-06-26T22:24:08.920Z"
 }
