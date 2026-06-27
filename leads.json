@@ -14542,14 +14542,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jeff.lessard.5458",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:16:16.776Z"
     },
@@ -14825,5 +14825,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:37:03.224Z"
+  "lastUpdated": "2026-06-27T19:37:21.474Z"
 }
