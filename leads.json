@@ -1069,13 +1069,13 @@
       "phone": "",
       "social": "https://www.facebook.com/john.crane.3158652",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-21T23:54:41.465Z",
       "videoSent": true
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T20:11:36.461Z"
+  "lastUpdated": "2026-06-27T20:11:58.511Z"
 }
