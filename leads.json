@@ -14506,16 +14506,17 @@
       "phone": "",
       "social": "https://www.facebook.com/stuart.mclaughlin.902",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
       "nextFollowUp": "2026-06-27",
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-06-24",
-      "addedAt": "2026-06-24T23:14:50.046Z"
+      "addedAt": "2026-06-24T23:14:50.046Z",
+      "customerSince": "2026-06-27"
     },
     {
       "id": "mqsoys3ox0oag59dmzn",
@@ -14825,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T19:39:22.539Z"
+  "lastUpdated": "2026-06-27T19:40:07.216Z"
 }
