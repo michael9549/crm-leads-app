@@ -14794,14 +14794,14 @@
       "phone": "",
       "social": "https://www.facebook.com/magnolia.restoration",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:42:57.990Z"
     },
@@ -14824,5 +14824,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T16:37:51.328Z"
+  "lastUpdated": "2026-06-27T16:38:17.906Z"
 }
