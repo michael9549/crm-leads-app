@@ -11643,14 +11643,14 @@
       "phone": "",
       "social": "https://www.facebook.com/rich.roberts.75641",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:39:56.244Z"
     },
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T20:07:14.813Z"
+  "lastUpdated": "2026-06-27T20:07:34.244Z"
 }
