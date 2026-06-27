@@ -11463,14 +11463,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ron.doe.94651",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:33:23.588Z"
     },
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T20:09:38.241Z"
+  "lastUpdated": "2026-06-27T20:10:13.772Z"
 }
