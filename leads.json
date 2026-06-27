@@ -1303,13 +1303,13 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=61579347332694",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Nurture",
       "lastContact": "2026-05-28",
-      "nextFollowUp": "2026-06-27",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-05-28",
+      "lastModified": "2026-06-27",
       "dateAdded": "2026-05-21",
       "addedAt": "2026-05-22T00:15:19.452Z",
       "videoSent": false
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-27T20:11:13.901Z"
+  "lastUpdated": "2026-06-27T20:11:36.461Z"
 }
