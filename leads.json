@@ -15274,7 +15274,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:14:22.021Z"
+    },
+    {
+      "id": "mqyckd12q7qpjqda6tm",
+      "name": "Daniel Olufayo",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.olufayo.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:15:06.230Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:14:22.021Z"
+  "lastUpdated": "2026-06-28T22:15:06.230Z"
 }
