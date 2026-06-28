@@ -99,12 +99,22 @@
     .button-secondary { background: var(--gray-100); color: var(--gray-700); }
     .button-success { background: var(--success); color: white; }
     .button-danger { background: var(--danger); color: white; }
-    .table { width: 100%; border-collapse: collapse; }
+    .table { width: 100%; border-collapse: collapse; table-layout: fixed; }
     .table th, .table td {
       text-align: left;
       padding: 12px;
       border-bottom: 1px solid var(--gray-200);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
+    .table th:nth-child(1), .table td:nth-child(1) { width: 18%; }
+    .table th:nth-child(2), .table td:nth-child(2) { width: 18%; }
+    .table th:nth-child(3), .table td:nth-child(3) { width: 12%; }
+    .table th:nth-child(4), .table td:nth-child(4) { width: 10%; }
+    .table th:nth-child(5), .table td:nth-child(5) { width: 15%; }
+    .table th:nth-child(6), .table td:nth-child(6) { width: 15%; }
+    .table th:nth-child(7), .table td:nth-child(7) { width: 12%; }
     .table th {
       font-weight: 600;
       color: var(--gray-600);
@@ -335,7 +345,7 @@
           <button id="empty-add-btn" class="button button-primary" onclick="openAddModal()" style="margin-top: 16px;">Add Your First Lead</button>
         </div>
 
-        <div id="leads-table" class="card" style="overflow-x: auto;">
+        <div id="leads-table" class="card">
           <table class="table">
             <thead>
               <tr>
