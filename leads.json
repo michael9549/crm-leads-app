@@ -14824,7 +14824,25 @@
       "lastModified": "2026-06-27",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:43:28.366Z"
+    },
+    {
+      "id": "mqybk6e5zbrfsrefgcn",
+      "name": "Frankie Medrano",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/frankie.medrano.5492",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T21:46:58.013Z"
     }
   ],
-  "lastUpdated": "2026-06-28T16:20:29.120Z"
+  "lastUpdated": "2026-06-28T21:46:58.013Z"
 }
