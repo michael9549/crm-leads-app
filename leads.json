@@ -15166,7 +15166,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:11:30.154Z"
+    },
+    {
+      "id": "mqycgh5lfq9ujhsw6y7",
+      "name": "Jared Mcb Rumpeltin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jaredmcb.rumpeltin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:12:04.953Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:11:30.154Z"
+  "lastUpdated": "2026-06-28T22:12:04.953Z"
 }
