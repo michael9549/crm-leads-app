@@ -13155,14 +13155,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tony.starx.696986",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:56:16.620Z"
     },
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-28T16:07:26.520Z"
+  "lastUpdated": "2026-06-28T16:07:47.545Z"
 }
