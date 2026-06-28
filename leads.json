@@ -14986,7 +14986,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:05:53.624Z"
+    },
+    {
+      "id": "mqyc962kmj1ud1scdcg",
+      "name": "Ezequiel Garcia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ezequiel.garcia.271628",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:06:23.996Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:05:53.624Z"
+  "lastUpdated": "2026-06-28T22:06:23.996Z"
 }
