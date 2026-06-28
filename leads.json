@@ -10616,14 +10616,14 @@
       "phone": "",
       "social": "https://www.facebook.com/traestar2021",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:47:14.737Z"
     },
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-28T16:18:03.310Z"
+  "lastUpdated": "2026-06-28T16:18:48.753Z"
 }
