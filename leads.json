@@ -15004,7 +15004,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:06:23.996Z"
+    },
+    {
+      "id": "mqyc9r30v0xddt1omil",
+      "name": "Juan Carlos Rodriguez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/juan.carlos.rodriguez.408050",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:06:51.228Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:06:23.996Z"
+  "lastUpdated": "2026-06-28T22:06:51.228Z"
 }
