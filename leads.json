@@ -14860,7 +14860,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:01:02.413Z"
+    },
+    {
+      "id": "mqyc302hcvgsagwsk76",
+      "name": "Benjamin Funsch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/benjamin.funsch",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:01:36.281Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:01:02.413Z"
+  "lastUpdated": "2026-06-28T22:01:36.281Z"
 }
