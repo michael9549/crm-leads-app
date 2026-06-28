@@ -14878,7 +14878,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:01:36.281Z"
+    },
+    {
+      "id": "mqyc3o2d5t6qy46vxrx",
+      "name": "Bob Severance",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bob.severance.165",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:02:07.381Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:01:36.281Z"
+  "lastUpdated": "2026-06-28T22:02:07.381Z"
 }
