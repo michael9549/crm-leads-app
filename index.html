@@ -310,6 +310,7 @@
           <div style="display: flex; gap: 8px;">
             <button id="sort-toggle-btn" class="button button-secondary" onclick="toggleSortMode()" style="display: none;">📅 Sort: Newest</button>
             <button id="export-csv-btn" class="button button-secondary" onclick="exportToCSV()">📥 Export CSV</button>
+            <button id="import-csv-btn" class="button button-secondary" onclick="openImportModal()">📤 Import CSV</button>
             <button id="add-lead-btn" class="button button-primary" onclick="openAddModal()">+ Add Lead</button>
           </div>
         </div>
@@ -2013,6 +2014,262 @@
       a.click();
       document.body.removeChild(a);
     }
+
+    // CSV Import Functions
+    let csvImportData = [];
+    let csvColumnMapping = {};
+
+    function openImportModal() {
+      document.getElementById('import-csv-input').value = '';
+      document.getElementById('import-preview').innerHTML = '';
+      document.getElementById('import-mapping').innerHTML = '';
+      document.getElementById('import-modal').classList.remove('hidden');
+      csvImportData = [];
+      csvColumnMapping = {};
+    }
+
+    function closeImportModal() {
+      document.getElementById('import-modal').classList.add('hidden');
+      csvImportData = [];
+      csvColumnMapping = {};
+    }
+
+    function handleCSVFileSelect(event) {
+      const file = event.target.files[0];
+      if (!file) return;
+
+      const reader = new FileReader();
+      reader.onload = function(e) {
+        const text = e.target.result;
+        parseCSV(text);
+      };
+      reader.readAsText(file);
+    }
+
+    function parseCSV(text) {
+      // Simple CSV parser
+      const lines = text.split('\n').filter(line => line.trim());
+      if (lines.length < 2) {
+        alert('CSV file must have at least a header row and one data row');
+        return;
+      }
+
+      // Parse header
+      const headers = parseCSVLine(lines[0]);
+      
+      // Parse data rows
+      csvImportData = [];
+      for (let i = 1; i < lines.length; i++) {
+        const values = parseCSVLine(lines[i]);
+        const row = {};
+        headers.forEach((header, index) => {
+          row[header] = values[index] || '';
+        });
+        csvImportData.push(row);
+      }
+
+      renderColumnMapping(headers);
+      renderPreview();
+    }
+
+    function parseCSVLine(line) {
+      const result = [];
+      let current = '';
+      let inQuotes = false;
+      
+      for (let i = 0; i < line.length; i++) {
+        const char = line[i];
+        
+        if (char === '"') {
+          if (inQuotes && line[i + 1] === '"') {
+            current += '"';
+            i++;
+          } else {
+            inQuotes = !inQuotes;
+          }
+        } else if (char === ',' && !inQuotes) {
+          result.push(current.trim());
+          current = '';
+        } else {
+          current += char;
+        }
+      }
+      result.push(current.trim());
+      return result;
+    }
+
+    function renderColumnMapping(csvHeaders) {
+      const crmFields = [
+        { key: 'name', label: 'Name', required: true },
+        { key: 'email', label: 'Email', required: false },
+        { key: 'phone', label: 'Phone', required: false },
+        { key: 'social', label: 'Social Link', required: false },
+        { key: 'source', label: 'Source', required: false },
+        { key: 'status', label: 'Status', required: false },
+        { key: 'temperature', label: 'Temperature', required: false },
+        { key: 'lastContact', label: 'Last Contact', required: false },
+        { key: 'nextFollowUp', label: 'Next Follow-Up', required: false },
+        { key: 'notes', label: 'Notes', required: false }
+      ];
+
+      let html = '<h4 style="margin: 0 0 16px 0;">Map CSV Columns to CRM Fields</h4>';
+      html += '<p style="color: var(--gray-500); margin: 0 0 16px 0; font-size: 14px;">Select which CSV column matches each CRM field. At minimum, you must map the Name field.</p>';
+      
+      crmFields.forEach(field => {
+        html += `
+          <div style="display: flex; align-items: center; margin-bottom: 12px; gap: 12px;">
+            <label style="width: 150px; font-weight: 500; ${field.required ? 'color: var(--danger);' : ''}">
+              ${field.label} ${field.required ? '*' : ''}
+            </label>
+            <select id="map-${field.key}" onchange="updateColumnMapping('${field.key}', this.value)" style="flex: 1; padding: 8px; border: 1px solid var(--gray-300); border-radius: 6px;">
+              <option value="">-- Skip this field --</option>
+              ${csvHeaders.map(header => `<option value="${header}">${header}</option>`).join('')}
+            </select>
+          </div>
+        `;
+      });
+
+      document.getElementById('import-mapping').innerHTML = html;
+
+      // Auto-map columns with matching names
+      crmFields.forEach(field => {
+        const match = csvHeaders.find(h => 
+          h.toLowerCase().replace(/[^a-z]/g, '') === field.key.toLowerCase() ||
+          h.toLowerCase().replace(/[^a-z]/g, '') === field.label.toLowerCase().replace(/[^a-z]/g, '')
+        );
+        if (match) {
+          const select = document.getElementById(`map-${field.key}`);
+          if (select) {
+            select.value = match;
+            updateColumnMapping(field.key, match);
+          }
+        }
+      });
+    }
+
+    function updateColumnMapping(fieldKey, csvColumn) {
+      if (csvColumn) {
+        csvColumnMapping[fieldKey] = csvColumn;
+      } else {
+        delete csvColumnMapping[fieldKey];
+      }
+      renderPreview();
+    }
+
+    function renderPreview() {
+      if (csvImportData.length === 0) return;
+
+      const previewCount = Math.min(5, csvImportData.length);
+      let html = `<h4 style="margin: 20px 0 16px 0;">Preview (${previewCount} of ${csvImportData.length} leads)</h4>`;
+      
+      html += '<div style="overflow-x: auto;"><table class="table" style="font-size: 13px;"><thead><tr>';
+      
+      const mappedFields = Object.keys(csvColumnMapping);
+      mappedFields.forEach(field => {
+        const labels = {
+          name: 'Name', email: 'Email', phone: 'Phone', social: 'Social',
+          source: 'Source', status: 'Status', temperature: 'Temp',
+          lastContact: 'Last Contact', nextFollowUp: 'Next Follow-Up', notes: 'Notes'
+        };
+        html += `<th>${labels[field] || field}</th>`;
+      });
+      html += '</tr></thead><tbody>';
+
+      for (let i = 0; i < previewCount; i++) {
+        html += '<tr>';
+        mappedFields.forEach(field => {
+          const csvCol = csvColumnMapping[field];
+          const value = csvImportData[i][csvCol] || '';
+          html += `<td>${value.substring(0, 50)}${value.length > 50 ? '...' : ''}</td>`;
+        });
+        html += '</tr>';
+      }
+
+      html += '</tbody></table></div>';
+      
+      if (csvImportData.length > 5) {
+        html += `<p style="color: var(--gray-500); font-size: 13px; margin-top: 8px;">... and ${csvImportData.length - 5} more leads</p>`;
+      }
+
+      document.getElementById('import-preview').innerHTML = html;
+    }
+
+    async function importLeadsFromCSV() {
+      if (!csvColumnMapping.name) {
+        alert('You must map at least the Name field to import leads');
+        return;
+      }
+
+      if (csvImportData.length === 0) {
+        alert('No data to import');
+        return;
+      }
+
+      const statusOptions = ['New Lead', 'Prospect', 'Watched', 'Sent Video', '2WT', 'Customer', 'IBO', 'Nurture', 'Not Interested'];
+      const tempOptions = ['Hot', 'Warm', 'Cold'];
+
+      let imported = 0;
+      let skipped = 0;
+
+      csvImportData.forEach(row => {
+        const name = row[csvColumnMapping.name]?.trim();
+        if (!name) {
+          skipped++;
+          return;
+        }
+
+        // Check for duplicate by name
+        const existing = leads.find(l => l.name.toLowerCase() === name.toLowerCase());
+        if (existing) {
+          skipped++;
+          return;
+        }
+
+        const lead = {
+          id: Date.now().toString() + Math.random().toString(36).substr(2, 5),
+          name: name,
+          email: csvColumnMapping.email ? row[csvColumnMapping.email]?.trim() || '' : '',
+          phone: csvColumnMapping.phone ? row[csvColumnMapping.phone]?.trim() || '' : '',
+          social: csvColumnMapping.social ? row[csvColumnMapping.social]?.trim() || '' : '',
+          source: csvColumnMapping.source ? row[csvColumnMapping.source]?.trim() || 'CSV Import' : 'CSV Import',
+          status: csvColumnMapping.status ? row[csvColumnMapping.status]?.trim() || 'New Lead' : 'New Lead',
+          temperature: csvColumnMapping.temperature ? row[csvColumnMapping.temperature]?.trim() || 'Warm' : 'Warm',
+          lastContact: csvColumnMapping.lastContact ? row[csvColumnMapping.lastContact]?.trim() || '' : '',
+          nextFollowUp: csvColumnMapping.nextFollowUp ? row[csvColumnMapping.nextFollowUp]?.trim() || '' : '',
+          notes: csvColumnMapping.notes ? row[csvColumnMapping.notes]?.trim() || '' : '',
+          dateAdded: getTodayPacific(),
+          addedAt: new Date().toISOString(),
+          videoSent: false,
+          customerSince: ''
+        };
+
+        // Validate status
+        if (!statusOptions.includes(lead.status)) {
+          lead.status = 'New Lead';
+        }
+
+        // Validate temperature
+        if (!tempOptions.includes(lead.temperature)) {
+          lead.temperature = 'Warm';
+        }
+
+        leads.push(lead);
+        imported++;
+      });
+
+      if (imported > 0) {
+        if (await saveLeadsToGitHub()) {
+          await syncToTeamDashboard();
+          renderView();
+          alert(`Successfully imported ${imported} leads!${skipped > 0 ? ` (${skipped} skipped - duplicates or missing names)` : ''}`);
+          closeImportModal();
+        } else {
+          alert('Failed to save imported leads');
+        }
+      } else {
+        alert(`No leads imported. ${skipped} rows were skipped (duplicates or missing names).`);
+      }
+    }
   </script>
 
   <!-- Scripts Modal -->
@@ -2027,6 +2284,29 @@
       </div>
       <div class="modal-footer">
         <button onclick="closeScriptsModal()" class="button button-secondary">Close</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- CSV Import Modal -->
+  <div id="import-modal" class="modal-overlay hidden" onclick="if(event.target.id === 'import-modal') closeImportModal()">
+    <div class="modal" style="max-width: 800px; max-height: 90vh;">
+      <div class="modal-header">
+        <h3 style="margin: 0;">Import Leads from CSV</h3>
+        <button onclick="closeImportModal()" class="button button-secondary" style="padding: 6px 12px;">✕</button>
+      </div>
+      <div class="modal-body" style="overflow-y: auto; max-height: 70vh;">
+        <div style="margin-bottom: 20px;">
+          <label class="form-label">Select CSV File</label>
+          <input type="file" id="import-csv-input" accept=".csv" onchange="handleCSVFileSelect(event)" style="display: block; margin-top: 8px; padding: 8px; border: 2px dashed var(--gray-300); border-radius: 8px; width: 100%; cursor: pointer;">
+          <p style="color: var(--gray-500); font-size: 13px; margin-top: 8px;">CSV should have a header row with column names. Common columns: Name, Email, Phone, Social, Source, Status, Temperature</p>
+        </div>
+        <div id="import-mapping"></div>
+        <div id="import-preview"></div>
+      </div>
+      <div class="modal-footer">
+        <button onclick="closeImportModal()" class="button button-secondary">Cancel</button>
+        <button onclick="importLeadsFromCSV()" class="button button-primary">Import Leads</button>
       </div>
     </div>
   </div>
