@@ -15238,7 +15238,25 @@
       "lastModified": "2026-06-28",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:13:29.203Z"
+    },
+    {
+      "id": "mqycitwm2wvlgpzwqz7",
+      "name": "Jeff OMalley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.omalley.988",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-28",
+      "nextFollowUp": "2026-07-01",
+      "notes": "",
+      "lastModified": "2026-06-28",
+      "dateAdded": "2026-06-28",
+      "addedAt": "2026-06-28T22:13:54.790Z"
     }
   ],
-  "lastUpdated": "2026-06-28T22:13:29.203Z"
+  "lastUpdated": "2026-06-28T22:13:54.790Z"
 }
