@@ -10346,14 +10346,14 @@
       "phone": "",
       "social": "https://www.facebook.com/thomas.schuler.9659",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-25",
-      "nextFollowUp": "2026-06-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-25",
+      "lastModified": "2026-06-28",
       "dateAdded": "2026-06-13",
       "addedAt": "2026-06-14T02:37:40.697Z"
     },
@@ -14826,5 +14826,5 @@
       "addedAt": "2026-06-25T00:43:28.366Z"
     }
   ],
-  "lastUpdated": "2026-06-28T16:18:48.753Z"
+  "lastUpdated": "2026-06-28T16:19:21.164Z"
 }
