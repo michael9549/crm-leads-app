@@ -15436,7 +15436,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:32:25.690Z"
+    },
+    {
+      "id": "mqzdn06nb8j2s0rwdfk",
+      "name": "Judith Bonhomme",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jb.coaching.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:32:55.343Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:32:25.690Z"
+  "lastUpdated": "2026-06-29T15:32:55.343Z"
 }
