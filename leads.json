@@ -12003,14 +12003,14 @@
       "phone": "",
       "social": "https://www.facebook.com/justin.malakou.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-06-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-06-29",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T22:04:30.599Z"
     },
@@ -15294,5 +15294,5 @@
       "addedAt": "2026-06-28T22:15:06.230Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:15:17.767Z"
+  "lastUpdated": "2026-06-29T15:16:04.250Z"
 }
