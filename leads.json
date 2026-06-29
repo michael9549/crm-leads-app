@@ -15616,7 +15616,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:39:02.821Z"
+    },
+    {
+      "id": "mqzdvguraljdrsmruun",
+      "name": "Dan Baker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dan.baker.481433",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:39:30.195Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:39:02.821Z"
+  "lastUpdated": "2026-06-29T15:39:30.195Z"
 }
