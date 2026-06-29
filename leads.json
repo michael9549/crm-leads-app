@@ -15562,7 +15562,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:37:22.012Z"
+    },
+    {
+      "id": "mqzdtdap8gylu3kxr1",
+      "name": "Shannon Bennett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shannon.bennett.775",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:37:52.273Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:37:22.012Z"
+  "lastUpdated": "2026-06-29T15:37:52.273Z"
 }
