@@ -15580,7 +15580,25 @@
       "lastModified": "2026-06-29",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:37:52.273Z"
+    },
+    {
+      "id": "mqzdu628pkun1qjanhg",
+      "name": "Steve Mernick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/steve.mernick.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-29",
+      "nextFollowUp": "2026-07-02",
+      "notes": "",
+      "lastModified": "2026-06-29",
+      "dateAdded": "2026-06-29",
+      "addedAt": "2026-06-29T15:38:29.552Z"
     }
   ],
-  "lastUpdated": "2026-06-29T15:37:52.273Z"
+  "lastUpdated": "2026-06-29T15:38:29.552Z"
 }
