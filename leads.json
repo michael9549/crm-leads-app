@@ -15922,7 +15922,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T16:06:40.467Z"
+    },
+    {
+      "id": "mr0ubq8nnbjog5ze4tk",
+      "name": "Dick Nicholas",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dicknicholas.nicholas",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T16:07:48.887Z"
     }
   ],
-  "lastUpdated": "2026-06-30T16:06:40.467Z"
+  "lastUpdated": "2026-06-30T16:07:48.887Z"
 }
