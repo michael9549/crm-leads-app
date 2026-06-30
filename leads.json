@@ -15881,12 +15881,12 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-30",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-07-03",
       "notes": "",
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T16:04:16.410Z"
     }
   ],
-  "lastUpdated": "2026-06-30T16:04:16.410Z"
+  "lastUpdated": "2026-06-30T16:04:24.842Z"
 }
