@@ -12579,14 +12579,14 @@
       "phone": "",
       "social": "https://www.facebook.com/will.vai.52",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-27",
-      "nextFollowUp": "2026-06-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-27",
+      "lastModified": "2026-06-30",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:39:10.709Z"
     },
@@ -15636,5 +15636,5 @@
       "addedAt": "2026-06-29T15:39:30.195Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:17:10.455Z"
+  "lastUpdated": "2026-06-30T15:17:44.192Z"
 }
