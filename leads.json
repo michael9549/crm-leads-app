@@ -15760,7 +15760,25 @@
       "lastModified": "2026-06-30",
       "dateAdded": "2026-06-30",
       "addedAt": "2026-06-30T15:50:18.322Z"
+    },
+    {
+      "id": "mr0tv9owzb2qokejs1b",
+      "name": "Joe Ortiz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joe.ortiz.39373",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-06-30",
+      "nextFollowUp": "2026-07-03",
+      "notes": "",
+      "lastModified": "2026-06-30",
+      "dateAdded": "2026-06-30",
+      "addedAt": "2026-06-30T15:55:00.944Z"
     }
   ],
-  "lastUpdated": "2026-06-30T15:50:18.322Z"
+  "lastUpdated": "2026-06-30T15:55:00.944Z"
 }
