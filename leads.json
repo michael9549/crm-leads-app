@@ -16264,7 +16264,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:43:08.395Z"
+    },
+    {
+      "id": "mr2wh7rooxdh2xs1fz",
+      "name": "Rob Kerin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robkerinnewyork",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T02:43:36.468Z"
     }
   ],
-  "lastUpdated": "2026-07-02T02:43:08.395Z"
+  "lastUpdated": "2026-07-02T02:43:36.468Z"
 }
