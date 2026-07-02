@@ -16156,7 +16156,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:37:49.287Z"
+    },
+    {
+      "id": "mr2wbypufsq306jo0g",
+      "name": "Bernhard Abrahamsen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bernhard.abrahamsen.73",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T02:39:31.458Z"
     }
   ],
-  "lastUpdated": "2026-07-02T02:37:49.287Z"
+  "lastUpdated": "2026-07-02T02:39:31.458Z"
 }
