@@ -16102,7 +16102,25 @@
       "lastModified": "2026-07-01",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:35:44.443Z"
+    },
+    {
+      "id": "mr2w866iqd54n2fkbu",
+      "name": "Wayne Viet",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/wayne.spain.35",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-01",
+      "nextFollowUp": "2026-07-04",
+      "notes": "",
+      "lastModified": "2026-07-01",
+      "dateAdded": "2026-07-01",
+      "addedAt": "2026-07-02T02:36:34.506Z"
     }
   ],
-  "lastUpdated": "2026-07-02T02:35:44.443Z"
+  "lastUpdated": "2026-07-02T02:36:34.506Z"
 }
