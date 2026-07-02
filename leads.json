@@ -14398,14 +14398,14 @@
       "phone": "",
       "social": "https://www.facebook.com/virgil.thomas.12720",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-02",
       "dateAdded": "2026-06-23",
       "addedAt": "2026-06-23T19:03:54.303Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-02T21:19:40.986Z"
+  "lastUpdated": "2026-07-02T21:20:08.755Z"
 }
