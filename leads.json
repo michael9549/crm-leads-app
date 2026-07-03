@@ -14742,14 +14742,14 @@
       "phone": "",
       "social": "https://www.facebook.com/ashton.moore.3323",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:41:29.308Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-03T13:35:08.007Z"
+  "lastUpdated": "2026-07-03T13:35:40.285Z"
 }
