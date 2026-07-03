@@ -14525,14 +14525,14 @@
       "phone": "",
       "social": "https://www.facebook.com/allan.jimenez.7121614",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:15:37.284Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-03T13:43:00.243Z"
+  "lastUpdated": "2026-07-03T13:43:26.159Z"
 }
