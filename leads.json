@@ -11553,14 +11553,14 @@
       "phone": "",
       "social": "https://www.facebook.com/hectorgutierrezaz",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Nurture",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-03",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-08-02",
       "notes": "",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-15",
       "addedAt": "2026-06-16T01:35:50.588Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-03T13:43:53.123Z"
+  "lastUpdated": "2026-07-03T13:44:22.964Z"
 }
