@@ -14579,14 +14579,14 @@
       "phone": "",
       "social": "https://www.facebook.com/uwdamien.sargeant",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-03",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:17:23.577Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-03T13:42:01.961Z"
+  "lastUpdated": "2026-07-03T13:42:34.091Z"
 }
