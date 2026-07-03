@@ -14760,14 +14760,14 @@
       "phone": "",
       "social": "https://www.facebook.com/richardj.pasini.5",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-30",
-      "nextFollowUp": "2026-07-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-30",
+      "lastModified": "2026-07-03",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-25T00:41:58.661Z"
     },
@@ -16320,5 +16320,5 @@
       "addedAt": "2026-07-02T02:44:42.484Z"
     }
   ],
-  "lastUpdated": "2026-07-03T13:34:26.406Z"
+  "lastUpdated": "2026-07-03T13:35:08.007Z"
 }
