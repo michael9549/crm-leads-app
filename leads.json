@@ -16822,7 +16822,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:48:53.186Z"
+    },
+    {
+      "id": "mr5rkchdqzgc6lgi76p",
+      "name": "Abhishek Sawant",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sawantpreneur",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:48:53.186Z"
+  "lastUpdated": "2026-07-04T02:49:22.993Z"
 }
