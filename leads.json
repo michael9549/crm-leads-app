@@ -16408,7 +16408,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:32:29.089Z"
+    },
+    {
+      "id": "mr5qza1it7fkbdu0ax",
+      "name": "Ken Jensen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kenjensensmith",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:33:00.054Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:32:29.089Z"
+  "lastUpdated": "2026-07-04T02:33:00.054Z"
 }
