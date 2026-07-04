@@ -16480,7 +16480,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:34:25.190Z"
+    },
+    {
+      "id": "mr5r44d3tx7j2is5tql",
+      "name": "Keara Nikole",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/keara.nikole2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:36:45.975Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:34:25.190Z"
+  "lastUpdated": "2026-07-04T02:36:45.975Z"
 }
