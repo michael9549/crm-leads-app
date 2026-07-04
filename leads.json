@@ -16390,7 +16390,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:32:00.293Z"
+    },
+    {
+      "id": "mr5qym5dqkfxiqeip9l",
+      "name": "Lee Roi",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lee.roi.184",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:32:29.089Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:32:00.293Z"
+  "lastUpdated": "2026-07-04T02:32:29.089Z"
 }
