@@ -16146,14 +16146,14 @@
       "phone": "",
       "social": "https://www.facebook.com/paula.szareek",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:37:49.287Z"
     },
@@ -16842,5 +16842,5 @@
       "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:20:03.795Z"
+  "lastUpdated": "2026-07-04T14:20:20.449Z"
 }
