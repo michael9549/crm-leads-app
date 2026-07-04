@@ -16858,7 +16858,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T14:51:12.193Z"
+    },
+    {
+      "id": "mr6hdaokger9yzjvfd",
+      "name": "Sifu Rafael",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/SifuRafaelG",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T14:51:44.084Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:51:12.193Z"
+  "lastUpdated": "2026-07-04T14:51:44.084Z"
 }
