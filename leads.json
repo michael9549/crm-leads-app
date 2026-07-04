@@ -16426,7 +16426,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:33:00.054Z"
+    },
+    {
+      "id": "mr5qzvnym9q8fambyc",
+      "name": "Issac Ben Avram",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/realme.benavram",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:33:28.078Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:33:00.054Z"
+  "lastUpdated": "2026-07-04T02:33:28.078Z"
 }
