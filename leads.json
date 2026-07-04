@@ -16002,14 +16002,14 @@
       "phone": "",
       "social": "https://www.facebook.com/miguelav1983",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-04",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:29:20.479Z"
     },
@@ -16842,5 +16842,5 @@
       "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:23:47.405Z"
+  "lastUpdated": "2026-07-04T14:24:19.624Z"
 }
