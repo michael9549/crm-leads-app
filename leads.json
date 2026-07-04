@@ -16372,7 +16372,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:31:13.318Z"
+    },
+    {
+      "id": "mr5qxzxhu8z8nfvdafj",
+      "name": "Cade Mensing",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cade.mensing",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:32:00.293Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:31:13.318Z"
+  "lastUpdated": "2026-07-04T02:32:00.293Z"
 }
