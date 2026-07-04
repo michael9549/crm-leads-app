@@ -13173,14 +13173,14 @@
       "phone": "",
       "social": "https://www.facebook.com/craig.norman.940641",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-06-19",
       "addedAt": "2026-06-20T00:56:42.749Z"
     },
@@ -16842,5 +16842,5 @@
       "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:48:59.180Z"
+  "lastUpdated": "2026-07-04T14:49:16.452Z"
 }
