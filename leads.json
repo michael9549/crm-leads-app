@@ -16660,7 +16660,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:41:17.132Z"
+    },
+    {
+      "id": "mr5rdy0pnfaarabfsjs",
+      "name": "Sebastien Charbonneaux",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charbonneaux.sebastien",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:44:24.313Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:41:17.132Z"
+  "lastUpdated": "2026-07-04T02:44:24.313Z"
 }
