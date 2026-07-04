@@ -16642,7 +16642,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:40:49.237Z"
+    },
+    {
+      "id": "mr5r9xl8aogqeoz4kxi",
+      "name": "Cody Johnson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cody.johnson.742888",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:41:17.132Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:40:49.237Z"
+  "lastUpdated": "2026-07-04T02:41:17.132Z"
 }
