@@ -16318,7 +16318,25 @@
       "lastModified": "2026-07-02",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:44:42.484Z"
+    },
+    {
+      "id": "mr5qv0y6bwevs8mwqel",
+      "name": "Andrew Barker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/AndrewS1975",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:29:41.646Z"
     }
   ],
-  "lastUpdated": "2026-07-03T13:46:32.619Z"
+  "lastUpdated": "2026-07-04T02:29:41.646Z"
 }
