@@ -17110,7 +17110,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T15:02:40.629Z"
+    },
+    {
+      "id": "mr6hrxj460muz1nusqa",
+      "name": "Jeremy Newman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rick.roll.92123015",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-04T15:03:06.880Z"
     }
   ],
-  "lastUpdated": "2026-07-04T15:02:40.629Z"
+  "lastUpdated": "2026-07-04T15:03:06.880Z"
 }
