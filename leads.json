@@ -16498,7 +16498,25 @@
       "lastModified": "2026-07-03",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:36:45.975Z"
+    },
+    {
+      "id": "mr5r4scm8xyi4fglkvg",
+      "name": "Murray Lowe",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/murray.lowe.60",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-03",
+      "nextFollowUp": "2026-07-06",
+      "notes": "",
+      "lastModified": "2026-07-03",
+      "dateAdded": "2026-07-03",
+      "addedAt": "2026-07-04T02:37:17.062Z"
     }
   ],
-  "lastUpdated": "2026-07-04T02:36:45.975Z"
+  "lastUpdated": "2026-07-04T02:37:17.062Z"
 }
