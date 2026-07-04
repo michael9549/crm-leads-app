@@ -14958,14 +14958,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dustin.jones.39169",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-06-28",
       "addedAt": "2026-06-28T22:04:41.707Z"
     },
@@ -16842,5 +16842,5 @@
       "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:42:42.084Z"
+  "lastUpdated": "2026-07-04T14:43:09.167Z"
 }
