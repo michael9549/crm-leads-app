@@ -16020,14 +16020,14 @@
       "phone": "",
       "social": "https://www.facebook.com/charles.dukes.756",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-01",
-      "nextFollowUp": "2026-07-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-01",
+      "lastModified": "2026-07-04",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:30:09.769Z"
     },
@@ -16842,5 +16842,5 @@
       "addedAt": "2026-07-04T02:49:22.993Z"
     }
   ],
-  "lastUpdated": "2026-07-04T14:23:22.729Z"
+  "lastUpdated": "2026-07-04T14:23:47.405Z"
 }
