@@ -17416,7 +17416,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T19:00:39.606Z"
+    },
+    {
+      "id": "mr85q4w4h0zxujbi4g5",
+      "name": "John Thompson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.thompson.49694",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T19:01:20.068Z"
     }
   ],
-  "lastUpdated": "2026-07-05T19:00:39.607Z"
+  "lastUpdated": "2026-07-05T19:01:20.068Z"
 }
