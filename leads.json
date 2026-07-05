@@ -17326,7 +17326,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T18:55:35.071Z"
+    },
+    {
+      "id": "mr85jfmg3plutejwcii",
+      "name": "Josh Thornton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100078618292594",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T18:56:07.384Z"
     }
   ],
-  "lastUpdated": "2026-07-05T18:55:35.071Z"
+  "lastUpdated": "2026-07-05T18:56:07.384Z"
 }
