@@ -17272,7 +17272,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-05T03:34:10.701Z"
+    },
+    {
+      "id": "mr78me6kbqptg3wbhnv",
+      "name": "Cindi Knappen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cindilionlambrei",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-05T03:34:38.156Z"
     }
   ],
-  "lastUpdated": "2026-07-05T03:34:10.701Z"
+  "lastUpdated": "2026-07-05T03:34:38.156Z"
 }
