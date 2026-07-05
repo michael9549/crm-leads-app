@@ -5413,10 +5413,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-05",
-      "nextFollowUp": "2026-07-05",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-08-04",
       "notes": "Health issues, check back in a month",
-      "lastModified": "2026-06-05",
+      "lastModified": "2026-07-05",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:23:24.850Z"
     },
@@ -17292,5 +17292,5 @@
       "addedAt": "2026-07-05T03:34:38.156Z"
     }
   ],
-  "lastUpdated": "2026-07-05T17:45:50.366Z"
+  "lastUpdated": "2026-07-05T18:47:33.972Z"
 }
