@@ -17146,7 +17146,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T15:03:35.776Z"
+    },
+    {
+      "id": "mr78hk62h98ietlq52h",
+      "name": "Adrian Locklear",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/adrian.locklear.219403",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-05T03:30:52.634Z"
     }
   ],
-  "lastUpdated": "2026-07-04T15:03:35.776Z"
+  "lastUpdated": "2026-07-05T03:30:52.634Z"
 }
