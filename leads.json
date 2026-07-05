@@ -17398,7 +17398,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T18:59:05.676Z"
+    },
+    {
+      "id": "mr85p9o6ur588f0mmvg",
+      "name": "Simone Harlow",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DameSimoneHarlow",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T19:00:39.606Z"
     }
   ],
-  "lastUpdated": "2026-07-05T18:59:05.676Z"
+  "lastUpdated": "2026-07-05T19:00:39.607Z"
 }
