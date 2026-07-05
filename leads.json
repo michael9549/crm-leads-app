@@ -17164,7 +17164,25 @@
       "lastModified": "2026-07-04",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-05T03:30:52.634Z"
+    },
+    {
+      "id": "mr78i8umws3x8wc1f6a",
+      "name": "Marc Lazarre",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/MarcLazarre1982",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-04",
+      "nextFollowUp": "2026-07-07",
+      "notes": "",
+      "lastModified": "2026-07-04",
+      "dateAdded": "2026-07-04",
+      "addedAt": "2026-07-05T03:31:24.622Z"
     }
   ],
-  "lastUpdated": "2026-07-05T03:30:52.634Z"
+  "lastUpdated": "2026-07-05T03:31:24.622Z"
 }
