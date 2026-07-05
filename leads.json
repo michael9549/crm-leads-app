@@ -17506,7 +17506,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T20:28:21.565Z"
+    },
+    {
+      "id": "mr88uwgdo5whnxpg8n8",
+      "name": "Texas Medley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/justintexas.medley.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T20:29:01.261Z"
     }
   ],
-  "lastUpdated": "2026-07-05T20:28:21.565Z"
+  "lastUpdated": "2026-07-05T20:29:01.261Z"
 }
