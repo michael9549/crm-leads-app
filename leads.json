@@ -17380,7 +17380,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T18:57:32.628Z"
+    },
+    {
+      "id": "mr85n970blgtvw6feki",
+      "name": "Jared M. Shearman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jared.m.shearman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T18:59:05.676Z"
     }
   ],
-  "lastUpdated": "2026-07-05T18:57:32.628Z"
+  "lastUpdated": "2026-07-05T18:59:05.676Z"
 }
