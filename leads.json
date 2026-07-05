@@ -17362,7 +17362,25 @@
       "lastModified": "2026-07-05",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T18:56:41.527Z"
+    },
+    {
+      "id": "mr85l9ecwzt079dg81c",
+      "name": "TexasBill Pace",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Texas.BiLL.Pace",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-05",
+      "nextFollowUp": "2026-07-08",
+      "notes": "",
+      "lastModified": "2026-07-05",
+      "dateAdded": "2026-07-05",
+      "addedAt": "2026-07-05T18:57:32.628Z"
     }
   ],
-  "lastUpdated": "2026-07-05T18:56:41.527Z"
+  "lastUpdated": "2026-07-05T18:57:32.628Z"
 }
