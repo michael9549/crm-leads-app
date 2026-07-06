@@ -17920,7 +17920,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T19:02:56.421Z"
+    },
+    {
+      "id": "mr9l9zoua20txktlq19",
+      "name": "Eric Blackmon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.blackmon.996421",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T19:04:26.862Z"
     }
   ],
-  "lastUpdated": "2026-07-06T19:02:56.421Z"
+  "lastUpdated": "2026-07-06T19:04:26.862Z"
 }
