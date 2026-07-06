@@ -1954,10 +1954,10 @@
       "status": "Customer",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-04",
-      "nextFollowUp": "2026-07-06",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-13",
       "notes": "",
-      "lastModified": "2026-07-04",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T13:06:13.325Z",
       "videoSent": false,
@@ -17580,5 +17580,5 @@
       "addedAt": "2026-07-05T20:30:29.873Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:48:16.968Z"
+  "lastUpdated": "2026-07-06T18:48:24.508Z"
 }
