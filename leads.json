@@ -16812,14 +16812,14 @@
       "phone": "",
       "social": "https://www.facebook.com/rashidh.hill",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-07-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-03",
+      "lastModified": "2026-07-06",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:48:53.186Z"
     },
@@ -17580,5 +17580,5 @@
       "addedAt": "2026-07-05T20:30:29.873Z"
     }
   ],
-  "lastUpdated": "2026-07-06T17:43:21.810Z"
+  "lastUpdated": "2026-07-06T17:44:02.172Z"
 }
