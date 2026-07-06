@@ -17704,7 +17704,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T18:53:54.130Z"
+    },
+    {
+      "id": "mr9kx3daxt31lv6wmdl",
+      "name": "Domenica Zoccoli",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/domenica.livegood",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T18:54:25.102Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:53:54.130Z"
+  "lastUpdated": "2026-07-06T18:54:25.102Z"
 }
