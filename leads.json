@@ -17632,7 +17632,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T18:51:05.900Z"
+    },
+    {
+      "id": "mr9ktuzv5ksvvwckdnx",
+      "name": "Francois Bourdeau",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/francois.bourdeau.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T18:51:54.283Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:51:05.900Z"
+  "lastUpdated": "2026-07-06T18:51:54.283Z"
 }
