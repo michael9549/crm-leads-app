@@ -17866,7 +17866,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T19:01:19.465Z"
+    },
+    {
+      "id": "mr9l6q4lw3xvvi93eh",
+      "name": "Josh Middleton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DFTRJos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T19:01:54.501Z"
     }
   ],
-  "lastUpdated": "2026-07-06T19:01:19.465Z"
+  "lastUpdated": "2026-07-06T19:01:54.501Z"
 }
