@@ -17794,7 +17794,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T18:57:39.090Z"
+    },
+    {
+      "id": "mr9l3ajv7mu0635wjlh",
+      "name": "Rich Dunn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rich.dunn.556388",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T18:59:14.347Z"
     }
   ],
-  "lastUpdated": "2026-07-06T18:57:39.090Z"
+  "lastUpdated": "2026-07-06T18:59:14.347Z"
 }
