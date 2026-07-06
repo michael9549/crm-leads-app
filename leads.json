@@ -17884,7 +17884,25 @@
       "lastModified": "2026-07-06",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T19:01:54.501Z"
+    },
+    {
+      "id": "mr9l7ej94hrll0mcfuv",
+      "name": "Lea Laverne",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/1Lealaverne",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-06",
+      "nextFollowUp": "2026-07-09",
+      "notes": "",
+      "lastModified": "2026-07-06",
+      "dateAdded": "2026-07-06",
+      "addedAt": "2026-07-06T19:02:26.133Z"
     }
   ],
-  "lastUpdated": "2026-07-06T19:01:54.501Z"
+  "lastUpdated": "2026-07-06T19:02:26.133Z"
 }
