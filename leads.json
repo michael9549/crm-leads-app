@@ -17280,14 +17280,14 @@
       "phone": "",
       "social": "https://www.facebook.com/cindilionlambrei",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-04",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-04",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-05T03:34:38.156Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-06T19:07:15.768Z"
+  "lastUpdated": "2026-07-07T23:56:24.835Z"
 }
