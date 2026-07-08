@@ -15408,14 +15408,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jordan.smith.170238",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-05",
-      "nextFollowUp": "2026-07-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-05",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:31:34.135Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:33:57.197Z"
+  "lastUpdated": "2026-07-08T17:35:04.906Z"
 }
