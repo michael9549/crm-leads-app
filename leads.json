@@ -16902,14 +16902,14 @@
       "phone": "",
       "social": "https://www.facebook.com/serah.mathews.58",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-04",
-      "nextFollowUp": "2026-07-07",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-04",
+      "lastModified": "2026-07-07",
       "dateAdded": "2026-07-04",
       "addedAt": "2026-07-04T14:52:50.277Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T00:13:36.328Z"
+  "lastUpdated": "2026-07-08T00:14:00.042Z"
 }
