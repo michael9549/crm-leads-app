@@ -18101,7 +18101,25 @@
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T18:04:00.231Z"
+    },
+    {
+      "id": "mrce178m77k4fe0ncwl",
+      "name": "Aaron Lee Youtsey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ayoutsey",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T18:04:57.958Z"
     }
   ],
-  "lastUpdated": "2026-07-08T18:04:00.231Z"
+  "lastUpdated": "2026-07-08T18:04:57.958Z"
 }
