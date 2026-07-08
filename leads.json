@@ -18029,7 +18029,25 @@
       "lastModified": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T17:59:58.260Z"
+    },
+    {
+      "id": "mrcdvwc9ikry3wczm7g",
+      "name": "Luis Guzman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/luis.guzman.365657",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-08",
+      "nextFollowUp": "2026-07-11",
+      "notes": "",
+      "lastModified": "2026-07-08",
+      "dateAdded": "2026-07-08",
+      "addedAt": "2026-07-08T18:00:50.553Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:59:58.260Z"
+  "lastUpdated": "2026-07-08T18:00:50.553Z"
 }
