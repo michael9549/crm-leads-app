@@ -2618,14 +2618,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shayla.girard.1",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-05",
-      "nextFollowUp": "2026-07-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-05",
+      "lastModified": "2026-07-08",
       "dateAdded": "2026-05-27",
       "addedAt": "2026-05-28T02:26:26.642Z"
     },
@@ -17959,5 +17959,5 @@
       "addedAt": "2026-07-06T19:07:15.768Z"
     }
   ],
-  "lastUpdated": "2026-07-08T17:39:06.221Z"
+  "lastUpdated": "2026-07-08T17:39:32.497Z"
 }
