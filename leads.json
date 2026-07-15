@@ -17730,14 +17730,14 @@
       "phone": "",
       "social": "https://www.facebook.com/patrick.herran.coach",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-06",
-      "nextFollowUp": "2026-07-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-06",
+      "lastModified": "2026-07-14",
       "dateAdded": "2026-07-06",
       "addedAt": "2026-07-06T18:54:53.063Z"
     },
@@ -18159,5 +18159,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-15T00:22:10.150Z"
+  "lastUpdated": "2026-07-15T00:25:02.554Z"
 }
