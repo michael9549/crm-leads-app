@@ -1009,7 +1009,14 @@
     function renderLeadsTable() {
       let filtered = getFilteredLeads();
       
-      if (sortMode === 'followup') {
+      if (currentView === 'followups') {
+        // Follow-ups tab: sort by nextFollowUp ascending (oldest first), nulls last
+        filtered.sort((a, b) => {
+          const aDate = a.nextFollowUp ? new Date(a.nextFollowUp).getTime() : Infinity;
+          const bDate = b.nextFollowUp ? new Date(b.nextFollowUp).getTime() : Infinity;
+          return aDate - bDate;
+        });
+      } else if (sortMode === 'followup') {
         // Sort by nextFollowUp ascending (soonest first), nulls last
         filtered.sort((a, b) => {
           const aDate = a.nextFollowUp ? new Date(a.nextFollowUp).getTime() : Infinity;
