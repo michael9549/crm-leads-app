@@ -6280,7 +6280,7 @@
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-16",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-07-16",
       "notes": "",
       "lastModified": "2026-07-17",
       "dateAdded": "2026-06-04",
@@ -6996,14 +6996,14 @@
       "phone": "",
       "social": "https://www.facebook.com/bebout",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-17",
-      "nextFollowUp": "2026-07-17",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-17",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-06T00:57:44.881Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-17T22:49:56.725Z"
+  "lastUpdated": "2026-07-17T22:50:06.752Z"
 }
