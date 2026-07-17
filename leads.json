@@ -6293,14 +6293,14 @@
       "phone": "",
       "social": "https://www.facebook.com/paul.andrews.501",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-16",
-      "nextFollowUp": "2026-07-16",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-16",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:59:27.740Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-17T22:50:15.019Z"
+  "lastUpdated": "2026-07-17T22:50:47.285Z"
 }
