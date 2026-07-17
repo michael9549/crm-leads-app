@@ -4401,14 +4401,14 @@
       "phone": "",
       "social": "https://www.facebook.com/cordtztuatoo",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-06-12",
-      "nextFollowUp": "2026-07-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-12",
+      "lastModified": "2026-07-17",
       "dateAdded": "2026-05-31",
       "addedAt": "2026-05-31T23:09:28.327Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-17T22:46:01.136Z"
+  "lastUpdated": "2026-07-17T22:46:20.880Z"
 }
