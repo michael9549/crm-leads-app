@@ -6239,14 +6239,14 @@
       "phone": "",
       "social": "https://www.facebook.com/michael.ballard.3557",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 1",
       "lastContact": "2026-06-18",
-      "nextFollowUp": "2026-07-18",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-18",
+      "lastModified": "2026-07-18",
       "dateAdded": "2026-06-04",
       "addedAt": "2026-06-04T20:56:41.905Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-18T17:54:54.679Z"
+  "lastUpdated": "2026-07-18T17:55:00.795Z"
 }
