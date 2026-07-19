@@ -16128,14 +16128,14 @@
       "phone": "",
       "social": "https://www.facebook.com/empoweringdreamerstosoar",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-07",
-      "nextFollowUp": "2026-07-10",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-07",
+      "lastModified": "2026-07-19",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:37:17.467Z"
     },
@@ -18161,5 +18161,5 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     }
   ],
-  "lastUpdated": "2026-07-19T14:48:37.499Z"
+  "lastUpdated": "2026-07-19T14:58:46.449Z"
 }
