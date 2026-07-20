@@ -1657,7 +1657,7 @@
         }
         
         // Save to GitHub
-        const content = btoa(unescape(encodeURIComponent(JSON.stringify({ scripts, lastUpdated: new Date().toISOString() }, null, 2)));
+        const content = btoa(unescape(encodeURIComponent(JSON.stringify({ scripts, lastUpdated: new Date().toISOString() }, null, 2))));
         
         // Check if scripts.json already exists
         let sha = '';
