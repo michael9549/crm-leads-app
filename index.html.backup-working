@@ -1637,78 +1637,6 @@
     function saveScripts() {
       localStorage.setItem('messageScripts', JSON.stringify(messageScripts));
     }
-    // Transfer scripts from localStorage to GitHub
-    async function transferScriptsToGitHub() {
-      try {
-        const savedScripts = localStorage.getItem('messageScripts');
-        if (!savedScripts) {
-          alert('No scripts found in localStorage');
-          return;
-        }
-        
-        const scripts = JSON.parse(savedScripts);
-        if (!scripts || scripts.length === 0) {
-          alert('No scripts to transfer');
-          return;
-        }
-        
-        if (!confirm(`Transfer ${scripts.length} scripts to GitHub?`)) {
-          return;
-        }
-        
-        // Save to GitHub
-        const content = btoa(JSON.stringify({ scripts, lastUpdated: new Date().toISOString() }, null, 2));
-        
-        // Check if scripts.json already exists
-        let sha = '';
-        try {
-          const response = await fetch(
-            `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/scripts.json`,
-            {
-              headers: {
-                'Authorization': `token ${GITHUB_TOKEN}`,
-                'Accept': 'application/vnd.github.v3+json'
-              }
-            }
-          );
-          if (response.ok) {
-            const data = await response.json();
-            sha = data.sha;
-          }
-        } catch (e) {
-          // File doesn't exist yet
-        }
-        
-        const response = await fetch(
-          `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/scripts.json`,
-          {
-            method: 'PUT',
-            headers: {
-              'Authorization': `token ${GITHUB_TOKEN}`,
-              'Accept': 'application/vnd.github.v3+json',
-              'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({
-              message: 'Transfer scripts from localStorage to GitHub',
-              content,
-              sha: sha || undefined
-            })
-          }
-        );
-        
-        if (response.ok) {
-          alert(`✅ Successfully transferred ${scripts.length} scripts to GitHub!`);
-          console.log('Scripts transferred to GitHub');
-        } else {
-          const error = await response.text();
-          console.error('Transfer failed:', error);
-          alert('Transfer failed: ' + error);
-        }
-      } catch (error) {
-        console.error('Transfer error:', error);
-        alert('Transfer error: ' + error.message);
-      }
-    }
 
     function openScriptsModal(leadId) {
       currentScriptLead = leads.find(l => l.id === leadId);
@@ -1924,7 +1852,6 @@
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
           <div>
             <h2 style="margin: 0;">Message Scripts Manager</h2>
-          <button onclick="transferScriptsToGitHub()" class="button button-success" style="font-size: 12px; padding: 6px 12px; margin-left: 10px;">⬆️ Transfer to GitHub</button>
             <p style="color: var(--gray-500); margin: 4px 0 0 0; font-size: 13px;">Drag the handle (⋮⋮) to reorder scripts within each category</p>
           </div>
           <button onclick="openAddScriptModal()" class="button button-primary">+ Add New Script</button>
