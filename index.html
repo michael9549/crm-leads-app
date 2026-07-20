@@ -901,7 +901,7 @@
 
     async function saveNoteSnippetsToGitHub() {
       try {
-        const content = btoa(JSON.stringify({ snippets: noteSnippets, lastUpdated: new Date().toISOString() }, null, 2));
+        const content = btoa(unescape(encodeURIComponent(JSON.stringify({ snippets: noteSnippets, lastUpdated: new Date().toISOString() }, null, 2));
         const response = await fetch(
           `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${SNIPPETS_FILE}`,
           {
@@ -1027,7 +1027,7 @@
       saveInProgress = true;
       lastSaveTime = now;
       try {
-        const content = btoa(JSON.stringify({ leads, lastUpdated: new Date().toISOString() }, null, 2));
+        const content = btoa(unescape(encodeURIComponent(JSON.stringify({ leads, lastUpdated: new Date().toISOString() }, null, 2));
         const response = await fetch(
           `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${LEADS_FILE}`,
           {
@@ -1657,7 +1657,7 @@
         }
         
         // Save to GitHub
-        const content = btoa(JSON.stringify({ scripts, lastUpdated: new Date().toISOString() }, null, 2));
+        const content = btoa(unescape(encodeURIComponent(JSON.stringify({ scripts, lastUpdated: new Date().toISOString() }, null, 2)));
         
         // Check if scripts.json already exists
         let sha = '';
