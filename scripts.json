@@ -155,10 +155,13 @@
       "category": "Follow-Up",
       "name": "Follow-Up #3",
       "content": "No worries at all {{firstName}}. I've got some people moving forward so I need to prioritize my time, but if timing changes later feel free to reach back out."
+    },
+    {
+      "id": "1784582651998",
+      "category": "Follow-Up",
+      "name": "Test Follow Up",
+      "content": "This is a test follow up script to see if this is saving to github"
     }
   ],
-  "lastUpdated": "2026-07-20T21:21:23.425Z",
-  "migratedFromLocalStorage": true,
-  "migrationCompletedAt": "2026-07-20T21:21:23.425Z",
-  "migrationSource": "browser localStorage"
+  "lastUpdated": "2026-07-20T21:24:11.998Z"
 }
