@@ -14597,14 +14597,14 @@
       "phone": "",
       "social": "https://www.facebook.com/kenny.le.542329",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-18",
-      "nextFollowUp": "2026-07-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-06-24",
       "addedAt": "2026-06-24T23:18:12.449Z"
     },
@@ -18467,5 +18467,5 @@
       "addedAt": "2026-07-21T01:41:09.883Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:07:33.451Z"
+  "lastUpdated": "2026-07-21T23:08:21.497Z"
 }
