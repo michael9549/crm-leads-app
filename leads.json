@@ -18609,7 +18609,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:33:04.093Z"
+    },
+    {
+      "id": "mrvalnpvyie3wnx790o",
+      "name": "Russell Condiff",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/russell.condiff",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:36:31.315Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:33:04.093Z"
+  "lastUpdated": "2026-07-21T23:36:31.315Z"
 }
