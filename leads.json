@@ -18537,7 +18537,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:26:47.955Z"
+    },
+    {
+      "id": "mrvace64n75z3sesy1j",
+      "name": "Mikis Shmalis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009733569258",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:29:19.036Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:26:47.955Z"
+  "lastUpdated": "2026-07-21T23:29:19.036Z"
 }
