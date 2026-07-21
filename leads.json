@@ -18573,7 +18573,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:30:46.187Z"
+    },
+    {
+      "id": "mrvafo8q7v0xebjon1x",
+      "name": "Mike Kuhn",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.kuhn.969",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-23",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:31:52.058Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:30:46.187Z"
+  "lastUpdated": "2026-07-21T23:31:52.058Z"
 }
