@@ -18519,7 +18519,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:26:15.191Z"
+    },
+    {
+      "id": "mrva95lfau3gllyvmsd",
+      "name": "Kris Logsdon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thekrislogsdon",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:26:47.955Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:26:15.191Z"
+  "lastUpdated": "2026-07-21T23:26:47.955Z"
 }
