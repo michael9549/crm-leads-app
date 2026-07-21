@@ -18681,7 +18681,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:38:43.771Z"
+    },
+    {
+      "id": "mrvapazqj55nzqoyykb",
+      "name": "Nate Kennedy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nate.kennedy.33430",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:39:21.446Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:38:43.771Z"
+  "lastUpdated": "2026-07-21T23:39:21.446Z"
 }
