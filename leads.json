@@ -16542,14 +16542,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dan.wallace.77736",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-18",
-      "nextFollowUp": "2026-07-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:38:14.645Z"
     },
@@ -18467,5 +18467,5 @@
       "addedAt": "2026-07-21T01:41:09.883Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:15:22.510Z"
+  "lastUpdated": "2026-07-21T23:15:51.126Z"
 }
