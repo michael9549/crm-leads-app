@@ -18267,7 +18267,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:32:50.396Z"
+    },
+    {
+      "id": "mrtzcam2r139xlyvdi",
+      "name": "Arve Hannevig",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/hannevigarve",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-23",
+      "notes": "AICEO ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-21T01:33:32.474Z"
     }
   ],
-  "lastUpdated": "2026-07-21T01:32:50.396Z"
+  "lastUpdated": "2026-07-21T01:33:32.474Z"
 }
