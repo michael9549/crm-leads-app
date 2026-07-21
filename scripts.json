@@ -166,7 +166,7 @@
       "id": "1784596541695",
       "category": "Initial Outreach",
       "name": "AI CEO",
-      "content": "Hey {{firstName}}, I know we don't know each other, but since we have some mutual friends, I thought I'd reach out.\n\nRandom question... do you ever feel like AI is moving so fast that you're getting left behind?\n\nI felt the same way. So I spent the last couple of years figuring it out. I ended up creating a free 5-video mini workshop that explains why I believe everyone will eventually have their own AI and how to get ahead of the curve.\n\nWould you be open to checking it out?"
+      "content": "Hey {{firstName}}, I know we don't know each other, but since we have some mutual friends, I thought I'd reach out.\n\nRandom question... do you ever feel like AI is moving so fast that you're getting left behind?\n\nI felt the same way. So I spent the last couple of years figuring it out. I ended up creating a free 5-video mini-workshop that explains why I believe everyone will eventually have their own AI Bot and how to get ahead of the curve.\n\nWould you be open to checking it out?"
     },
     {
       "id": "1784600336893",
@@ -175,5 +175,5 @@
       "content": "Hey {{firstName}}, Just wanted to circle back in case my message got buried. 😊\n\nWere you interested in checking out the free AI workshop on why everyone should have an AI Bot of their own?"
     }
   ],
-  "lastUpdated": "2026-07-21T02:18:56.893Z"
+  "lastUpdated": "2026-07-21T23:21:37.820Z"
 }
