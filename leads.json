@@ -18159,7 +18159,25 @@
       "customerSince": "2026-07-08",
       "dateAdded": "2026-07-08",
       "addedAt": "2026-07-08T20:53:26.301Z"
+    },
+    {
+      "id": "mrtz6z97umm20ftysbj",
+      "name": "Nick Pedrick",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/nick.pedrick.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-23",
+      "notes": "AICEO ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-21T01:29:24.475Z"
     }
   ],
-  "lastUpdated": "2026-07-20T14:08:29.340Z"
+  "lastUpdated": "2026-07-21T01:29:24.475Z"
 }
