@@ -18375,7 +18375,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:38:07.421Z"
+    },
+    {
+      "id": "mrtzixq826efnc6w44g",
+      "name": "Ty Travelbee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tytheinspectorguy25101",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-23",
+      "notes": "AICEO ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-21T01:38:42.368Z"
     }
   ],
-  "lastUpdated": "2026-07-21T01:38:07.421Z"
+  "lastUpdated": "2026-07-21T01:38:42.368Z"
 }
