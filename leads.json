@@ -18393,7 +18393,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:38:42.368Z"
+    },
+    {
+      "id": "mrtzjnqcz4n89wktvj",
+      "name": "Joe Redding",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/team.thrive.together",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-23",
+      "notes": "AICEO ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-21T01:39:16.068Z"
     }
   ],
-  "lastUpdated": "2026-07-21T01:38:42.368Z"
+  "lastUpdated": "2026-07-21T01:39:16.068Z"
 }
