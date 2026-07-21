@@ -18483,7 +18483,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:24:51.996Z"
+    },
+    {
+      "id": "mrva7ni6lvlrllgo9w",
+      "name": "Jaime Morales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/OfficialJaimeMorales",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:25:37.854Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:24:51.996Z"
+  "lastUpdated": "2026-07-21T23:25:37.854Z"
 }
