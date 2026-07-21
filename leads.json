@@ -18411,7 +18411,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:39:16.068Z"
+    },
+    {
+      "id": "mrtzkekv4bi24bmhk63",
+      "name": "Aric Young",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aric.young.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-23",
+      "notes": "AICEO ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-21T01:39:50.863Z"
     }
   ],
-  "lastUpdated": "2026-07-21T01:39:16.068Z"
+  "lastUpdated": "2026-07-21T01:39:50.863Z"
 }
