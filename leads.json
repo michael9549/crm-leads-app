@@ -18465,7 +18465,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:41:09.883Z"
+    },
+    {
+      "id": "mrva6o4cxoj2716btaa",
+      "name": "Tudor Stan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009898213864",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:24:51.996Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:20:01.281Z"
+  "lastUpdated": "2026-07-21T23:24:51.996Z"
 }
