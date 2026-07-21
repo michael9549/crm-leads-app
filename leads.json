@@ -18735,7 +18735,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:40:33.025Z"
+    },
+    {
+      "id": "mrvarjnx3j4ke0pstkl",
+      "name": "Parker Chmiel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009595040582",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:41:05.997Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:40:33.025Z"
+  "lastUpdated": "2026-07-21T23:41:05.997Z"
 }
