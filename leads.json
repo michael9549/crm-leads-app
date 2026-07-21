@@ -18249,7 +18249,25 @@
       "lastModified": "2026-07-20",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:32:20.048Z"
+    },
+    {
+      "id": "mrtzbe58y6kaztir3b",
+      "name": "Garrett Lloyd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/garrett.lloyd.904",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-20",
+      "nextFollowUp": "2026-07-23",
+      "notes": "AICEO ",
+      "lastModified": "2026-07-20",
+      "dateAdded": "2026-07-20",
+      "addedAt": "2026-07-21T01:32:50.396Z"
     }
   ],
-  "lastUpdated": "2026-07-21T01:32:20.048Z"
+  "lastUpdated": "2026-07-21T01:32:50.396Z"
 }
