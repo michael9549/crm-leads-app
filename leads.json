@@ -16668,14 +16668,14 @@
       "phone": "",
       "social": "https://www.facebook.com/charbonneaux.sebastien",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-18",
-      "nextFollowUp": "2026-07-21",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-18",
+      "lastModified": "2026-07-21",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:44:24.313Z"
     },
@@ -18467,5 +18467,5 @@
       "addedAt": "2026-07-21T01:41:09.883Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:18:34.981Z"
+  "lastUpdated": "2026-07-21T23:19:14.874Z"
 }
