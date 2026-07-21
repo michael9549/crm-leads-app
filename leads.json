@@ -18717,7 +18717,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:39:53.259Z"
+    },
+    {
+      "id": "mrvaqu81n62ilxzx1cn",
+      "name": "Paul Wiese",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/paul.wiese.50702",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:40:33.025Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:39:53.259Z"
+  "lastUpdated": "2026-07-21T23:40:33.025Z"
 }
