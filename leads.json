@@ -18591,7 +18591,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:31:52.058Z"
+    },
+    {
+      "id": "mrvah7tpdrayh1ic9k",
+      "name": "Carlton Darville Jr.",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carltondarvillejr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-21",
+      "nextFollowUp": "2026-07-24",
+      "notes": "",
+      "lastModified": "2026-07-21",
+      "dateAdded": "2026-07-21",
+      "addedAt": "2026-07-21T23:33:04.093Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:31:52.058Z"
+  "lastUpdated": "2026-07-21T23:33:04.093Z"
 }
