@@ -18753,7 +18753,25 @@
       "lastModified": "2026-07-21",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:41:05.997Z"
+    },
+    {
+      "id": "mrwha5quuj1czmaw2uo",
+      "name": "Angel Villanueva",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/angel.villanueva.903988",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-25",
+      "notes": "AICEO ",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:31:18.294Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:11:18.319Z"
+  "lastUpdated": "2026-07-22T19:31:18.294Z"
 }
