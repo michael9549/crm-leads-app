@@ -17316,14 +17316,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100078881907026",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-19",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-19",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-07-05",
       "addedAt": "2026-07-05T18:55:35.071Z"
     },
@@ -18755,5 +18755,5 @@
       "addedAt": "2026-07-21T23:41:05.997Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:10:31.060Z"
+  "lastUpdated": "2026-07-22T19:11:18.319Z"
 }
