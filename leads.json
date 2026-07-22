@@ -18789,7 +18789,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:32:00.448Z"
+    },
+    {
+      "id": "mrwhbp50sw476z9m4c",
+      "name": "Pam Feigitsch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009472747323",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:32:30.084Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:32:00.448Z"
+  "lastUpdated": "2026-07-22T19:32:30.084Z"
 }
