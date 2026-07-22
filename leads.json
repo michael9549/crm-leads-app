@@ -18933,7 +18933,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:37:27.300Z"
+    },
+    {
+      "id": "mrwhir3gvqi77807c7",
+      "name": "Joshua Inacio",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/rama.inacio",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:37:59.212Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:37:27.300Z"
+  "lastUpdated": "2026-07-22T19:37:59.212Z"
 }
