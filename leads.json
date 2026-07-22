@@ -18825,7 +18825,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:33:00.780Z"
+    },
+    {
+      "id": "mrwhd3ttnvcgsgzy63",
+      "name": "Gregory Tjoen A Choy",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gregorytjoenachoy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:33:35.777Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:33:00.781Z"
+  "lastUpdated": "2026-07-22T19:33:35.777Z"
 }
