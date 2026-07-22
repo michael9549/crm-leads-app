@@ -16074,14 +16074,14 @@
       "phone": "",
       "social": "https://www.facebook.com/atotal.plumbing.7",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-19",
-      "nextFollowUp": "2026-07-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-19",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-07-01",
       "addedAt": "2026-07-02T02:33:30.010Z"
     },
@@ -18755,5 +18755,5 @@
       "addedAt": "2026-07-21T23:41:05.997Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:08:44.187Z"
+  "lastUpdated": "2026-07-22T19:09:04.842Z"
 }
