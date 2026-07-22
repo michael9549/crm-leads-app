@@ -18843,7 +18843,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:33:35.777Z"
+    },
+    {
+      "id": "mrwhdqix9dqzniqsft4",
+      "name": "Spencer Bishop",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/spencer.bishop.127",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:34:05.193Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:33:35.777Z"
+  "lastUpdated": "2026-07-22T19:34:05.193Z"
 }
