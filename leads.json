@@ -15444,14 +15444,14 @@
       "phone": "",
       "social": "https://www.facebook.com/jb.coaching.75",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-19",
-      "nextFollowUp": "2026-07-22",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-19",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-06-29",
       "addedAt": "2026-06-29T15:32:55.343Z"
     },
@@ -18755,5 +18755,5 @@
       "addedAt": "2026-07-21T23:41:05.997Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:06:50.279Z"
+  "lastUpdated": "2026-07-22T19:07:24.102Z"
 }
