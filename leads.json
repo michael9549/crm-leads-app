@@ -44,10 +44,10 @@
       "status": "Customer",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-08",
-      "nextFollowUp": "2026-07-22",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-08-21",
       "notes": "",
-      "lastModified": "2026-07-08",
+      "lastModified": "2026-07-22",
       "dateAdded": "2026-05-18",
       "videoSent": false,
       "customerSince": "2026-06-12"
@@ -18755,5 +18755,5 @@
       "addedAt": "2026-07-21T23:41:05.997Z"
     }
   ],
-  "lastUpdated": "2026-07-21T23:41:05.997Z"
+  "lastUpdated": "2026-07-22T19:06:03.550Z"
 }
