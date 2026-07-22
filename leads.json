@@ -18861,7 +18861,25 @@
       "lastModified": "2026-07-22",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:34:05.193Z"
+    },
+    {
+      "id": "mrwhej8l9ti807k80s7",
+      "name": "Esong Kelvine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/esong.kelvine",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-22",
+      "nextFollowUp": "2026-07-25",
+      "notes": "",
+      "lastModified": "2026-07-22",
+      "dateAdded": "2026-07-22",
+      "addedAt": "2026-07-22T19:34:42.405Z"
     }
   ],
-  "lastUpdated": "2026-07-22T19:34:05.193Z"
+  "lastUpdated": "2026-07-22T19:34:42.405Z"
 }
