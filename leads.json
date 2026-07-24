@@ -12669,14 +12669,14 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100044135654167",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-18",
       "addedAt": "2026-06-19T02:43:24.934Z"
     },
@@ -18953,5 +18953,5 @@
       "addedAt": "2026-07-22T19:37:59.212Z"
     }
   ],
-  "lastUpdated": "2026-07-24T18:40:19.117Z"
+  "lastUpdated": "2026-07-24T18:40:54.546Z"
 }
