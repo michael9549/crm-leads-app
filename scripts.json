@@ -173,7 +173,13 @@
       "category": "Follow-Up",
       "name": "Ai CEO F-1",
       "content": "Hey {{firstName}}, Just wanted to circle back in case my message got buried. 😊\n\nWere you interested in checking out the free AI workshop on why everyone should have an AI Bot of their own?"
+    },
+    {
+      "id": "1784918715296",
+      "category": "Follow-Up",
+      "name": "AI CEO F1",
+      "content": "Hey {{firstName}}, just wanted to bump this one in case it got buried.\n\nTotally okay if it's not your thing, I was just curious.\n"
     }
   ],
-  "lastUpdated": "2026-07-22T19:29:02.451Z"
+  "lastUpdated": "2026-07-24T18:45:15.296Z"
 }
