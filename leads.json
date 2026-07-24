@@ -8707,14 +8707,14 @@
       "phone": "",
       "social": "https://www.facebook.com/MELORDYx",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-24",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-24",
+      "lastModified": "2026-07-24",
       "dateAdded": "2026-06-09",
       "addedAt": "2026-06-10T00:40:27.243Z"
     },
@@ -18953,5 +18953,5 @@
       "addedAt": "2026-07-22T19:37:59.212Z"
     }
   ],
-  "lastUpdated": "2026-07-24T18:30:32.440Z"
+  "lastUpdated": "2026-07-24T18:30:40.199Z"
 }
