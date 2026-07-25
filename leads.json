@@ -18473,14 +18473,14 @@
       "phone": "",
       "social": "https://www.facebook.com/OfficialJaimeMorales",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-07-25",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:25:37.854Z"
     },
@@ -18935,5 +18935,5 @@
       "addedAt": "2026-07-22T19:37:59.212Z"
     }
   ],
-  "lastUpdated": "2026-07-25T17:47:52.342Z"
+  "lastUpdated": "2026-07-25T17:48:23.715Z"
 }
