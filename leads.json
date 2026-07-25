@@ -19023,7 +19023,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:07:19.909Z"
+    },
+    {
+      "id": "ms0v1xs3j2nciioj7m",
+      "name": "Lafell Cobb",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lafell.cobb",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T21:07:54.051Z"
     }
   ],
-  "lastUpdated": "2026-07-25T21:07:19.909Z"
+  "lastUpdated": "2026-07-25T21:07:54.051Z"
 }
