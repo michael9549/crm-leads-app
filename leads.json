@@ -19059,7 +19059,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:08:59.423Z"
+    },
+    {
+      "id": "ms0v424cg96zgp0zjxf",
+      "name": "Joe Bannon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lordbannon",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T21:09:32.988Z"
     }
   ],
-  "lastUpdated": "2026-07-25T21:08:59.423Z"
+  "lastUpdated": "2026-07-25T21:09:32.988Z"
 }
