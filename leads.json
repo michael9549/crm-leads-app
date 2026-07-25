@@ -19095,7 +19095,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:10:45.978Z"
+    },
+    {
+      "id": "ms0v7wetoy83nefjcoe",
+      "name": "Jeff Littleton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jeff.littleton.72",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T21:12:32.213Z"
     }
   ],
-  "lastUpdated": "2026-07-25T21:10:45.978Z"
+  "lastUpdated": "2026-07-25T21:12:32.213Z"
 }
