@@ -16560,14 +16560,14 @@
       "phone": "",
       "social": "https://www.facebook.com/mike.salazar.188478",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-21",
-      "nextFollowUp": "2026-07-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-21",
+      "lastModified": "2026-07-25",
       "dateAdded": "2026-07-03",
       "addedAt": "2026-07-04T02:38:41.249Z"
     },
@@ -18935,5 +18935,5 @@
       "addedAt": "2026-07-22T19:37:59.212Z"
     }
   ],
-  "lastUpdated": "2026-07-25T17:46:28.206Z"
+  "lastUpdated": "2026-07-25T17:47:09.474Z"
 }
