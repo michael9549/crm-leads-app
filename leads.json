@@ -18951,7 +18951,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:04:35.820Z"
+    },
+    {
+      "id": "ms0uywu2nmynfm1ur8",
+      "name": "Austin Prescott",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/austin.prescott.46081",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T21:05:32.858Z"
     }
   ],
-  "lastUpdated": "2026-07-25T21:04:35.820Z"
+  "lastUpdated": "2026-07-25T21:05:32.858Z"
 }
