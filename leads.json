@@ -18969,7 +18969,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:05:32.858Z"
+    },
+    {
+      "id": "ms0uzkzkd7eir44xmf",
+      "name": "Marko Putinja",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/markoputinja1997",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-25",
+      "nextFollowUp": "2026-07-28",
+      "notes": "",
+      "lastModified": "2026-07-25",
+      "dateAdded": "2026-07-25",
+      "addedAt": "2026-07-25T21:06:04.160Z"
     }
   ],
-  "lastUpdated": "2026-07-25T21:05:32.858Z"
+  "lastUpdated": "2026-07-25T21:06:04.160Z"
 }
