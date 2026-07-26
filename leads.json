@@ -19275,7 +19275,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T23:56:43.865Z"
+    },
+    {
+      "id": "ms2gjq9xwh2gk148nxm",
+      "name": "Ryan Mcdill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100009003525712",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T23:57:22.245Z"
     }
   ],
-  "lastUpdated": "2026-07-26T23:56:43.865Z"
+  "lastUpdated": "2026-07-26T23:57:22.245Z"
 }
