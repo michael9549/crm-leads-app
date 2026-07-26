@@ -19203,7 +19203,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T23:54:39.870Z"
+    },
+    {
+      "id": "ms2ggyzcfaw023q7evt",
+      "name": "John Riehm",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.riehm.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T23:55:13.560Z"
     }
   ],
-  "lastUpdated": "2026-07-26T23:54:39.870Z"
+  "lastUpdated": "2026-07-26T23:55:13.560Z"
 }
