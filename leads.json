@@ -19257,7 +19257,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T23:56:13.478Z"
+    },
+    {
+      "id": "ms2giwnt6ekqae1yexm",
+      "name": "Theresa Clayton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/theresa.clayton.7792",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T23:56:43.865Z"
     }
   ],
-  "lastUpdated": "2026-07-26T23:56:13.478Z"
+  "lastUpdated": "2026-07-26T23:56:43.865Z"
 }
