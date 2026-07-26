@@ -19131,7 +19131,25 @@
       "lastModified": "2026-07-25",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:14:07.203Z"
+    },
+    {
+      "id": "ms2fzngh6fs8wgojzry",
+      "name": "Santos Hernandez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/santos.hernandez.362861",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-26",
+      "nextFollowUp": "2026-07-29",
+      "notes": "",
+      "lastModified": "2026-07-26",
+      "dateAdded": "2026-07-26",
+      "addedAt": "2026-07-26T23:41:45.473Z"
     }
   ],
-  "lastUpdated": "2026-07-26T23:36:32.183Z"
+  "lastUpdated": "2026-07-26T23:41:45.473Z"
 }
