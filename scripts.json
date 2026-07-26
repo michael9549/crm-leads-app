@@ -173,7 +173,13 @@
       "category": "Follow-Up",
       "name": "Ai CEO F-1",
       "content": "Hey {{firstName}}, just wanted to circle back in case my message got buried. 😊\n\nWere you interested in checking out the free 5 Video Playlist (short videos) on why everyone should have an AI Bot of their own?"
+    },
+    {
+      "id": "1785109945432",
+      "category": "Initial Outreach",
+      "name": "Direct Trading",
+      "content": "Hi {{firstName}},\n\nI know we don't know each other, but I noticed we have a few mutual friends, so I thought I'd reach out.\n\nWould you be open to learning how to trade the financial markets?"
     }
   ],
-  "lastUpdated": "2026-07-24T18:50:57.935Z"
+  "lastUpdated": "2026-07-26T23:52:25.432Z"
 }
