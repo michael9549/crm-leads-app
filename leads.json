@@ -10958,14 +10958,14 @@
       "phone": "",
       "social": "https://www.facebook.com/glennplrexperts",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-26",
       "dateAdded": "2026-06-14",
       "addedAt": "2026-06-15T01:20:04.188Z"
     },
@@ -19133,5 +19133,5 @@
       "addedAt": "2026-07-25T21:14:07.203Z"
     }
   ],
-  "lastUpdated": "2026-07-26T23:35:46.958Z"
+  "lastUpdated": "2026-07-26T23:35:54.089Z"
 }
