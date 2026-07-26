@@ -11823,14 +11823,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nodefault4you",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-26",
-      "nextFollowUp": "2026-07-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-07-26",
       "dateAdded": "2026-06-17",
       "addedAt": "2026-06-17T21:56:56.950Z"
     },
@@ -19133,5 +19133,5 @@
       "addedAt": "2026-07-25T21:14:07.203Z"
     }
   ],
-  "lastUpdated": "2026-07-26T23:36:00.254Z"
+  "lastUpdated": "2026-07-26T23:36:06.183Z"
 }
