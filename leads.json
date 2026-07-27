@@ -18315,10 +18315,10 @@
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-27",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
       "notes": "AICEO ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:36:57.961Z"
     },
@@ -19313,5 +19313,5 @@
       "addedAt": "2026-07-26T23:57:55.157Z"
     }
   ],
-  "lastUpdated": "2026-07-27T14:00:39.584Z"
+  "lastUpdated": "2026-07-27T14:01:57.388Z"
 }
