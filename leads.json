@@ -18257,14 +18257,14 @@
       "phone": "",
       "social": "https://www.facebook.com/hannevigarve",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-24",
-      "nextFollowUp": "2026-07-27",
+      "nextFollowUp": null,
       "notes": "AICEO ",
-      "lastModified": "2026-07-24",
+      "lastModified": "2026-07-27",
       "dateAdded": "2026-07-20",
       "addedAt": "2026-07-21T01:33:32.474Z"
     },
@@ -19313,5 +19313,5 @@
       "addedAt": "2026-07-26T23:57:55.157Z"
     }
   ],
-  "lastUpdated": "2026-07-27T13:58:46.146Z"
+  "lastUpdated": "2026-07-27T13:59:16.437Z"
 }
