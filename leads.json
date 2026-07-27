@@ -19383,7 +19383,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T14:13:08.982Z"
+    },
+    {
+      "id": "ms3b5s7o7kw7q8mxn1p",
+      "name": "Daine Patton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DainePatton1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T14:14:19.668Z"
     }
   ],
-  "lastUpdated": "2026-07-27T14:13:08.982Z"
+  "lastUpdated": "2026-07-27T14:14:19.668Z"
 }
