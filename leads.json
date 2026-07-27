@@ -19509,7 +19509,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T14:19:12.730Z"
+    },
+    {
+      "id": "ms3bd4aikt7jmpado1o",
+      "name": "Jason Raines",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100008746005109",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T14:20:01.914Z"
     }
   ],
-  "lastUpdated": "2026-07-27T14:19:12.730Z"
+  "lastUpdated": "2026-07-27T14:20:01.914Z"
 }
