@@ -19473,7 +19473,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T14:18:10.439Z"
+    },
+    {
+      "id": "ms3bbeeqmftfrm87ig",
+      "name": "Christina Rogers",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/christina.rogers.10485",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T14:18:41.714Z"
     }
   ],
-  "lastUpdated": "2026-07-27T14:18:10.439Z"
+  "lastUpdated": "2026-07-27T14:18:41.715Z"
 }
