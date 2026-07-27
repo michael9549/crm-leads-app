@@ -19365,7 +19365,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T14:12:38.556Z"
+    },
+    {
+      "id": "ms3b49o6tctscsz0z0o",
+      "name": "Ahmed Hassan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ahmed.hassan.18185",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T14:13:08.982Z"
     }
   ],
-  "lastUpdated": "2026-07-27T14:12:38.556Z"
+  "lastUpdated": "2026-07-27T14:13:08.982Z"
 }
