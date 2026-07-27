@@ -19311,7 +19311,25 @@
       "lastModified": "2026-07-26",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T23:57:55.157Z"
+    },
+    {
+      "id": "ms3b1mn54h8j9sxstv9",
+      "name": "Colby Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/colby.davis.748309",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-27",
+      "nextFollowUp": "2026-07-30",
+      "notes": "",
+      "lastModified": "2026-07-27",
+      "dateAdded": "2026-07-27",
+      "addedAt": "2026-07-27T14:11:05.825Z"
     }
   ],
-  "lastUpdated": "2026-07-27T14:06:47.043Z"
+  "lastUpdated": "2026-07-27T14:11:05.825Z"
 }
