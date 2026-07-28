@@ -179,7 +179,13 @@
       "category": "Initial Outreach",
       "name": "Direct Trading",
       "content": "Hi {{firstName}},\n\nI know we don't know each other, but I noticed we have a few mutual friends, so I thought I'd reach out.\n\nWould you be open to learning how to trade the financial markets?"
+    },
+    {
+      "id": "1785281172495",
+      "category": "Follow-Up",
+      "name": "Ai CEO F-2",
+      "content": "Hey {{firstName}}, no worries either way.\n\nI'm just curious... have you started using AI for anything yet, or is it still something that's been sitting on your \"I'll figure it out later\" list?\n"
     }
   ],
-  "lastUpdated": "2026-07-26T23:52:25.432Z"
+  "lastUpdated": "2026-07-28T23:26:12.495Z"
 }
