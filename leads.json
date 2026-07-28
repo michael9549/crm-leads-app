@@ -19085,14 +19085,14 @@
       "phone": "",
       "social": "https://www.facebook.com/realannarmitage",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-25",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-25",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:10:45.978Z"
     },
@@ -19529,5 +19529,5 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     }
   ],
-  "lastUpdated": "2026-07-28T23:49:42.742Z"
+  "lastUpdated": "2026-07-28T23:50:17.399Z"
 }
