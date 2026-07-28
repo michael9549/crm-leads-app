@@ -185,7 +185,13 @@
       "category": "Follow-Up",
       "name": "Ai CEO F-2",
       "content": "Hey {{firstName}}, no worries either way.\n\nI'm just curious... have you started using AI for anything yet, or is it still something that's been sitting on your \"I'll figure it out later\" list?\n"
+    },
+    {
+      "id": "1785281487824",
+      "category": "Presentation Follow-Up",
+      "name": "AI CEO Fup - 1",
+      "content": "Hey {{firstName}}, Just wanted to check in...\n\nDid you get a chance to watch any of the mini workshop yet? I'm curious what stood out to you.\n"
     }
   ],
-  "lastUpdated": "2026-07-28T23:26:12.495Z"
+  "lastUpdated": "2026-07-28T23:31:27.824Z"
 }
