@@ -18851,14 +18851,14 @@
       "phone": "",
       "social": "https://www.facebook.com/esong.kelvine",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-25",
-      "nextFollowUp": "2026-07-28",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
       "notes": "",
-      "lastModified": "2026-07-25",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-22",
       "addedAt": "2026-07-22T19:34:42.405Z"
     },
@@ -19529,5 +19529,5 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     }
   ],
-  "lastUpdated": "2026-07-28T23:41:35.712Z"
+  "lastUpdated": "2026-07-28T23:42:27.560Z"
 }
