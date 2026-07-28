@@ -19527,7 +19527,25 @@
       "lastModified": "2026-07-27",
       "dateAdded": "2026-07-27",
       "addedAt": "2026-07-27T14:20:01.914Z"
+    },
+    {
+      "id": "ms5bekdwz4fdjo90zbo",
+      "name": "Mark Casamento",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mark.casamento.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-28T23:56:41.780Z"
     }
   ],
-  "lastUpdated": "2026-07-28T23:51:23.824Z"
+  "lastUpdated": "2026-07-28T23:56:41.780Z"
 }
