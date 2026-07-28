@@ -18995,14 +18995,14 @@
       "phone": "",
       "social": "https://www.facebook.com/simon.sarker.104",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-25",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-25",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-25",
       "addedAt": "2026-07-25T21:06:44.013Z"
     },
@@ -19529,5 +19529,5 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     }
   ],
-  "lastUpdated": "2026-07-28T23:46:23.518Z"
+  "lastUpdated": "2026-07-28T23:47:01.755Z"
 }
