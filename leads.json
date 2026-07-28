@@ -18509,14 +18509,14 @@
       "phone": "",
       "social": "https://www.facebook.com/thekrislogsdon",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-25",
-      "nextFollowUp": "2026-07-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-25",
+      "lastModified": "2026-07-28",
       "dateAdded": "2026-07-21",
       "addedAt": "2026-07-21T23:26:47.955Z"
     },
@@ -19529,5 +19529,5 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     }
   ],
-  "lastUpdated": "2026-07-28T23:27:37.833Z"
+  "lastUpdated": "2026-07-28T23:27:56.714Z"
 }
