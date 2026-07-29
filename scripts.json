@@ -191,7 +191,13 @@
       "category": "Presentation Follow-Up",
       "name": "AI CEO Fup - 1",
       "content": "Hey {{firstName}}, Just wanted to check in...\n\nDid you get a chance to watch any of the mini workshop yet? I'm curious what stood out to you.\n"
+    },
+    {
+      "id": "1785338118332",
+      "category": "Follow-Up",
+      "name": "Direct FU - 1",
+      "content": "Hey {{firstName}}, just wanted to circle back in case this got buried.\n\nWas learning more about trading something you were open to?"
     }
   ],
-  "lastUpdated": "2026-07-28T23:31:27.824Z"
+  "lastUpdated": "2026-07-29T15:15:18.332Z"
 }
