@@ -19815,7 +19815,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T23:38:38.664Z"
+    },
+    {
+      "id": "ms6q7xjsrlf2skqw6ec",
+      "name": "Dan Snavely",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dan.snavely",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T23:39:12.664Z"
     }
   ],
-  "lastUpdated": "2026-07-29T23:38:38.664Z"
+  "lastUpdated": "2026-07-29T23:39:12.664Z"
 }
