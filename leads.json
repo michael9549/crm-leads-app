@@ -13515,14 +13515,14 @@
       "phone": "",
       "social": "https://www.facebook.com/colin.reissing.10",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:41:09.751Z"
     },
@@ -19781,5 +19781,5 @@
       "addedAt": "2026-07-29T00:08:17.890Z"
     }
   ],
-  "lastUpdated": "2026-07-29T14:20:50.377Z"
+  "lastUpdated": "2026-07-29T14:20:59.067Z"
 }
