@@ -19301,14 +19301,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tammy.moore101",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-26",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-26",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T23:57:55.157Z"
     },
@@ -19781,5 +19781,5 @@
       "addedAt": "2026-07-29T00:08:17.890Z"
     }
   ],
-  "lastUpdated": "2026-07-29T23:34:58.885Z"
+  "lastUpdated": "2026-07-29T23:36:03.419Z"
 }
