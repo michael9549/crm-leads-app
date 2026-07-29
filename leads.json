@@ -980,13 +980,13 @@
       "phone": "",
       "social": "https://www.facebook.com/jeffjw.harris",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Follow-up 3",
       "lastContact": "2026-06-29",
-      "nextFollowUp": "2026-07-29",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-29",
+      "lastModified": "2026-07-29",
       "dateAdded": "2026-05-20",
       "addedAt": "2026-05-21T01:16:43.340Z",
       "videoSent": false
@@ -19781,5 +19781,5 @@
       "addedAt": "2026-07-29T00:08:17.890Z"
     }
   ],
-  "lastUpdated": "2026-07-29T00:08:17.890Z"
+  "lastUpdated": "2026-07-29T14:20:43.860Z"
 }
