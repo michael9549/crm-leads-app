@@ -19707,7 +19707,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T00:05:43.488Z"
+    },
+    {
+      "id": "ms5bqyv533fnh7jrmq3",
+      "name": "Ajay Pandey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cashcowonline",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-29T00:06:20.417Z"
     }
   ],
-  "lastUpdated": "2026-07-29T00:05:43.488Z"
+  "lastUpdated": "2026-07-29T00:06:20.417Z"
 }
