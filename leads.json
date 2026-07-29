@@ -19959,7 +19959,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T23:54:21.524Z"
+    },
+    {
+      "id": "ms6qse7fdfz455oqfwc",
+      "name": "Zaine Burnett",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zaine.burnett",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T23:55:07.371Z"
     }
   ],
-  "lastUpdated": "2026-07-29T23:54:21.524Z"
+  "lastUpdated": "2026-07-29T23:55:07.371Z"
 }
