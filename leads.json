@@ -19635,7 +19635,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T00:01:09.317Z"
+    },
+    {
+      "id": "ms5bl2q3j45evav70m",
+      "name": "Dave Braithwaite",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/MrDavidAndrewBraithwaite",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-29T00:01:45.483Z"
     }
   ],
-  "lastUpdated": "2026-07-29T00:01:09.317Z"
+  "lastUpdated": "2026-07-29T00:01:45.483Z"
 }
