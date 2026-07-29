@@ -19617,7 +19617,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T00:00:31.171Z"
+    },
+    {
+      "id": "ms5bkathmkgvpq3n7tr",
+      "name": "Ehab Zeineddine",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Ehabzed123",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-29T00:01:09.317Z"
     }
   ],
-  "lastUpdated": "2026-07-29T00:00:31.171Z"
+  "lastUpdated": "2026-07-29T00:01:09.317Z"
 }
