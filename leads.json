@@ -19923,7 +19923,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T23:49:08.555Z"
+    },
+    {
+      "id": "ms6qqmhgmo9ghubt9f",
+      "name": "Trip Knowles",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tripknowles.triptk",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-29",
+      "nextFollowUp": "2026-08-01",
+      "notes": "",
+      "lastModified": "2026-07-29",
+      "dateAdded": "2026-07-29",
+      "addedAt": "2026-07-29T23:53:44.788Z"
     }
   ],
-  "lastUpdated": "2026-07-29T23:49:08.555Z"
+  "lastUpdated": "2026-07-29T23:53:44.788Z"
 }
