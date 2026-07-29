@@ -197,7 +197,13 @@
       "category": "Follow-Up",
       "name": "Direct FU - 1",
       "content": "Hey {{firstName}}, just wanted to circle back in case this got buried.\n\nWas learning more about trading something you were open to?"
+    },
+    {
+      "id": "1785338175044",
+      "category": "Follow-Up",
+      "name": "Direct FU - 2",
+      "content": "Hey {{firstName}}, no pressure at all, I just wasn't sure if this wasn't a fit or if the timing was simply off."
     }
   ],
-  "lastUpdated": "2026-07-29T15:15:18.332Z"
+  "lastUpdated": "2026-07-29T15:16:15.044Z"
 }
