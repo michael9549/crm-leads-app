@@ -19671,7 +19671,25 @@
       "lastModified": "2026-07-28",
       "dateAdded": "2026-07-28",
       "addedAt": "2026-07-29T00:02:16.700Z"
+    },
+    {
+      "id": "ms5bmegpr2we09s3bgp",
+      "name": "Liam Elliott",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100008485020789",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-28",
+      "nextFollowUp": "2026-07-31",
+      "notes": "",
+      "lastModified": "2026-07-28",
+      "dateAdded": "2026-07-28",
+      "addedAt": "2026-07-29T00:02:47.353Z"
     }
   ],
-  "lastUpdated": "2026-07-29T00:02:16.700Z"
+  "lastUpdated": "2026-07-29T00:02:47.353Z"
 }
