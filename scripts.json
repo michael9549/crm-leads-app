@@ -203,7 +203,13 @@
       "category": "Follow-Up",
       "name": "Direct FU - 2",
       "content": "Hey {{firstName}}, no pressure at all, I just wasn't sure if this wasn't a fit or if the timing was simply off."
+    },
+    {
+      "id": "1785338203903",
+      "category": "Presentation Follow-Up",
+      "name": "Direct FU - 3",
+      "content": "Hey {{firstName}}, I haven't heard back, so I'll assume the timing isn't right.\n\nIf that changes down the road, feel free to reach out. Wishing you all the best."
     }
   ],
-  "lastUpdated": "2026-07-29T15:16:15.044Z"
+  "lastUpdated": "2026-07-29T15:16:43.903Z"
 }
