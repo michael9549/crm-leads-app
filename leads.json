@@ -18593,24 +18593,6 @@
       "addedAt": "2026-07-22T19:37:59.212Z"
     },
     {
-      "id": "ms0uzkzkd7eir44xmf",
-      "name": "Marko Putinja",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/markoputinja1997",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-25",
-      "addedAt": "2026-07-25T21:06:04.160Z"
-    },
-    {
       "id": "ms0v0fqlr05q556xhpr",
       "name": "Simon Sarker",
       "email": "",
@@ -19619,5 +19601,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:38.419Z"
+  "lastUpdated": "2026-08-01T04:32:41.439Z"
 }
