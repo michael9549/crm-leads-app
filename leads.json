@@ -18611,24 +18611,6 @@
       "addedAt": "2026-07-25T21:06:44.013Z"
     },
     {
-      "id": "ms0v17fpo2gmwbsa0sj",
-      "name": "Mark Hall",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/mark.hall.698322",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-25",
-      "addedAt": "2026-07-25T21:07:19.909Z"
-    },
-    {
       "id": "ms0v1xs3j2nciioj7m",
       "name": "Lafell Cobb",
       "email": "",
@@ -19601,5 +19583,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:41.439Z"
+  "lastUpdated": "2026-08-01T04:32:45.125Z"
 }
