@@ -18539,24 +18539,6 @@
       "addedAt": "2026-07-21T23:37:49.658Z"
     },
     {
-      "id": "mrvarjnx3j4ke0pstkl",
-      "name": "Parker Chmiel",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100009595040582",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:41:05.997Z"
-    },
-    {
       "id": "mrwha5quuj1czmaw2uo",
       "name": "Angel Villanueva",
       "email": "",
@@ -19817,5 +19799,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:55.141Z"
+  "lastUpdated": "2026-08-01T04:31:58.800Z"
 }
