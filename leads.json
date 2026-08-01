@@ -18467,24 +18467,6 @@
       "addedAt": "2026-07-21T23:25:37.854Z"
     },
     {
-      "id": "mrva8gbb886cuawzsll",
-      "name": "Johnny Koepp",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/johnny.koepp.5",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:26:15.191Z"
-    },
-    {
       "id": "mrva95lfau3gllyvmsd",
       "name": "Kris Logsdon",
       "email": "",
@@ -19979,5 +19961,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:19.288Z"
+  "lastUpdated": "2026-08-01T04:31:23.715Z"
 }
