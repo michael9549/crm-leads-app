@@ -19329,7 +19329,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:38:41.354Z"
+    },
+    {
+      "id": "ms9vu28vsagdkv51lz",
+      "name": "Robert Kovacs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/robert.kovacs.342073",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-03",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-08-01T04:39:41.791Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:38:41.354Z"
+  "lastUpdated": "2026-08-01T04:39:41.791Z"
 }
