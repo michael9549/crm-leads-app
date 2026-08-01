@@ -19061,24 +19061,6 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     },
     {
-      "id": "ms5bthia1yo8xzmscbf",
-      "name": "Larry Dix II",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/larry.dix.ii",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-28",
-      "addedAt": "2026-07-29T00:08:17.890Z"
-    },
-    {
       "id": "ms6q63um289w9lz111wg",
       "name": "Lee Wallace",
       "email": "",
@@ -19295,5 +19277,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:33:56.526Z"
+  "lastUpdated": "2026-08-01T04:34:01.345Z"
 }
