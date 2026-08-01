@@ -18539,24 +18539,6 @@
       "addedAt": "2026-07-21T23:37:49.658Z"
     },
     {
-      "id": "mrvaqu81n62ilxzx1cn",
-      "name": "Paul Wiese",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/paul.wiese.50702",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:40:33.025Z"
-    },
-    {
       "id": "mrvarjnx3j4ke0pstkl",
       "name": "Parker Chmiel",
       "email": "",
@@ -19835,5 +19817,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:51.475Z"
+  "lastUpdated": "2026-08-01T04:31:55.141Z"
 }
