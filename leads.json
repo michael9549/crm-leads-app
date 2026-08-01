@@ -18539,24 +18539,6 @@
       "addedAt": "2026-07-21T23:37:49.658Z"
     },
     {
-      "id": "mrwhb29s6duab5k0kvf",
-      "name": "Brent Festge",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100009494346559",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-22",
-      "addedAt": "2026-07-22T19:32:00.448Z"
-    },
-    {
       "id": "mrwhbp50sw476z9m4c",
       "name": "Pam Feigitsch",
       "email": "",
@@ -19781,5 +19763,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:03.231Z"
+  "lastUpdated": "2026-08-01T04:32:06.604Z"
 }
