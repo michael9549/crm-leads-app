@@ -18557,24 +18557,6 @@
       "addedAt": "2026-07-22T19:32:30.084Z"
     },
     {
-      "id": "mrwhdqix9dqzniqsft4",
-      "name": "Spencer Bishop",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/spencer.bishop.127",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-22",
-      "addedAt": "2026-07-22T19:34:05.193Z"
-    },
-    {
       "id": "mrwhej8l9ti807k80s7",
       "name": "Esong Kelvine",
       "email": "",
@@ -19727,5 +19709,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:13.672Z"
+  "lastUpdated": "2026-08-01T04:32:17.331Z"
 }
