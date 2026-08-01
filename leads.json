@@ -19061,24 +19061,6 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     },
     {
-      "id": "ms5bgrhzr2b2e36lkse",
-      "name": "Frank Gotaas",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/frankgotaas",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-28",
-      "addedAt": "2026-07-28T23:58:24.311Z"
-    },
-    {
       "id": "ms5biglnygke9jgj34g",
       "name": "Stan Hansen",
       "email": "",
@@ -19493,5 +19475,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:33:07.138Z"
+  "lastUpdated": "2026-08-01T04:33:13.013Z"
 }
