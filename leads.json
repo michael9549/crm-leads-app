@@ -19311,7 +19311,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:37:36.998Z"
+    },
+    {
+      "id": "ms9vsrm2gtkv4vju2hf",
+      "name": "Douglas Soderman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dougsodsos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-03",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-08-01T04:38:41.354Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:37:36.998Z"
+  "lastUpdated": "2026-08-01T04:38:41.354Z"
 }
