@@ -18521,24 +18521,6 @@
       "addedAt": "2026-07-21T23:33:04.093Z"
     },
     {
-      "id": "mrvalnpvyie3wnx790o",
-      "name": "Russell Condiff",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/russell.condiff",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:36:31.315Z"
-    },
-    {
       "id": "mrvamkb06n6tgp11yfy",
       "name": "Masud Rana",
       "email": "",
@@ -19925,5 +19907,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:31.471Z"
+  "lastUpdated": "2026-08-01T04:31:34.861Z"
 }
