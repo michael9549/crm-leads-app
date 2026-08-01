@@ -18593,24 +18593,6 @@
       "addedAt": "2026-07-22T19:37:59.212Z"
     },
     {
-      "id": "ms0uxotoyynyfv8mvdi",
-      "name": "Todd Zahn",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/todd.zahn.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-25",
-      "addedAt": "2026-07-25T21:04:35.820Z"
-    },
-    {
       "id": "ms0uywu2nmynfm1ur8",
       "name": "Austin Prescott",
       "email": "",
@@ -19655,5 +19637,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:30.399Z"
+  "lastUpdated": "2026-08-01T04:32:33.357Z"
 }
