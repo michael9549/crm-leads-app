@@ -18539,24 +18539,6 @@
       "addedAt": "2026-07-21T23:37:49.658Z"
     },
     {
-      "id": "mrvapzjf2r53271qqa3",
-      "name": "Evan Sim",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/evan.sim.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:39:53.259Z"
-    },
-    {
       "id": "mrvaqu81n62ilxzx1cn",
       "name": "Paul Wiese",
       "email": "",
@@ -19853,5 +19835,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:46.634Z"
+  "lastUpdated": "2026-08-01T04:31:51.475Z"
 }
