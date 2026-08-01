@@ -19061,24 +19061,6 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     },
     {
-      "id": "ms5bjhdv1qhjy6j49zy",
-      "name": "Joseph Downey",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/joseph.downey.983528",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-28",
-      "addedAt": "2026-07-29T00:00:31.171Z"
-    },
-    {
       "id": "ms5bkathmkgvpq3n7tr",
       "name": "Ehab Zeineddine",
       "email": "",
@@ -19457,5 +19439,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:33:18.644Z"
+  "lastUpdated": "2026-08-01T04:33:25.507Z"
 }
