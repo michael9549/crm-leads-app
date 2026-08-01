@@ -18557,24 +18557,6 @@
       "addedAt": "2026-07-22T19:32:30.084Z"
     },
     {
-      "id": "mrwhd3ttnvcgsgzy63",
-      "name": "Gregory Tjoen A Choy",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/gregorytjoenachoy",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-22",
-      "addedAt": "2026-07-22T19:33:35.777Z"
-    },
-    {
       "id": "mrwhdqix9dqzniqsft4",
       "name": "Spencer Bishop",
       "email": "",
@@ -19745,5 +19727,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:10.327Z"
+  "lastUpdated": "2026-08-01T04:32:13.672Z"
 }
