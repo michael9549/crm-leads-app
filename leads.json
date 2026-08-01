@@ -19275,7 +19275,25 @@
       "lastModified": "2026-07-29",
       "dateAdded": "2026-07-29",
       "addedAt": "2026-07-29T23:55:44.627Z"
+    },
+    {
+      "id": "ms9vp3rprz7rh2j1txc",
+      "name": "Gabby Gonzales",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/thegabbsterrrr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-03",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-08-01T04:35:50.485Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:34:01.345Z"
+  "lastUpdated": "2026-08-01T04:35:50.485Z"
 }
