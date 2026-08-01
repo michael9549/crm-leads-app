@@ -18521,24 +18521,6 @@
       "addedAt": "2026-07-21T23:33:04.093Z"
     },
     {
-      "id": "mrvamkb06n6tgp11yfy",
-      "name": "Masud Rana",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/masud.rana.851685",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:37:13.548Z"
-    },
-    {
       "id": "mrvanc62e4wp1t11d0a",
       "name": "Moralina Melchor",
       "email": "",
@@ -19907,5 +19889,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:34.861Z"
+  "lastUpdated": "2026-08-01T04:31:39.384Z"
 }
