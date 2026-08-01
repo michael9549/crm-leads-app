@@ -18575,24 +18575,6 @@
       "addedAt": "2026-07-22T19:35:13.898Z"
     },
     {
-      "id": "mrwhftu4mhqlgpxtd9c",
-      "name": "Andrew Martin",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/andrew.martin.500433",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-22",
-      "addedAt": "2026-07-22T19:35:42.796Z"
-    },
-    {
       "id": "mrwhi2h08a1yw022ezv",
       "name": "Jonathan Deleon",
       "email": "",
@@ -19691,5 +19673,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:21.229Z"
+  "lastUpdated": "2026-08-01T04:32:26.717Z"
 }
