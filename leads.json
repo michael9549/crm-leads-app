@@ -19419,7 +19419,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:41:52.766Z"
+    },
+    {
+      "id": "ms9vxmcj6dcxm3xwsiw",
+      "name": "Tracy Gibbs",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/TracyGibbs.formulator",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-03",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:41:52.766Z"
+  "lastUpdated": "2026-08-01T04:42:27.811Z"
 }
