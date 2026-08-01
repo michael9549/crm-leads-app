@@ -18557,24 +18557,6 @@
       "addedAt": "2026-07-22T19:32:30.084Z"
     },
     {
-      "id": "mrwhcctocc8qjup649w",
-      "name": "Billy Blackburn",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/billy.blackburn.104",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-22",
-      "addedAt": "2026-07-22T19:33:00.780Z"
-    },
-    {
       "id": "mrwhd3ttnvcgsgzy63",
       "name": "Gregory Tjoen A Choy",
       "email": "",
@@ -19763,5 +19745,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:32:06.604Z"
+  "lastUpdated": "2026-08-01T04:32:10.327Z"
 }
