@@ -19365,7 +19365,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:40:12.630Z"
+    },
+    {
+      "id": "ms9vvhy8pa618yeu288",
+      "name": "Christopher Waldrop",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/christopher.waldrop.1420",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-31",
+      "nextFollowUp": "2026-08-03",
+      "notes": "",
+      "lastModified": "2026-07-31",
+      "dateAdded": "2026-07-31",
+      "addedAt": "2026-08-01T04:40:48.800Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:40:12.630Z"
+  "lastUpdated": "2026-08-01T04:40:48.800Z"
 }
