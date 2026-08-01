@@ -18539,24 +18539,6 @@
       "addedAt": "2026-07-21T23:37:49.658Z"
     },
     {
-      "id": "mrvaohx795ff6rayjlt",
-      "name": "Justin K Connell",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/justinkconnell",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:38:43.771Z"
-    },
-    {
       "id": "mrvapazqj55nzqoyykb",
       "name": "Nate Kennedy",
       "email": "",
@@ -19889,5 +19871,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:39.384Z"
+  "lastUpdated": "2026-08-01T04:31:43.395Z"
 }
