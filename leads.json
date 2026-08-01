@@ -18485,24 +18485,6 @@
       "addedAt": "2026-07-21T23:26:47.955Z"
     },
     {
-      "id": "mrvae9ez9liwz7ufezo",
-      "name": "Arturas Strokovas",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/arturas.strokovas.79",
-      "source": "Facebook",
-      "status": "Sent Video",
-      "videoSent": true,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-28",
-      "nextFollowUp": "2026-07-31",
-      "notes": "",
-      "lastModified": "2026-07-28",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:30:46.187Z"
-    },
-    {
       "id": "mrvafo8q7v0xebjon1x",
       "name": "Mike Kuhn",
       "email": "",
@@ -19943,5 +19925,5 @@
       "addedAt": "2026-07-29T23:55:44.627Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:31:27.178Z"
+  "lastUpdated": "2026-08-01T04:31:31.471Z"
 }
