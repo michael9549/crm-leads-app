@@ -18954,24 +18954,6 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     },
     {
-      "id": "ms6qretwrs00x4ic0v",
-      "name": "Eddie Smith",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/eddie.smith.301092",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-29",
-      "addedAt": "2026-07-29T23:54:21.524Z"
-    },
-    {
       "id": "ms6qse7fdfz455oqfwc",
       "name": "Zaine Burnett",
       "email": "",
@@ -19170,5 +19152,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:11:03.326Z"
+  "lastUpdated": "2026-08-02T01:11:06.411Z"
 }
