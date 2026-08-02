@@ -18707,16 +18707,17 @@
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100009003525712",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
+      "nextFollowUp": "2028-05-01",
       "notes": "",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-01",
       "dateAdded": "2026-07-26",
-      "addedAt": "2026-07-26T23:57:22.245Z"
+      "addedAt": "2026-07-26T23:57:22.245Z",
+      "customerSince": "2026-08-01"
     },
     {
       "id": "ms2gkfo5i2w6qzwuc8",
@@ -19331,5 +19332,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:07:29.844Z"
+  "lastUpdated": "2026-08-02T01:10:28.439Z"
 }
