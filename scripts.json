@@ -52,7 +52,7 @@
       "id": "1783087182777",
       "category": "Initial Outreach",
       "name": "Promo OutReach",
-      "content": "Hey {{firstName}}, I know we don't know each other.\n\nI noticed we have a few mutual friends and wanted to reach out.\n\nI'm connected with a trading education community that's offering a 7-Day Test Drive so people can experience the education before deciding if it's a good fit.\n\nWould you be open to taking a quick look?"
+      "content": "Hey {{firstName}}, I know we don't know each other.\n\nI noticed we have a few mutual friends and wanted to reach out.\n\nI'm connected with a trading education community that's offering a 7-Day Test Drive so people can experience the trading education and app before deciding if it's a good fit.\n\nWould you be open to taking a quick look?"
     },
     {
       "id": "1781804393423",
@@ -211,5 +211,5 @@
       "content": "Hey {{firstName}}, I haven't heard back, so I'll assume the timing isn't right.\n\nIf that changes down the road, feel free to reach out. Wishing you all the best."
     }
   ],
-  "lastUpdated": "2026-07-29T15:16:43.903Z"
+  "lastUpdated": "2026-08-02T01:12:32.559Z"
 }
