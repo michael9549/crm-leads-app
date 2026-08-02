@@ -18954,24 +18954,6 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     },
     {
-      "id": "ms6qqmhgmo9ghubt9f",
-      "name": "Trip Knowles",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/tripknowles.triptk",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-29",
-      "addedAt": "2026-07-29T23:53:44.788Z"
-    },
-    {
       "id": "ms6qretwrs00x4ic0v",
       "name": "Eddie Smith",
       "email": "",
@@ -19188,5 +19170,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:10:59.421Z"
+  "lastUpdated": "2026-08-02T01:11:03.326Z"
 }
