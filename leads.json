@@ -18954,24 +18954,6 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     },
     {
-      "id": "ms6q8mzap9o0qr7oxzr",
-      "name": "Brian Sheehan",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/brian.sheehan.969",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-29",
-      "addedAt": "2026-07-29T23:39:45.622Z"
-    },
-    {
       "id": "ms6q9axoh8d4yxjsf1",
       "name": "Jason Patrick",
       "email": "",
@@ -19278,5 +19260,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:10:40.948Z"
+  "lastUpdated": "2026-08-02T01:10:44.326Z"
 }
