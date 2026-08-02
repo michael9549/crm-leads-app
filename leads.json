@@ -19114,7 +19114,25 @@
       "lastModified": "2026-07-31",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:42:27.811Z"
+    },
+    {
+      "id": "msb3yitq1bdkx8rp64j",
+      "name": "Lexi Engelbach",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lexi.politte.1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-01",
+      "nextFollowUp": "2026-08-04",
+      "notes": "",
+      "lastModified": "2026-08-01",
+      "dateAdded": "2026-08-01",
+      "addedAt": "2026-08-02T01:14:53.006Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:11:12.809Z"
+  "lastUpdated": "2026-08-02T01:14:53.006Z"
 }
