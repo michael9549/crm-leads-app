@@ -18683,24 +18683,6 @@
       "addedAt": "2026-07-26T23:41:45.473Z"
     },
     {
-      "id": "ms2ggyzcfaw023q7evt",
-      "name": "John Riehm",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/john.riehm.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-26",
-      "addedAt": "2026-07-26T23:55:13.560Z"
-    },
-    {
       "id": "ms2ghnj9rbu4o9e983",
       "name": "Jake Henderson",
       "email": "",
@@ -19385,5 +19367,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:07:16.422Z"
+  "lastUpdated": "2026-08-02T01:07:21.637Z"
 }
