@@ -18683,24 +18683,6 @@
       "addedAt": "2026-07-26T23:41:45.473Z"
     },
     {
-      "id": "ms2ghnj9rbu4o9e983",
-      "name": "Jake Henderson",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/jake.henderson.133274",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-26",
-      "addedAt": "2026-07-26T23:55:45.381Z"
-    },
-    {
       "id": "ms2gi97qala9xt8gd8u",
       "name": "Rajwoan Bin Mamun",
       "email": "",
@@ -19367,5 +19349,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:07:21.637Z"
+  "lastUpdated": "2026-08-02T01:07:26.272Z"
 }
