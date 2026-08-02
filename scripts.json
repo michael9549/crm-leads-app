@@ -106,7 +106,7 @@
       "id": "1783087259781",
       "category": "Follow-Up",
       "name": "Promo FU - 1",
-      "content": "Hey {{firstName}}, just wanted to bump this in case it got buried.\n\nThe reason I reached out is because a lot of people like the chance to actually experience the education before making any decision.\n\nNo pressure at all, if you're open, I'm happy to send over the overview.\n"
+      "content": "Hey {{firstName}}, just wanted to bump this in case it got buried.\n\nThe reason I reached out is because a lot of people like the chance to actually experience the trading education and app before making any decision.\n\nNo pressure at all, if you're open, I'm happy to send over the overview.\n"
     },
     {
       "id": "1783087308859",
@@ -211,5 +211,5 @@
       "content": "Hey {{firstName}}, I haven't heard back, so I'll assume the timing isn't right.\n\nIf that changes down the road, feel free to reach out. Wishing you all the best."
     }
   ],
-  "lastUpdated": "2026-08-02T01:12:32.559Z"
+  "lastUpdated": "2026-08-02T01:13:04.781Z"
 }
