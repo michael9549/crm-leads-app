@@ -18954,24 +18954,6 @@
       "addedAt": "2026-07-27T14:20:01.914Z"
     },
     {
-      "id": "ms6qfgbbffbrjpzs9i",
-      "name": "Gannon Lang",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/GrowthbyGan",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-29",
-      "addedAt": "2026-07-29T23:45:03.575Z"
-    },
-    {
       "id": "ms6qk0nrq0yxzwkrf78",
       "name": "Ruben Villarreal",
       "email": "",
@@ -19242,5 +19224,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:10:47.649Z"
+  "lastUpdated": "2026-08-02T01:10:51.327Z"
 }
