@@ -18683,24 +18683,6 @@
       "addedAt": "2026-07-26T23:41:45.473Z"
     },
     {
-      "id": "ms2gg8zid5mj745pqf7",
-      "name": "Erin Vandegrift",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/erin.drake.vandegrift",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-26",
-      "addedAt": "2026-07-26T23:54:39.870Z"
-    },
-    {
       "id": "ms2ggyzcfaw023q7evt",
       "name": "John Riehm",
       "email": "",
@@ -19403,5 +19385,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:07:12.394Z"
+  "lastUpdated": "2026-08-02T01:07:16.422Z"
 }
