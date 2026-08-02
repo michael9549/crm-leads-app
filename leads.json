@@ -18671,14 +18671,14 @@
       "phone": "",
       "social": "https://www.facebook.com/santos.hernandez.362861",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-29",
+      "lastModified": "2026-08-01",
       "dateAdded": "2026-07-26",
       "addedAt": "2026-07-26T23:41:45.473Z"
     },
@@ -19439,5 +19439,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-01T04:42:27.811Z"
+  "lastUpdated": "2026-08-02T01:04:19.945Z"
 }
