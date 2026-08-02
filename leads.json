@@ -18683,24 +18683,6 @@
       "addedAt": "2026-07-26T23:41:45.473Z"
     },
     {
-      "id": "ms2gfh3aylh65e0s69",
-      "name": "Cannon Ratcliff",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/cannon.ratcliff.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-29",
-      "nextFollowUp": "2026-08-01",
-      "notes": "",
-      "lastModified": "2026-07-29",
-      "dateAdded": "2026-07-26",
-      "addedAt": "2026-07-26T23:54:03.718Z"
-    },
-    {
       "id": "ms2gg8zid5mj745pqf7",
       "name": "Erin Vandegrift",
       "email": "",
@@ -19421,5 +19403,5 @@
       "addedAt": "2026-08-01T04:42:27.811Z"
     }
   ],
-  "lastUpdated": "2026-08-02T01:07:08.372Z"
+  "lastUpdated": "2026-08-02T01:07:12.394Z"
 }
