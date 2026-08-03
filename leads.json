@@ -18215,24 +18215,6 @@
       "addedAt": "2026-07-21T01:35:53.186Z"
     },
     {
-      "id": "mrtzg15zlbq4famqfo",
-      "name": "Jacqueline M. Russell",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/jacqueline.m.russell.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "AICEO ",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-20",
-      "addedAt": "2026-07-21T01:36:26.855Z"
-    },
-    {
       "id": "mrtzgp60ucwiy1b5kba",
       "name": "Shane Sparks",
       "email": "",
@@ -19260,5 +19242,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:35.183Z"
+  "lastUpdated": "2026-08-03T13:53:38.583Z"
 }
