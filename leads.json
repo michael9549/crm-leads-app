@@ -18952,7 +18952,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:26:14.673Z"
+    },
+    {
+      "id": "msdbotjyt7ny01m8w7",
+      "name": "Premier Plumbcon",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/diego.trujillo.315865",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T14:26:49.630Z"
     }
   ],
-  "lastUpdated": "2026-08-03T14:26:14.673Z"
+  "lastUpdated": "2026-08-03T14:26:49.630Z"
 }
