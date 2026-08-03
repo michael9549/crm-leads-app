@@ -18540,24 +18540,6 @@
       "addedAt": "2026-07-27T14:12:38.556Z"
     },
     {
-      "id": "ms3bbeeqmftfrm87ig",
-      "name": "Christina Rogers",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/christina.rogers.10485",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-27",
-      "addedAt": "2026-07-27T14:18:41.714Z"
-    },
-    {
       "id": "ms3bc2cazimuz67vw",
       "name": "Marie Leann Johnson",
       "email": "",
@@ -18972,5 +18954,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:54:26.609Z"
+  "lastUpdated": "2026-08-03T13:54:29.465Z"
 }
