@@ -18161,24 +18161,6 @@
       "addedAt": "2026-07-08T20:53:26.301Z"
     },
     {
-      "id": "mrtz88xpqqyuwc0ilfk",
-      "name": "Dol Uilleam MacLeod",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/doluilleam.macleod",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "AICEO ",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-20",
-      "addedAt": "2026-07-21T01:30:23.677Z"
-    },
-    {
       "id": "mrtz90unf2mgxdphw27",
       "name": "David Cook III",
       "email": "",
@@ -19314,5 +19296,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:24.478Z"
+  "lastUpdated": "2026-08-03T13:53:28.540Z"
 }
