@@ -18251,24 +18251,6 @@
       "addedAt": "2026-07-21T01:40:32.185Z"
     },
     {
-      "id": "mrtzm3jvwv044c7fyw7",
-      "name": "Jo Jo",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/jo.jo.395656",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "AICEO ",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-20",
-      "addedAt": "2026-07-21T01:41:09.883Z"
-    },
-    {
       "id": "mrva7ni6lvlrllgo9w",
       "name": "Jaime Morales",
       "email": "",
@@ -19152,5 +19134,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:56.112Z"
+  "lastUpdated": "2026-08-03T13:53:59.250Z"
 }
