@@ -18179,24 +18179,6 @@
       "addedAt": "2026-07-21T01:30:59.855Z"
     },
     {
-      "id": "mrtz9zga6b6gkj9hcdy",
-      "name": "Azjunique J Gibson",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/azjunique.gibson",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "AICEO ",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-20",
-      "addedAt": "2026-07-21T01:31:44.698Z"
-    },
-    {
       "id": "mrtzbe58y6kaztir3b",
       "name": "Garrett Lloyd",
       "email": "",
@@ -19296,5 +19278,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:28.540Z"
+  "lastUpdated": "2026-08-03T13:53:31.682Z"
 }
