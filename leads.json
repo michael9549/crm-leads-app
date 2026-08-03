@@ -18600,14 +18600,14 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.kovacs.342073",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-31",
-      "nextFollowUp": "2026-08-03",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-31",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:39:41.791Z"
     },
@@ -18918,5 +18918,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:56:31.023Z"
+  "lastUpdated": "2026-08-03T13:56:46.574Z"
 }
