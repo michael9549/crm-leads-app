@@ -18522,24 +18522,6 @@
       "addedAt": "2026-07-26T23:57:55.157Z"
     },
     {
-      "id": "ms3b2f4grvp5b5tv3us",
-      "name": "Tahir Ayub",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/tahir.ayub.351",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-27",
-      "addedAt": "2026-07-27T14:11:42.736Z"
-    },
-    {
       "id": "ms3b3m70po0wh5ptn7s",
       "name": "Danny Don Haucher",
       "email": "",
@@ -19098,5 +19080,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:54:06.175Z"
+  "lastUpdated": "2026-08-03T13:54:09.255Z"
 }
