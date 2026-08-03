@@ -5951,14 +5951,14 @@
       "phone": "",
       "social": "https://www.facebook.com/nick.w.nanavati",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
       "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-03",
       "dateAdded": "2026-06-03",
       "addedAt": "2026-06-04T00:58:43.867Z"
     },
@@ -19332,5 +19332,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:52:10.446Z"
+  "lastUpdated": "2026-08-03T13:52:48.271Z"
 }
