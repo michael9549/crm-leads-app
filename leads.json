@@ -19024,7 +19024,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:28:30.998Z"
+    },
+    {
+      "id": "msdbrms0ikqfcsvh2r",
+      "name": "Baba Jamal",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jamaldeen.juniorbaba",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T14:29:00.816Z"
     }
   ],
-  "lastUpdated": "2026-08-03T14:28:30.998Z"
+  "lastUpdated": "2026-08-03T14:29:00.816Z"
 }
