@@ -18540,24 +18540,6 @@
       "addedAt": "2026-07-27T14:12:38.556Z"
     },
     {
-      "id": "ms3baq9zsne2fk17vtj",
-      "name": "Carlos Zuniga",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/carlos.zuniga.623286",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-27",
-      "addedAt": "2026-07-27T14:18:10.439Z"
-    },
-    {
       "id": "ms3bbeeqmftfrm87ig",
       "name": "Christina Rogers",
       "email": "",
@@ -18990,5 +18972,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:54:23.594Z"
+  "lastUpdated": "2026-08-03T13:54:26.609Z"
 }
