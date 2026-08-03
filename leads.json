@@ -18215,24 +18215,6 @@
       "addedAt": "2026-07-21T01:35:53.186Z"
     },
     {
-      "id": "mrtzi6rhjj2k8fiz1u",
-      "name": "Davon Gardner",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/davon.gardner.37",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "AICEO ",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-20",
-      "addedAt": "2026-07-21T01:38:07.421Z"
-    },
-    {
       "id": "mrtzixq826efnc6w44g",
       "name": "Ty Travelbee",
       "email": "",
@@ -19206,5 +19188,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:45.134Z"
+  "lastUpdated": "2026-08-03T13:53:48.131Z"
 }
