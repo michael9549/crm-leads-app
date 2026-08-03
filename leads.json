@@ -18540,24 +18540,6 @@
       "addedAt": "2026-07-27T14:12:38.556Z"
     },
     {
-      "id": "ms3b5s7o7kw7q8mxn1p",
-      "name": "Daine Patton",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/DainePatton1",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-27",
-      "addedAt": "2026-07-27T14:14:19.668Z"
-    },
-    {
       "id": "ms3b6excp6e9a6vvil",
       "name": "Sharif Tipu",
       "email": "",
@@ -19062,5 +19044,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:54:11.970Z"
+  "lastUpdated": "2026-08-03T13:54:14.727Z"
 }
