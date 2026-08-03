@@ -18287,24 +18287,6 @@
       "addedAt": "2026-07-21T23:26:47.955Z"
     },
     {
-      "id": "mrvafo8q7v0xebjon1x",
-      "name": "Mike Kuhn",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/mike.kuhn.969",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-21",
-      "addedAt": "2026-07-21T23:31:52.058Z"
-    },
-    {
       "id": "mrvah7tpdrayh1ic9k",
       "name": "Carlton Darville Jr.",
       "email": "",
@@ -19134,5 +19116,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:59.250Z"
+  "lastUpdated": "2026-08-03T13:54:02.748Z"
 }
