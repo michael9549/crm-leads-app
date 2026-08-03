@@ -18233,24 +18233,6 @@
       "addedAt": "2026-07-21T01:39:16.068Z"
     },
     {
-      "id": "mrtzkekv4bi24bmhk63",
-      "name": "Aric Young",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/aric.young.2025",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "AICEO ",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-20",
-      "addedAt": "2026-07-21T01:39:50.863Z"
-    },
-    {
       "id": "mrtzlagpviu7ry8cx3",
       "name": "Scott W Carrigan",
       "email": "",
@@ -19170,5 +19152,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:52.119Z"
+  "lastUpdated": "2026-08-03T13:53:56.112Z"
 }
