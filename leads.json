@@ -18540,24 +18540,6 @@
       "addedAt": "2026-07-27T14:12:38.556Z"
     },
     {
-      "id": "ms3b49o6tctscsz0z0o",
-      "name": "Ahmed Hassan",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/ahmed.hassan.18185",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-27",
-      "addedAt": "2026-07-27T14:13:08.982Z"
-    },
-    {
       "id": "ms3b5s7o7kw7q8mxn1p",
       "name": "Daine Patton",
       "email": "",
@@ -19080,5 +19062,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:54:09.255Z"
+  "lastUpdated": "2026-08-03T13:54:11.970Z"
 }
