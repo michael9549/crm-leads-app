@@ -19042,7 +19042,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:29:00.816Z"
+    },
+    {
+      "id": "msdbt3vwzxdqgfewicg",
+      "name": "Marcos Espinoza",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marcos.espinoza.52035",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T14:30:09.644Z"
     }
   ],
-  "lastUpdated": "2026-08-03T14:29:00.816Z"
+  "lastUpdated": "2026-08-03T14:30:09.644Z"
 }
