@@ -19096,7 +19096,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:32:05.421Z"
+    },
+    {
+      "id": "msdbwfm35f21zzg7kln",
+      "name": "John Millspaugh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/bonanza.land",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-03",
+      "nextFollowUp": "2026-08-06",
+      "notes": "",
+      "lastModified": "2026-08-03",
+      "dateAdded": "2026-08-03",
+      "addedAt": "2026-08-03T14:32:44.811Z"
     }
   ],
-  "lastUpdated": "2026-08-03T14:32:05.421Z"
+  "lastUpdated": "2026-08-03T14:32:44.811Z"
 }
