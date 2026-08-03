@@ -18540,24 +18540,6 @@
       "addedAt": "2026-07-27T14:12:38.556Z"
     },
     {
-      "id": "ms3bd4aikt7jmpado1o",
-      "name": "Jason Raines",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/profile.php?id=100008746005109",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-27",
-      "addedAt": "2026-07-27T14:20:01.914Z"
-    },
-    {
       "id": "ms9vp3rprz7rh2j1txc",
       "name": "Gabby Gonzales",
       "email": "",
@@ -18936,5 +18918,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:54:33.084Z"
+  "lastUpdated": "2026-08-03T13:54:36.719Z"
 }
