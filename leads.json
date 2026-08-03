@@ -18179,24 +18179,6 @@
       "addedAt": "2026-07-21T01:30:59.855Z"
     },
     {
-      "id": "mrtzbe58y6kaztir3b",
-      "name": "Garrett Lloyd",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/garrett.lloyd.904",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-07-30",
-      "nextFollowUp": "2026-08-02",
-      "notes": "AICEO ",
-      "lastModified": "2026-07-30",
-      "dateAdded": "2026-07-20",
-      "addedAt": "2026-07-21T01:32:50.396Z"
-    },
-    {
       "id": "mrtzcam2r139xlyvdi",
       "name": "Arve Hannevig",
       "email": "",
@@ -19278,5 +19260,5 @@
       "addedAt": "2026-08-02T01:24:17.840Z"
     }
   ],
-  "lastUpdated": "2026-08-03T13:53:31.682Z"
+  "lastUpdated": "2026-08-03T13:53:35.183Z"
 }
