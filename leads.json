@@ -19330,7 +19330,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:19:15.778Z"
+    },
+    {
+      "id": "msg6bf0s9btsqfavw",
+      "name": "David Ruter",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.ruter.100",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:19:44.716Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:19:15.778Z"
+  "lastUpdated": "2026-08-05T14:19:44.716Z"
 }
