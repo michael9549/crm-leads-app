@@ -19150,7 +19150,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:11:00.875Z"
+    },
+    {
+      "id": "msg613x4fui6eiebp9",
+      "name": "Tim Clemson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Timclem406",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:11:43.768Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:11:00.875Z"
+  "lastUpdated": "2026-08-05T14:11:43.768Z"
 }
