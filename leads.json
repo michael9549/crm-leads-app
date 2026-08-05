@@ -19366,7 +19366,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:20:17.092Z"
+    },
+    {
+      "id": "msg6cs041s0z0tqsgpt",
+      "name": "Todd Stern",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/todd.stern.568",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:20:48.196Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:20:17.092Z"
+  "lastUpdated": "2026-08-05T14:20:48.196Z"
 }
