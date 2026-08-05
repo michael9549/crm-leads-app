@@ -19348,7 +19348,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:19:44.716Z"
+    },
+    {
+      "id": "msg6c404lkmeebn3gm",
+      "name": "Troy Offen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/troy.offen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:20:17.092Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:19:44.716Z"
+  "lastUpdated": "2026-08-05T14:20:17.092Z"
 }
