@@ -19258,7 +19258,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:15:27.660Z"
+    },
+    {
+      "id": "msg67mlyv09oom45v7",
+      "name": "Richard Morgan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/richard.morgan.58958343",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:16:47.926Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:15:27.660Z"
+  "lastUpdated": "2026-08-05T14:16:47.926Z"
 }
