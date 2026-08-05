@@ -5409,14 +5409,14 @@
       "phone": "",
       "social": "https://www.facebook.com/john.mccann.18488",
       "source": "Facebook",
-      "status": "Nurture",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-07-05",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "Health issues, check back in a month",
-      "lastModified": "2026-07-05",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-06-02",
       "addedAt": "2026-06-03T00:23:24.850Z"
     },
@@ -19116,5 +19116,5 @@
       "addedAt": "2026-08-03T14:32:44.811Z"
     }
   ],
-  "lastUpdated": "2026-08-03T14:32:44.811Z"
+  "lastUpdated": "2026-08-05T13:58:52.910Z"
 }
