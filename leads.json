@@ -19240,7 +19240,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:14:08.870Z"
+    },
+    {
+      "id": "msg65woc4y6cdrk5iop",
+      "name": "Yovani Garcia",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/yovani.garcia.988926",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:15:27.660Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:14:08.870Z"
+  "lastUpdated": "2026-08-05T14:15:27.660Z"
 }
