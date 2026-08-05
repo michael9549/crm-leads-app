@@ -18888,14 +18888,14 @@
       "phone": "",
       "social": "https://www.facebook.com/agbeso.christian.1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-01",
-      "nextFollowUp": "2026-08-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-01",
+      "lastModified": "2026-08-05",
       "dateAdded": "2026-08-01",
       "addedAt": "2026-08-02T01:23:48.014Z"
     },
@@ -19116,5 +19116,5 @@
       "addedAt": "2026-08-03T14:32:44.811Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:07:27.640Z"
+  "lastUpdated": "2026-08-05T14:08:00.317Z"
 }
