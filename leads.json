@@ -19276,7 +19276,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:16:47.926Z"
+    },
+    {
+      "id": "msg68an90n73qk4iv3y9",
+      "name": "Noel Jerke",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100007231875641",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:17:19.077Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:16:47.926Z"
+  "lastUpdated": "2026-08-05T14:17:19.077Z"
 }
