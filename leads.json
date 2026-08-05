@@ -19114,7 +19114,25 @@
       "lastModified": "2026-08-03",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:32:44.811Z"
+    },
+    {
+      "id": "msg5yvc6bzs2hiy9slp",
+      "name": "Jason Kim",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jason.kim.284221",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:09:59.334Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:08:00.317Z"
+  "lastUpdated": "2026-08-05T14:09:59.334Z"
 }
