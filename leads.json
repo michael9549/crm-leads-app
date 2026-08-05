@@ -19294,7 +19294,25 @@
       "lastModified": "2026-08-05",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:17:19.077Z"
+    },
+    {
+      "id": "msg6a3ty5cy8if7z2bn",
+      "name": "Charlie Beeson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/charlie.beeson.148",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-05",
+      "nextFollowUp": "2026-08-08",
+      "notes": "",
+      "lastModified": "2026-08-05",
+      "dateAdded": "2026-08-05",
+      "addedAt": "2026-08-05T14:18:43.558Z"
     }
   ],
-  "lastUpdated": "2026-08-05T14:17:19.077Z"
+  "lastUpdated": "2026-08-05T14:18:43.558Z"
 }
