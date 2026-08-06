@@ -18996,14 +18996,14 @@
       "phone": "",
       "social": "https://www.facebook.com/andrew.burton.7140497",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:27:59.699Z"
     },
@@ -19386,5 +19386,5 @@
       "addedAt": "2026-08-05T14:20:48.196Z"
     }
   ],
-  "lastUpdated": "2026-08-06T23:38:24.492Z"
+  "lastUpdated": "2026-08-06T23:38:52.068Z"
 }
