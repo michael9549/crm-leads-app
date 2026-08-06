@@ -18636,14 +18636,14 @@
       "phone": "",
       "social": "https://www.facebook.com/christopher.waldrop.1420",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-03",
-      "nextFollowUp": "2026-08-06",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-03",
+      "lastModified": "2026-08-06",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:40:48.800Z"
     },
@@ -19386,5 +19386,5 @@
       "addedAt": "2026-08-05T14:20:48.196Z"
     }
   ],
-  "lastUpdated": "2026-08-06T22:53:05.021Z"
+  "lastUpdated": "2026-08-06T22:53:25.080Z"
 }
