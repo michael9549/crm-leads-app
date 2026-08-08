@@ -19636,7 +19636,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-08T03:50:18.048Z"
+    },
+    {
+      "id": "msju63yglse3qvpdbki",
+      "name": "Manish Choudhary",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/manish.choudhary.98229",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-08T03:50:46.408Z"
     }
   ],
-  "lastUpdated": "2026-08-08T03:50:18.048Z"
+  "lastUpdated": "2026-08-08T03:50:46.408Z"
 }
