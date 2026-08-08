@@ -19546,7 +19546,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-08T03:46:47.732Z"
+    },
+    {
+      "id": "msju2nmksybjgicclv",
+      "name": "Derek Whitten",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/DerekWhitten11",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-08T03:48:05.276Z"
     }
   ],
-  "lastUpdated": "2026-08-08T03:46:47.732Z"
+  "lastUpdated": "2026-08-08T03:48:05.276Z"
 }
