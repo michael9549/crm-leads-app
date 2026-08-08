@@ -19582,7 +19582,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-08T03:48:39.203Z"
+    },
+    {
+      "id": "msju44552efnm71q11z",
+      "name": "Sawyer Buckley",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sawyer.buckley",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-08T03:49:13.337Z"
     }
   ],
-  "lastUpdated": "2026-08-08T03:48:39.203Z"
+  "lastUpdated": "2026-08-08T03:49:13.337Z"
 }
