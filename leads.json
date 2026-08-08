@@ -2225,10 +2225,10 @@
       "status": "Prospect",
       "temperature": "Cold",
       "lastAction": "Follow-up 2",
-      "lastContact": "2026-07-03",
-      "nextFollowUp": "2026-08-08",
+      "lastContact": "2026-08-08",
+      "nextFollowUp": "2026-08-09",
       "notes": "Sign up",
-      "lastModified": "2026-07-30",
+      "lastModified": "2026-08-08",
       "dateAdded": "2026-05-26",
       "addedAt": "2026-05-26T23:37:46.273Z",
       "videoSent": true
@@ -2523,7 +2523,7 @@
     },
     {
       "id": "mpov4l8ih9ub3t9emkv",
-      "name": "Arild BjÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸rnestad",
+      "name": "Arild BjÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¸rnestad",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/abbjornestad83",
@@ -3946,7 +3946,7 @@
     },
     {
       "id": "mpsx3zus2mqywsdjm3",
-      "name": "Finca El TucÃÂÃÂÃÂÃÂ¡n",
+      "name": "Finca El TucÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡n",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/finca.el.tucan",
@@ -4738,7 +4738,7 @@
     },
     {
       "id": "mpvrc8ns7r0rw3jnliu",
-      "name": "Robyn MascareÃÂÃÂ±as",
+      "name": "Robyn MascareÃÂÃÂÃÂÃÂ±as",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/profile.php?id=100088182527778",
@@ -5062,7 +5062,7 @@
     },
     {
       "id": "mpvryi0wk0bpe8pafkn",
-      "name": "ToÃÂÃÂ±o Camarena",
+      "name": "ToÃÂÃÂÃÂÃÂ±o Camarena",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/tono.camarena.545780",
@@ -8089,7 +8089,7 @@
     },
     {
       "id": "mq5ukn5fovjaft8t2xi",
-      "name": "Berat GÃÂ¼Rler",
+      "name": "Berat GÃÂÃÂ¼Rler",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/berat.gurler.15635",
@@ -13276,7 +13276,7 @@
     },
     {
       "id": "mqlniyxoo8kc57eiofm",
-      "name": "Fanini PatrÃ­Cio Cundumbila",
+      "name": "Fanini PatrÃÂ­Cio Cundumbila",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/patricio.pataca",
@@ -13420,7 +13420,7 @@
     },
     {
       "id": "mqlnoodr1oqytc59kbx",
-      "name": "Alejandro CÃ¡Ceres",
+      "name": "Alejandro CÃÂ¡Ceres",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/jrockwood54111115252",
@@ -14231,7 +14231,7 @@
     },
     {
       "id": "mqr095245yy1bno8oai",
-      "name": "Yul QuiñOnes",
+      "name": "Yul QuiÃ±Ones",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/yul.quinones",
@@ -14375,7 +14375,7 @@
     },
     {
       "id": "mqr0i3ieo2ak0r4g8jo",
-      "name": "Marcus SaldañA",
+      "name": "Marcus SaldaÃ±A",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/marcussaldana1226",
@@ -19495,7 +19495,7 @@
     },
     {
       "id": "msjtyvcxmsfxrfye0yd",
-      "name": "Robert Dales-Red�N",
+      "name": "Robert Dales-RedíN",
       "email": "",
       "phone": "",
       "social": "https://www.facebook.com/RobertRedin68",
@@ -19656,5 +19656,5 @@
       "addedAt": "2026-08-08T03:50:46.408Z"
     }
   ],
-  "lastUpdated": "2026-08-08T03:50:46.408Z"
+  "lastUpdated": "2026-08-08T17:16:47.930Z"
 }
