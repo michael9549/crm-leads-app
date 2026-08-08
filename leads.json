@@ -19528,7 +19528,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-08T03:45:48.723Z"
+    },
+    {
+      "id": "msju0zsk03wlzqdklqli",
+      "name": "Deb Hoffmann",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/deb.hoffmann.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-08T03:46:47.732Z"
     }
   ],
-  "lastUpdated": "2026-08-08T03:45:48.723Z"
+  "lastUpdated": "2026-08-08T03:46:47.732Z"
 }
