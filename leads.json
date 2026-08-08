@@ -19420,7 +19420,25 @@
       "lastModified": "2026-08-07",
       "dateAdded": "2026-08-07",
       "addedAt": "2026-08-08T03:40:56.344Z"
+    },
+    {
+      "id": "msjtu4ak1m47cif4uwz",
+      "name": "Todd Schaffer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/todd.schaffer.585",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-07",
+      "nextFollowUp": "2026-08-10",
+      "notes": "",
+      "lastModified": "2026-08-07",
+      "dateAdded": "2026-08-07",
+      "addedAt": "2026-08-08T03:41:26.972Z"
     }
   ],
-  "lastUpdated": "2026-08-08T03:40:56.344Z"
+  "lastUpdated": "2026-08-08T03:41:26.972Z"
 }
