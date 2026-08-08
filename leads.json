@@ -19194,14 +19194,14 @@
       "phone": "",
       "social": "https://www.facebook.com/coachtonitaylor",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-05",
-      "nextFollowUp": "2026-08-08",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-05",
+      "lastModified": "2026-08-08",
       "dateAdded": "2026-08-05",
       "addedAt": "2026-08-05T14:12:57.262Z"
     },
@@ -19656,5 +19656,5 @@
       "addedAt": "2026-08-08T03:50:46.408Z"
     }
   ],
-  "lastUpdated": "2026-08-08T17:31:08.172Z"
+  "lastUpdated": "2026-08-08T17:32:01.551Z"
 }
