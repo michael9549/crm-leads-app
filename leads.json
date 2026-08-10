@@ -20375,7 +20375,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T16:06:12.827Z"
+    },
+    {
+      "id": "msnfc9n1y8wcq8dcxgm",
+      "name": "Amit Verma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/amitpreneur",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T16:06:44.173Z"
     }
   ],
-  "lastUpdated": "2026-08-10T16:06:12.827Z"
+  "lastUpdated": "2026-08-10T16:06:44.173Z"
 }
