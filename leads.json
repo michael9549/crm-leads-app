@@ -18672,14 +18672,14 @@
       "phone": "",
       "social": "https://www.facebook.com/isael.garcia.7549",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-06",
-      "nextFollowUp": "2026-08-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-06",
+      "lastModified": "2026-08-09",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:41:52.766Z"
     },
@@ -19926,5 +19926,5 @@
       "addedAt": "2026-08-08T17:58:21.245Z"
     }
   ],
-  "lastUpdated": "2026-08-10T02:52:22.970Z"
+  "lastUpdated": "2026-08-10T02:53:04.651Z"
 }
