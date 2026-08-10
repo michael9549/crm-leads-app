@@ -20411,7 +20411,25 @@
       "lastModified": "2026-08-10",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T16:08:09.482Z"
+    },
+    {
+      "id": "msnfevyk2637qv0dsnhk",
+      "name": "Shane Dejesus",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/shane.dejesus.100",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-10",
+      "nextFollowUp": "2026-08-13",
+      "notes": "",
+      "lastModified": "2026-08-10",
+      "dateAdded": "2026-08-10",
+      "addedAt": "2026-08-10T16:08:46.412Z"
     }
   ],
-  "lastUpdated": "2026-08-10T16:08:09.482Z"
+  "lastUpdated": "2026-08-10T16:08:46.412Z"
 }
