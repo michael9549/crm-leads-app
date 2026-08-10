@@ -19446,16 +19446,17 @@
       "phone": "",
       "social": "https://www.facebook.com/nancy.wiltshire.35",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-07",
       "nextFollowUp": "2026-08-10",
       "notes": "",
-      "lastModified": "2026-08-07",
+      "lastModified": "2026-08-10",
       "dateAdded": "2026-08-07",
-      "addedAt": "2026-08-08T03:43:08.032Z"
+      "addedAt": "2026-08-08T03:43:08.032Z",
+      "customerSince": "2026-08-10"
     },
     {
       "id": "msjtwvr9sankketclli",
@@ -20196,5 +20197,5 @@
       "addedAt": "2026-08-10T03:15:01.045Z"
     }
   ],
-  "lastUpdated": "2026-08-10T15:14:07.309Z"
+  "lastUpdated": "2026-08-10T15:14:25.431Z"
 }
