@@ -20772,7 +20772,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:41:46.234Z"
+    },
+    {
+      "id": "msqocxdgopbeap8hqe",
+      "name": "Chuck Hall",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chuck.hall.3194",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:42:30.004Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:41:46.234Z"
+  "lastUpdated": "2026-08-12T22:42:30.004Z"
 }
