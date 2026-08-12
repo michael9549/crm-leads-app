@@ -20916,7 +20916,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:47:07.597Z"
+    },
+    {
+      "id": "msqolri5ppwlwfwqe2f",
+      "name": "Eric Salazar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eric.salazar.507",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:49:22.301Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:47:07.597Z"
+  "lastUpdated": "2026-08-12T22:49:22.301Z"
 }
