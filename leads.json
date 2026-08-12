@@ -20970,7 +20970,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:50:27.875Z"
+    },
+    {
+      "id": "msqootsfvzjvtjcydbc",
+      "name": "Brian Vaughan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brian.vaughan.7796",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:51:45.231Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:50:27.875Z"
+  "lastUpdated": "2026-08-12T22:51:45.231Z"
 }
