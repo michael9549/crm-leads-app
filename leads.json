@@ -19068,14 +19068,14 @@
       "phone": "",
       "social": "https://www.facebook.com/shuhel.ahmed.7355",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-09",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-09",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:31:01.866Z"
     },
@@ -20738,5 +20738,5 @@
       "addedAt": "2026-08-12T01:51:26.599Z"
     }
   ],
-  "lastUpdated": "2026-08-12T21:45:56.874Z"
+  "lastUpdated": "2026-08-12T22:19:48.412Z"
 }
