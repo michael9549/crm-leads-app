@@ -20520,7 +20520,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-12T01:43:01.179Z"
+    },
+    {
+      "id": "mspfdu8ctkex1m8t6ks",
+      "name": "Stan Bastek",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/stanleyjbastek",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-11",
+      "nextFollowUp": "2026-08-14",
+      "notes": "",
+      "lastModified": "2026-08-11",
+      "dateAdded": "2026-08-11",
+      "addedAt": "2026-08-12T01:43:29.868Z"
     }
   ],
-  "lastUpdated": "2026-08-12T01:43:01.179Z"
+  "lastUpdated": "2026-08-12T01:43:29.868Z"
 }
