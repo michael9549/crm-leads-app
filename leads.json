@@ -20826,7 +20826,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:43:38.584Z"
+    },
+    {
+      "id": "msqof48h2p3bu11tvd7",
+      "name": "June O'Neill",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/june.oneill.5817",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:44:12.209Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:43:38.584Z"
+  "lastUpdated": "2026-08-12T22:44:12.209Z"
 }
