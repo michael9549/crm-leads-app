@@ -18942,14 +18942,14 @@
       "phone": "",
       "social": "https://www.facebook.com/umgolaherefords.stephenbaxter",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-09",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-09",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-08-03",
       "addedAt": "2026-08-03T14:26:14.673Z"
     },
@@ -20738,5 +20738,5 @@
       "addedAt": "2026-08-12T01:51:26.599Z"
     }
   ],
-  "lastUpdated": "2026-08-12T21:38:06.590Z"
+  "lastUpdated": "2026-08-12T21:39:03.558Z"
 }
