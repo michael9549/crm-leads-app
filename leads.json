@@ -20934,7 +20934,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:49:22.301Z"
+    },
+    {
+      "id": "msqomgv6d2qr1rqk7r6",
+      "name": "Gaurav Verma",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gourave.verma5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:49:55.170Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:49:22.301Z"
+  "lastUpdated": "2026-08-12T22:49:55.170Z"
 }
