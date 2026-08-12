@@ -20736,7 +20736,25 @@
       "lastModified": "2026-08-11",
       "dateAdded": "2026-08-11",
       "addedAt": "2026-08-12T01:51:26.599Z"
+    },
+    {
+      "id": "msqoba99whw58h5aeqr",
+      "name": "Gary Singh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/gary.singh.7399",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:41:13.389Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:37:50.253Z"
+  "lastUpdated": "2026-08-12T22:41:13.389Z"
 }
