@@ -18564,14 +18564,14 @@
       "phone": "",
       "social": "https://www.facebook.com/al.barakat.509",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-09",
-      "nextFollowUp": "2026-08-12",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-09",
+      "lastModified": "2026-08-12",
       "dateAdded": "2026-07-31",
       "addedAt": "2026-08-01T04:37:36.998Z"
     },
@@ -20738,5 +20738,5 @@
       "addedAt": "2026-08-12T01:51:26.599Z"
     }
   ],
-  "lastUpdated": "2026-08-12T01:51:26.599Z"
+  "lastUpdated": "2026-08-12T21:37:19.790Z"
 }
