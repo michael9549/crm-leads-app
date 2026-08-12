@@ -20898,7 +20898,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:46:15.110Z"
+    },
+    {
+      "id": "msqoivkdjfyelutrizn",
+      "name": "Mike McDonough",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.mcdonough.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:47:07.597Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:46:15.110Z"
+  "lastUpdated": "2026-08-12T22:47:07.597Z"
 }
