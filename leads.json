@@ -20880,7 +20880,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:45:45.098Z"
+    },
+    {
+      "id": "msqohr2e0aeunpb2fvfm",
+      "name": "Joey Baughman",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joey.baughman.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:46:15.110Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:45:45.098Z"
+  "lastUpdated": "2026-08-12T22:46:15.110Z"
 }
