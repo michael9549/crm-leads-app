@@ -20862,7 +20862,25 @@
       "lastModified": "2026-08-12",
       "dateAdded": "2026-08-12",
       "addedAt": "2026-08-12T22:45:14.550Z"
+    },
+    {
+      "id": "msqoh3wqgig04enng35",
+      "name": "Ivan Ramirez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/OG6192012",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-12",
+      "nextFollowUp": "2026-08-15",
+      "notes": "",
+      "lastModified": "2026-08-12",
+      "dateAdded": "2026-08-12",
+      "addedAt": "2026-08-12T22:45:45.098Z"
     }
   ],
-  "lastUpdated": "2026-08-12T22:45:14.551Z"
+  "lastUpdated": "2026-08-12T22:45:45.098Z"
 }
