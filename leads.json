@@ -21078,7 +21078,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T23:41:26.969Z"
+    },
+    {
+      "id": "mss5y5ugvwftyfwafsg",
+      "name": "Allen Beiriger",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/allen.beiriger",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-16",
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T23:42:40.408Z"
     }
   ],
-  "lastUpdated": "2026-08-13T23:41:26.969Z"
+  "lastUpdated": "2026-08-13T23:42:40.408Z"
 }
