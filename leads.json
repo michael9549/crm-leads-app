@@ -20366,14 +20366,14 @@
       "phone": "",
       "social": "https://www.facebook.com/juanderfulmex",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-10",
-      "nextFollowUp": "2026-08-13",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-16",
       "notes": "",
-      "lastModified": "2026-08-10",
+      "lastModified": "2026-08-13",
       "dateAdded": "2026-08-10",
       "addedAt": "2026-08-10T16:06:12.827Z"
     },
@@ -21008,5 +21008,5 @@
       "addedAt": "2026-08-12T22:52:17.284Z"
     }
   ],
-  "lastUpdated": "2026-08-13T23:30:56.665Z"
+  "lastUpdated": "2026-08-13T23:31:35.883Z"
 }
