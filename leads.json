@@ -21258,7 +21258,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T23:49:45.496Z"
+    },
+    {
+      "id": "mss68qng6b0e18sf7hd",
+      "name": "Donna DeMent",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/donna.dement.tyy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-16",
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-13T23:49:45.496Z"
+  "lastUpdated": "2026-08-13T23:50:53.932Z"
 }
