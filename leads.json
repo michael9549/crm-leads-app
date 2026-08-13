@@ -21060,7 +21060,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T23:40:58.711Z"
+    },
+    {
+      "id": "mss5wl6hu7ll5micz3",
+      "name": "Trevor Godfrey",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/trevor.godfrey.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-16",
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T23:41:26.969Z"
     }
   ],
-  "lastUpdated": "2026-08-13T23:40:58.711Z"
+  "lastUpdated": "2026-08-13T23:41:26.969Z"
 }
