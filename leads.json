@@ -21186,7 +21186,25 @@
       "lastModified": "2026-08-13",
       "dateAdded": "2026-08-13",
       "addedAt": "2026-08-13T23:45:37.714Z"
+    },
+    {
+      "id": "mss639v6hypjhoh44r7",
+      "name": "Valerie Walton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/valeriewaltononline",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-13",
+      "nextFollowUp": "2026-08-16",
+      "notes": "",
+      "lastModified": "2026-08-13",
+      "dateAdded": "2026-08-13",
+      "addedAt": "2026-08-13T23:46:38.898Z"
     }
   ],
-  "lastUpdated": "2026-08-13T23:45:37.714Z"
+  "lastUpdated": "2026-08-13T23:46:38.898Z"
 }
