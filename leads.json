@@ -19135,24 +19135,6 @@
       "addedAt": "2026-08-05T14:12:57.262Z"
     },
     {
-      "id": "msg63gzr8ujciijlt4g",
-      "name": "John Knabel",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/john.knabel.5",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-08-14",
-      "notes": "",
-      "lastModified": "2026-08-11",
-      "dateAdded": "2026-08-05",
-      "addedAt": "2026-08-05T14:13:34.023Z"
-    },
-    {
       "id": "msg647vqvw15179jyzd",
       "name": "Danny Walsh",
       "email": "",
@@ -21206,5 +21188,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:20:12.771Z"
+  "lastUpdated": "2026-08-16T01:20:15.979Z"
 }
