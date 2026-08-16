@@ -19784,24 +19784,6 @@
       "addedAt": "2026-08-10T16:10:08.704Z"
     },
     {
-      "id": "msqohr2e0aeunpb2fvfm",
-      "name": "Joey Baughman",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/joey.baughman.71",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-15",
-      "notes": "",
-      "lastModified": "2026-08-12",
-      "dateAdded": "2026-08-12",
-      "addedAt": "2026-08-12T22:46:15.110Z"
-    },
-    {
       "id": "msqoivkdjfyelutrizn",
       "name": "Mike McDonough",
       "email": "",
@@ -20180,5 +20162,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:23:31.914Z"
+  "lastUpdated": "2026-08-16T01:23:35.872Z"
 }
