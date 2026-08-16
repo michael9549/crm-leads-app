@@ -19784,24 +19784,6 @@
       "addedAt": "2026-08-10T16:10:08.704Z"
     },
     {
-      "id": "msqobzlmorg1vs0q6ki",
-      "name": "Rich Stafford",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/rich.stafford.98",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-15",
-      "notes": "",
-      "lastModified": "2026-08-12",
-      "dateAdded": "2026-08-12",
-      "addedAt": "2026-08-12T22:41:46.234Z"
-    },
-    {
       "id": "msqocxdgopbeap8hqe",
       "name": "Chuck Hall",
       "email": "",
@@ -20306,5 +20288,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:23:08.902Z"
+  "lastUpdated": "2026-08-16T01:23:12.568Z"
 }
