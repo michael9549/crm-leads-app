@@ -19098,24 +19098,6 @@
       "addedAt": "2026-08-05T14:09:59.334Z"
     },
     {
-      "id": "msg613x4fui6eiebp9",
-      "name": "Tim Clemson",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/Timclem406",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-08-14",
-      "notes": "",
-      "lastModified": "2026-08-11",
-      "dateAdded": "2026-08-05",
-      "addedAt": "2026-08-05T14:11:43.768Z"
-    },
-    {
       "id": "msg62203s9vugq1t44f",
       "name": "Tim Kent",
       "email": "",
@@ -21224,5 +21206,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:20:09.492Z"
+  "lastUpdated": "2026-08-16T01:20:12.771Z"
 }
