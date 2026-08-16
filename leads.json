@@ -19784,24 +19784,6 @@
       "addedAt": "2026-08-10T16:10:08.704Z"
     },
     {
-      "id": "msqoh3wqgig04enng35",
-      "name": "Ivan Ramirez",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/OG6192012",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-15",
-      "notes": "",
-      "lastModified": "2026-08-12",
-      "dateAdded": "2026-08-12",
-      "addedAt": "2026-08-12T22:45:45.098Z"
-    },
-    {
       "id": "msqohr2e0aeunpb2fvfm",
       "name": "Joey Baughman",
       "email": "",
@@ -20198,5 +20180,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:23:28.739Z"
+  "lastUpdated": "2026-08-16T01:23:31.914Z"
 }
