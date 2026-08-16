@@ -18936,24 +18936,6 @@
       "addedAt": "2026-08-03T14:27:59.699Z"
     },
     {
-      "id": "msdbqzrq08fi0p7dnxm",
-      "name": "Cecil Perkins",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/texasterrainlawncare",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-15",
-      "notes": "",
-      "lastModified": "2026-08-12",
-      "dateAdded": "2026-08-03",
-      "addedAt": "2026-08-03T14:28:30.998Z"
-    },
-    {
       "id": "msdbrms0ikqfcsvh2r",
       "name": "Baba Jamal",
       "email": "",
@@ -20558,5 +20540,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:22:25.190Z"
+  "lastUpdated": "2026-08-16T01:22:27.978Z"
 }
