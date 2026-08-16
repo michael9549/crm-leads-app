@@ -19784,24 +19784,6 @@
       "addedAt": "2026-08-10T16:10:08.704Z"
     },
     {
-      "id": "msqon63n0j254oe5mtg5",
-      "name": "Lori Rehn",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/thelorirehn",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-15",
-      "notes": "",
-      "lastModified": "2026-08-12",
-      "dateAdded": "2026-08-12",
-      "addedAt": "2026-08-12T22:50:27.875Z"
-    },
-    {
       "id": "msqootsfvzjvtjcydbc",
       "name": "Brian Vaughan",
       "email": "",
@@ -20108,5 +20090,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:23:45.994Z"
+  "lastUpdated": "2026-08-16T01:23:51.964Z"
 }
