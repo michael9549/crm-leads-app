@@ -19784,24 +19784,6 @@
       "addedAt": "2026-08-10T16:10:08.704Z"
     },
     {
-      "id": "msqolri5ppwlwfwqe2f",
-      "name": "Eric Salazar",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/eric.salazar.507",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-12",
-      "nextFollowUp": "2026-08-15",
-      "notes": "",
-      "lastModified": "2026-08-12",
-      "dateAdded": "2026-08-12",
-      "addedAt": "2026-08-12T22:49:22.301Z"
-    },
-    {
       "id": "msqomgv6d2qr1rqk7r6",
       "name": "Gaurav Verma",
       "email": "",
@@ -20144,5 +20126,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:23:39.238Z"
+  "lastUpdated": "2026-08-16T01:23:42.402Z"
 }
