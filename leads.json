@@ -19171,24 +19171,6 @@
       "addedAt": "2026-08-05T14:15:27.660Z"
     },
     {
-      "id": "msg6bf0s9btsqfavw",
-      "name": "David Ruter",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/david.ruter.100",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-08-14",
-      "notes": "",
-      "lastModified": "2026-08-11",
-      "dateAdded": "2026-08-05",
-      "addedAt": "2026-08-05T14:19:44.716Z"
-    },
-    {
       "id": "msg6c404lkmeebn3gm",
       "name": "Troy Offen",
       "email": "",
@@ -21116,5 +21098,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:20:28.132Z"
+  "lastUpdated": "2026-08-16T01:20:31.216Z"
 }
