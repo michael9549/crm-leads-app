@@ -19514,24 +19514,6 @@
       "addedAt": "2026-08-08T17:53:56.336Z"
     },
     {
-      "id": "mskocbgyzj79mrf06sk",
-      "name": "Gary Brown",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/gary.brown.569834",
-      "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
-      "temperature": "Cold",
-      "lastAction": "Initial Contact",
-      "lastContact": "2026-08-11",
-      "nextFollowUp": "2026-08-14",
-      "notes": "",
-      "lastModified": "2026-08-11",
-      "dateAdded": "2026-08-08",
-      "addedAt": "2026-08-08T17:55:24.562Z"
-    },
-    {
       "id": "mskod7z92f238mpb9pz",
       "name": "Zenshaa Aitha",
       "email": "",
@@ -20954,5 +20936,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:20:59.551Z"
+  "lastUpdated": "2026-08-16T01:21:02.680Z"
 }
