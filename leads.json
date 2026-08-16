@@ -2216,24 +2216,6 @@
       "videoSent": false
     },
     {
-      "id": "mpn9zk816xgzd72w4y5",
-      "name": "Patrick Engel",
-      "email": "",
-      "phone": "",
-      "social": "https://www.facebook.com/padster",
-      "source": "Facebook",
-      "status": "Prospect",
-      "temperature": "Cold",
-      "lastAction": "Follow-up 2",
-      "lastContact": "2026-08-13",
-      "nextFollowUp": "2026-08-16",
-      "notes": "Sign up",
-      "lastModified": "2026-08-13",
-      "dateAdded": "2026-05-26",
-      "addedAt": "2026-05-26T23:37:46.273Z",
-      "videoSent": true
-    },
-    {
       "id": "mpna0v33g494pnivzyh",
       "name": "Josh Blackman",
       "email": "",
@@ -20054,5 +20036,5 @@
       "addedAt": "2026-08-13T23:50:53.932Z"
     }
   ],
-  "lastUpdated": "2026-08-16T01:27:51.886Z"
+  "lastUpdated": "2026-08-16T17:55:13.819Z"
 }
