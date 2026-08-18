@@ -20628,7 +20628,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T14:29:47.285Z"
+    },
+    {
+      "id": "msyrf2bkap5z5z2ni",
+      "name": "Reid T Nelson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/reidtnelson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T14:30:17.984Z"
     }
   ],
-  "lastUpdated": "2026-08-18T14:29:47.285Z"
+  "lastUpdated": "2026-08-18T14:30:17.984Z"
 }
