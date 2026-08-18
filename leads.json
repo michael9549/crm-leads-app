@@ -20574,7 +20574,25 @@
       "lastModified": "2026-08-17",
       "dateAdded": "2026-08-17",
       "addedAt": "2026-08-17T22:31:31.365Z"
+    },
+    {
+      "id": "msyrc90s065qmsufqn4",
+      "name": "Sofia Isabel Mercedes",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ave.fenix.357",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T14:28:06.700Z"
     }
   ],
-  "lastUpdated": "2026-08-18T13:56:46.979Z"
+  "lastUpdated": "2026-08-18T14:28:06.700Z"
 }
