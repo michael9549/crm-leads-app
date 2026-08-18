@@ -20664,7 +20664,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T14:30:46.400Z"
+    },
+    {
+      "id": "msyrge1pb0w70ms9ger",
+      "name": "Adarsh Batham",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/TheAdarshBatham",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-18",
+      "nextFollowUp": "2026-08-21",
+      "notes": "",
+      "lastModified": "2026-08-18",
+      "dateAdded": "2026-08-18",
+      "addedAt": "2026-08-18T14:31:19.837Z"
     }
   ],
-  "lastUpdated": "2026-08-18T14:30:46.400Z"
+  "lastUpdated": "2026-08-18T14:31:19.837Z"
 }
