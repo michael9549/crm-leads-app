@@ -209,7 +209,13 @@
       "category": "Presentation Follow-Up",
       "name": "Direct FU - 3",
       "content": "Hey {{firstName}}, I haven't heard back, so I'll assume the timing isn't right.\n\nIf that changes down the road, feel free to reach out. Wishing you all the best."
+    },
+    {
+      "id": "1787063223178",
+      "category": "Initial Outreach",
+      "name": "Hybrid Hook",
+      "content": "Hey {{firstName}}, I know we don’t know each other, but we have some mutual friends, so I thought I’d reach out.\n\nI think a lot of people are quietly curious about trading, but they never take the next step because they do not know who to trust or where to start.\n\nThat is exactly the gap our community is built around: simple education, structure, and support so people can learn the basics without trying to figure everything out alone.\n\nWould you be open to seeing what that looks like?"
     }
   ],
-  "lastUpdated": "2026-08-02T01:13:04.781Z"
+  "lastUpdated": "2026-08-18T14:27:03.178Z"
 }
