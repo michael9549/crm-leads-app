@@ -20898,7 +20898,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:22:03.816Z"
+    },
+    {
+      "id": "mt06l0mjqwu32jmsfbc",
+      "name": "Razvan Popescu",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/razvan.popescu.562",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:22:36.139Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:22:03.816Z"
+  "lastUpdated": "2026-08-19T14:22:36.139Z"
 }
