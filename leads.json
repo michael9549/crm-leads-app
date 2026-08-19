@@ -6621,10 +6621,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-07-19",
-      "nextFollowUp": "2026-08-18",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-09-18",
       "notes": "",
-      "lastModified": "2026-07-19",
+      "lastModified": "2026-08-19",
       "dateAdded": "2026-06-05",
       "addedAt": "2026-06-05T13:31:12.238Z",
       "customerSince": "2026-06-05"
@@ -20846,5 +20846,5 @@
       "addedAt": "2026-08-18T14:37:43.628Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:12:31.706Z"
+  "lastUpdated": "2026-08-19T14:17:47.703Z"
 }
