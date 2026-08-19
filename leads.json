@@ -21096,7 +21096,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:28:46.677Z"
+    },
+    {
+      "id": "mt06trrsur7xu05mys",
+      "name": "Lance Andersen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/lance.e.andersen",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:29:24.568Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:28:46.677Z"
+  "lastUpdated": "2026-08-19T14:29:24.568Z"
 }
