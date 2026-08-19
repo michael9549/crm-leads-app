@@ -20862,7 +20862,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:20:15.164Z"
+    },
+    {
+      "id": "mt06jnhi1hnoaozt9cw",
+      "name": "Jorge Valdez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jorge.valdez.522",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:21:32.455Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:20:15.164Z"
+  "lastUpdated": "2026-08-19T14:21:32.455Z"
 }
