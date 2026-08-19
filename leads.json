@@ -20844,7 +20844,25 @@
       "lastModified": "2026-08-18",
       "dateAdded": "2026-08-18",
       "addedAt": "2026-08-18T14:37:43.628Z"
+    },
+    {
+      "id": "mt06hzukz5l9rg4fqwr",
+      "name": "Bill Hartzer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/billhartzer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:20:15.164Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:17:47.703Z"
+  "lastUpdated": "2026-08-19T14:20:15.164Z"
 }
