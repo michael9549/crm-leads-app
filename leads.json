@@ -20952,7 +20952,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:23:45.426Z"
+    },
+    {
+      "id": "mt06n3sn32psehtwl6q",
+      "name": "David Gurny",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.gurny",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:24:13.559Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:23:45.426Z"
+  "lastUpdated": "2026-08-19T14:24:13.559Z"
 }
