@@ -20988,7 +20988,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:24:54.340Z"
+    },
+    {
+      "id": "mt06om0dvlln63wykb",
+      "name": "Andrei Kazak",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/andrei.kazak.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-19",
+      "nextFollowUp": "2026-08-22",
+      "notes": "",
+      "lastModified": "2026-08-19",
+      "dateAdded": "2026-08-19",
+      "addedAt": "2026-08-19T14:25:23.821Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:24:54.340Z"
+  "lastUpdated": "2026-08-19T14:25:23.821Z"
 }
