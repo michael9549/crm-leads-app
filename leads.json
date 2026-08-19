@@ -6611,6 +6611,25 @@
       "addedAt": "2026-06-04T21:22:37.314Z"
     },
     {
+      "id": "mq0yq12mf32qozvaorn",
+      "name": "Alex Greate",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-07-19",
+      "nextFollowUp": "2026-08-18",
+      "notes": "",
+      "lastModified": "2026-07-19",
+      "dateAdded": "2026-06-05",
+      "addedAt": "2026-06-05T13:31:12.238Z",
+      "customerSince": "2026-06-05"
+    },
+    {
       "id": "mq1mq8qeffno7p64j48",
       "name": "Karol Fule",
       "email": "",
@@ -20827,5 +20846,5 @@
       "addedAt": "2026-08-18T14:37:43.628Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:09:56.918Z"
+  "lastUpdated": "2026-08-19T14:12:31.706Z"
 }
