@@ -21114,7 +21114,25 @@
       "lastModified": "2026-08-19",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:29:24.568Z"
+    },
+    {
+      "id": "mt1kzxmbltungt0n5wg",
+      "name": "Craig Montgomery",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/craig.montgomery.967",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-23",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T13:53:52.883Z"
     }
   ],
-  "lastUpdated": "2026-08-19T14:29:24.568Z"
+  "lastUpdated": "2026-08-20T13:53:52.883Z"
 }
