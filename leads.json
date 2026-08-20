@@ -21186,7 +21186,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T13:55:40.348Z"
+    },
+    {
+      "id": "mt1l2w7k0aztllx1oob",
+      "name": "Marcelino Gonzalez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/marcelino.gonzalez.359",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-23",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T13:56:11.024Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:55:40.348Z"
+  "lastUpdated": "2026-08-20T13:56:11.024Z"
 }
