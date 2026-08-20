@@ -21168,7 +21168,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T13:54:59.226Z"
+    },
+    {
+      "id": "mt1l28jge4y61u44c2",
+      "name": "Kyle Archer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kyle.archer.7796",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-23",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T13:55:40.348Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:54:59.226Z"
+  "lastUpdated": "2026-08-20T13:55:40.348Z"
 }
