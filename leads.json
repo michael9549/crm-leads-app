@@ -21258,7 +21258,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T13:57:32.309Z"
+    },
+    {
+      "id": "mt1l5apu0uz7obeitmum",
+      "name": "Rebekah Cooper",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/Rebekahroo12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-23",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T13:58:03.138Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:57:32.309Z"
+  "lastUpdated": "2026-08-20T13:58:03.138Z"
 }
