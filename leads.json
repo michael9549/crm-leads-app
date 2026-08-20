@@ -21312,7 +21312,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T13:59:30.845Z"
+    },
+    {
+      "id": "mt1l7skqckl1r9c1x2p",
+      "name": "Erica Hobson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/erica.hobson1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-23",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T13:59:59.594Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:59:30.845Z"
+  "lastUpdated": "2026-08-20T13:59:59.594Z"
 }
