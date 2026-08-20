@@ -21222,7 +21222,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T13:56:38.772Z"
+    },
+    {
+      "id": "mt1l42hh7a7gau7prrc",
+      "name": "Darwin Maya",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/darwin.mayaguari1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-23",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T13:57:05.813Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:56:38.772Z"
+  "lastUpdated": "2026-08-20T13:57:05.813Z"
 }
