@@ -21330,7 +21330,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T13:59:59.594Z"
+    },
+    {
+      "id": "mt1l8fiakzqpowy5g2c",
+      "name": "Doug Starks",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dpstarks",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-20",
+      "nextFollowUp": "2026-08-23",
+      "notes": "",
+      "lastModified": "2026-08-20",
+      "dateAdded": "2026-08-20",
+      "addedAt": "2026-08-20T14:00:29.315Z"
     }
   ],
-  "lastUpdated": "2026-08-20T13:59:59.594Z"
+  "lastUpdated": "2026-08-20T14:00:29.315Z"
 }
