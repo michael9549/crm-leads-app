@@ -21474,7 +21474,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T14:10:08.085Z"
+    },
+    {
+      "id": "mt311e1yh2tg0icptcc",
+      "name": "Mateusz Bilewicz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mateusz.bilewicz.10",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-08-24",
+      "notes": "",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T14:10:40.870Z"
     }
   ],
-  "lastUpdated": "2026-08-21T14:10:08.085Z"
+  "lastUpdated": "2026-08-21T14:10:40.870Z"
 }
