@@ -21528,7 +21528,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T14:11:45.703Z"
+    },
+    {
+      "id": "mt313dtfudfr0zm26k",
+      "name": "Miguel Juarez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/miguel.juarez.794",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-08-24",
+      "notes": "",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T14:12:13.875Z"
     }
   ],
-  "lastUpdated": "2026-08-21T14:11:45.703Z"
+  "lastUpdated": "2026-08-21T14:12:13.875Z"
 }
