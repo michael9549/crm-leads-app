@@ -21582,7 +21582,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T14:14:00.635Z"
+    },
+    {
+      "id": "mt316da25bq349tqgzi",
+      "name": "Tyler Esparza",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tyler.esparza.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-08-24",
+      "notes": "",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T14:14:33.146Z"
     }
   ],
-  "lastUpdated": "2026-08-21T14:14:00.635Z"
+  "lastUpdated": "2026-08-21T14:14:33.146Z"
 }
