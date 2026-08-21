@@ -21384,7 +21384,25 @@
       "lastModified": "2026-08-20",
       "dateAdded": "2026-08-20",
       "addedAt": "2026-08-20T14:01:33.633Z"
+    },
+    {
+      "id": "mt30xxbxadu2qojer0h",
+      "name": "Presley Mitchell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/defiant2all",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-08-24",
+      "notes": "",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T14:07:59.229Z"
     }
   ],
-  "lastUpdated": "2026-08-21T14:06:33.948Z"
+  "lastUpdated": "2026-08-21T14:07:59.229Z"
 }
