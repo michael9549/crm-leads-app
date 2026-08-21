@@ -21438,7 +21438,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T14:09:02.577Z"
+    },
+    {
+      "id": "mt3101ttps35l4vnww",
+      "name": "James Green",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JamesGreenRaceTeam",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-21",
+      "nextFollowUp": "2026-08-24",
+      "notes": "",
+      "lastModified": "2026-08-21",
+      "dateAdded": "2026-08-21",
+      "addedAt": "2026-08-21T14:09:38.369Z"
     }
   ],
-  "lastUpdated": "2026-08-21T14:09:02.577Z"
+  "lastUpdated": "2026-08-21T14:09:38.370Z"
 }
