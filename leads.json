@@ -21654,7 +21654,25 @@
       "lastModified": "2026-08-21",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T14:15:52.331Z"
+    },
+    {
+      "id": "mt4pr23w48udtnrgb4h",
+      "name": "Leo Davalos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/leo.davalos.54",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:30:15.404Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:28:19.070Z"
+  "lastUpdated": "2026-08-22T18:30:15.404Z"
 }
