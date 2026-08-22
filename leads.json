@@ -20906,14 +20906,14 @@
       "phone": "",
       "social": "https://www.facebook.com/razvan.popescu.562",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-08-22",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
       "notes": "",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-08-22",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:22:36.139Z"
     },
@@ -21656,5 +21656,5 @@
       "addedAt": "2026-08-21T14:15:52.331Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:21:00.623Z"
+  "lastUpdated": "2026-08-22T18:21:31.701Z"
 }
