@@ -1149,11 +1149,20 @@
       return dateString;
     }
 
+    function isClosed(lead) {
+      return lead.status === 'Customer' || lead.status === 'IBO';
+    }
+
+    function isNotInterested(lead) {
+      return lead.status === 'Not Interested';
+    }
+
+    function isActionableFollowUp(lead) {
+      return !isNotInterested(lead);
+    }
+
     function getFilteredLeads() {
       // Customers, IBOs, and Not Interested should only appear in their respective tabs
-      const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
-      const isNotInterested = (l) => l.status === 'Not Interested';
-      
       switch (currentView) {
         case 'hot': return leads.filter(l => l.temperature === 'Hot' && !isClosed(l) && !isNotInterested(l));
         case 'followups': 
@@ -1171,8 +1180,8 @@
     function getStats() {
       const total = leads.length;
       const hot = leads.filter(l => l.temperature === 'Hot').length;
-      const due = leads.filter(l => isFollowUpDue(l.nextFollowUp)).length;
-      const overdue = leads.filter(l => isOverdue(l.nextFollowUp)).length;
+      const due = leads.filter(l => isActionableFollowUp(l) && isFollowUpDue(l.nextFollowUp)).length;
+      const overdue = leads.filter(l => isActionableFollowUp(l) && isOverdue(l.nextFollowUp)).length;
       const weekAgo = new Date();
       weekAgo.setDate(weekAgo.getDate() - 7);
       const newThisWeek = leads.filter(l => new Date(l.dateAdded) >= weekAgo).length;
@@ -1323,8 +1332,7 @@
         if (followUpCounts) {
           followUpCounts.style.display = 'flex';
           // Update counts
-          const isClosed = (l) => l.status === 'Customer' || l.status === 'IBO';
-          const prospectCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && l.status !== 'Not Interested').length;
+          const prospectCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && !isClosed(l) && !isNotInterested(l)).length;
           const customerCount = leads.filter(l => isFollowUpDue(l.nextFollowUp) && isClosed(l)).length;
           document.getElementById('followup-prospect-count').textContent = prospectCount;
           document.getElementById('followup-customer-count').textContent = customerCount;
