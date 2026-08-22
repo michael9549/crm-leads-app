@@ -21780,7 +21780,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:34:25.416Z"
+    },
+    {
+      "id": "mt4px2wpbyeqlbsc6k",
+      "name": "Carl Bonar",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/carl.bonar",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:34:56.377Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:34:25.416Z"
+  "lastUpdated": "2026-08-22T18:34:56.377Z"
 }
