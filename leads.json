@@ -21708,7 +21708,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:31:44.814Z"
+    },
+    {
+      "id": "mt4ptm0zh2dy357j78",
+      "name": "Buddy Boome",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/SuccesswithBuddy",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:32:14.531Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:31:44.814Z"
+  "lastUpdated": "2026-08-22T18:32:14.531Z"
 }
