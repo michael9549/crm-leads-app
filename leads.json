@@ -21798,7 +21798,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:34:56.377Z"
+    },
+    {
+      "id": "mt4pxrcwwc9i1fbufl",
+      "name": "Dylan Veresh",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/dylan.veresh",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:35:28.064Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:34:56.377Z"
+  "lastUpdated": "2026-08-22T18:35:28.064Z"
 }
