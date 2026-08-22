@@ -21870,7 +21870,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:38:39.494Z"
+    },
+    {
+      "id": "mt4q2llf4acjxaywpdk",
+      "name": "Patrick Henry",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/PatrickHenry3224",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:39:13.875Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:38:39.494Z"
+  "lastUpdated": "2026-08-22T18:39:13.875Z"
 }
