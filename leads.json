@@ -21762,7 +21762,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:33:55.508Z"
+    },
+    {
+      "id": "mt4pwf0o6ac9li1qsme",
+      "name": "Cameron Blakely",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/cbreezyblakely",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:34:25.416Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:33:55.508Z"
+  "lastUpdated": "2026-08-22T18:34:25.416Z"
 }
