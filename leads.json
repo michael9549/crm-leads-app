@@ -20960,14 +20960,14 @@
       "phone": "",
       "social": "https://www.facebook.com/david.gurny",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-19",
-      "nextFollowUp": "2026-08-22",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-19",
+      "lastModified": "2026-08-22",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:24:13.559Z"
     },
@@ -21656,5 +21656,5 @@
       "addedAt": "2026-08-21T14:15:52.331Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:22:36.947Z"
+  "lastUpdated": "2026-08-22T18:23:43.385Z"
 }
