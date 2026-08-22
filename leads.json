@@ -21852,7 +21852,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:38:11.274Z"
+    },
+    {
+      "id": "mt4q1v2ebxxkw93y065",
+      "name": "Norman Sanders",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/norman.sanders.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:38:39.494Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:38:11.274Z"
+  "lastUpdated": "2026-08-22T18:38:39.494Z"
 }
