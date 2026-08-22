@@ -21744,7 +21744,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:33:27.467Z"
+    },
+    {
+      "id": "mt4pvrxw82fy0ne1ft",
+      "name": "Kim Brown",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/moneymakingmamma",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:33:55.508Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:33:27.467Z"
+  "lastUpdated": "2026-08-22T18:33:55.508Z"
 }
