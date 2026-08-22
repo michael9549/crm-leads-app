@@ -21834,7 +21834,25 @@
       "lastModified": "2026-08-22",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:37:34.010Z"
+    },
+    {
+      "id": "mt4q19aiek2qpxleo1",
+      "name": "Mark Hurd",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/MarkHurd1969",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-22",
+      "nextFollowUp": "2026-08-25",
+      "notes": "",
+      "lastModified": "2026-08-22",
+      "dateAdded": "2026-08-22",
+      "addedAt": "2026-08-22T18:38:11.274Z"
     }
   ],
-  "lastUpdated": "2026-08-22T18:37:34.010Z"
+  "lastUpdated": "2026-08-22T18:38:11.274Z"
 }
