@@ -21608,14 +21608,14 @@
       "phone": "",
       "social": "https://www.facebook.com/robert.smith.3705",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-21",
-      "nextFollowUp": "2026-08-24",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-21",
+      "lastModified": "2026-08-24",
       "dateAdded": "2026-08-21",
       "addedAt": "2026-08-21T14:14:59.204Z"
     },
@@ -21926,5 +21926,5 @@
       "addedAt": "2026-08-22T18:40:22.411Z"
     }
   ],
-  "lastUpdated": "2026-08-24T14:55:04.155Z"
+  "lastUpdated": "2026-08-24T14:55:22.016Z"
 }
