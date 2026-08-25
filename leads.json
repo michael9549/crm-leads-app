@@ -22158,7 +22158,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:51:17.578Z"
+    },
+    {
+      "id": "mt82jox1guidxw9c19g",
+      "name": "Eddie Mcgowan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/eddie.mcgowan.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:51:45.253Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:51:17.578Z"
+  "lastUpdated": "2026-08-25T02:51:45.253Z"
 }
