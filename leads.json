@@ -21843,14 +21843,14 @@
       "phone": "",
       "social": "https://www.facebook.com/MarkHurd1969",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-22",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-22",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:38:11.274Z"
     },
@@ -22215,5 +22215,5 @@
       "addedAt": "2026-08-25T02:52:47.688Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:45:22.107Z"
+  "lastUpdated": "2026-08-25T14:45:41.532Z"
 }
