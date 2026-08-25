@@ -21978,7 +21978,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:42:23.149Z"
+    },
+    {
+      "id": "mt828uh7jnx5ek279j",
+      "name": "Luis Alvarado",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/theluisalvarado",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:43:19.243Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:42:23.149Z"
+  "lastUpdated": "2026-08-25T02:43:19.243Z"
 }
