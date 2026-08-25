@@ -22286,7 +22286,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T18:39:57.828Z"
+    },
+    {
+      "id": "mt90fwi5zzg8ix8a6q",
+      "name": "Scott Cunningham",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/scott.cunningham.944",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T18:40:35.405Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:39:57.828Z"
+  "lastUpdated": "2026-08-25T18:40:35.405Z"
 }
