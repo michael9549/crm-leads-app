@@ -22358,7 +22358,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T18:42:08.449Z"
+    },
+    {
+      "id": "mt90ijuyu9j1me3bw1e",
+      "name": "Justin D. Wilcox",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/profile.php?id=100001734145070",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T18:42:38.986Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:42:08.449Z"
+  "lastUpdated": "2026-08-25T18:42:38.986Z"
 }
