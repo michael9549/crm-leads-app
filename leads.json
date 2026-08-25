@@ -22050,7 +22050,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:48:06.663Z"
+    },
+    {
+      "id": "mt82fpw9q5a1eae8jz",
+      "name": "Bam Tristan-Mercer",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/BrentAlanMercer",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:48:39.897Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:48:06.663Z"
+  "lastUpdated": "2026-08-25T02:48:39.897Z"
 }
