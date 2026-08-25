@@ -22250,7 +22250,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T18:38:48.698Z"
+    },
+    {
+      "id": "mt90ebp29oz0lslk036",
+      "name": "Chris Godwin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chrisgodwinhq",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T18:39:21.782Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:38:48.698Z"
+  "lastUpdated": "2026-08-25T18:39:21.782Z"
 }
