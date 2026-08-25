@@ -22466,7 +22466,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T18:46:30.321Z"
+    },
+    {
+      "id": "mt90oewfqpdot9y1t8f",
+      "name": "Traci Lebens",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/traci.lebens",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T18:47:12.495Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:46:30.321Z"
+  "lastUpdated": "2026-08-25T18:47:12.495Z"
 }
