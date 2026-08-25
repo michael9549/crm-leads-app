@@ -22122,7 +22122,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:50:09.903Z"
+    },
+    {
+      "id": "mt82i8s40bunzzzxolh",
+      "name": "Ziggy Birch",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/ziggy.birch777",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:50:37.684Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:50:09.903Z"
+  "lastUpdated": "2026-08-25T02:50:37.684Z"
 }
