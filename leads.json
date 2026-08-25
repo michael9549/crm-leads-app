@@ -21942,7 +21942,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:40:56.675Z"
+    },
+    {
+      "id": "mt826rg03h48ymamy6t",
+      "name": "Kamil Jasina",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/kamil.jasina91",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:41:42.000Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:40:56.676Z"
+  "lastUpdated": "2026-08-25T02:41:42.001Z"
 }
