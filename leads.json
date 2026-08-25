@@ -22448,7 +22448,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T18:45:57.813Z"
+    },
+    {
+      "id": "mt90nicxz2mfxyqcnjs",
+      "name": "Faisal Khan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/khan.faisal.2209",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T18:46:30.321Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:45:57.813Z"
+  "lastUpdated": "2026-08-25T18:46:30.321Z"
 }
