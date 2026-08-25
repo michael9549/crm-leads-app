@@ -22232,7 +22232,25 @@
       "customerSince": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T14:48:26.111Z"
+    },
+    {
+      "id": "mt90dm62wcsljmttnud",
+      "name": "Johnathan Rockwell",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/JohnathanMRockwell",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2026-08-28",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T18:38:48.698Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:48:26.111Z"
+  "lastUpdated": "2026-08-25T18:38:48.698Z"
 }
