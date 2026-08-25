@@ -22068,7 +22068,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:48:39.897Z"
+    },
+    {
+      "id": "mt82gdr0ih966dj6yh",
+      "name": "Sandra Espinoza",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/sandra.rodriguez.54540",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:49:10.812Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:48:39.897Z"
+  "lastUpdated": "2026-08-25T02:49:10.812Z"
 }
