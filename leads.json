@@ -22194,7 +22194,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:52:10.914Z"
+    },
+    {
+      "id": "mt82l13c4d9c161593n",
+      "name": "Rosina Holland",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/RosinaMHolland",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:52:47.688Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:52:10.914Z"
+  "lastUpdated": "2026-08-25T02:52:47.688Z"
 }
