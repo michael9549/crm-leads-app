@@ -22213,7 +22213,26 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:52:47.688Z"
+    },
+    {
+      "id": "mt8s5clbfu1h4obtluo",
+      "name": "Parick Engel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/padster",
+      "source": "Facebook",
+      "status": "Customer",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-25",
+      "nextFollowUp": "2028-04-25",
+      "notes": "",
+      "lastModified": "2026-08-25",
+      "customerSince": "2026-08-25",
+      "dateAdded": "2026-08-25",
+      "addedAt": "2026-08-25T14:48:26.111Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:47:15.230Z"
+  "lastUpdated": "2026-08-25T14:48:26.111Z"
 }
