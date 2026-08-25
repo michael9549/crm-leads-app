@@ -21915,14 +21915,14 @@
       "phone": "",
       "social": "https://www.facebook.com/dochennessy",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-22",
-      "nextFollowUp": "2026-08-25",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-22",
+      "lastModified": "2026-08-25",
       "dateAdded": "2026-08-22",
       "addedAt": "2026-08-22T18:40:22.411Z"
     },
@@ -22215,5 +22215,5 @@
       "addedAt": "2026-08-25T02:52:47.688Z"
     }
   ],
-  "lastUpdated": "2026-08-25T14:46:54.045Z"
+  "lastUpdated": "2026-08-25T14:47:15.230Z"
 }
