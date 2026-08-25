@@ -21996,7 +21996,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:43:19.243Z"
+    },
+    {
+      "id": "mt829fd8b96cbfte09",
+      "name": "Kevin KL",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/SlwKevinKL",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:43:46.316Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:43:19.243Z"
+  "lastUpdated": "2026-08-25T02:43:46.316Z"
 }
