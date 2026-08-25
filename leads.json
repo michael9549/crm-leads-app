@@ -22014,7 +22014,25 @@
       "lastModified": "2026-08-24",
       "dateAdded": "2026-08-24",
       "addedAt": "2026-08-25T02:43:46.316Z"
+    },
+    {
+      "id": "mt82a6skxmfimg9ulvq",
+      "name": "Zachary Baldwin",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/zachary.baldwin.37",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-24",
+      "nextFollowUp": "2026-08-27",
+      "notes": "",
+      "lastModified": "2026-08-24",
+      "dateAdded": "2026-08-24",
+      "addedAt": "2026-08-25T02:44:21.860Z"
     }
   ],
-  "lastUpdated": "2026-08-25T02:43:46.316Z"
+  "lastUpdated": "2026-08-25T02:44:21.860Z"
 }
