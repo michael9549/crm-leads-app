@@ -22520,7 +22520,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:25:05.989Z"
+    },
+    {
+      "id": "mtad7lrp0f3wpwm9y6d7",
+      "name": "Jerry Teel",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jerry.teel.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:25:49.429Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:25:05.989Z"
+  "lastUpdated": "2026-08-26T17:25:49.429Z"
 }
