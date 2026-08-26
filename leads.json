@@ -22718,7 +22718,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:33:44.521Z"
+    },
+    {
+      "id": "mtadidxnp1al78jzzzd",
+      "name": "Brittany Fields",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/brittany.fields541",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:34:12.491Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:33:44.521Z"
+  "lastUpdated": "2026-08-26T17:34:12.491Z"
 }
