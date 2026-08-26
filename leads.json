@@ -22664,7 +22664,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:31:30.343Z"
+    },
+    {
+      "id": "mtadgg3deubxw6c12s6",
+      "name": "Walter Sanchez",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/walter.sanchez.3150",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:32:41.977Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:31:30.343Z"
+  "lastUpdated": "2026-08-26T17:32:41.977Z"
 }
