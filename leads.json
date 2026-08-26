@@ -22610,7 +22610,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:29:50.923Z"
+    },
+    {
+      "id": "mtaddod8lbg43wr1s9s",
+      "name": "Clara Olahoro",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/clara.agula",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:30:32.732Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:29:50.923Z"
+  "lastUpdated": "2026-08-26T17:30:32.732Z"
 }
