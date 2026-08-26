@@ -22484,7 +22484,25 @@
       "lastModified": "2026-08-25",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T18:47:12.495Z"
+    },
+    {
+      "id": "mtad5txfqsq02qdxs2l",
+      "name": "David Kochis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/david.kochis.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:24:26.691Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:21:09.943Z"
+  "lastUpdated": "2026-08-26T17:24:26.691Z"
 }
