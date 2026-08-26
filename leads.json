@@ -22556,7 +22556,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:26:19.612Z"
+    },
+    {
+      "id": "mtad93u6mxl6411xc3l",
+      "name": "Casey Stancil",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/casey.stancil.7",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:26:59.502Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:26:19.612Z"
+  "lastUpdated": "2026-08-26T17:26:59.502Z"
 }
