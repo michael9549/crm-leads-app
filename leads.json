@@ -22628,7 +22628,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:30:32.732Z"
+    },
+    {
+      "id": "mtadeamvlwed6noxoap",
+      "name": "Anne Long",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/anneinmiami",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:31:01.591Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:30:32.732Z"
+  "lastUpdated": "2026-08-26T17:31:01.591Z"
 }
