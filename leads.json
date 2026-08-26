@@ -22592,7 +22592,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:29:13.881Z"
+    },
+    {
+      "id": "mtadcs3v9natzpfnawj",
+      "name": "John Schulte",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.schulte.9674",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:29:50.923Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:29:13.881Z"
+  "lastUpdated": "2026-08-26T17:29:50.923Z"
 }
