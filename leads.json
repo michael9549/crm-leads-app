@@ -13497,14 +13497,14 @@
       "phone": "",
       "social": "https://www.facebook.com/heatherlee42",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-06-23",
-      "nextFollowUp": "2026-08-26",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-06-26",
+      "lastModified": "2026-08-26",
       "dateAdded": "2026-06-20",
       "addedAt": "2026-06-21T00:41:41.183Z"
     },
@@ -22486,5 +22486,5 @@
       "addedAt": "2026-08-25T18:47:12.495Z"
     }
   ],
-  "lastUpdated": "2026-08-25T18:47:12.495Z"
+  "lastUpdated": "2026-08-26T17:13:20.415Z"
 }
