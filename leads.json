@@ -22574,7 +22574,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:26:59.502Z"
+    },
+    {
+      "id": "mtadbzixirqza4j0g8o",
+      "name": "Jemps Bresil",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jempsbresil",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:29:13.881Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:26:59.502Z"
+  "lastUpdated": "2026-08-26T17:29:13.881Z"
 }
