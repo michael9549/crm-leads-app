@@ -22538,7 +22538,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:25:49.429Z"
+    },
+    {
+      "id": "mtad8924ck2bcbl05h",
+      "name": "Suraj K",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/surajk09",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:26:19.612Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:25:49.429Z"
+  "lastUpdated": "2026-08-26T17:26:19.612Z"
 }
