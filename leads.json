@@ -22736,7 +22736,25 @@
       "lastModified": "2026-08-26",
       "dateAdded": "2026-08-26",
       "addedAt": "2026-08-26T17:34:12.491Z"
+    },
+    {
+      "id": "mtadjfntlvv71wrabv",
+      "name": "Joseph Bruton",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/joseph.bruton.92",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-26",
+      "nextFollowUp": "2026-08-29",
+      "notes": "",
+      "lastModified": "2026-08-26",
+      "dateAdded": "2026-08-26",
+      "addedAt": "2026-08-26T17:35:01.385Z"
     }
   ],
-  "lastUpdated": "2026-08-26T17:34:12.491Z"
+  "lastUpdated": "2026-08-26T17:35:01.385Z"
 }
