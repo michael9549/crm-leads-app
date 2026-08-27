@@ -22844,7 +22844,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T23:56:54.481Z"
+    },
+    {
+      "id": "mtc6n1sm7n2t2akcs4g",
+      "name": "Jayden Lee",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/junyu.lee.71",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T23:57:25.078Z"
     }
   ],
-  "lastUpdated": "2026-08-27T23:56:54.481Z"
+  "lastUpdated": "2026-08-27T23:57:25.078Z"
 }
