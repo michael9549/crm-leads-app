@@ -22790,7 +22790,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T23:54:51.182Z"
+    },
+    {
+      "id": "mtc6l0afzu6y7wh4et9",
+      "name": "Chase Maloney",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/chase.maloney.96",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T23:55:49.815Z"
     }
   ],
-  "lastUpdated": "2026-08-27T23:54:51.182Z"
+  "lastUpdated": "2026-08-27T23:55:49.815Z"
 }
