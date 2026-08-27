@@ -22826,7 +22826,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-27T23:56:22.365Z"
+    },
+    {
+      "id": "mtc6me6pyfpwxjrw53m",
+      "name": "Mike Hansen",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/mike.hansen.184881",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-27T23:56:54.481Z"
     }
   ],
-  "lastUpdated": "2026-08-27T23:56:22.365Z"
+  "lastUpdated": "2026-08-27T23:56:54.481Z"
 }
