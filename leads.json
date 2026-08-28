@@ -20942,14 +20942,14 @@
       "phone": "",
       "social": "https://www.facebook.com/barry.light1",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-08-19",
       "addedAt": "2026-08-19T14:23:45.426Z"
     },
@@ -23026,5 +23026,5 @@
       "addedAt": "2026-08-28T00:09:15.813Z"
     }
   ],
-  "lastUpdated": "2026-08-28T15:43:27.515Z"
+  "lastUpdated": "2026-08-28T15:43:53.789Z"
 }
