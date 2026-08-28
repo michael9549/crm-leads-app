@@ -23205,7 +23205,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T16:57:46.282Z"
+    },
+    {
+      "id": "mtd97d376iplkh1h65r",
+      "name": "Debbie Baker",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/debbie.baker.5458",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-08-31",
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T17:56:58.243Z"
     }
   ],
-  "lastUpdated": "2026-08-28T16:57:46.282Z"
+  "lastUpdated": "2026-08-28T17:56:58.243Z"
 }
