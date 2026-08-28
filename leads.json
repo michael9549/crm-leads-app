@@ -21788,16 +21788,17 @@
       "phone": "",
       "social": "https://www.facebook.com/carl.bonar",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": "2028-03-28",
       "notes": "",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-08-22",
-      "addedAt": "2026-08-22T18:34:56.377Z"
+      "addedAt": "2026-08-22T18:34:56.377Z",
+      "customerSince": "2026-08-28"
     },
     {
       "id": "mt4pxrcwwc9i1fbufl",
@@ -23026,5 +23027,5 @@
       "addedAt": "2026-08-28T00:09:15.813Z"
     }
   ],
-  "lastUpdated": "2026-08-28T15:50:32.337Z"
+  "lastUpdated": "2026-08-28T15:51:05.061Z"
 }
