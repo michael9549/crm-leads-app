@@ -22952,7 +22952,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-28T00:04:28.959Z"
+    },
+    {
+      "id": "mtc70gg9imx4r5a917r",
+      "name": "James Bocalbos",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/james.bocalbos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-28T00:07:50.601Z"
     }
   ],
-  "lastUpdated": "2026-08-28T00:04:28.959Z"
+  "lastUpdated": "2026-08-28T00:07:50.601Z"
 }
