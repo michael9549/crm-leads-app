@@ -22934,7 +22934,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-28T00:04:02.566Z"
+    },
+    {
+      "id": "mtc6w4v3yv3ig2rpc18",
+      "name": "Nick Morgan",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/aibynickm",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-28T00:04:28.959Z"
     }
   ],
-  "lastUpdated": "2026-08-28T00:04:02.566Z"
+  "lastUpdated": "2026-08-28T00:04:28.959Z"
 }
