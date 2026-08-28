@@ -23061,7 +23061,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T16:12:25.167Z"
+    },
+    {
+      "id": "mtd5hidnc3wihip4n37",
+      "name": "John Carson",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/john.carson.52438",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-08-31",
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T16:12:53.195Z"
     }
   ],
-  "lastUpdated": "2026-08-28T16:12:25.167Z"
+  "lastUpdated": "2026-08-28T16:12:53.195Z"
 }
