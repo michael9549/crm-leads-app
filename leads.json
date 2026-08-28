@@ -23006,7 +23006,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-28T00:08:44.838Z"
+    },
+    {
+      "id": "mtc72a79ydrprhroakg",
+      "name": "Jesse Barrios",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/jesse.barrios.378",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-28T00:09:15.813Z"
     }
   ],
-  "lastUpdated": "2026-08-28T00:08:44.838Z"
+  "lastUpdated": "2026-08-28T00:09:15.813Z"
 }
