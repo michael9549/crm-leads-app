@@ -22331,14 +22331,14 @@
       "phone": "",
       "social": "https://www.facebook.com/steve.haase.94",
       "source": "Facebook",
-      "status": "New Lead",
+      "status": "Not Interested",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-25",
-      "nextFollowUp": "2026-08-28",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-25",
+      "lastModified": "2026-08-28",
       "dateAdded": "2026-08-25",
       "addedAt": "2026-08-25T18:41:41.778Z"
     },
@@ -23027,5 +23027,5 @@
       "addedAt": "2026-08-28T00:09:15.813Z"
     }
   ],
-  "lastUpdated": "2026-08-28T16:00:24.592Z"
+  "lastUpdated": "2026-08-28T16:00:45.515Z"
 }
