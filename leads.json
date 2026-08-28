@@ -23025,7 +23025,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-28T00:09:15.813Z"
+    },
+    {
+      "id": "mtd5g8iaid86l90jkj",
+      "name": "Arnita Webb",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/arnita.webb.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-08-31",
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T16:11:53.746Z"
     }
   ],
-  "lastUpdated": "2026-08-28T16:04:45.628Z"
+  "lastUpdated": "2026-08-28T16:11:53.746Z"
 }
