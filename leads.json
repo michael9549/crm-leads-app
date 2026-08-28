@@ -22916,7 +22916,25 @@
       "lastModified": "2026-08-27",
       "dateAdded": "2026-08-27",
       "addedAt": "2026-08-28T00:02:54.665Z"
+    },
+    {
+      "id": "mtc6vkhypff51ml73ca",
+      "name": "Teresa Greenway",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/teresa.greenway.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-27",
+      "nextFollowUp": "2026-08-30",
+      "notes": "",
+      "lastModified": "2026-08-27",
+      "dateAdded": "2026-08-27",
+      "addedAt": "2026-08-28T00:04:02.566Z"
     }
   ],
-  "lastUpdated": "2026-08-28T00:02:54.665Z"
+  "lastUpdated": "2026-08-28T00:04:02.566Z"
 }
