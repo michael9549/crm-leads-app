@@ -23295,7 +23295,25 @@
       "lastModified": "2026-08-28",
       "dateAdded": "2026-08-28",
       "addedAt": "2026-08-28T17:59:52.881Z"
+    },
+    {
+      "id": "mtd9bo6zoj1189udn5q",
+      "name": "Randy Davis",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/randy.davis.3994885",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-08-28",
+      "nextFollowUp": "2026-08-31",
+      "notes": "",
+      "lastModified": "2026-08-28",
+      "dateAdded": "2026-08-28",
+      "addedAt": "2026-08-28T18:00:19.259Z"
     }
   ],
-  "lastUpdated": "2026-08-28T17:59:52.881Z"
+  "lastUpdated": "2026-08-28T18:00:19.259Z"
 }
