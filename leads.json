@@ -23303,17 +23303,18 @@
       "phone": "",
       "social": "https://www.facebook.com/randy.davis.3994885",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-28",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-31",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-08-28",
-      "addedAt": "2026-08-28T18:00:19.259Z"
+      "addedAt": "2026-08-28T18:00:19.259Z",
+      "customerSince": "2026-09-02"
     }
   ],
-  "lastUpdated": "2026-09-01T00:55:49.539Z"
+  "lastUpdated": "2026-09-02T21:11:31.656Z"
 }
