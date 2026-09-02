@@ -23267,16 +23267,17 @@
       "phone": "",
       "social": "https://www.facebook.com/christopher.zapatka.9",
       "source": "Facebook",
-      "status": "Not Interested",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-08-28",
       "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-08-31",
+      "lastModified": "2026-09-02",
       "dateAdded": "2026-08-28",
-      "addedAt": "2026-08-28T17:59:23.682Z"
+      "addedAt": "2026-08-28T17:59:23.682Z",
+      "customerSince": "2026-09-02"
     },
     {
       "id": "mtd9b3u9w50bp710bwm",
@@ -23317,5 +23318,5 @@
       "customerSince": "2026-09-02"
     }
   ],
-  "lastUpdated": "2026-09-02T21:11:43.658Z"
+  "lastUpdated": "2026-09-02T21:11:53.802Z"
 }
