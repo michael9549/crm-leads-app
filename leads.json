@@ -25321,12 +25321,12 @@
       "email": "",
       "phone": "",
       "social": "",
-      "source": "Manual",
-      "status": "New Lead",
-      "videoSent": false,
+      "source": "",
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
-      "lastAction": "New Entry",
-      "lastContact": "",
+      "lastAction": "",
+      "lastContact": null,
       "nextFollowUp": "2026-09-11",
       "notes": "FAKE",
       "lastModified": "2026-09-08",
@@ -25622,5 +25622,5 @@
       "addedAt": "2026-09-08T13:39:35.000Z"
     }
   ],
-  "lastUpdated": "2026-09-08T13:53:16.195Z"
+  "lastUpdated": "2026-09-08T13:53:22.499Z"
 }
