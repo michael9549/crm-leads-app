@@ -7,10 +7,12 @@
       "name": "Aaron Andrews",
       "social": "https://facebook.com/AaronAndShara",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mua67dg85szub9fqdw7",
+      "convertedAt": "2026-09-20T18:49:23.673Z"
     },
     {
       "id": "prospect-mua64gcd-yygsz1",
@@ -41581,5 +41583,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-20T18:47:07.483Z"
+  "lastUpdated": "2026-09-20T18:49:26.842Z"
 }
