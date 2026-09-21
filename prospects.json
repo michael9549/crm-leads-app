@@ -21,18 +21,13 @@
       "name": "Aaron Behunin",
       "social": "https://facebook.com/AaronBehunin",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Converted",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
       "notes": "",
       "reservedAt": "2026-09-21T14:17:05.724Z",
       "reservedBy": "muse",
-      "reservationExpiresAt": "2026-09-21T16:17:05.724Z",
-      "convertedLeadId": "muse-mubc8vdy-ebjdwj",
-      "convertedAt": "2026-09-21T14:26:17.447Z",
-      "museLastMessageText": "Hey Aaron, I know we don't know each other.\n\nI noticed we have some mutual friends and wanted to reach out.\n\nFor the last few years, I've been involved with a trading education community that teaches people trading and market analysis as a skill they can learn alongside their current profession.\n\nWould you be open to taking a quick look?",
-      "museLastSentAt": "2026-09-21T07:26:15-0700",
-      "museIdempotencyKey": "d248cbc9-60a9-4ee5-a819-031c236d9ca3"
+      "reservationExpiresAt": "2026-09-21T16:17:05.724Z"
     },
     {
       "id": "prospect-mua64gcd-tv2nt4",
@@ -41,13 +36,10 @@
       "name": "Aaron Christy",
       "social": "https://facebook.com/aaron.christy.79",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": "",
-      "reservedAt": "2026-09-21T14:17:05.724Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-09-21T16:17:05.724Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcd-1tsmx4",
@@ -41618,5 +41610,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:26:17.447Z"
+  "lastUpdated": "2026-09-21T14:26:40.388Z"
 }
