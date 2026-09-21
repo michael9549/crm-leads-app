@@ -96,10 +96,13 @@
       "name": "Aaron Crocker",
       "social": "https://facebook.com/aaroncrocker",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-09-21T14:17:05.724Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-09-21T16:17:05.724Z"
     },
     {
       "id": "prospect-mua64gcd-yfrfrg",
@@ -108,13 +111,10 @@
       "name": "Aaron Deal",
       "social": "https://facebook.com/aaron.deal.5",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": "",
-      "reservedAt": "2026-09-21T14:17:05.724Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-09-21T16:17:05.724Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcd-nt0a1i",
@@ -41610,5 +41610,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:27:28.979Z"
+  "lastUpdated": "2026-09-21T14:27:33.307Z"
 }
