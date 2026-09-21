@@ -51,10 +51,13 @@
       "name": "Aaron Clapson",
       "social": "https://facebook.com/aaron.clapson",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-09-21T14:17:05.724Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-09-21T16:17:05.724Z"
     },
     {
       "id": "prospect-mua64gcd-fqrls3",
@@ -63,13 +66,10 @@
       "name": "Aaron Crawford",
       "social": "https://facebook.com/aaron.crawford.925",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": "",
-      "reservedAt": "2026-09-21T14:17:05.724Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-09-21T16:17:05.724Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcd-5s2iw2",
@@ -41610,5 +41610,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:26:50.954Z"
+  "lastUpdated": "2026-09-21T14:27:02.506Z"
 }
