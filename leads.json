@@ -29922,7 +29922,33 @@
       "addedAt": "2026-09-20T18:49:23.672Z",
       "prospectSourceId": "prospect-mua64gcd-778ciz",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "muse-mubc8vdy-ebjdwj",
+      "name": "Aaron Behunin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AaronBehunin",
+      "source": "Facebook Friends Upload - 2026-09-20",
+      "status": "New Lead",
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-21",
+      "nextFollowUp": "2026-09-24",
+      "notes": "Muse outreach sent 2026-09-21T07:26:15-0700: Hey Aaron, I know we don't know each other.\n\nI noticed we have some mutual friends and wanted to reach out.\n\nFor the last few years, I've been involved with a trading education community that teaches people trading and market analysis as a skill they can learn alongside their current profession.\n\nWould you be open to taking a quick look?",
+      "lastModified": "2026-09-21",
+      "dateAdded": "2026-09-21",
+      "addedAt": "2026-09-21T14:26:17.415Z",
+      "videoSent": false,
+      "prospectSourceId": "prospect-mua64gcd-yygsz1",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z",
+      "muse": {
+        "channel": "messenger",
+        "campaign": "cold-outreach",
+        "sentAt": "2026-09-21T07:26:15-0700",
+        "idempotencyKey": "d248cbc9-60a9-4ee5-a819-031c236d9ca3"
+      }
     }
   ],
-  "lastUpdated": "2026-09-20T18:49:23.673Z"
+  "lastUpdated": "2026-09-21T14:26:17.447Z"
 }
