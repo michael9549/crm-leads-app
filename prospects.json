@@ -15,21 +15,6 @@
       "convertedAt": "2026-09-20T18:49:23.673Z"
     },
     {
-      "id": "prospect-mua64gcd-yygsz1",
-      "firstName": "Aaron",
-      "lastName": "Behunin",
-      "name": "Aaron Behunin",
-      "social": "https://facebook.com/AaronBehunin",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": "",
-      "reservedAt": "2026-09-21T14:17:05.724Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-09-21T16:17:05.724Z"
-    },
-    {
       "id": "prospect-mua64gcd-tv2nt4",
       "firstName": "Aaron",
       "lastName": "Christy",
@@ -41610,5 +41595,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-21T14:27:41.988Z"
+  "lastUpdated": "2026-09-22T14:45:07.903Z"
 }
