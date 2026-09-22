@@ -30668,7 +30668,27 @@
       "lastModified": "2026-09-22",
       "dateAdded": "2026-09-22",
       "addedAt": "2026-09-22T14:17:28.000Z"
+    },
+    {
+      "id": "mucsd940isct7j5d48g",
+      "name": "Aaron Christy",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aaron.christy.79",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-22",
+      "dateAdded": "2026-09-22",
+      "addedAt": "2026-09-22T14:45:21.888Z",
+      "prospectSourceId": "prospect-mua64gcd-tv2nt4",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-22T14:17:28.000Z"
+  "lastUpdated": "2026-09-22T14:45:21.888Z"
 }
