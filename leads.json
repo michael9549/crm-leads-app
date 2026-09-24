@@ -29009,17 +29009,18 @@
       "email": "",
       "phone": "",
       "social": "",
-      "source": "Manual",
-      "status": "New Lead",
+      "source": "",
+      "status": "Customer",
       "videoSent": false,
       "temperature": "Cold",
-      "lastAction": "New Entry",
-      "lastContact": "",
+      "lastAction": "",
+      "lastContact": null,
       "nextFollowUp": "2026-09-24",
       "notes": "FAKE\n[2026-09-21] Follow-up moved to 2026-09-24 per Michael follow-up cleanup.",
-      "lastModified": "2026-09-21",
+      "lastModified": "2026-09-24",
       "dateAdded": "2026-09-18",
-      "addedAt": "2026-09-18T14:06:19.000Z"
+      "addedAt": "2026-09-18T14:06:19.000Z",
+      "customerSince": "2026-09-24"
     },
     {
       "id": "fake-20260918-12",
@@ -31086,5 +31087,5 @@
       "addedAt": "2026-09-23T13:50:31.358Z"
     }
   ],
-  "lastUpdated": "2026-09-23T13:50:31.358Z"
+  "lastUpdated": "2026-09-24T14:17:03.033Z"
 }
