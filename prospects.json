@@ -353,10 +353,12 @@
       "name": "Ada Grabowicz",
       "social": "https://facebook.com/ada.grabowicz",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna24o4ghuztwxso5o",
+      "convertedAt": "2026-09-29T22:58:17.764Z"
     },
     {
       "id": "prospect-mua64gcd-004kjl",
@@ -41627,5 +41629,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T22:57:46.352Z"
+  "lastUpdated": "2026-09-29T22:58:19.911Z"
 }
