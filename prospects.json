@@ -437,10 +437,12 @@
       "name": "Adam Froman",
       "social": "https://facebook.com/adam.froman",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna62ybnf915sa597c",
+      "convertedAt": "2026-09-29T23:01:22.163Z"
     },
     {
       "id": "prospect-mua64gcd-olya4p",
@@ -41639,5 +41641,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:00:48.608Z"
+  "lastUpdated": "2026-09-29T23:01:25.348Z"
 }
