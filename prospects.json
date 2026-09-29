@@ -409,10 +409,12 @@
       "name": "Adam Biedron",
       "social": "https://facebook.com/adam.biedron",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna4m0btmxzodk6lmj",
+      "convertedAt": "2026-09-29T23:00:13.547Z"
     },
     {
       "id": "prospect-mua64gcd-umynlj",
@@ -41635,5 +41637,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T22:59:43.768Z"
+  "lastUpdated": "2026-09-29T23:00:15.411Z"
 }
