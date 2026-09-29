@@ -33682,7 +33682,27 @@
       "addedAt": "2026-09-29T23:08:02.883Z",
       "prospectSourceId": "prospect-mua64gcd-krp5dr",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "munafkoccwmjj9bvze",
+      "name": "Adiel Fredericks",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/adiel.fredericks.2025",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T23:08:45.036Z",
+      "prospectSourceId": "prospect-mua64gcd-exv354",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T23:08:02.883Z"
+  "lastUpdated": "2026-09-29T23:08:45.036Z"
 }
