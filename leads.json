@@ -33311,7 +33311,7 @@
       "phone": "",
       "social": "https://www.facebook.com/matthew.stephens.330",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
@@ -33320,8 +33320,9 @@
       "notes": "",
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
-      "addedAt": "2026-09-29T16:19:55.686Z"
+      "addedAt": "2026-09-29T16:19:55.686Z",
+      "customerSince": "2026-09-29"
     }
   ],
-  "lastUpdated": "2026-09-29T16:21:28.942Z"
+  "lastUpdated": "2026-09-29T18:16:10.583Z"
 }
