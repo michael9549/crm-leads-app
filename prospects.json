@@ -451,10 +451,12 @@
       "name": "Adam Garnett Sand",
       "social": "https://facebook.com/adamsandltd",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna6nuuvhr3x4ci8da",
+      "convertedAt": "2026-09-29T23:01:49.254Z"
     },
     {
       "id": "prospect-mua64gcd-jtp5s3",
@@ -41641,5 +41643,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:01:25.348Z"
+  "lastUpdated": "2026-09-29T23:01:51.518Z"
 }
