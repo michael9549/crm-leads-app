@@ -423,10 +423,12 @@
       "name": "Adam Butcher",
       "social": "https://facebook.com/AdamWButcher",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna5bnutlakru1pzr",
+      "convertedAt": "2026-09-29T23:00:46.794Z"
     },
     {
       "id": "prospect-mua64gcd-ae66gv",
@@ -41637,5 +41639,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:00:15.411Z"
+  "lastUpdated": "2026-09-29T23:00:48.608Z"
 }
