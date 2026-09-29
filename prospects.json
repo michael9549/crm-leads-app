@@ -521,10 +521,12 @@
       "name": "Adam Parker",
       "social": "https://facebook.com/adam.parker.5686",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "munaanxadislu4g4jg",
+      "convertedAt": "2026-09-29T23:04:55.966Z"
     },
     {
       "id": "prospect-mua64gcd-l37847",
@@ -41651,5 +41653,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:04:17.590Z"
+  "lastUpdated": "2026-09-29T23:04:57.628Z"
 }
