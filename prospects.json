@@ -241,10 +241,12 @@
       "name": "Aaron Tap",
       "social": "https://facebook.com/aaron.tapper.37",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mums6hcaecapn3dnl05",
+      "convertedAt": "2026-09-29T14:37:47.722Z"
     },
     {
       "id": "prospect-mua64gcd-y5mtar",
@@ -41611,5 +41613,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:36:50.550Z"
+  "lastUpdated": "2026-09-29T14:37:49.334Z"
 }
