@@ -145,6 +145,12 @@
       "content": "Hey {{firstName}}, I haven't heard back, so I'll assume the timing isn't right.\n\nIf that changes down the road, feel free to reach out. Wishing you all the best."
     },
     {
+      "id": "1790691985629",
+      "category": "Initial Outreach",
+      "name": "One Time",
+      "content": "Hey {{firstName}}, I know we don’t know each other, but I noticed we have quite a few mutual friends, so I figured I’d reach out. Are you into forex or futures trading at all, or not really?"
+    },
+    {
       "id": "initial-1",
       "category": "Initial Outreach",
       "name": "Generic Cold DM",
@@ -181,12 +187,6 @@
       "content": "Hey {{firstName}}, I know we don't know each other, but I'm going through my friends list and noticed we have some mutual friends. I wasn't sure if you'd be open to exploring an additional income stream, but if so, I have a short video that explains what I'm doing. Interested in taking a look?\n"
     },
     {
-      "id": "1790691985629",
-      "category": "Initial Outreach",
-      "name": "One Time",
-      "content": "Hey {{firstName}}, I know we don’t know each other, but I noticed we have quite a few mutual friends, so I figured I’d reach out. Are you into forex or futures trading at all, or not really?"
-    },
-    {
       "id": "1784596541695",
       "category": "Initial Outreach",
       "name": "AI CEO",
@@ -205,5 +205,5 @@
       "content": "Hey {{firstName}}, I know we don’t know each other, but we have some mutual friends, so I thought I’d reach out.\n\nI think a lot of people are quietly curious about trading, but they never take the next step because they do not know who to trust or where to start.\n\nThat is exactly the gap our community is built around: simple education, structure, and support so people can learn the basics without trying to figure everything out alone.\n\nWould you be open to seeing what that looks like?"
     }
   ],
-  "lastUpdated": "2026-09-29T22:57:06.792Z"
+  "lastUpdated": "2026-09-29T22:57:13.388Z"
 }
