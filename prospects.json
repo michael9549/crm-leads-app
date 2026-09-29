@@ -535,10 +535,12 @@
       "name": "Adam Pehrson",
       "social": "https://facebook.com/adam.pehrson.12",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "munab8qffcf89rgzwth",
+      "convertedAt": "2026-09-29T23:05:22.935Z"
     },
     {
       "id": "prospect-mua64gcd-q8qbmz",
@@ -41653,5 +41655,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:04:57.628Z"
+  "lastUpdated": "2026-09-29T23:05:25.228Z"
 }
