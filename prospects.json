@@ -157,10 +157,12 @@
       "name": "Aaron Husak",
       "social": "https://facebook.com/aaron.husak",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mums0uiw9oj4dh4ola5",
+      "convertedAt": "2026-09-29T14:33:24.872Z"
     },
     {
       "id": "prospect-mua64gcd-yiaktw",
@@ -41611,5 +41613,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:32:40.435Z"
+  "lastUpdated": "2026-09-29T14:33:27.215Z"
 }
