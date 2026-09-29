@@ -33223,7 +33223,27 @@
       "addedAt": "2026-09-29T14:40:13.625Z",
       "prospectSourceId": "prospect-mua64gcd-18sy7i",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "mumsacxvjbk6im9zy5",
+      "name": "Abby Goldsby",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/abby.goldsby.75",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:40:48.643Z",
+      "prospectSourceId": "prospect-mua64gcd-5r3xw4",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:40:13.625Z"
+  "lastUpdated": "2026-09-29T14:40:48.644Z"
 }
