@@ -33322,7 +33322,27 @@
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T16:19:55.686Z",
       "customerSince": "2026-09-29"
+    },
+    {
+      "id": "muna1f3e6z66iq2tjg",
+      "name": "Abraham Heisler",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/abe.heisler",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T22:57:44.618Z",
+      "prospectSourceId": "prospect-mua64gcd-2kyag1",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T18:17:08.376Z"
+  "lastUpdated": "2026-09-29T22:57:44.619Z"
 }
