@@ -367,10 +367,12 @@
       "name": "Adali Ladd",
       "social": "https://facebook.com/adali.ladd",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna2s6a515g8b8h8t9",
+      "convertedAt": "2026-09-29T22:58:48.226Z"
     },
     {
       "id": "prospect-mua64gcd-pvw429",
@@ -41629,5 +41631,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T22:58:19.911Z"
+  "lastUpdated": "2026-09-29T22:58:49.778Z"
 }
