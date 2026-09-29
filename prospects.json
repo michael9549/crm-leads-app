@@ -563,10 +563,12 @@
       "name": "Adam Pfeifer",
       "social": "https://facebook.com/adam.pfeifer15",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "munadwj1w12nkttde5j",
+      "convertedAt": "2026-09-29T23:07:27.086Z"
     },
     {
       "id": "prospect-mua64gcd-krp5dr",
@@ -41657,5 +41659,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:07:00.855Z"
+  "lastUpdated": "2026-09-29T23:07:29.796Z"
 }
