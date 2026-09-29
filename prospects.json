@@ -185,10 +185,12 @@
       "name": "Aaron Santas",
       "social": "https://facebook.com/aaron.santas",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mums30dz18nfoqdzt9r",
+      "convertedAt": "2026-09-29T14:35:05.783Z"
     },
     {
       "id": "prospect-mua64gcd-rw50cd",
@@ -41603,5 +41605,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:34:30.026Z"
+  "lastUpdated": "2026-09-29T14:35:07.667Z"
 }
