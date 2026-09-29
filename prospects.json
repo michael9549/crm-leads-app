@@ -577,10 +577,12 @@
       "name": "Adam Sylvester",
       "social": "https://facebook.com/adam.sylvester.71",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "munaeo5ftnx65ibp63",
+      "convertedAt": "2026-09-29T23:08:02.883Z"
     },
     {
       "id": "prospect-mua64gcd-exv354",
@@ -41659,5 +41661,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:07:29.796Z"
+  "lastUpdated": "2026-09-29T23:08:04.510Z"
 }
