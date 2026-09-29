@@ -33283,7 +33283,27 @@
       "addedAt": "2026-09-29T14:42:26.847Z",
       "prospectSourceId": "prospect-mua64gcd-z8yadh",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "mumsd62y1oe0rbexlra",
+      "name": "Abdul Tahiru Koromah",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aybeekay25",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:42:59.722Z",
+      "prospectSourceId": "prospect-mua64gcd-k2wse2",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:42:26.848Z"
+  "lastUpdated": "2026-09-29T14:42:59.723Z"
 }
