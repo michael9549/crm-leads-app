@@ -32903,7 +32903,27 @@
       "lastModified": "2026-09-28",
       "dateAdded": "2026-09-28",
       "addedAt": "2026-09-28T21:13:13.000Z"
+    },
+    {
+      "id": "mumrtb822vn0rwog26b",
+      "name": "Aaron Clapson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aaron.clapson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:27:33.266Z",
+      "prospectSourceId": "prospect-mua64gcd-1tsmx4",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T13:46:09.000Z"
+  "lastUpdated": "2026-09-29T14:27:33.266Z"
 }
