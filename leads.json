@@ -33362,7 +33362,27 @@
       "addedAt": "2026-09-29T22:58:17.764Z",
       "prospectSourceId": "prospect-mua64gcd-y048e7",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "muna2s6a515g8b8h8t9",
+      "name": "Adali Ladd",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/adali.ladd",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T22:58:48.226Z",
+      "prospectSourceId": "prospect-mua64gcd-004kjl",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T22:58:17.764Z"
+  "lastUpdated": "2026-09-29T22:58:48.227Z"
 }
