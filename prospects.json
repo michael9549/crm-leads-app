@@ -479,10 +479,12 @@
       "name": "Adam Howlett",
       "social": "https://facebook.com/adam.howlett.77",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna80axnlo1iviiyc",
+      "convertedAt": "2026-09-29T23:02:52.041Z"
     },
     {
       "id": "prospect-mua64gcd-81le32",
@@ -41645,5 +41647,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:02:22.619Z"
+  "lastUpdated": "2026-09-29T23:02:54.030Z"
 }
