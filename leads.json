@@ -33191,12 +33191,12 @@
       "phone": "",
       "social": "https://facebook.com/theoneandonlyaaronthorpe",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": null,
+      "nextFollowUp": "2026-09-30",
       "notes": "",
       "lastModified": "2026-09-29",
       "dateAdded": "2026-09-29",
@@ -33324,5 +33324,5 @@
       "customerSince": "2026-09-29"
     }
   ],
-  "lastUpdated": "2026-09-29T18:16:37.089Z"
+  "lastUpdated": "2026-09-29T18:17:08.376Z"
 }
