@@ -297,10 +297,12 @@
       "name": "Abby Hunjo",
       "social": "https://facebook.com/abby.hunjo",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mumsb1mtxb21ftzy5uc",
+      "convertedAt": "2026-09-29T14:41:20.645Z"
     },
     {
       "id": "prospect-mua64gcd-z8yadh",
@@ -41619,5 +41621,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:40:51.099Z"
+  "lastUpdated": "2026-09-29T14:41:22.452Z"
 }
