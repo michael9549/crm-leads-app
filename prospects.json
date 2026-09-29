@@ -283,10 +283,12 @@
       "name": "Abby Goldsby",
       "social": "https://facebook.com/abby.goldsby.75",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mumsacxvjbk6im9zy5",
+      "convertedAt": "2026-09-29T14:40:48.643Z"
     },
     {
       "id": "prospect-mua64gcd-znf9pf",
@@ -41617,5 +41619,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:40:15.576Z"
+  "lastUpdated": "2026-09-29T14:40:51.099Z"
 }
