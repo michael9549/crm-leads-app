@@ -32923,7 +32923,27 @@
       "addedAt": "2026-09-29T14:27:33.266Z",
       "prospectSourceId": "prospect-mua64gcd-1tsmx4",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "mumruvfpjdcsr2gwyrf",
+      "name": "Aaron Crawford",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aaron.crawford.925",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:28:46.117Z",
+      "prospectSourceId": "prospect-mua64gcd-fqrls3",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:27:33.266Z"
+  "lastUpdated": "2026-09-29T14:28:46.118Z"
 }
