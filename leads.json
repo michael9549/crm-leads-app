@@ -33183,7 +33183,27 @@
       "addedAt": "2026-09-29T14:37:47.722Z",
       "prospectSourceId": "prospect-mua64gcd-6vs9b8",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "mums8nxzjkscv6q4jd",
+      "name": "Aaron Thorpe",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/theoneandonlyaaronthorpe",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:39:29.591Z",
+      "prospectSourceId": "prospect-mua64gcd-y5mtar",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:37:47.723Z"
+  "lastUpdated": "2026-09-29T14:39:29.591Z"
 }
