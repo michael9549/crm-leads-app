@@ -549,10 +549,12 @@
       "name": "Adam Perrin",
       "social": "https://facebook.com/adam.perrin.31",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "munadaskfcptenglziw",
+      "convertedAt": "2026-09-29T23:06:58.916Z"
     },
     {
       "id": "prospect-mua64gcd-r2uk0r",
@@ -41655,5 +41657,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:05:25.228Z"
+  "lastUpdated": "2026-09-29T23:07:00.855Z"
 }
