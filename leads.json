@@ -32983,7 +32983,27 @@
       "addedAt": "2026-09-29T14:29:55.485Z",
       "prospectSourceId": "prospect-mua64gcd-cywlwe",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "mumrx3umrzilo6cp23",
+      "name": "Aaron Deal",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aaron.deal.5",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:30:30.334Z",
+      "prospectSourceId": "prospect-mua64gcd-yfrfrg",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:29:55.486Z"
+  "lastUpdated": "2026-09-29T14:30:30.335Z"
 }
