@@ -179,18 +179,6 @@
       "convertedAt": "2026-09-29T14:34:00.195Z"
     },
     {
-      "id": "prospect-mua64gcd-j6iz9s",
-      "firstName": "Aaron",
-      "lastName": "Rashkin",
-      "name": "Aaron Rashkin",
-      "social": "https://facebook.com/aaronrashkin",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcd-vz7s2g",
       "firstName": "Aaron",
       "lastName": "Santas",
@@ -41615,5 +41603,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:34:01.869Z"
+  "lastUpdated": "2026-09-29T14:34:30.026Z"
 }
