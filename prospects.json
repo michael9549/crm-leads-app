@@ -227,10 +227,12 @@
       "name": "Aaron Suggs",
       "social": "https://facebook.com/Thee.Suggs",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mums580q1vaxm9g02m2",
+      "convertedAt": "2026-09-29T14:36:48.986Z"
     },
     {
       "id": "prospect-mua64gcd-6vs9b8",
@@ -41609,5 +41611,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:36:14.808Z"
+  "lastUpdated": "2026-09-29T14:36:50.550Z"
 }
