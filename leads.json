@@ -33642,7 +33642,27 @@
       "addedAt": "2026-09-29T23:06:58.916Z",
       "prospectSourceId": "prospect-mua64gcd-q8qbmz",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "munadwj1w12nkttde5j",
+      "name": "Adam Pfeifer",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/adam.pfeifer15",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T23:07:27.085Z",
+      "prospectSourceId": "prospect-mua64gcd-r2uk0r",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T23:06:58.916Z"
+  "lastUpdated": "2026-09-29T23:07:27.086Z"
 }
