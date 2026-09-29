@@ -493,10 +493,12 @@
       "name": "Adam Lee",
       "social": "https://facebook.com/ninja17247",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna942dvibndbdz6vr",
+      "convertedAt": "2026-09-29T23:03:43.573Z"
     },
     {
       "id": "prospect-mua64gcd-1hpnsa",
@@ -41647,5 +41649,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:02:54.030Z"
+  "lastUpdated": "2026-09-29T23:03:45.538Z"
 }
