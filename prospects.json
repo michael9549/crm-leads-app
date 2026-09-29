@@ -395,10 +395,12 @@
       "name": "Adam Bevan",
       "social": "https://facebook.com/adam.j.bevan",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna3xuctxcg5h7bihs",
+      "convertedAt": "2026-09-29T22:59:42.228Z"
     },
     {
       "id": "prospect-mua64gcd-casosy",
@@ -41633,5 +41635,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T22:59:16.838Z"
+  "lastUpdated": "2026-09-29T22:59:43.768Z"
 }
