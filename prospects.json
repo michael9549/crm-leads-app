@@ -465,10 +465,12 @@
       "name": "Adam Holbrook",
       "social": "https://facebook.com/adam.holbrook.12",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna7ba5xtkd4qeak19",
+      "convertedAt": "2026-09-29T23:02:19.613Z"
     },
     {
       "id": "prospect-mua64gcd-ex1h1y",
@@ -41643,5 +41645,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:01:51.518Z"
+  "lastUpdated": "2026-09-29T23:02:22.619Z"
 }
