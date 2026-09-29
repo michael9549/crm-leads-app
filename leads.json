@@ -33422,7 +33422,27 @@
       "addedAt": "2026-09-29T22:59:42.228Z",
       "prospectSourceId": "prospect-mua64gcd-hb8wti",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "muna4m0btmxzodk6lmj",
+      "name": "Adam Biedron",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/adam.biedron",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T23:00:13.547Z",
+      "prospectSourceId": "prospect-mua64gcd-casosy",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T22:59:42.229Z"
+  "lastUpdated": "2026-09-29T23:00:13.547Z"
 }
