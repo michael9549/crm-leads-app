@@ -255,10 +255,12 @@
       "name": "Aaron Thorpe",
       "social": "https://facebook.com/theoneandonlyaaronthorpe",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mums8nxzjkscv6q4jd",
+      "convertedAt": "2026-09-29T14:39:29.591Z"
     },
     {
       "id": "prospect-mua64gcd-18sy7i",
@@ -41613,5 +41615,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:37:49.334Z"
+  "lastUpdated": "2026-09-29T14:39:31.481Z"
 }
