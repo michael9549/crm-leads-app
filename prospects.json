@@ -507,10 +507,12 @@
       "name": "Adam Mauro",
       "social": "https://facebook.com/mojorising369",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muna9t61rliram448rs",
+      "convertedAt": "2026-09-29T23:04:16.105Z"
     },
     {
       "id": "prospect-mua64gcd-yjjlj9",
@@ -41649,5 +41651,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:03:45.538Z"
+  "lastUpdated": "2026-09-29T23:04:17.590Z"
 }
