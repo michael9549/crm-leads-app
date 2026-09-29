@@ -49,12 +49,6 @@
       "content": "Totally fair. What part are you unsure about?\n"
     },
     {
-      "id": "1783087182777",
-      "category": "Initial Outreach",
-      "name": "Promo OutReach",
-      "content": "Hey {{firstName}}, I know we don't know each other.\n\nI noticed we have a few mutual friends and wanted to reach out.\n\nI'm connected with a trading education community that's offering a 7-Day Test Drive so people can experience the trading education and app before deciding if it's a good fit.\n\nWould you be open to taking a quick look?"
-    },
-    {
       "id": "1781804393423",
       "category": "Initial Outreach",
       "name": "Outreach 1 - friends list",
@@ -223,5 +217,5 @@
       "content": "Hey {{firstName}}, I know we don’t know each other, but I noticed we have quite a few mutual friends, so I figured I’d reach out. Are you into forex or futures trading at all, or not really?"
     }
   ],
-  "lastUpdated": "2026-09-29T14:26:25.629Z"
+  "lastUpdated": "2026-09-29T22:56:40.579Z"
 }
