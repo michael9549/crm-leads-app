@@ -33342,7 +33342,27 @@
       "addedAt": "2026-09-29T22:57:44.618Z",
       "prospectSourceId": "prospect-mua64gcd-2kyag1",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "muna24o4ghuztwxso5o",
+      "name": "Ada Grabowicz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ada.grabowicz",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T22:58:17.764Z",
+      "prospectSourceId": "prospect-mua64gcd-y048e7",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T22:57:44.619Z"
+  "lastUpdated": "2026-09-29T22:58:17.764Z"
 }
