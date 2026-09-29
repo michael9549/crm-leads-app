@@ -213,10 +213,12 @@
       "name": "Aaron Stevens",
       "social": "https://facebook.com/aaron.h.stevens",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mums4fyxez676s22dzk",
+      "convertedAt": "2026-09-29T14:36:12.633Z"
     },
     {
       "id": "prospect-mua64gcd-p5p7z9",
@@ -41607,5 +41609,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:35:42.308Z"
+  "lastUpdated": "2026-09-29T14:36:14.808Z"
 }
