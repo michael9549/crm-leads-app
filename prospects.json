@@ -171,10 +171,12 @@
       "name": "Aaron Murphy",
       "social": "https://facebook.com/murph1376",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mums1ls3ml3rway14dn",
+      "convertedAt": "2026-09-29T14:34:00.195Z"
     },
     {
       "id": "prospect-mua64gcd-j6iz9s",
@@ -41613,5 +41615,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T14:33:27.215Z"
+  "lastUpdated": "2026-09-29T14:34:01.869Z"
 }
