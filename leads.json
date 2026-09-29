@@ -33003,7 +33003,27 @@
       "addedAt": "2026-09-29T14:30:30.334Z",
       "prospectSourceId": "prospect-mua64gcd-yfrfrg",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "mumryqfgmavhpvmogig",
+      "name": "Aaron Gardner",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/melaaron.gardner",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-29",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-29",
+      "dateAdded": "2026-09-29",
+      "addedAt": "2026-09-29T14:31:46.252Z",
+      "prospectSourceId": "prospect-mua64gcd-nt0a1i",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T14:30:30.335Z"
+  "lastUpdated": "2026-09-29T14:31:46.253Z"
 }
