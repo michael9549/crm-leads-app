@@ -49,12 +49,6 @@
       "content": "Totally fair. What part are you unsure about?\n"
     },
     {
-      "id": "1781804443541",
-      "category": "Initial Outreach",
-      "name": "Outreach 1 - Occupation",
-      "content": "Hey {{firstName}}, I know we don’t know each other.\n\nI noticed you’re in real estate and wanted to reach out.\n\nFor the last few years, I’ve been involved with a trading education community that teaches people trading and market analysis as a skill they can learn alongside their current profession.\n\nWould you be open to taking a quick look?"
-    },
-    {
       "id": "initial-1",
       "category": "Initial Outreach",
       "name": "Generic Cold DM",
@@ -211,5 +205,5 @@
       "content": "Hey {{firstName}}, I know we don’t know each other, but I noticed we have quite a few mutual friends, so I figured I’d reach out. Are you into forex or futures trading at all, or not really?"
     }
   ],
-  "lastUpdated": "2026-09-29T22:56:52.058Z"
+  "lastUpdated": "2026-09-29T22:56:56.740Z"
 }
