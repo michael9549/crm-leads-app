@@ -33721,7 +33721,25 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T14:57:58.867Z"
+    },
+    {
+      "id": "muo8db10beiwjxrfgc4",
+      "name": "Roy Shaw",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/roy.shaw.942",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-01",
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T14:58:46.164Z"
     }
   ],
-  "lastUpdated": "2026-09-30T14:57:58.867Z"
+  "lastUpdated": "2026-09-30T14:58:46.164Z"
 }
