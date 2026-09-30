@@ -9374,14 +9374,14 @@
       "phone": "",
       "social": "https://www.facebook.com/samsuddin.khan.586613",
       "source": "Facebook",
-      "status": "Not Interested",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-06-10",
-      "nextFollowUp": null,
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-01",
       "notes": "",
-      "lastModified": "2026-06-13",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:56:02.846Z"
     },
@@ -33741,5 +33741,5 @@
       "addedAt": "2026-09-30T14:58:46.164Z"
     }
   ],
-  "lastUpdated": "2026-09-30T14:59:01.263Z"
+  "lastUpdated": "2026-09-30T15:00:20.594Z"
 }
