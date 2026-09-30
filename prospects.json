@@ -647,10 +647,12 @@
       "name": "Adrienne Prince Lyons",
       "social": "https://facebook.com/adrienne.prince.18",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muoavjgy6gl3fcx9n4o",
+      "convertedAt": "2026-09-30T16:08:56.146Z"
     },
     {
       "id": "prospect-mua64gcd-416bi2",
@@ -41657,5 +41659,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:08:25.591Z"
+  "lastUpdated": "2026-09-30T16:08:58.553Z"
 }
