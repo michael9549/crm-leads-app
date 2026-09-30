@@ -641,18 +641,6 @@
       "convertedAt": "2026-09-30T16:07:55.394Z"
     },
     {
-      "id": "prospect-mua64gcd-o0ktga",
-      "firstName": "Adrianne",
-      "lastName": "Geyer",
-      "name": "Adrianne Geyer",
-      "social": "https://facebook.com/adriannehuntergeyer",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcd-1rcxfx",
       "firstName": "Adrienne",
       "lastName": "Prince Lyons",
@@ -41669,5 +41657,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:07:57.351Z"
+  "lastUpdated": "2026-09-30T16:08:25.591Z"
 }
