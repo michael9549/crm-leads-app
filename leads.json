@@ -33703,7 +33703,25 @@
       "addedAt": "2026-09-29T23:08:45.036Z",
       "prospectSourceId": "prospect-mua64gcd-exv354",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "muo8caj7zhpitvjvdhk",
+      "name": "Daniel Cruz",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/daniel.cruz.315865?comment_id=Y29tbWVudDoxMDIzOTYxOTQ4NTU3NzQzNl8xNDI4MTQ1MDIyNTcxNzE1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-01",
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T14:57:58.867Z"
     }
   ],
-  "lastUpdated": "2026-09-30T14:30:18.470Z"
+  "lastUpdated": "2026-09-30T14:57:58.867Z"
 }
