@@ -33131,18 +33131,19 @@
       "phone": "",
       "social": "https://facebook.com/aaron.h.stevens",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Customer",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
       "nextFollowUp": "2026-09-30",
       "notes": "",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T14:36:12.633Z",
       "prospectSourceId": "prospect-mua64gcd-fm59w6",
-      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z",
+      "customerSince": "2026-09-30"
     },
     {
       "id": "mums580q1vaxm9g02m2",
@@ -33704,5 +33705,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-30T14:28:37.218Z"
+  "lastUpdated": "2026-09-30T14:29:05.985Z"
 }
