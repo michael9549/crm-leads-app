@@ -703,10 +703,12 @@
       "name": "Al Diaz Jr.",
       "social": "https://facebook.com/aldiazjr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muoaz3w28c974kmha9c",
+      "convertedAt": "2026-09-30T16:11:42.578Z"
     },
     {
       "id": "prospect-mua64gce-ytp5x2",
@@ -41641,5 +41643,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:11:06.644Z"
+  "lastUpdated": "2026-09-30T16:11:44.192Z"
 }
