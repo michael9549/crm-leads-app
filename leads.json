@@ -33192,14 +33192,14 @@
       "phone": "",
       "social": "https://facebook.com/theoneandonlyaaronthorpe",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-09-30",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T14:39:29.591Z",
       "prospectSourceId": "prospect-mua64gcd-y5mtar",
@@ -33705,5 +33705,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-30T14:29:05.985Z"
+  "lastUpdated": "2026-09-30T14:29:57.070Z"
 }
