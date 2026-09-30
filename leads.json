@@ -34013,7 +34013,27 @@
       "addedAt": "2026-09-30T16:13:08.247Z",
       "prospectSourceId": "prospect-mua64gce-y5rz1l",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muob1nwn8hg064kojvo",
+      "name": "Alan Newell",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alannewell2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T16:13:41.831Z",
+      "prospectSourceId": "prospect-mua64gce-0oqway",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-09-30T16:13:08.247Z"
+  "lastUpdated": "2026-09-30T16:13:41.832Z"
 }
