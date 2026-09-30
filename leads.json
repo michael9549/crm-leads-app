@@ -33709,10 +33709,10 @@
       "name": "Daniel Cruz",
       "email": "",
       "phone": "",
-      "social": "https://www.facebook.com/daniel.cruz.315865?comment_id=Y29tbWVudDoxMDIzOTYxOTQ4NTU3NzQzNl8xNDI4MTQ1MDIyNTcxNzE1",
+      "social": "https://www.facebook.com/daniel.cruz.315865",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-09-30",
@@ -33741,5 +33741,5 @@
       "addedAt": "2026-09-30T14:58:46.164Z"
     }
   ],
-  "lastUpdated": "2026-09-30T14:58:46.164Z"
+  "lastUpdated": "2026-09-30T14:59:01.263Z"
 }
