@@ -773,10 +773,12 @@
       "name": "Alan Tucker Bearden",
       "social": "https://facebook.com/alantuckerbearden",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muob2xt0rwrbnmf2olk",
+      "convertedAt": "2026-09-30T16:14:41.316Z"
     },
     {
       "id": "prospect-mua64gce-jw6ay5",
@@ -41651,5 +41653,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:13:43.901Z"
+  "lastUpdated": "2026-09-30T16:14:42.972Z"
 }
