@@ -33853,7 +33853,27 @@
       "addedAt": "2026-09-30T16:07:55.394Z",
       "prospectSourceId": "prospect-mua64gcd-cat6ql",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "muoavjgy6gl3fcx9n4o",
+      "name": "Adrienne Prince Lyons",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/adrienne.prince.18",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T16:08:56.146Z",
+      "prospectSourceId": "prospect-mua64gcd-1rcxfx",
+      "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-30T16:07:55.394Z"
+  "lastUpdated": "2026-09-30T16:08:56.146Z"
 }
