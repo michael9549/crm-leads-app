@@ -33757,7 +33757,25 @@
       "lastModified": "2026-09-30",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T15:01:13.348Z"
+    },
+    {
+      "id": "muo8h9k2jenr5r6cd8",
+      "name": "Tibor Sandor",
+      "email": "",
+      "phone": "",
+      "social": "https://www.facebook.com/tsan70",
+      "source": "Facebook",
+      "status": "Sent Video",
+      "videoSent": true,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-01",
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T15:01:50.882Z"
     }
   ],
-  "lastUpdated": "2026-09-30T15:01:13.348Z"
+  "lastUpdated": "2026-09-30T15:01:50.882Z"
 }
