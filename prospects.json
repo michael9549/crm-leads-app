@@ -745,10 +745,12 @@
       "name": "Alan Fitzpatrick",
       "social": "https://facebook.com/alan.fitzpatrick.10",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muob0xzr9qujlv7gwmh",
+      "convertedAt": "2026-09-30T16:13:08.247Z"
     },
     {
       "id": "prospect-mua64gce-0oqway",
@@ -41647,5 +41649,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:12:40.174Z"
+  "lastUpdated": "2026-09-30T16:13:12.042Z"
 }
