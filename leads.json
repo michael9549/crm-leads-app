@@ -33893,7 +33893,27 @@
       "addedAt": "2026-09-30T16:09:35.834Z",
       "prospectSourceId": "prospect-mua64gcd-7dxnko",
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
+    },
+    {
+      "id": "muoaxqaqef49sbqgrd",
+      "name": "Ajay Pandey",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/cashcowonline",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-09-30",
+      "dateAdded": "2026-09-30",
+      "addedAt": "2026-09-30T16:10:38.306Z",
+      "prospectSourceId": "prospect-mua64gce-6xfj79",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-09-30T16:09:35.835Z"
+  "lastUpdated": "2026-09-30T16:10:38.307Z"
 }
