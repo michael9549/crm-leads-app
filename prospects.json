@@ -717,10 +717,12 @@
       "name": "Al Levi",
       "social": "https://facebook.com/al.levi.948",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muoazphvjfh0nqhpux",
+      "convertedAt": "2026-09-30T16:12:10.579Z"
     },
     {
       "id": "prospect-mua64gce-ov7lph",
@@ -41643,5 +41645,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:11:44.192Z"
+  "lastUpdated": "2026-09-30T16:12:12.334Z"
 }
