@@ -33315,10 +33315,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-09-30",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-02",
       "notes": "",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T16:19:55.686Z",
       "customerSince": "2026-09-29"
@@ -33704,5 +33704,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-29T23:08:45.036Z"
+  "lastUpdated": "2026-09-30T14:22:24.121Z"
 }
