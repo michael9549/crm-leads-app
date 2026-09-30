@@ -731,10 +731,12 @@
       "name": "Alam Moinuddin",
       "social": "https://facebook.com/alam900",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muob0ar45akmyb3j6w5",
+      "convertedAt": "2026-09-30T16:12:38.128Z"
     },
     {
       "id": "prospect-mua64gce-y5rz1l",
@@ -41645,5 +41647,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-30T16:12:12.334Z"
+  "lastUpdated": "2026-09-30T16:12:40.174Z"
 }
