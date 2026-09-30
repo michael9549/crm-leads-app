@@ -605,10 +605,12 @@
       "name": "Adnan Mirza",
       "social": "https://facebook.com/adnan.mirza.816945",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.453Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muoat2evhit0n5pzf3c",
+      "convertedAt": "2026-09-30T16:07:00.727Z"
     },
     {
       "id": "prospect-mua64gcd-bk6g9q",
@@ -41663,5 +41665,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-09-29T23:08:48.041Z"
+  "lastUpdated": "2026-09-30T16:07:02.637Z"
 }
