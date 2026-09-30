@@ -32931,14 +32931,14 @@
       "phone": "",
       "social": "https://facebook.com/aaron.crawford.925",
       "source": "Facebook",
-      "status": "New Lead",
-      "videoSent": false,
+      "status": "Sent Video",
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-09-29",
-      "nextFollowUp": "2026-09-30",
+      "lastContact": "2026-09-30",
+      "nextFollowUp": "2026-10-01",
       "notes": "",
-      "lastModified": "2026-09-29",
+      "lastModified": "2026-09-30",
       "dateAdded": "2026-09-29",
       "addedAt": "2026-09-29T14:28:46.117Z",
       "prospectSourceId": "prospect-mua64gcd-fqrls3",
@@ -33704,5 +33704,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.453Z"
     }
   ],
-  "lastUpdated": "2026-09-30T14:25:36.025Z"
+  "lastUpdated": "2026-09-30T14:28:37.218Z"
 }
