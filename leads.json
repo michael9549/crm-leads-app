@@ -34453,7 +34453,27 @@
       "addedAt": "2026-10-01T14:45:44.909Z",
       "prospectSourceId": "prospect-mua64gce-kdugsl",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupnd1ewaemnwrh6z2",
+      "name": "Alexander Bartolomei",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alexander.bartolomei",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:46:14.120Z",
+      "prospectSourceId": "prospect-mua64gce-3i96m3",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:45:44.910Z"
+  "lastUpdated": "2026-10-01T14:46:14.121Z"
 }
