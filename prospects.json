@@ -843,10 +843,12 @@
       "name": "Aleksandra Oberska",
       "social": "https://facebook.com/aleksandra.oberska",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn25h7zjyoalzt0m",
+      "convertedAt": "2026-10-01T14:37:46.171Z"
     },
     {
       "id": "prospect-mua64gce-7apx0z",
@@ -41661,5 +41663,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:36:51.930Z"
+  "lastUpdated": "2026-10-01T14:37:47.683Z"
 }
