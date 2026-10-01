@@ -983,10 +983,12 @@
       "name": "Alex Kerr",
       "social": "https://facebook.com/alex.kerr.1004",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn82ujfi0m12is65m",
+      "convertedAt": "2026-10-01T14:42:22.699Z"
     },
     {
       "id": "prospect-mua64gce-o4ax2t",
@@ -41681,5 +41683,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:41:59.758Z"
+  "lastUpdated": "2026-10-01T14:42:24.422Z"
 }
