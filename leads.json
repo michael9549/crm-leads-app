@@ -34353,7 +34353,27 @@
       "addedAt": "2026-10-01T14:42:22.699Z",
       "prospectSourceId": "prospect-mua64gce-umxjge",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn8opalkp1o1vdkx",
+      "name": "Alex LaRochelle",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/thealexlarochelle",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:42:51.022Z",
+      "prospectSourceId": "prospect-mua64gce-o4ax2t",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:42:22.699Z"
+  "lastUpdated": "2026-10-01T14:42:51.022Z"
 }
