@@ -955,10 +955,12 @@
       "name": "Alex Hostetler",
       "social": "https://facebook.com/alex.hostetler.Red.Rover.Roofing",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn707eu0k7aakdhk",
+      "convertedAt": "2026-10-01T14:41:32.618Z"
     },
     {
       "id": "prospect-mua64gce-6pyxwi",
@@ -41677,5 +41679,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:41:08.606Z"
+  "lastUpdated": "2026-10-01T14:41:34.079Z"
 }
