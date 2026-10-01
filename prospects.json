@@ -857,10 +857,12 @@
       "name": "Alethea Felton",
       "social": "https://facebook.com/Alethea.LeeLee.Felton",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn2qfl9gt44v8l8m8",
+      "convertedAt": "2026-10-01T14:38:13.329Z"
     },
     {
       "id": "prospect-mua64gce-ob4lgg",
@@ -41663,5 +41665,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:37:47.683Z"
+  "lastUpdated": "2026-10-01T14:38:14.794Z"
 }
