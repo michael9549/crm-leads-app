@@ -1019,18 +1019,6 @@
       "convertedAt": "2026-10-01T14:43:16.552Z"
     },
     {
-      "id": "prospect-mua64gce-0kwk6k",
-      "firstName": "Alex",
-      "lastName": "Swihart",
-      "name": "Alex Swihart",
-      "social": "https://facebook.com/alex.swihart",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gce-id6ex7",
       "firstName": "Alex",
       "lastName": "Trefney",
@@ -41687,5 +41675,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:43:18.341Z"
+  "lastUpdated": "2026-10-01T14:43:55.157Z"
 }
