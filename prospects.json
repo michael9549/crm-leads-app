@@ -941,10 +941,12 @@
       "name": "Alex Gramajo",
       "social": "https://facebook.com/alex.diaz.448979",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn6g7ro1t0ccxlvf",
+      "convertedAt": "2026-10-01T14:41:06.711Z"
     },
     {
       "id": "prospect-mua64gce-b6pf0y",
@@ -41675,5 +41677,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:40:43.238Z"
+  "lastUpdated": "2026-10-01T14:41:08.606Z"
 }
