@@ -34393,7 +34393,27 @@
       "addedAt": "2026-10-01T14:43:16.552Z",
       "prospectSourceId": "prospect-mua64gce-z5vzon",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupnan23hvc498q9jxb",
+      "name": "Alex Trefney",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/artRichardtref",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:44:22.203Z",
+      "prospectSourceId": "prospect-mua64gce-id6ex7",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:43:16.553Z"
+  "lastUpdated": "2026-10-01T14:44:22.205Z"
 }
