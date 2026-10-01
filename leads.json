@@ -34293,7 +34293,27 @@
       "addedAt": "2026-10-01T14:41:06.711Z",
       "prospectSourceId": "prospect-mua64gce-n3endz",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn707eu0k7aakdhk",
+      "name": "Alex Hostetler",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.hostetler.Red.Rover.Roofing",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:41:32.618Z",
+      "prospectSourceId": "prospect-mua64gce-b6pf0y",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:41:06.712Z"
+  "lastUpdated": "2026-10-01T14:41:32.619Z"
 }
