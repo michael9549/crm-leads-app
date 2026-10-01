@@ -1025,10 +1025,12 @@
       "name": "Alex Trefney",
       "social": "https://facebook.com/artRichardtref",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupnan23hvc498q9jxb",
+      "convertedAt": "2026-10-01T14:44:22.205Z"
     },
     {
       "id": "prospect-mua64gce-dff8lp",
@@ -41675,5 +41677,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:43:55.157Z"
+  "lastUpdated": "2026-10-01T14:44:23.781Z"
 }
