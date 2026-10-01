@@ -34313,7 +34313,27 @@
       "addedAt": "2026-10-01T14:41:32.618Z",
       "prospectSourceId": "prospect-mua64gce-b6pf0y",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn7k1w9moqp71dtr",
+      "name": "Alex Huang",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.huang.962410",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:41:58.340Z",
+      "prospectSourceId": "prospect-mua64gce-6pyxwi",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:41:32.619Z"
+  "lastUpdated": "2026-10-01T14:41:58.341Z"
 }
