@@ -913,10 +913,12 @@
       "name": "Alex Gates",
       "social": "https://facebook.com/AlexWGates",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn5aee1oqzy18p02k",
+      "convertedAt": "2026-10-01T14:40:12.518Z"
     },
     {
       "id": "prospect-mua64gce-f0mcvg",
@@ -41671,5 +41673,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:39:48.733Z"
+  "lastUpdated": "2026-10-01T14:40:14.179Z"
 }
