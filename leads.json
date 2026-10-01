@@ -34093,7 +34093,27 @@
       "addedAt": "2026-09-30T16:15:45.970Z",
       "prospectSourceId": "prospect-mua64gce-nhzvg5",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn006tl6205of1p5f",
+      "name": "Alejandro De La Torre",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alejandro.delatorre.948494",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:36:06.006Z",
+      "prospectSourceId": "prospect-mua64gce-n1e3oz",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:35:29.722Z"
+  "lastUpdated": "2026-10-01T14:36:06.006Z"
 }
