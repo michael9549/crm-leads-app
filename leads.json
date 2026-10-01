@@ -34273,7 +34273,27 @@
       "addedAt": "2026-10-01T14:40:41.669Z",
       "prospectSourceId": "prospect-mua64gce-f0mcvg",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn6g7ro1t0ccxlvf",
+      "name": "Alex Gramajo",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.diaz.448979",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:41:06.711Z",
+      "prospectSourceId": "prospect-mua64gce-n3endz",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:40:41.669Z"
+  "lastUpdated": "2026-10-01T14:41:06.712Z"
 }
