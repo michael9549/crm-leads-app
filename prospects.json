@@ -1081,10 +1081,12 @@
       "name": "Alexander Green",
       "social": "https://facebook.com/alexandergreen74",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupndqisk2qceic8nh",
+      "convertedAt": "2026-10-01T14:46:46.660Z"
     },
     {
       "id": "prospect-mua64gce-buu44c",
@@ -41683,5 +41685,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:46:16.080Z"
+  "lastUpdated": "2026-10-01T14:46:48.408Z"
 }
