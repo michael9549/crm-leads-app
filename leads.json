@@ -34233,7 +34233,27 @@
       "addedAt": "2026-10-01T14:39:46.940Z",
       "prospectSourceId": "prospect-mua64gce-f874x1",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn5aee1oqzy18p02k",
+      "name": "Alex Gates",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AlexWGates",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:40:12.518Z",
+      "prospectSourceId": "prospect-mua64gce-u2fofu",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:39:46.940Z"
+  "lastUpdated": "2026-10-01T14:40:12.518Z"
 }
