@@ -997,10 +997,12 @@
       "name": "Alex LaRochelle",
       "social": "https://facebook.com/thealexlarochelle",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn8opalkp1o1vdkx",
+      "convertedAt": "2026-10-01T14:42:51.022Z"
     },
     {
       "id": "prospect-mua64gce-z5vzon",
@@ -41683,5 +41685,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:42:24.422Z"
+  "lastUpdated": "2026-10-01T14:42:52.640Z"
 }
