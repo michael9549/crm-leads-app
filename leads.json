@@ -34133,7 +34133,27 @@
       "addedAt": "2026-10-01T14:36:49.593Z",
       "prospectSourceId": "prospect-mua64gce-2yfx1z",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn25h7zjyoalzt0m",
+      "name": "Aleksandra Oberska",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aleksandra.oberska",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:37:46.171Z",
+      "prospectSourceId": "prospect-mua64gce-p8999b",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:36:49.594Z"
+  "lastUpdated": "2026-10-01T14:37:46.171Z"
 }
