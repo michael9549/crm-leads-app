@@ -885,10 +885,12 @@
       "name": "Alex Dumas",
       "social": "https://facebook.com/speakeralexdumas",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn40jswbgu8q2p0go",
+      "convertedAt": "2026-10-01T14:39:13.097Z"
     },
     {
       "id": "prospect-mua64gce-f874x1",
@@ -41667,5 +41669,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:38:47.869Z"
+  "lastUpdated": "2026-10-01T14:39:15.293Z"
 }
