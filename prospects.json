@@ -1011,10 +1011,12 @@
       "name": "Alex Starr",
       "social": "https://facebook.com/theclaimsninja",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn98egugneiyn72g",
+      "convertedAt": "2026-10-01T14:43:16.552Z"
     },
     {
       "id": "prospect-mua64gce-0kwk6k",
@@ -41685,5 +41687,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:42:52.640Z"
+  "lastUpdated": "2026-10-01T14:43:18.341Z"
 }
