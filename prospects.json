@@ -1039,10 +1039,12 @@
       "name": "Alex Vika Fesenko",
       "social": "https://facebook.com/Alfavita003",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupnba2d1idbotmqo6a",
+      "convertedAt": "2026-10-01T14:44:52.021Z"
     },
     {
       "id": "prospect-mua64gce-kdugsl",
@@ -41677,5 +41679,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:44:23.781Z"
+  "lastUpdated": "2026-10-01T14:44:53.869Z"
 }
