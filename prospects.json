@@ -829,10 +829,12 @@
       "name": "Aleksandr Rush",
       "social": "https://facebook.com/aleksandr.rush.862425",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn0xtlazro6m3sanc",
+      "convertedAt": "2026-10-01T14:36:49.593Z"
     },
     {
       "id": "prospect-mua64gce-p8999b",
@@ -41659,5 +41661,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:36:08.105Z"
+  "lastUpdated": "2026-10-01T14:36:51.930Z"
 }
