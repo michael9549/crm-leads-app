@@ -34193,7 +34193,27 @@
       "addedAt": "2026-10-01T14:38:46.007Z",
       "prospectSourceId": "prospect-mua64gce-ob4lgg",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn40jswbgu8q2p0go",
+      "name": "Alex Dumas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/speakeralexdumas",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:39:13.097Z",
+      "prospectSourceId": "prospect-mua64gce-b25313",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:38:46.008Z"
+  "lastUpdated": "2026-10-01T14:39:13.097Z"
 }
