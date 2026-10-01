@@ -34253,7 +34253,27 @@
       "addedAt": "2026-10-01T14:40:12.518Z",
       "prospectSourceId": "prospect-mua64gce-u2fofu",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mupn5ww5xadsimqpmb",
+      "name": "Alex Gonzalez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alex.gonzalez.552380",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-01",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-01",
+      "dateAdded": "2026-10-01",
+      "addedAt": "2026-10-01T14:40:41.669Z",
+      "prospectSourceId": "prospect-mua64gce-f0mcvg",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-01T14:40:12.518Z"
+  "lastUpdated": "2026-10-01T14:40:41.669Z"
 }
