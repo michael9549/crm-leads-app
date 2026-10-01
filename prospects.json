@@ -899,10 +899,12 @@
       "name": "Alex Esquivel",
       "social": "https://facebook.com/halejandro.eskivel",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mupn4qnw3r3v35gl6vg",
+      "convertedAt": "2026-10-01T14:39:46.940Z"
     },
     {
       "id": "prospect-mua64gce-u2fofu",
@@ -41669,5 +41671,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-01T14:39:15.293Z"
+  "lastUpdated": "2026-10-01T14:39:48.733Z"
 }
