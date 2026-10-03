@@ -1417,10 +1417,12 @@
       "name": "Allison Benda",
       "social": "https://facebook.com/allie.mccarty.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjdcofs1ihi8auwu",
+      "convertedAt": "2026-10-03T15:17:48.783Z"
     },
     {
       "id": "prospect-mua64gce-zczd03",
@@ -41719,5 +41721,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:17:01.857Z"
+  "lastUpdated": "2026-10-03T15:17:50.300Z"
 }
