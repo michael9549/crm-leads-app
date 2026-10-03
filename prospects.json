@@ -1613,10 +1613,12 @@
       "name": "Amaryllis Harrop",
       "social": "https://facebook.com/amaryllisharrop",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjocj0emxcuuhkr3o",
+      "convertedAt": "2026-10-03T15:26:21.804Z"
     },
     {
       "id": "prospect-mua64gce-6132k8",
@@ -41747,5 +41749,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:25:45.374Z"
+  "lastUpdated": "2026-10-03T15:26:25.623Z"
 }
