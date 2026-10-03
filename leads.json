@@ -34873,7 +34873,27 @@
       "addedAt": "2026-10-03T02:35:07.385Z",
       "prospectSourceId": "prospect-mua64gce-isyah3",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murs5wmuypuvs5a6l8l",
+      "name": "Allen Nance",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allen.nance.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:36:11.766Z",
+      "prospectSourceId": "prospect-mua64gce-gedklc",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:35:07.385Z"
+  "lastUpdated": "2026-10-03T02:36:11.767Z"
 }
