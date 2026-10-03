@@ -35253,7 +35253,27 @@
       "addedAt": "2026-10-03T15:26:21.804Z",
       "prospectSourceId": "prospect-mua64gce-y7fdnf",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjpsqowkeolkk3k3m",
+      "name": "Amber Marie",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amber.henderson.794",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:27:29.472Z",
+      "prospectSourceId": "prospect-mua64gce-6132k8",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:26:57.770Z"
+  "lastUpdated": "2026-10-03T15:27:29.472Z"
 }
