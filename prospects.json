@@ -1347,10 +1347,12 @@
       "name": "Allen Akoi",
       "social": "https://facebook.com/allen.akoi",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murs4iyhnbzhtbd38gd",
+      "convertedAt": "2026-10-03T02:35:07.385Z"
     },
     {
       "id": "prospect-mua64gce-8woec0",
@@ -41721,5 +41723,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:34:28.847Z"
+  "lastUpdated": "2026-10-03T02:35:09.038Z"
 }
