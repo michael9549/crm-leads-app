@@ -35293,7 +35293,27 @@
       "addedAt": "2026-10-03T15:27:55.990Z",
       "prospectSourceId": "prospect-mua64gce-excqq7",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjr575jbqffodyuol",
+      "name": "Ami Maikoski",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ami.maikoski",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:28:32.273Z",
+      "prospectSourceId": "prospect-mua64gce-yfu21w",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:27:55.990Z"
+  "lastUpdated": "2026-10-03T15:28:32.274Z"
 }
