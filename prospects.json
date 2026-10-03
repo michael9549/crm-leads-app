@@ -1459,10 +1459,12 @@
       "name": "Alvin Tims",
       "social": "https://facebook.com/itsthealvin",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjfk8yno9cwrqoa3",
+      "convertedAt": "2026-10-03T15:19:31.906Z"
     },
     {
       "id": "prospect-mua64gce-bsvy3d",
@@ -41725,5 +41727,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:19:04.559Z"
+  "lastUpdated": "2026-10-03T15:19:34.019Z"
 }
