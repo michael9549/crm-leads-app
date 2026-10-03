@@ -1515,10 +1515,12 @@
       "name": "Amador Childz",
       "social": "https://facebook.com/amador.childs.snr",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musji4z26rdtfcsmb3c",
+      "convertedAt": "2026-10-03T15:21:32.079Z"
     },
     {
       "id": "prospect-mua64gce-u4erig",
@@ -41733,5 +41735,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:21:09.457Z"
+  "lastUpdated": "2026-10-03T15:21:33.555Z"
 }
