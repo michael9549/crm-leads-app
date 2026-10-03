@@ -34673,7 +34673,27 @@
       "addedAt": "2026-10-03T02:29:04.544Z",
       "prospectSourceId": "prospect-mua64gce-nog0em",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrxsv0l4t73warw4",
+      "name": "Alice Iverson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alice.iverson",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:29:53.628Z",
+      "prospectSourceId": "prospect-mua64gce-fvmtrm",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:29:04.545Z"
+  "lastUpdated": "2026-10-03T02:29:53.628Z"
 }
