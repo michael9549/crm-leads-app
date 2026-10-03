@@ -1585,10 +1585,12 @@
       "name": "Amanda Waters",
       "social": "https://facebook.com/amanda.waters.1312",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjmf80ho9jp89w3y",
+      "convertedAt": "2026-10-03T15:24:51.985Z"
     },
     {
       "id": "prospect-mua64gce-5j190b",
@@ -41743,5 +41745,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:24:09.100Z"
+  "lastUpdated": "2026-10-03T15:24:53.531Z"
 }
