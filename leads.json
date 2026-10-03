@@ -9378,10 +9378,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-01",
-      "nextFollowUp": "2026-10-02",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-04",
       "notes": "",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-06-10",
       "addedAt": "2026-06-11T00:56:02.846Z"
     },
@@ -34915,5 +34915,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:53:44.035Z"
+  "lastUpdated": "2026-10-03T02:54:19.602Z"
 }
