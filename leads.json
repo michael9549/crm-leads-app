@@ -34953,7 +34953,27 @@
       "addedAt": "2026-10-03T15:17:00.297Z",
       "prospectSourceId": "prospect-mua64gce-3jt70p",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjdcofs1ihi8auwu",
+      "name": "Allison Benda",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allie.mccarty.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:17:48.783Z",
+      "prospectSourceId": "prospect-mua64gce-xhv6p8",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:17:00.298Z"
+  "lastUpdated": "2026-10-03T15:17:48.783Z"
 }
