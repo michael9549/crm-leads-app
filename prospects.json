@@ -1445,10 +1445,12 @@
       "name": "Alvaro Hurtado",
       "social": "https://facebook.com/Ahurtado78",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjexy7avy4poeh8k6",
+      "convertedAt": "2026-10-03T15:19:03.007Z"
     },
     {
       "id": "prospect-mua64gce-1fdlll",
@@ -41723,5 +41725,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:18:39.643Z"
+  "lastUpdated": "2026-10-03T15:19:04.559Z"
 }
