@@ -34933,7 +34933,27 @@
       "addedAt": "2026-10-03T15:16:33.231Z",
       "prospectSourceId": "prospect-mua64gce-0rtctv",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjcb9lngxoaxx0z6e",
+      "name": "Allie Thomas",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/littlefoot1435",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:17:00.297Z",
+      "prospectSourceId": "prospect-mua64gce-3jt70p",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:16:33.232Z"
+  "lastUpdated": "2026-10-03T15:17:00.298Z"
 }
