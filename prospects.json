@@ -1669,10 +1669,12 @@
       "name": "Amy Campbell",
       "social": "https://facebook.com/ajcampbell01",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjrns8uh7wq0nti9",
+      "convertedAt": "2026-10-03T15:28:56.360Z"
     },
     {
       "id": "prospect-mua64gce-0c42et",
@@ -41755,5 +41757,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:28:34.296Z"
+  "lastUpdated": "2026-10-03T15:28:57.599Z"
 }
