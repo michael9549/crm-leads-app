@@ -1109,10 +1109,12 @@
       "name": "Alexandra Costa",
       "social": "https://facebook.com/alexandra.costantini.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murrrry87a669rwc04m",
+      "convertedAt": "2026-10-03T02:25:12.512Z"
     },
     {
       "id": "prospect-mua64gce-dasqa3",
@@ -41687,5 +41689,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:24:14.329Z"
+  "lastUpdated": "2026-10-03T02:25:14.302Z"
 }
