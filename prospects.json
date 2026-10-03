@@ -1571,10 +1571,12 @@
       "name": "Amanda Reeves",
       "social": "https://facebook.com/ACarter00",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjlgx9zzk5q9dnvu",
+      "convertedAt": "2026-10-03T15:24:07.533Z"
     },
     {
       "id": "prospect-mua64gce-8bi0rp",
@@ -41741,5 +41743,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:23:41.936Z"
+  "lastUpdated": "2026-10-03T15:24:09.100Z"
 }
