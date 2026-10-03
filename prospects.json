@@ -1473,10 +1473,12 @@
       "name": "Alvina Saulala",
       "social": "https://facebook.com/alvina.saulala",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjg4pkbz2qeue7ze",
+      "convertedAt": "2026-10-03T15:19:58.424Z"
     },
     {
       "id": "prospect-mua64gce-sh8wj9",
@@ -41727,5 +41729,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:19:34.019Z"
+  "lastUpdated": "2026-10-03T15:20:00.265Z"
 }
