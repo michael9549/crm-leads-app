@@ -34813,7 +34813,27 @@
       "addedAt": "2026-10-03T02:33:20.397Z",
       "prospectSourceId": "prospect-mua64gce-s9texu",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murs3169o8e3dpkv9yj",
+      "name": "Allan Hordal",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allan.hordal",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:33:57.681Z",
+      "prospectSourceId": "prospect-mua64gce-sucav7",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:33:20.397Z"
+  "lastUpdated": "2026-10-03T02:33:57.681Z"
 }
