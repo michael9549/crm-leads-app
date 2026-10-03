@@ -35073,7 +35073,27 @@
       "addedAt": "2026-10-03T15:20:42.109Z",
       "prospectSourceId": "prospect-mua64gce-sh8wj9",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjhmdkxm3biartlqs",
+      "name": "Alyssa Katehis",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alyssakay77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:21:07.976Z",
+      "prospectSourceId": "prospect-mua64gce-kw1b52",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:20:42.109Z"
+  "lastUpdated": "2026-10-03T15:21:07.976Z"
 }
