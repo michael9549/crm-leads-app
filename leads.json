@@ -34733,7 +34733,27 @@
       "addedAt": "2026-10-03T02:30:47.647Z",
       "prospectSourceId": "prospect-mua64gce-kbzncs",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrzqpvxo9e813pc0e",
+      "name": "Alisa St.Georges",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alisa.st.georges.conte",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:31:24.163Z",
+      "prospectSourceId": "prospect-mua64gce-s1a9x6",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:30:47.647Z"
+  "lastUpdated": "2026-10-03T02:31:24.163Z"
 }
