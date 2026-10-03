@@ -34593,7 +34593,27 @@
       "addedAt": "2026-10-03T02:27:08.207Z",
       "prospectSourceId": "prospect-mua64gce-krjdkb",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrusjrvowvilfxtm",
+      "name": "Ali Andrus",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aliandrus78",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:27:33.255Z",
+      "prospectSourceId": "prospect-mua64gce-93ok95",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:27:08.207Z"
+  "lastUpdated": "2026-10-03T02:27:33.255Z"
 }
