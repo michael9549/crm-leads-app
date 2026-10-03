@@ -35093,7 +35093,27 @@
       "addedAt": "2026-10-03T15:21:07.976Z",
       "prospectSourceId": "prospect-mua64gce-kw1b52",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musji4z26rdtfcsmb3c",
+      "name": "Amador Childz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amador.childs.snr",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:21:32.078Z",
+      "prospectSourceId": "prospect-mua64gce-935ulb",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:21:07.976Z"
+  "lastUpdated": "2026-10-03T15:21:32.080Z"
 }
