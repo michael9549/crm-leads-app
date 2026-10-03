@@ -1557,10 +1557,12 @@
       "name": "Amanda Lane Mahaffey",
       "social": "https://facebook.com/amanda.l.mahaffey",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjkvskp3j8vud0oh",
+      "convertedAt": "2026-10-03T15:23:40.148Z"
     },
     {
       "id": "prospect-mua64gce-v6stdg",
@@ -41739,5 +41741,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:22:28.942Z"
+  "lastUpdated": "2026-10-03T15:23:41.936Z"
 }
