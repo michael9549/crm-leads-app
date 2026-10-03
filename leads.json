@@ -35133,7 +35133,27 @@
       "addedAt": "2026-10-03T15:21:58.280Z",
       "prospectSourceId": "prospect-mua64gce-u4erig",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjjbpkn3euvrwyd",
+      "name": "Amanda Casteel",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amanda.fairbrother",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:22:27.464Z",
+      "prospectSourceId": "prospect-mua64gce-t0s487",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:21:58.280Z"
+  "lastUpdated": "2026-10-03T15:22:27.465Z"
 }
