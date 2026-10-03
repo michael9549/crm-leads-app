@@ -1193,10 +1193,12 @@
       "name": "Ali Kiaee",
       "social": "https://facebook.com/alikiaee",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murrvzna77ffqnwg6gs",
+      "convertedAt": "2026-10-03T02:28:29.110Z"
     },
     {
       "id": "prospect-mua64gce-nog0em",
@@ -41699,5 +41701,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:28:01.050Z"
+  "lastUpdated": "2026-10-03T02:28:31.924Z"
 }
