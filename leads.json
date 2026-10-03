@@ -33733,10 +33733,10 @@
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
-      "lastContact": "2026-10-01",
-      "nextFollowUp": "2026-10-02",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": "2026-10-04",
       "notes": "",
-      "lastModified": "2026-10-01",
+      "lastModified": "2026-10-02",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T14:58:46.164Z"
     },
@@ -34915,5 +34915,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:54:45.051Z"
+  "lastUpdated": "2026-10-03T02:55:21.117Z"
 }
