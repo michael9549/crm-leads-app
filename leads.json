@@ -34513,7 +34513,27 @@
       "addedAt": "2026-10-03T02:24:11.178Z",
       "prospectSourceId": "prospect-mua64gce-buu44c",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrrry87a669rwc04m",
+      "name": "Alexandra Costa",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alexandra.costantini.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:25:12.512Z",
+      "prospectSourceId": "prospect-mua64gce-nroknp",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:24:11.178Z"
+  "lastUpdated": "2026-10-03T02:25:12.512Z"
 }
