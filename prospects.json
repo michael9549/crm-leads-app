@@ -1123,10 +1123,12 @@
       "name": "Alexandra Lank",
       "social": "https://facebook.com/alexandra.dcparis",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murrsucnaz098vws28e",
+      "convertedAt": "2026-10-03T02:26:02.279Z"
     },
     {
       "id": "prospect-mua64gce-1oy4fc",
@@ -41689,5 +41691,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:25:14.302Z"
+  "lastUpdated": "2026-10-03T02:26:03.991Z"
 }
