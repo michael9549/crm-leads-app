@@ -1249,10 +1249,12 @@
       "name": "Alicia Leal",
       "social": "https://facebook.com/Alicia568826",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murryyjjq5hk9tgg07",
+      "convertedAt": "2026-10-03T02:30:47.647Z"
     },
     {
       "id": "prospect-mua64gce-s1a9x6",
@@ -41707,5 +41709,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:30:24.708Z"
+  "lastUpdated": "2026-10-03T02:30:49.510Z"
 }
