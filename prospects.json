@@ -1305,10 +1305,12 @@
       "name": "Allan Ferguson",
       "social": "https://facebook.com/allan.ferguson2",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murs28el1yidqme13un",
+      "convertedAt": "2026-10-03T02:33:20.397Z"
     },
     {
       "id": "prospect-mua64gce-sucav7",
@@ -41715,5 +41717,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:32:53.954Z"
+  "lastUpdated": "2026-10-03T02:33:22.485Z"
 }
