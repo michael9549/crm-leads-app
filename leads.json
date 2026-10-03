@@ -34693,7 +34693,27 @@
       "addedAt": "2026-10-03T02:29:53.628Z",
       "prospectSourceId": "prospect-mua64gce-fvmtrm",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murryfoblw2codpxf07",
+      "name": "Alicia Coverston Green",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alicia.green.9",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:30:23.195Z",
+      "prospectSourceId": "prospect-mua64gce-z2lf7i",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:29:53.628Z"
+  "lastUpdated": "2026-10-03T02:30:23.195Z"
 }
