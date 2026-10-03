@@ -34573,7 +34573,27 @@
       "addedAt": "2026-10-03T02:26:38.378Z",
       "prospectSourceId": "prospect-mua64gce-1oy4fc",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murru97zawcqninfgm9",
+      "name": "Alfie McFadden",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alfie.mcfadden",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:27:08.207Z",
+      "prospectSourceId": "prospect-mua64gce-krjdkb",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:26:38.379Z"
+  "lastUpdated": "2026-10-03T02:27:08.207Z"
 }
