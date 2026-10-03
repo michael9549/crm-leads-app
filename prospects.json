@@ -1389,10 +1389,12 @@
       "name": "Alli MacDonald",
       "social": "https://facebook.com/alli.macdonald.50",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjbqdr0ffmoyu7is4",
+      "convertedAt": "2026-10-03T15:16:33.231Z"
     },
     {
       "id": "prospect-mua64gce-3jt70p",
@@ -41715,5 +41717,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:36:47.574Z"
+  "lastUpdated": "2026-10-03T15:16:34.927Z"
 }
