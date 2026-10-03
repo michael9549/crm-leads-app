@@ -1655,10 +1655,12 @@
       "name": "Ami Maikoski",
       "social": "https://facebook.com/ami.maikoski",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjr575jbqffodyuol",
+      "convertedAt": "2026-10-03T15:28:32.273Z"
     },
     {
       "id": "prospect-mua64gce-88ntqx",
@@ -41753,5 +41755,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:27:58.455Z"
+  "lastUpdated": "2026-10-03T15:28:34.296Z"
 }
