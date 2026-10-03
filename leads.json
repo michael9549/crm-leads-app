@@ -35173,7 +35173,27 @@
       "addedAt": "2026-10-03T15:23:40.148Z",
       "prospectSourceId": "prospect-mua64gce-ys01d4",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjlgx9zzk5q9dnvu",
+      "name": "Amanda Reeves",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ACarter00",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:24:07.533Z",
+      "prospectSourceId": "prospect-mua64gce-v6stdg",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:23:40.148Z"
+  "lastUpdated": "2026-10-03T15:24:07.534Z"
 }
