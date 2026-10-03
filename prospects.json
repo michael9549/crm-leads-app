@@ -1179,10 +1179,12 @@
       "name": "Ali Fordyce",
       "social": "https://facebook.com/ali.f.decastro",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murrvcl5583i5lltz7m",
+      "convertedAt": "2026-10-03T02:27:59.225Z"
     },
     {
       "id": "prospect-mua64gce-t2b6ow",
@@ -41697,5 +41699,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:27:34.973Z"
+  "lastUpdated": "2026-10-03T02:28:01.050Z"
 }
