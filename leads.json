@@ -34853,7 +34853,27 @@
       "addedAt": "2026-10-03T02:34:26.848Z",
       "prospectSourceId": "prospect-mua64gce-ur3yk0",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murs4iyhnbzhtbd38gd",
+      "name": "Allen Akoi",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allen.akoi",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:35:07.385Z",
+      "prospectSourceId": "prospect-mua64gce-isyah3",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:34:26.848Z"
+  "lastUpdated": "2026-10-03T02:35:07.385Z"
 }
