@@ -35193,7 +35193,27 @@
       "addedAt": "2026-10-03T15:24:07.533Z",
       "prospectSourceId": "prospect-mua64gce-v6stdg",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjmf80ho9jp89w3y",
+      "name": "Amanda Waters",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amanda.waters.1312",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:24:51.985Z",
+      "prospectSourceId": "prospect-mua64gce-8bi0rp",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:24:07.534Z"
+  "lastUpdated": "2026-10-03T15:24:51.985Z"
 }
