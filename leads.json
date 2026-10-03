@@ -34493,7 +34493,27 @@
       "addedAt": "2026-10-01T14:46:46.660Z",
       "prospectSourceId": "prospect-mua64gce-41d6z0",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrqgmia1lpu80ky2j",
+      "name": "Alexander Zervakos",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/AlexanderZervakos",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:24:11.178Z",
+      "prospectSourceId": "prospect-mua64gce-buu44c",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-02T20:26:06.273Z"
+  "lastUpdated": "2026-10-03T02:24:11.178Z"
 }
