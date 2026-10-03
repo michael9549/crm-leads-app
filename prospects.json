@@ -1487,10 +1487,12 @@
       "name": "Alysia Staar",
       "social": "https://facebook.com/alysia.staar",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjh2f18igyokvdze3",
+      "convertedAt": "2026-10-03T15:20:42.109Z"
     },
     {
       "id": "prospect-mua64gce-kw1b52",
@@ -41729,5 +41731,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:20:00.265Z"
+  "lastUpdated": "2026-10-03T15:20:43.640Z"
 }
