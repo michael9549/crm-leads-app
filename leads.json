@@ -34913,7 +34913,27 @@
       "addedAt": "2026-10-03T02:36:45.935Z",
       "prospectSourceId": "prospect-mua64gce-cbqcoz",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjbqdr0ffmoyu7is4",
+      "name": "Alli MacDonald",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alli.macdonald.50",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:16:33.231Z",
+      "prospectSourceId": "prospect-mua64gce-0rtctv",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:56:37.768Z"
+  "lastUpdated": "2026-10-03T15:16:33.232Z"
 }
