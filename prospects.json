@@ -1333,10 +1333,12 @@
       "name": "Allaxe Gan",
       "social": "https://facebook.com/AllaxeSelfPublisher",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murs3nognzb5bx0az4",
+      "convertedAt": "2026-10-03T02:34:26.848Z"
     },
     {
       "id": "prospect-mua64gce-isyah3",
@@ -41719,5 +41721,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:33:59.251Z"
+  "lastUpdated": "2026-10-03T02:34:28.847Z"
 }
