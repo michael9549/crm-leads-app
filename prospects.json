@@ -1627,10 +1627,12 @@
       "name": "Amber Marie",
       "social": "https://facebook.com/amber.henderson.794",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjpsqowkeolkk3k3m",
+      "convertedAt": "2026-10-03T15:27:29.472Z"
     },
     {
       "id": "prospect-mua64gce-excqq7",
@@ -41749,5 +41751,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:26:25.623Z"
+  "lastUpdated": "2026-10-03T15:27:31.068Z"
 }
