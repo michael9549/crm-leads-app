@@ -1355,18 +1355,6 @@
       "convertedAt": "2026-10-03T02:35:07.385Z"
     },
     {
-      "id": "prospect-mua64gce-8woec0",
-      "firstName": "Allen",
-      "lastName": "Curtis",
-      "name": "Allen Curtis",
-      "social": "https://facebook.com/allen.curtis.rides",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gce-gedklc",
       "firstName": "Allen",
       "lastName": "Nance",
@@ -41723,5 +41711,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:35:09.038Z"
+  "lastUpdated": "2026-10-03T02:35:39.313Z"
 }
