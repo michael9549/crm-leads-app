@@ -34553,7 +34553,27 @@
       "addedAt": "2026-10-03T02:26:02.279Z",
       "prospectSourceId": "prospect-mua64gce-dasqa3",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrtm7edm0qv94wzy",
+      "name": "Alexis Martinez",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/theshinglegirlnextdoor",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:26:38.378Z",
+      "prospectSourceId": "prospect-mua64gce-1oy4fc",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:26:02.279Z"
+  "lastUpdated": "2026-10-03T02:26:38.379Z"
 }
