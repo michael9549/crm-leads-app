@@ -1207,10 +1207,12 @@
       "name": "Ali Obaid",
       "social": "https://facebook.com/health33022",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murrwqzk5r7i0sf789",
+      "convertedAt": "2026-10-03T02:29:04.544Z"
     },
     {
       "id": "prospect-mua64gce-fvmtrm",
@@ -41701,5 +41703,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:28:31.924Z"
+  "lastUpdated": "2026-10-03T02:29:06.596Z"
 }
