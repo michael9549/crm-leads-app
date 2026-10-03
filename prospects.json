@@ -1277,10 +1277,12 @@
       "name": "Alison Carpenter",
       "social": "https://facebook.com/alison.carpenter.5",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murs0f1uyzznxsrv7z",
+      "convertedAt": "2026-10-03T02:31:55.698Z"
     },
     {
       "id": "prospect-mua64gce-w3uoxa",
@@ -41711,5 +41713,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:31:25.854Z"
+  "lastUpdated": "2026-10-03T02:31:57.394Z"
 }
