@@ -34993,7 +34993,27 @@
       "addedAt": "2026-10-03T15:18:37.922Z",
       "prospectSourceId": "prospect-mua64gce-zczd03",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjexy7avy4poeh8k6",
+      "name": "Alvaro Hurtado",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/Ahurtado78",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:19:03.007Z",
+      "prospectSourceId": "prospect-mua64gce-snyff3",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:18:37.922Z"
+  "lastUpdated": "2026-10-03T15:19:03.007Z"
 }
