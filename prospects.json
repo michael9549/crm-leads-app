@@ -1403,10 +1403,12 @@
       "name": "Allie Thomas",
       "social": "https://facebook.com/littlefoot1435",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjcb9lngxoaxx0z6e",
+      "convertedAt": "2026-10-03T15:17:00.298Z"
     },
     {
       "id": "prospect-mua64gce-xhv6p8",
@@ -41717,5 +41719,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:16:34.927Z"
+  "lastUpdated": "2026-10-03T15:17:01.857Z"
 }
