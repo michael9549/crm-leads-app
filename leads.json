@@ -34613,7 +34613,27 @@
       "addedAt": "2026-10-03T02:27:33.255Z",
       "prospectSourceId": "prospect-mua64gce-93ok95",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrvcl5583i5lltz7m",
+      "name": "Ali Fordyce",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ali.f.decastro",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:27:59.225Z",
+      "prospectSourceId": "prospect-mua64gce-w0ch61",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:27:33.255Z"
+  "lastUpdated": "2026-10-03T02:27:59.225Z"
 }
