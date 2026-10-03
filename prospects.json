@@ -1599,10 +1599,12 @@
       "name": "Amanda White",
       "social": "https://facebook.com/Mandersofficial",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjnj4nn67jx7fa4wi",
+      "convertedAt": "2026-10-03T15:25:43.703Z"
     },
     {
       "id": "prospect-mua64gce-y7fdnf",
@@ -41745,5 +41747,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:24:53.531Z"
+  "lastUpdated": "2026-10-03T15:25:45.374Z"
 }
