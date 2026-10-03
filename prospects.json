@@ -1529,10 +1529,12 @@
       "name": "Amanda August",
       "social": "https://facebook.com/amandajaugust",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjip6wpvbxaj9fage",
+      "convertedAt": "2026-10-03T15:21:58.280Z"
     },
     {
       "id": "prospect-mua64gce-t0s487",
@@ -41735,5 +41737,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:21:33.555Z"
+  "lastUpdated": "2026-10-03T15:21:59.898Z"
 }
