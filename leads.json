@@ -34633,7 +34633,27 @@
       "addedAt": "2026-10-03T02:27:59.225Z",
       "prospectSourceId": "prospect-mua64gce-w0ch61",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murrvzna77ffqnwg6gs",
+      "name": "Ali Kiaee",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/alikiaee",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:28:29.110Z",
+      "prospectSourceId": "prospect-mua64gce-t2b6ow",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:27:59.225Z"
+  "lastUpdated": "2026-10-03T02:28:29.110Z"
 }
