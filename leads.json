@@ -35113,7 +35113,27 @@
       "addedAt": "2026-10-03T15:21:32.078Z",
       "prospectSourceId": "prospect-mua64gce-935ulb",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "musjip6wpvbxaj9fage",
+      "name": "Amanda August",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amandajaugust",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-03",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-03",
+      "dateAdded": "2026-10-03",
+      "addedAt": "2026-10-03T15:21:58.280Z",
+      "prospectSourceId": "prospect-mua64gce-u4erig",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T15:21:32.080Z"
+  "lastUpdated": "2026-10-03T15:21:58.280Z"
 }
