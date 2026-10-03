@@ -1151,10 +1151,12 @@
       "name": "Alfie McFadden",
       "social": "https://facebook.com/alfie.mcfadden",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "murru97zawcqninfgm9",
+      "convertedAt": "2026-10-03T02:27:08.207Z"
     },
     {
       "id": "prospect-mua64gce-93ok95",
@@ -41693,5 +41695,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T02:26:40.106Z"
+  "lastUpdated": "2026-10-03T02:27:09.730Z"
 }
