@@ -1501,10 +1501,12 @@
       "name": "Alyssa Katehis",
       "social": "https://facebook.com/alyssakay77",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "musjhmdkxm3biartlqs",
+      "convertedAt": "2026-10-03T15:21:07.976Z"
     },
     {
       "id": "prospect-mua64gce-935ulb",
@@ -41731,5 +41733,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:20:43.640Z"
+  "lastUpdated": "2026-10-03T15:21:09.457Z"
 }
