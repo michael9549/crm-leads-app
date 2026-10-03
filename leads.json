@@ -34793,7 +34793,27 @@
       "addedAt": "2026-10-03T02:32:52.380Z",
       "prospectSourceId": "prospect-mua64gce-w3uoxa",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "murs28el1yidqme13un",
+      "name": "Allan Ferguson",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/allan.ferguson2",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-02",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-02",
+      "dateAdded": "2026-10-02",
+      "addedAt": "2026-10-03T02:33:20.397Z",
+      "prospectSourceId": "prospect-mua64gce-s9texu",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-03T02:32:52.380Z"
+  "lastUpdated": "2026-10-03T02:33:20.397Z"
 }
