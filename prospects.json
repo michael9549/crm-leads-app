@@ -1697,10 +1697,12 @@
       "name": "Amy Janece",
       "social": "https://facebook.com/amyjanece.searancravin",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvnw0ndxlwudcv16m7",
+      "convertedAt": "2026-10-05T19:47:36.650Z"
     },
     {
       "id": "prospect-mua64gce-q5ug19",
@@ -41759,5 +41761,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T19:47:09.066Z"
+  "lastUpdated": "2026-10-05T19:47:38.319Z"
 }
