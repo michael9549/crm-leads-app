@@ -35473,7 +35473,27 @@
       "addedAt": "2026-10-05T19:49:54.851Z",
       "prospectSourceId": "prospect-mua64gce-atvinn",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvnzl3wn8km3djojwq",
+      "name": "Ana Teran",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ana.teran.545",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:50:23.133Z",
+      "prospectSourceId": "prospect-mua64gce-jj4u4g",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:49:54.851Z"
+  "lastUpdated": "2026-10-05T19:50:23.133Z"
 }
