@@ -35373,7 +35373,27 @@
       "addedAt": "2026-10-05T19:47:36.649Z",
       "prospectSourceId": "prospect-mua64gce-78uuln",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvnwm2ot162tqoi3z",
+      "name": "Amy Morgan",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amy.morgan.545",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:48:04.416Z",
+      "prospectSourceId": "prospect-mua64gce-q5ug19",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:47:36.650Z"
+  "lastUpdated": "2026-10-05T19:48:04.416Z"
 }
