@@ -35353,7 +35353,27 @@
       "addedAt": "2026-10-05T19:47:07.315Z",
       "prospectSourceId": "prospect-mua64gce-0c42et",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvnw0ndxlwudcv16m7",
+      "name": "Amy Janece",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amyjanece.searancravin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:47:36.649Z",
+      "prospectSourceId": "prospect-mua64gce-78uuln",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:47:07.315Z"
+  "lastUpdated": "2026-10-05T19:47:36.650Z"
 }
