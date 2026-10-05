@@ -35333,7 +35333,27 @@
       "addedAt": "2026-10-03T15:28:56.360Z",
       "prospectSourceId": "prospect-mua64gce-88ntqx",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvnve0jq4dwu9bmnyg",
+      "name": "Amy D Middleton",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/amy.chapman.125",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:47:07.315Z",
+      "prospectSourceId": "prospect-mua64gce-0c42et",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:46:30.777Z"
+  "lastUpdated": "2026-10-05T19:47:07.315Z"
 }
