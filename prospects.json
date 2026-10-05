@@ -1753,10 +1753,12 @@
       "name": "Amy Singleton",
       "social": "https://facebook.com/therealamysingleton",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvnyb31ksroz9hwdf",
+      "convertedAt": "2026-10-05T19:49:23.485Z"
     },
     {
       "id": "prospect-mua64gce-atvinn",
@@ -41767,5 +41769,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T19:48:57.613Z"
+  "lastUpdated": "2026-10-05T19:49:25.359Z"
 }
