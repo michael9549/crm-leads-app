@@ -33711,12 +33711,12 @@
       "phone": "",
       "social": "https://www.facebook.com/daniel.cruz.315865",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-04",
+      "nextFollowUp": null,
       "notes": "",
       "lastModified": "2026-10-05",
       "dateAdded": "2026-09-30",
@@ -35335,5 +35335,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:44:44.406Z"
+  "lastUpdated": "2026-10-05T19:44:59.140Z"
 }
