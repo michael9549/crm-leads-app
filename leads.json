@@ -35413,7 +35413,27 @@
       "addedAt": "2026-10-05T19:48:29.689Z",
       "prospectSourceId": "prospect-mua64gce-0fsmv9",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvnxponr80pc7lp31j",
+      "name": "Amy S. Cohick",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/acohickmaurice",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:48:55.751Z",
+      "prospectSourceId": "prospect-mua64gce-pz64z5",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:48:29.689Z"
+  "lastUpdated": "2026-10-05T19:48:55.752Z"
 }
