@@ -1781,10 +1781,12 @@
       "name": "Ana Teran",
       "social": "https://facebook.com/ana.teran.545",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvnzl3wn8km3djojwq",
+      "convertedAt": "2026-10-05T19:50:23.133Z"
     },
     {
       "id": "prospect-mua64gce-kdykf8",
@@ -41771,5 +41773,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T19:49:57.310Z"
+  "lastUpdated": "2026-10-05T19:50:25.450Z"
 }
