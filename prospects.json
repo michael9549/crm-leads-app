@@ -1739,10 +1739,12 @@
       "name": "Amy S. Cohick",
       "social": "https://facebook.com/acohickmaurice",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvnxponr80pc7lp31j",
+      "convertedAt": "2026-10-05T19:48:55.751Z"
     },
     {
       "id": "prospect-mua64gce-uwka1e",
@@ -41765,5 +41767,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T19:48:31.475Z"
+  "lastUpdated": "2026-10-05T19:48:57.613Z"
 }
