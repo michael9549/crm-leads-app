@@ -35433,7 +35433,27 @@
       "addedAt": "2026-10-05T19:48:55.751Z",
       "prospectSourceId": "prospect-mua64gce-pz64z5",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvnyb31ksroz9hwdf",
+      "name": "Amy Singleton",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/therealamysingleton",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:49:23.485Z",
+      "prospectSourceId": "prospect-mua64gce-uwka1e",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:48:55.752Z"
+  "lastUpdated": "2026-10-05T19:49:23.486Z"
 }
