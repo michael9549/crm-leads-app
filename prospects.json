@@ -1725,10 +1725,12 @@
       "name": "Amy S Austin",
       "social": "https://facebook.com/fortunemaker",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvnx5kpxyu67jpo58i",
+      "convertedAt": "2026-10-05T19:48:29.689Z"
     },
     {
       "id": "prospect-mua64gce-pz64z5",
@@ -41763,5 +41765,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T19:48:06.106Z"
+  "lastUpdated": "2026-10-05T19:48:31.475Z"
 }
