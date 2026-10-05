@@ -1809,10 +1809,12 @@
       "name": "Andi Arief",
       "social": "https://facebook.com/andisoloads",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvo0w0f6cnjcwvh7cx",
+      "convertedAt": "2026-10-05T19:51:23.919Z"
     },
     {
       "id": "prospect-mua64gce-87n2v9",
@@ -41775,5 +41777,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T19:50:55.801Z"
+  "lastUpdated": "2026-10-05T19:51:25.453Z"
 }
