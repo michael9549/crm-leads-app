@@ -35493,7 +35493,27 @@
       "addedAt": "2026-10-05T19:50:23.133Z",
       "prospectSourceId": "prospect-mua64gce-jj4u4g",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvo08mp2ti22q4cvs",
+      "name": "Anca Andreica",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anca.andreica.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:50:53.617Z",
+      "prospectSourceId": "prospect-mua64gce-kdykf8",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:50:23.133Z"
+  "lastUpdated": "2026-10-05T19:50:53.617Z"
 }
