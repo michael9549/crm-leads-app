@@ -1767,10 +1767,12 @@
       "name": "Amy Wilson",
       "social": "https://facebook.com/amy.wilson.391",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvnyzabn1o6xzio2q",
+      "convertedAt": "2026-10-05T19:49:54.851Z"
     },
     {
       "id": "prospect-mua64gce-jj4u4g",
@@ -41769,5 +41771,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-05T19:49:25.359Z"
+  "lastUpdated": "2026-10-05T19:49:57.310Z"
 }
