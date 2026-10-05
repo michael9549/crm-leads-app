@@ -33729,14 +33729,14 @@
       "phone": "",
       "social": "https://www.facebook.com/roy.shaw.942",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-02",
-      "nextFollowUp": "2026-10-04",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-10-02",
+      "lastModified": "2026-10-05",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T14:58:46.164Z"
     },
@@ -35335,5 +35335,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:44:59.140Z"
+  "lastUpdated": "2026-10-05T19:45:22.858Z"
 }
