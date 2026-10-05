@@ -35393,7 +35393,27 @@
       "addedAt": "2026-10-05T19:48:04.416Z",
       "prospectSourceId": "prospect-mua64gce-q5ug19",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "muvnx5kpxyu67jpo58i",
+      "name": "Amy S Austin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/fortunemaker",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-05",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-05",
+      "dateAdded": "2026-10-05",
+      "addedAt": "2026-10-05T19:48:29.689Z",
+      "prospectSourceId": "prospect-mua64gce-0fsmv9",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-05T19:48:04.416Z"
+  "lastUpdated": "2026-10-05T19:48:29.689Z"
 }
