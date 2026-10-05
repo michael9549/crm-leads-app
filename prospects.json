@@ -1683,10 +1683,12 @@
       "name": "Amy D Middleton",
       "social": "https://facebook.com/amy.chapman.125",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "muvnve0jq4dwu9bmnyg",
+      "convertedAt": "2026-10-05T19:47:07.315Z"
     },
     {
       "id": "prospect-mua64gce-78uuln",
@@ -41757,5 +41759,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-03T15:28:57.599Z"
+  "lastUpdated": "2026-10-05T19:47:09.066Z"
 }
