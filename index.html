@@ -891,7 +891,7 @@
         } else if (response.ok) {
           saveInProgress = false;
           const data = await response.json();
-          const content = JSON.parse(decodeBase64(data.content));
+          const content = await readGitHubJsonFile(data);
           leads = content.leads || [];
           sha = data.sha;
           console.log('Leads loaded:', leads.length);
