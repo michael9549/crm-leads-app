@@ -33765,14 +33765,14 @@
       "phone": "",
       "social": "https://www.facebook.com/tsan70",
       "source": "Facebook",
-      "status": "Sent Video",
+      "status": "Not Interested",
       "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-10-08",
-      "nextFollowUp": "2026-10-09",
+      "nextFollowUp": null,
       "notes": "",
-      "lastModified": "2026-10-08",
+      "lastModified": "2026-10-13",
       "dateAdded": "2026-09-30",
       "addedAt": "2026-09-30T15:01:50.882Z"
     },
@@ -35535,5 +35535,5 @@
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-08T12:58:29.446Z"
+  "lastUpdated": "2026-10-13T14:10:36.058Z"
 }
