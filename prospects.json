@@ -2187,10 +2187,12 @@
       "name": "Andy Brown",
       "social": "https://facebook.com/abrownLULO",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqj7fjgs34deyq7xn",
+      "convertedAt": "2026-10-20T13:44:47.455Z"
     },
     {
       "id": "prospect-mua64gcf-81j8lj",
@@ -41817,5 +41819,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:44:23.155Z"
+  "lastUpdated": "2026-10-20T13:44:49.628Z"
 }
