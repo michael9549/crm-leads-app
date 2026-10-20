@@ -2131,10 +2131,12 @@
       "name": "Andrew Sykes",
       "social": "https://facebook.com/andrew.sykes.5680",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqgz7g6e2tmozwcnx",
+      "convertedAt": "2026-10-20T13:43:03.485Z"
     },
     {
       "id": "prospect-mua64gcf-kyztvs",
@@ -41809,5 +41811,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:42:33.802Z"
+  "lastUpdated": "2026-10-20T13:43:04.901Z"
 }
