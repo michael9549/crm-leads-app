@@ -2215,10 +2215,12 @@
       "name": "Andy Ervin",
       "social": "https://facebook.com/eandyman",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqk6xcmogt7hprr4",
+      "convertedAt": "2026-10-20T13:45:33.456Z"
     },
     {
       "id": "prospect-mua64gcf-4hv7kz",
@@ -41821,5 +41823,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:45:03.693Z"
+  "lastUpdated": "2026-10-20T13:45:35.924Z"
 }
