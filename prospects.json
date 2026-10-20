@@ -2097,18 +2097,6 @@
       "convertedAt": "2026-10-19T21:46:38.000Z"
     },
     {
-      "id": "prospect-mua64gce-9lccow",
-      "firstName": "Andrew",
-      "lastName": "Martin",
-      "name": "Andrew Martin",
-      "social": "https://facebook.com/andrew.martin.500433",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gce-snp3yg",
       "firstName": "Andrew",
       "lastName": "Poirier",
@@ -41817,5 +41805,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-19T21:46:38.000Z"
+  "lastUpdated": "2026-10-20T13:39:51.026Z"
 }
