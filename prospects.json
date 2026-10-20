@@ -2299,10 +2299,12 @@
       "name": "Andy McMahon",
       "social": "https://facebook.com/AndyMcMahon101",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqo7ibsw5dbyzdigh",
+      "convertedAt": "2026-10-20T13:48:40.835Z"
     },
     {
       "id": "prospect-mua64gcf-ioo808",
@@ -41833,5 +41835,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:48:10.999Z"
+  "lastUpdated": "2026-10-20T13:48:43.848Z"
 }
