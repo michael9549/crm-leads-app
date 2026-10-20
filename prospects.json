@@ -2243,10 +2243,12 @@
       "name": "Andy Hurst",
       "social": "https://facebook.com/andy.hurst.161",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqlognm17ku53pyo",
+      "convertedAt": "2026-10-20T13:46:42.839Z"
     },
     {
       "id": "prospect-mua64gcf-vg080l",
@@ -41825,5 +41827,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:46:03.440Z"
+  "lastUpdated": "2026-10-20T13:46:44.380Z"
 }
