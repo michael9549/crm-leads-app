@@ -37227,7 +37227,27 @@
       "addedAt": "2026-10-20T13:45:02.189Z",
       "prospectSourceId": "prospect-mua64gcf-81j8lj",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvgqk6xcmogt7hprr4",
+      "name": "Andy Ervin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/eandyman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T13:45:33.456Z",
+      "prospectSourceId": "prospect-mua64gcf-9e1d64",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-20T13:45:02.190Z"
+  "lastUpdated": "2026-10-20T13:45:33.456Z"
 }
