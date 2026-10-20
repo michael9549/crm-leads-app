@@ -2159,10 +2159,12 @@
       "name": "Andrey Merva",
       "social": "https://facebook.com/realtorandreymerva",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqi1fyxmx7mbn7sa",
+      "convertedAt": "2026-10-20T13:43:53.039Z"
     },
     {
       "id": "prospect-mua64gcf-vg7v1g",
@@ -41813,5 +41815,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:43:29.852Z"
+  "lastUpdated": "2026-10-20T13:43:54.722Z"
 }
