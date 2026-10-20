@@ -2117,10 +2117,12 @@
       "name": "Andrew Reese",
       "social": "https://facebook.com/andrew.reese.376",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqgb4q2x7gcb204ml",
+      "convertedAt": "2026-10-20T13:42:32.283Z"
     },
     {
       "id": "prospect-mua64gcf-jdy3qx",
@@ -41807,5 +41809,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:40:19.922Z"
+  "lastUpdated": "2026-10-20T13:42:33.802Z"
 }
