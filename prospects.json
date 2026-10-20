@@ -2103,10 +2103,12 @@
       "name": "Andrew Poirier",
       "social": "https://facebook.com/andrew.poirier.77",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.454Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqdfqhpqsyp6pqb4d",
+      "convertedAt": "2026-10-20T13:40:18.281Z"
     },
     {
       "id": "prospect-mua64gce-xpjqa1",
@@ -41805,5 +41807,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:39:51.026Z"
+  "lastUpdated": "2026-10-20T13:40:19.922Z"
 }
