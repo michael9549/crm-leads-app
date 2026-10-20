@@ -37367,7 +37367,27 @@
       "addedAt": "2026-10-20T13:48:40.835Z",
       "prospectSourceId": "prospect-mua64gcf-k1wf64",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvgqp7ueo2ur9x1rd3d",
+      "name": "Andy Northrup",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andy.northrup.12",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T13:49:27.926Z",
+      "prospectSourceId": "prospect-mua64gcf-ioo808",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-20T13:48:40.836Z"
+  "lastUpdated": "2026-10-20T13:49:27.927Z"
 }
