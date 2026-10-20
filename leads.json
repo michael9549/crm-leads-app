@@ -37307,7 +37307,27 @@
       "addedAt": "2026-10-20T13:47:14.092Z",
       "prospectSourceId": "prospect-mua64gcf-vg080l",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvgqmxk9tn4ym52g51h",
+      "name": "Andy Kromchad",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andy.kromchad",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T13:47:41.289Z",
+      "prospectSourceId": "prospect-mua64gcf-jiubby",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-20T13:47:14.092Z"
+  "lastUpdated": "2026-10-20T13:47:41.289Z"
 }
