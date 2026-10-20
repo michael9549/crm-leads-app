@@ -2173,10 +2173,12 @@
       "name": "Andriy Lendel",
       "social": "https://facebook.com/alendel",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqinbvhhi5ovuzgeu",
+      "convertedAt": "2026-10-20T13:44:21.403Z"
     },
     {
       "id": "prospect-mua64gcf-slsin7",
@@ -41815,5 +41817,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:43:54.722Z"
+  "lastUpdated": "2026-10-20T13:44:23.155Z"
 }
