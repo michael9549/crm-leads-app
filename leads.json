@@ -37087,7 +37087,27 @@
       "addedAt": "2026-10-20T13:40:18.281Z",
       "prospectSourceId": "prospect-mua64gce-snp3yg",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mvgqgb4q2x7gcb204ml",
+      "name": "Andrew Reese",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrew.reese.376",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T13:42:32.283Z",
+      "prospectSourceId": "prospect-mua64gce-xpjqa1",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-20T13:40:18.282Z"
+  "lastUpdated": "2026-10-20T13:42:32.283Z"
 }
