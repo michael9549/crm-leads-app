@@ -2327,10 +2327,12 @@
       "name": "Andy O'Bryan",
       "social": "https://facebook.com/ajobryan",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqq999rzwu4n7lb2b",
+      "convertedAt": "2026-10-20T13:50:16.413Z"
     },
     {
       "id": "prospect-mua64gcf-emekxa",
@@ -41837,5 +41839,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:49:29.434Z"
+  "lastUpdated": "2026-10-20T13:50:18.214Z"
 }
