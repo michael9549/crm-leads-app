@@ -2355,10 +2355,12 @@
       "name": "Andy Travis",
       "social": "https://facebook.com/andrew.travis.18",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqrub142nf0hwfbti",
+      "convertedAt": "2026-10-20T13:51:30.350Z"
     },
     {
       "id": "prospect-mua64gcf-potchs",
@@ -41841,5 +41843,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:50:53.202Z"
+  "lastUpdated": "2026-10-20T13:51:32.321Z"
 }
