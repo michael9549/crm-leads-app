@@ -37067,7 +37067,27 @@
       "addedAt": "2026-10-19T21:46:38.000Z",
       "prospectSourceId": "prospect-mua64gce-if6uii",
       "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
+    },
+    {
+      "id": "mvgqdfqhpqsyp6pqb4d",
+      "name": "Andrew Poirier",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andrew.poirier.77",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T13:40:18.281Z",
+      "prospectSourceId": "prospect-mua64gce-snp3yg",
+      "prospectUploadedAt": "2026-09-20T18:47:07.454Z"
     }
   ],
-  "lastUpdated": "2026-10-19T21:46:38.000Z"
+  "lastUpdated": "2026-10-20T13:40:18.282Z"
 }
