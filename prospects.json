@@ -2257,10 +2257,12 @@
       "name": "Andy Kolodgie",
       "social": "https://facebook.com/andykolodgie",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqmcksarc6ltv3yha",
+      "convertedAt": "2026-10-20T13:47:14.092Z"
     },
     {
       "id": "prospect-mua64gcf-jiubby",
@@ -41827,5 +41829,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:46:44.380Z"
+  "lastUpdated": "2026-10-20T13:47:16.130Z"
 }
