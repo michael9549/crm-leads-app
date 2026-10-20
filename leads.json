@@ -37327,7 +37327,27 @@
       "addedAt": "2026-10-20T13:47:41.289Z",
       "prospectSourceId": "prospect-mua64gcf-jiubby",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvgqnjb8wrx5gv9k1qg",
+      "name": "Andy Legault",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/andy.legault.3",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-20",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-20",
+      "dateAdded": "2026-10-20",
+      "addedAt": "2026-10-20T13:48:09.476Z",
+      "prospectSourceId": "prospect-mua64gcf-y5i662",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-20T13:47:41.289Z"
+  "lastUpdated": "2026-10-20T13:48:09.476Z"
 }
