@@ -2313,10 +2313,12 @@
       "name": "Andy Northrup",
       "social": "https://facebook.com/andy.northrup.12",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqp7ueo2ur9x1rd3d",
+      "convertedAt": "2026-10-20T13:49:27.926Z"
     },
     {
       "id": "prospect-mua64gcf-8d3b9f",
@@ -41835,5 +41837,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:48:43.848Z"
+  "lastUpdated": "2026-10-20T13:49:29.434Z"
 }
