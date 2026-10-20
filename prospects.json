@@ -2369,10 +2369,12 @@
       "name": "Angel Smith Farner",
       "social": "https://facebook.com/angel.farner",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvgqshmr3r84jzscmpu",
+      "convertedAt": "2026-10-20T13:52:00.579Z"
     },
     {
       "id": "prospect-mua64gcf-n65awi",
@@ -41843,5 +41845,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:51:32.321Z"
+  "lastUpdated": "2026-10-20T13:52:02.763Z"
 }
