@@ -2481,10 +2481,12 @@
       "name": "Angelo Setaro",
       "social": "https://facebook.com/angelo.saterio",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi553ehpi7m7wh3nbh",
+      "convertedAt": "2026-10-21T13:21:29.465Z"
     },
     {
       "id": "prospect-mua64gcf-hpgqp8",
@@ -41823,5 +41825,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:12:38.554Z"
+  "lastUpdated": "2026-10-21T13:21:31.873Z"
 }
