@@ -2607,10 +2607,12 @@
       "name": "Anna Pluchel Yano",
       "social": "https://facebook.com/apasu21",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi6ercekr0hgjbdocm",
+      "convertedAt": "2026-10-21T13:57:00.014Z"
     },
     {
       "id": "prospect-mua64gcf-neolwx",
@@ -41817,5 +41819,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:56:18.292Z"
+  "lastUpdated": "2026-10-21T13:57:01.969Z"
 }
