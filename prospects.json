@@ -2495,10 +2495,12 @@
       "name": "Angie Epps",
       "social": "https://facebook.com/angie.epps.3",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi55yxxl2l0p9mcx2",
+      "convertedAt": "2026-10-21T13:22:10.341Z"
     },
     {
       "id": "prospect-mua64gcf-e7wlw4",
@@ -41825,5 +41827,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:21:31.873Z"
+  "lastUpdated": "2026-10-21T13:22:12.313Z"
 }
