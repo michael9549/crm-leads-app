@@ -37507,7 +37507,27 @@
       "addedAt": "2026-10-21T13:09:18.801Z",
       "prospectSourceId": "prospect-mua64gcf-gljrpa",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi4q2oyfobm2i8p7yr",
+      "name": "Angela Goodman",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/angela.j.goodman",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:09:48.706Z",
+      "prospectSourceId": "prospect-mua64gcf-n0cofw",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:09:18.801Z"
+  "lastUpdated": "2026-10-21T13:09:48.707Z"
 }
