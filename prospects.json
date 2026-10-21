@@ -2453,10 +2453,12 @@
       "name": "Angela Ramirez Mason",
       "social": "https://facebook.com/angela.choate1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi4stgz256fnowz9jki",
+      "convertedAt": "2026-10-21T13:11:56.723Z"
     },
     {
       "id": "prospect-mua64gcf-p0k95l",
@@ -41819,5 +41821,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:11:30.882Z"
+  "lastUpdated": "2026-10-21T13:11:59.307Z"
 }
