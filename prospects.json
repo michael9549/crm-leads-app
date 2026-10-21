@@ -2635,10 +2635,12 @@
       "name": "Anne Duffy",
       "social": "https://facebook.com/anneduffyofficial",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi6gck3rl10mudl24",
+      "convertedAt": "2026-10-21T13:58:14.164Z"
     },
     {
       "id": "prospect-mua64gcf-2sd1nd",
@@ -41809,5 +41811,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:57:50.586Z"
+  "lastUpdated": "2026-10-21T13:58:16.196Z"
 }
