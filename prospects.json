@@ -2377,18 +2377,6 @@
       "convertedAt": "2026-10-20T13:52:00.579Z"
     },
     {
-      "id": "prospect-mua64gcf-n65awi",
-      "firstName": "Angel",
-      "lastName": "Villanueva",
-      "name": "Angel Villanueva",
-      "social": "https://facebook.com/angel.villanueva.903988",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcf-4trqyu",
       "firstName": "Angela",
       "lastName": "Cavesina-Bowers",
@@ -41845,5 +41833,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-20T13:52:02.763Z"
+  "lastUpdated": "2026-10-21T13:08:23.972Z"
 }
