@@ -2425,10 +2425,12 @@
       "name": "Angela Kelly",
       "social": "https://facebook.com/ahkelly",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi4qlk7y2kdtbdhzyq",
+      "convertedAt": "2026-10-21T13:10:13.159Z"
     },
     {
       "id": "prospect-mua64gcf-2mf5yt",
@@ -41839,5 +41841,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:09:50.286Z"
+  "lastUpdated": "2026-10-21T13:10:14.641Z"
 }
