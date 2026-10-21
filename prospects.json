@@ -2523,10 +2523,12 @@
       "name": "Anita Čavrag",
       "social": "https://facebook.com/anita.cavrag",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi592g2s4awcwt6io",
+      "convertedAt": "2026-10-21T13:24:34.850Z"
     },
     {
       "id": "prospect-mua64gcf-mzqj44",
@@ -41829,5 +41831,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:23:44.495Z"
+  "lastUpdated": "2026-10-21T13:24:36.326Z"
 }
