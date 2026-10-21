@@ -37587,7 +37587,27 @@
       "addedAt": "2026-10-21T13:11:56.723Z",
       "prospectSourceId": "prospect-mua64gcf-qf03xq",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi4to1tziuocuqzxgn",
+      "name": "Angelo Borghini",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/aborghini1",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:12:36.353Z",
+      "prospectSourceId": "prospect-mua64gcf-p0k95l",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:11:56.724Z"
+  "lastUpdated": "2026-10-21T13:12:36.353Z"
 }
