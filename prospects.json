@@ -2643,18 +2643,6 @@
       "convertedAt": "2026-10-21T13:58:14.164Z"
     },
     {
-      "id": "prospect-mua64gcf-2sd1nd",
-      "firstName": "Anne",
-      "lastName": "Smith",
-      "name": "Anne Smith",
-      "social": "https://facebook.com/AnneSmithLife",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcf-y0ytpv",
       "firstName": "Annette",
       "lastName": "Elise",
@@ -41811,5 +41799,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:58:16.196Z"
+  "lastUpdated": "2026-10-21T13:58:33.493Z"
 }
