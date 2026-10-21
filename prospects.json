@@ -2433,18 +2433,6 @@
       "convertedAt": "2026-10-21T13:10:13.159Z"
     },
     {
-      "id": "prospect-mua64gcf-2mf5yt",
-      "firstName": "Angela",
-      "lastName": "Langlotz",
-      "name": "Angela Langlotz",
-      "social": "https://facebook.com/angelalanglotz",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcf-nkfwms",
       "firstName": "Angela",
       "lastName": "Marie Dunaway",
@@ -41841,5 +41829,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:10:14.641Z"
+  "lastUpdated": "2026-10-21T13:10:33.340Z"
 }
