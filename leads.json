@@ -37707,7 +37707,27 @@
       "addedAt": "2026-10-21T13:25:30.378Z",
       "prospectSourceId": "prospect-mua64gcf-mzqj44",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi5ckhitmcqdqkqnt",
+      "name": "Ann Newsome",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/ann.zimmerman.90",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:27:18.198Z",
+      "prospectSourceId": "prospect-mua64gcf-8nbjvs",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:25:30.378Z"
+  "lastUpdated": "2026-10-21T13:27:18.199Z"
 }
