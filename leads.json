@@ -37667,7 +37667,27 @@
       "addedAt": "2026-10-21T13:23:41.091Z",
       "prospectSourceId": "prospect-mua64gcf-e7wlw4",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi592g2s4awcwt6io",
+      "name": "Anita Čavrag",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anita.cavrag",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:24:34.850Z",
+      "prospectSourceId": "prospect-mua64gcf-epz1s5",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:23:41.091Z"
+  "lastUpdated": "2026-10-21T13:24:34.851Z"
 }
