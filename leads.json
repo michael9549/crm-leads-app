@@ -37827,7 +37827,27 @@
       "addedAt": "2026-10-21T13:57:47.917Z",
       "prospectSourceId": "prospect-mua64gcf-32jqsk",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi6gck3rl10mudl24",
+      "name": "Anne Duffy",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anneduffyofficial",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:58:14.163Z",
+      "prospectSourceId": "prospect-mua64gcf-637414",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:57:47.917Z"
+  "lastUpdated": "2026-10-21T13:58:14.164Z"
 }
