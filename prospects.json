@@ -2545,18 +2545,6 @@
       "convertedAt": "2026-10-21T13:25:30.378Z"
     },
     {
-      "id": "prospect-mua64gcf-xsxyb5",
-      "firstName": "Ann",
-      "lastName": "Marie Schindler",
-      "name": "Ann Marie Schindler",
-      "social": "https://facebook.com/amschindler",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcf-8nbjvs",
       "firstName": "Ann",
       "lastName": "Newsome",
@@ -41833,5 +41821,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:25:32.325Z"
+  "lastUpdated": "2026-10-21T13:25:57.185Z"
 }
