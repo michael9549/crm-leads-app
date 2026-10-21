@@ -2433,18 +2433,6 @@
       "convertedAt": "2026-10-21T13:10:13.159Z"
     },
     {
-      "id": "prospect-mua64gcf-nkfwms",
-      "firstName": "Angela",
-      "lastName": "Marie Dunaway",
-      "name": "Angela Marie Dunaway",
-      "social": "https://facebook.com/angelamariedunaway",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcf-c8hnpt",
       "firstName": "Angela",
       "lastName": "R Ortiz",
@@ -41829,5 +41817,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:10:33.340Z"
+  "lastUpdated": "2026-10-21T13:11:05.350Z"
 }
