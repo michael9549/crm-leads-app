@@ -2579,10 +2579,12 @@
       "name": "Ann Saunders-Webb",
       "social": "https://facebook.com/annsw0011",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi5dwdvpyz17jx8zke",
+      "convertedAt": "2026-10-21T13:28:20.275Z"
     },
     {
       "id": "prospect-mua64gcf-ixbw0q",
@@ -41825,5 +41827,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:27:51.472Z"
+  "lastUpdated": "2026-10-21T13:28:23.188Z"
 }
