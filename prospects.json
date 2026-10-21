@@ -2551,10 +2551,12 @@
       "name": "Ann Newsome",
       "social": "https://facebook.com/ann.zimmerman.90",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi5ckhitmcqdqkqnt",
+      "convertedAt": "2026-10-21T13:27:18.198Z"
     },
     {
       "id": "prospect-mua64gcf-gj7bl4",
@@ -41821,5 +41823,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:25:57.185Z"
+  "lastUpdated": "2026-10-21T13:27:20.012Z"
 }
