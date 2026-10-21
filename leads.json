@@ -37767,7 +37767,27 @@
       "addedAt": "2026-10-21T13:28:20.275Z",
       "prospectSourceId": "prospect-mua64gcf-6eg5a3",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi6cg2sz84mc7f8moj",
+      "name": "Anna Confortin",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/anna.confortin",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:55:12.100Z",
+      "prospectSourceId": "prospect-mua64gcf-ixbw0q",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:28:20.275Z"
+  "lastUpdated": "2026-10-21T13:55:12.101Z"
 }
