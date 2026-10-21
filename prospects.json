@@ -2537,10 +2537,12 @@
       "name": "Ankur Sharma",
       "social": "https://facebook.com/ProMedia555",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi5a9aic5o9fm3zlgk",
+      "convertedAt": "2026-10-21T13:25:30.378Z"
     },
     {
       "id": "prospect-mua64gcf-xsxyb5",
@@ -41831,5 +41833,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:24:36.326Z"
+  "lastUpdated": "2026-10-21T13:25:32.325Z"
 }
