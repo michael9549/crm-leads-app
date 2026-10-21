@@ -2467,10 +2467,12 @@
       "name": "Angelo Borghini",
       "social": "https://facebook.com/aborghini1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi4to1tziuocuqzxgn",
+      "convertedAt": "2026-10-21T13:12:36.353Z"
     },
     {
       "id": "prospect-mua64gcf-czbffk",
@@ -41821,5 +41823,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:11:59.307Z"
+  "lastUpdated": "2026-10-21T13:12:38.554Z"
 }
