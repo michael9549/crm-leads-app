@@ -37547,7 +37547,27 @@
       "addedAt": "2026-10-21T13:10:13.159Z",
       "prospectSourceId": "prospect-mua64gcf-sgpw4v",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi4s842g9sz0fnf8z4",
+      "name": "Angela R Ortiz",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/angelar.ortiz.94",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:11:29.042Z",
+      "prospectSourceId": "prospect-mua64gcf-c8hnpt",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:10:13.159Z"
+  "lastUpdated": "2026-10-21T13:11:29.042Z"
 }
