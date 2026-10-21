@@ -37607,7 +37607,27 @@
       "addedAt": "2026-10-21T13:12:36.353Z",
       "prospectSourceId": "prospect-mua64gcf-p0k95l",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvi553ehpi7m7wh3nbh",
+      "name": "Angelo Setaro",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/angelo.saterio",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-21",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-21",
+      "dateAdded": "2026-10-21",
+      "addedAt": "2026-10-21T13:21:29.465Z",
+      "prospectSourceId": "prospect-mua64gcf-czbffk",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-21T13:12:36.353Z"
+  "lastUpdated": "2026-10-21T13:21:29.465Z"
 }
