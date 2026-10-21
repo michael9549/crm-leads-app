@@ -2411,10 +2411,12 @@
       "name": "Angela Goodman",
       "social": "https://facebook.com/angela.j.goodman",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi4q2oyfobm2i8p7yr",
+      "convertedAt": "2026-10-21T13:09:48.706Z"
     },
     {
       "id": "prospect-mua64gcf-sgpw4v",
@@ -41837,5 +41839,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:09:20.223Z"
+  "lastUpdated": "2026-10-21T13:09:50.286Z"
 }
