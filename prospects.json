@@ -2509,10 +2509,12 @@
       "name": "Angie Federico",
       "social": "https://facebook.com/angie.federico.5",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi57wyr3ems8l6yqww",
+      "convertedAt": "2026-10-21T13:23:41.091Z"
     },
     {
       "id": "prospect-mua64gcf-epz1s5",
@@ -41827,5 +41829,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:22:12.313Z"
+  "lastUpdated": "2026-10-21T13:23:44.495Z"
 }
