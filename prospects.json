@@ -2383,10 +2383,12 @@
       "name": "Angela Cavesina-Bowers",
       "social": "https://facebook.com/anbcapitalinc",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi4ouxdz3zrx3h1rjk",
+      "convertedAt": "2026-10-21T13:08:51.985Z"
     },
     {
       "id": "prospect-mua64gcf-gljrpa",
@@ -41833,5 +41835,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:08:23.972Z"
+  "lastUpdated": "2026-10-21T13:08:53.799Z"
 }
