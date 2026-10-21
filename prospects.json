@@ -2621,10 +2621,12 @@
       "name": "Anne Awuor Matoke",
       "social": "https://facebook.com/anne.matoke",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi6fsb1y7ducabf1t",
+      "convertedAt": "2026-10-21T13:57:47.917Z"
     },
     {
       "id": "prospect-mua64gcf-637414",
@@ -41807,5 +41809,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:57:20.902Z"
+  "lastUpdated": "2026-10-21T13:57:50.586Z"
 }
