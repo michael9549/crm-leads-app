@@ -2615,18 +2615,6 @@
       "convertedAt": "2026-10-21T13:57:00.014Z"
     },
     {
-      "id": "prospect-mua64gcf-neolwx",
-      "firstName": "Anna",
-      "lastName": "Sinitsa",
-      "name": "Anna Sinitsa",
-      "social": "https://facebook.com/anna.v.sinitsa",
-      "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
-      "uploadedDate": "2026-09-20",
-      "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
-    },
-    {
       "id": "prospect-mua64gcf-32jqsk",
       "firstName": "Anne",
       "lastName": "Awuor Matoke",
@@ -41819,5 +41807,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:57:01.969Z"
+  "lastUpdated": "2026-10-21T13:57:20.902Z"
 }
