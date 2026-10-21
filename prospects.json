@@ -2565,10 +2565,12 @@
       "name": "Ann Reynolds",
       "social": "https://facebook.com/awhitereynolds",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvi5d8sc3vupuc4u8tl",
+      "convertedAt": "2026-10-21T13:27:49.692Z"
     },
     {
       "id": "prospect-mua64gcf-6eg5a3",
@@ -41823,5 +41825,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:27:20.012Z"
+  "lastUpdated": "2026-10-21T13:27:51.472Z"
 }
