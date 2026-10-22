@@ -2663,10 +2663,12 @@
       "name": "Annie Slater",
       "social": "https://facebook.com/annslater",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "convertedLeadId": "mvjsvmsjx8admjllfng",
+      "convertedAt": "2026-10-22T17:13:44.995Z"
     },
     {
       "id": "prospect-mua64gcf-u9ar8z",
@@ -41801,5 +41803,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-10-21T13:59:35.381Z"
+  "lastUpdated": "2026-10-22T17:13:47.809Z"
 }
