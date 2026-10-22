@@ -37867,7 +37867,27 @@
       "addedAt": "2026-10-21T13:59:33.769Z",
       "prospectSourceId": "prospect-mua64gcf-y0ytpv",
       "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
+    },
+    {
+      "id": "mvjsvmsjx8admjllfng",
+      "name": "Annie Slater",
+      "email": "",
+      "phone": "",
+      "social": "https://facebook.com/annslater",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-10-22",
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-10-22",
+      "dateAdded": "2026-10-22",
+      "addedAt": "2026-10-22T17:13:44.995Z",
+      "prospectSourceId": "prospect-mua64gcf-jhitjt",
+      "prospectUploadedAt": "2026-09-20T18:47:07.455Z"
     }
   ],
-  "lastUpdated": "2026-10-22T16:50:26.104Z"
+  "lastUpdated": "2026-10-22T17:13:44.996Z"
 }
