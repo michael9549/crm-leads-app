@@ -187,16 +187,16 @@
       "content": "Hey {{firstName}}, I know we don't know each other, but I'm going through my friends list and noticed we have some mutual friends. I wasn't sure if you'd be open to exploring an additional income stream, but if so, I have a short video that explains what I'm doing. Interested in taking a look?\n"
     },
     {
-      "id": "1784596541695",
-      "category": "Initial Outreach",
-      "name": "AI CEO",
-      "content": "Hey {{firstName}}, I know we don't know each other, but since we have some mutual friends, I thought I'd reach out.\n\nQuick question... do you ever feel like AI is moving so fast that you're getting left behind?\n\nThat's exactly how I felt a few months ago.\n\nI finally decided to dive in, and it completely changed everything.\n\nI put together a free 5-video mini playlist (they're all short) that explains why I believe everyone should have their own AI bot.\n\nWould you be open to checking it out?"
-    },
-    {
       "id": "1785109945432",
       "category": "Initial Outreach",
       "name": "Direct Trading",
       "content": "Hi {{firstName}},\n\nI know we don't know each other, but I noticed we have a few mutual friends, so I thought I'd reach out.\n\nWould you be open to learning how to trade the financial markets?"
+    },
+    {
+      "id": "1784596541695",
+      "category": "Initial Outreach",
+      "name": "AI CEO",
+      "content": "Hey {{firstName}}, I know we don't know each other, but since we have some mutual friends, I thought I'd reach out.\n\nQuick question... do you ever feel like AI is moving so fast that you're getting left behind?\n\nThat's exactly how I felt a few months ago.\n\nI finally decided to dive in, and it completely changed everything.\n\nI put together a free 5-video mini playlist (they're all short) that explains why I believe everyone should have their own AI bot.\n\nWould you be open to checking it out?"
     },
     {
       "id": "1787063223178",
@@ -205,5 +205,5 @@
       "content": "Hey {{firstName}}, I know we don’t know each other, but we have some mutual friends, so I thought I’d reach out.\n\nI think a lot of people are quietly curious about trading, but they never take the next step because they do not know who to trust or where to start.\n\nThat is exactly the gap our community is built around: simple education, structure, and support so people can learn the basics without trying to figure everything out alone.\n\nWould you be open to seeing what that looks like?"
     }
   ],
-  "lastUpdated": "2026-10-22T17:14:54.411Z"
+  "lastUpdated": "2026-11-02T16:42:03.230Z"
 }
