@@ -41195,7 +41195,158 @@
     },
     {
       "id": "fake-20261105-no-followup-20", "name": "Taylor Tate", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-05", "dateAdded": "2026-11-05", "addedAt": "2026-11-05T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-01",
+      "name": "Alex Archer",
+      "email": "",
+      "phone": "",
+      "social": "",
+      "source": "Facebook",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": null,
+      "nextFollowUp": null,
+      "notes": "",
+      "lastModified": "2026-11-06",
+      "dateAdded": "2026-11-06",
+      "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-02",
+      "name": "Bailey Benson",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-03",
+      "name": "Casey Carter",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-04",
+      "name": "Drew Dawson",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-05",
+      "name": "Elliot Evans",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-06",
+      "name": "Frankie Flores",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-07",
+      "name": "Georgie Grant",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-08",
+      "name": "Hayden Hall",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-09",
+      "name": "Jamie Jordan",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-10",
+      "name": "Kendall Knight",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-11",
+      "name": "Lane Lewis",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-12",
+      "name": "Marlowe Moore",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-13",
+      "name": "Nico Nelson",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-14",
+      "name": "Onyx Ortiz",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-15",
+      "name": "Phoenix Porter",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-16",
+      "name": "Reese Rivera",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-17",
+      "name": "Sage Sullivan",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-18",
+      "name": "Toby Thompson",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-19",
+      "name": "Val Vaughn",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261106-no-followup-20",
+      "name": "Wren Walker",
+      "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead",
+      "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null,
+      "nextFollowUp": null, "notes": "", "lastModified": "2026-11-06", "dateAdded": "2026-11-06", "addedAt": "2026-11-06T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-11-03T14:29:00Z"
+  "lastUpdated": "2026-11-06T14:00:00Z"
 }
