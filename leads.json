@@ -41408,7 +41408,67 @@
     },
     {
       "id": "fake-20261107-no-followup-20", "name": "Taylor Turner", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-07", "dateAdded": "2026-11-07", "addedAt": "2026-11-07T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-01", "name": "Alex Archer", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-02", "name": "Blake Benson", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-03", "name": "Cameron Cole", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-04", "name": "Drew Daniels", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-05", "name": "Elliot Evans", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-06", "name": "Frankie Flores", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-07", "name": "Gale Grant", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-08", "name": "Hayden Hill", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-09", "name": "Jamie Jordan", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-10", "name": "Kendall King", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-11", "name": "Leslie Lewis", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-12", "name": "Micah Moore", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-13", "name": "Noel Nelson", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-14", "name": "Payton Perry", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-15", "name": "Reese Rivera", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-16", "name": "Sage Sullivan", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-17", "name": "Toby Thompson", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-18", "name": "Val Avery", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-19", "name": "Winter Walker", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
+    },
+    {
+      "id": "fake-20261108-no-followup-20", "name": "Zion Young", "email": "", "phone": "", "social": "", "source": "Facebook", "status": "New Lead", "videoSent": false, "temperature": "Cold", "lastAction": "Initial Contact", "lastContact": null, "nextFollowUp": null, "notes": "", "lastModified": "2026-11-08", "dateAdded": "2026-11-08", "addedAt": "2026-11-08T14:00:00.000Z"
     }
   ],
-  "lastUpdated": "2026-11-07T16:07:44.612Z"
+  "lastUpdated": "2026-11-08T14:00:00.000Z"
 }
