@@ -2677,13 +2677,15 @@
       "name": "Anphoto Bao",
       "social": "https://facebook.com/anphoto.bao",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
       "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "convertedLeadId": "muse-mwck5wg8-k04lv0",
+      "convertedAt": "2026-11-11T20:15:06.632Z",
+      "museLastMessageText": "Hey Anphoto, I know we don't know each other, but we have some mutual friends, so I figured I'd reach out.\n\nNot sure if you've ever considered learning how to trade Forex or futures, or maybe you've already explored trading a little.\n\nWe've built a trading education community that's been together for almost 10 years, and I'm hosting a live webinar where I'll be giving a complete behind-the-scenes tour of our platform, the education, tools, and how everything works.\n\nNot sure if it's something you'd be interested in, but would you be open to checking it out?",
+      "museLastSentAt": "2026-11-11T12:14:00-08:00",
+      "museIdempotencyKey": "fef5f18a-fe0f-40eb-bfc0-f7803ad4eb50"
     },
     {
       "id": "prospect-mua64gcf-wtcnct",
@@ -2692,13 +2694,10 @@
       "name": "Anthony Ahnefeld",
       "social": "https://facebook.com/anthony.ahnefeld",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-20jogq",
@@ -2707,13 +2706,10 @@
       "name": "Anthony Alberti",
       "social": "https://facebook.com/anthony.alberti.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-cf3wl3",
@@ -2722,13 +2718,10 @@
       "name": "Anthony Argirakis",
       "social": "https://facebook.com/9999999999999999999999999999999999999999999999999z",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-fkp6rp",
@@ -2737,13 +2730,10 @@
       "name": "Anthony Barnes",
       "social": "https://facebook.com/anastasiia.baranova.39589",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-aktwqe",
@@ -2752,13 +2742,10 @@
       "name": "Anthony Belcher",
       "social": "https://facebook.com/agbelcher",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-viytla",
@@ -2767,13 +2754,10 @@
       "name": "Anthony Chávez",
       "social": "https://facebook.com/anthony.chavez.3720",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-ismumd",
@@ -2782,13 +2766,10 @@
       "name": "Anthony Dierickx",
       "social": "https://facebook.com/anthony.dierickx",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-sirkzq",
@@ -2797,13 +2778,10 @@
       "name": "Anthony Garcia",
       "social": "https://facebook.com/anthony.garcia.18294",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-2gqt5s",
@@ -2812,13 +2790,10 @@
       "name": "Anthony Hughes",
       "social": "https://facebook.com/anthony.hughes.624926",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-11T20:13:41.221Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T22:13:41.221Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-pky4o2",
@@ -41833,5 +41808,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T20:13:41.221Z"
+  "lastUpdated": "2026-11-11T20:15:06.632Z"
 }
