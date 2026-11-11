@@ -43682,7 +43682,30 @@
         "sentAt": "2026-11-11T12:14:00-08:00",
         "idempotencyKey": "fef5f18a-fe0f-40eb-bfc0-f7803ad4eb50"
       }
+    },
+    {
+      "id": "muse-mwcmbbyw-pl090z",
+      "name": "Lyndon Benjamin",
+      "email": "lyndonbenjamin68@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-11",
+      "nextFollowUp": "2026-11-14",
+      "notes": "Page opener sent Nov 11, 2026 via Michael Angel Page inbox (ManyChat lead, batch 1).",
+      "lastModified": "2026-11-11",
+      "dateAdded": "2026-11-11",
+      "addedAt": "2026-11-11T21:15:19.256Z",
+      "muse": {
+        "createdAt": "2026-11-11T21:15:19.256Z",
+        "idempotencyKey": "b66ee211-f592-4f42-a4a4-4e841c6db11c",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-11T20:15:06.632Z"
+  "lastUpdated": "2026-11-11T21:15:19.679Z"
 }
