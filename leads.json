@@ -43684,8 +43684,8 @@
       }
     },
     {
-      "id": "muse-mwcmgjzg-5kyq9e",
-      "name": "Cory Bradley",
+      "id": "muse-mwcmgmjo-xok7vr",
+      "name": "Zach Josey",
       "email": "",
       "phone": "",
       "social": "facebook.com",
@@ -43699,13 +43699,13 @@
       "notes": "Page opener sent Nov 11, 2026 via Michael Angel Page inbox (ManyChat lead, batch 1).",
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
-      "addedAt": "2026-11-11T21:19:22.924Z",
+      "addedAt": "2026-11-11T21:19:26.244Z",
       "muse": {
-        "createdAt": "2026-11-11T21:19:22.924Z",
-        "idempotencyKey": "12d4f6f4-b2dc-4ed0-bebd-3f405a4fb2e6",
+        "createdAt": "2026-11-11T21:19:26.244Z",
+        "idempotencyKey": "b054eb80-dc7c-4c30-9485-b1745655c8ec",
         "createdBy": "muse"
       }
     }
   ],
-  "lastUpdated": "2026-11-11T21:19:23.083Z"
+  "lastUpdated": "2026-11-11T21:19:26.415Z"
 }
