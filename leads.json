@@ -43704,7 +43704,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-14",
+      "nextFollowUp": null,
       "notes": "Page opener sent Nov 11, 2026 via Michael Angel Page inbox (ManyChat lead, batch 1).",
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
@@ -43712,7 +43712,16 @@
       "muse": {
         "createdAt": "2026-11-11T21:19:29.290Z",
         "idempotencyKey": "e0c2eac1-0222-4930-b75e-5914ee31d44e",
-        "createdBy": "muse"
+        "createdBy": "muse",
+        "edits": [
+          {
+            "idempotencyKey": "6eb301be-3ea8-44c9-b464-39baedeed8ab",
+            "editedAt": "2026-11-11T22:37:24.793Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
       }
     },
     {
@@ -44524,5 +44533,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-11T22:37:16.825Z"
+  "lastUpdated": "2026-11-11T22:37:24.793Z"
 }
