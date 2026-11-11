@@ -43684,8 +43684,8 @@
       }
     },
     {
-      "id": "muse-mwcmgmjo-xok7vr",
-      "name": "Zach Josey",
+      "id": "muse-mwcmgowa-uq2zb2",
+      "name": "Jay Hiro Young",
       "email": "",
       "phone": "",
       "social": "facebook.com",
@@ -43699,13 +43699,13 @@
       "notes": "Page opener sent Nov 11, 2026 via Michael Angel Page inbox (ManyChat lead, batch 1).",
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
-      "addedAt": "2026-11-11T21:19:26.244Z",
+      "addedAt": "2026-11-11T21:19:29.290Z",
       "muse": {
-        "createdAt": "2026-11-11T21:19:26.244Z",
-        "idempotencyKey": "b054eb80-dc7c-4c30-9485-b1745655c8ec",
+        "createdAt": "2026-11-11T21:19:29.290Z",
+        "idempotencyKey": "e0c2eac1-0222-4930-b75e-5914ee31d44e",
         "createdBy": "muse"
       }
     }
   ],
-  "lastUpdated": "2026-11-11T21:19:26.415Z"
+  "lastUpdated": "2026-11-11T21:19:29.456Z"
 }
