@@ -43684,8 +43684,8 @@
       }
     },
     {
-      "id": "muse-mwcmgd35-tguylh",
-      "name": "Nitin Kurane",
+      "id": "muse-mwcmgfgy-sidfd8",
+      "name": "Brett King",
       "email": "",
       "phone": "",
       "social": "facebook.com",
@@ -43699,13 +43699,13 @@
       "notes": "Page opener sent Nov 11, 2026 via Michael Angel Page inbox (ManyChat lead, batch 1).",
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
-      "addedAt": "2026-11-11T21:19:13.977Z",
+      "addedAt": "2026-11-11T21:19:17.073Z",
       "muse": {
-        "createdAt": "2026-11-11T21:19:13.977Z",
-        "idempotencyKey": "f9cc14e8-54c1-408e-9bf8-6f440899900a",
+        "createdAt": "2026-11-11T21:19:17.073Z",
+        "idempotencyKey": "52c5b35c-0eda-42e1-8258-b8d005ffbb2a",
         "createdBy": "muse"
       }
     }
   ],
-  "lastUpdated": "2026-11-11T21:19:14.149Z"
+  "lastUpdated": "2026-11-11T21:19:17.226Z"
 }
