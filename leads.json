@@ -43684,9 +43684,9 @@
       }
     },
     {
-      "id": "muse-mwcmcdgb-7gowkf",
-      "name": "Wendell Forbes Jr.",
-      "email": "wendell.forbes@gmail.com",
+      "id": "muse-mwcmcg75-4de8gb",
+      "name": "Shawn Reynolds",
+      "email": "tmreynolds95@gmail.com",
       "phone": "",
       "social": "",
       "source": "Facebook Page",
@@ -43699,13 +43699,13 @@
       "notes": "Page opener sent Nov 11, 2026 via Michael Angel Page inbox (ManyChat lead, batch 1).",
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
-      "addedAt": "2026-11-11T21:16:07.834Z",
+      "addedAt": "2026-11-11T21:16:11.393Z",
       "muse": {
-        "createdAt": "2026-11-11T21:16:07.834Z",
-        "idempotencyKey": "ae9521fd-a5b7-4f8c-b7ac-94c45e2b11d6",
+        "createdAt": "2026-11-11T21:16:11.393Z",
+        "idempotencyKey": "0af9df43-c99e-4d09-bce0-a7f47bfe670a",
         "createdBy": "muse"
       }
     }
   ],
-  "lastUpdated": "2026-11-11T21:16:08.035Z"
+  "lastUpdated": "2026-11-11T21:16:11.570Z"
 }
