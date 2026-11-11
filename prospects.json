@@ -2694,13 +2694,15 @@
       "name": "Anthony Ahnefeld",
       "social": "https://facebook.com/anthony.ahnefeld",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
       "notes": "",
-      "reservedAt": "2026-11-11T21:21:40.354Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-11T23:21:40.354Z"
+      "convertedLeadId": "muse-mwcmkt1f-o5tgwg",
+      "convertedAt": "2026-11-11T21:22:41.283Z",
+      "museLastMessageText": "Hey Anthony, I know we don't know each other, but we have some mutual friends, so I figured I'd reach out.\n\nNot sure if you've ever considered learning how to trade Forex or futures, or maybe you've already explored trading a little.\n\nWe've built a trading education community that's been together for almost 10 years, and I'm hosting a live webinar where I'll be giving a complete behind-the-scenes tour of our platform, the education, tools, and how everything works.\n\nNot sure if it's something you'd be interested in, but would you be open to checking it out?",
+      "museLastSentAt": "2026-11-11T13:22:00-08:00",
+      "museIdempotencyKey": "1d90bc65-7298-4034-a00d-3769fdd5954c"
     },
     {
       "id": "prospect-mua64gcf-20jogq",
@@ -41811,5 +41813,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T21:21:40.354Z"
+  "lastUpdated": "2026-11-11T21:22:41.283Z"
 }
