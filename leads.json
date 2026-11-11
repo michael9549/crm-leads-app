@@ -43684,11 +43684,11 @@
       }
     },
     {
-      "id": "muse-mwcmd25h-k69rgv",
-      "name": "Curtis Dickerson",
-      "email": "revcd72@gmail.com",
+      "id": "muse-mwcmg27w-r29kyc",
+      "name": "Pawel Opalinski",
+      "email": "",
       "phone": "",
-      "social": "",
+      "social": "facebook.com",
       "source": "Facebook Page",
       "status": "New Lead",
       "videoSent": false,
@@ -43699,13 +43699,13 @@
       "notes": "Page opener sent Nov 11, 2026 via Michael Angel Page inbox (ManyChat lead, batch 1).",
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
-      "addedAt": "2026-11-11T21:16:39.845Z",
+      "addedAt": "2026-11-11T21:18:59.899Z",
       "muse": {
-        "createdAt": "2026-11-11T21:16:39.845Z",
-        "idempotencyKey": "74aad96e-65f6-4c0e-8d6e-4b2be8e28303",
+        "createdAt": "2026-11-11T21:18:59.899Z",
+        "idempotencyKey": "f5826d5a-a6a9-43ea-9008-0990bd02e8f8",
         "createdBy": "muse"
       }
     }
   ],
-  "lastUpdated": "2026-11-11T21:16:40.041Z"
+  "lastUpdated": "2026-11-11T21:19:00.155Z"
 }
