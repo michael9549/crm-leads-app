@@ -43735,7 +43735,7 @@
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-11",
-      "nextFollowUp": "2026-11-14",
+      "nextFollowUp": null,
       "notes": "Muse outreach sent 2026-11-11T13:22:00-08:00: Hey Anthony, I know we don't know each other, but we have some mutual friends, so I figured I'd reach out.\n\nNot sure if you've ever considered learning how to trade Forex or futures, or maybe you've already explored trading a little.\n\nWe've built a trading education community that's been together for almost 10 years, and I'm hosting a live webinar where I'll be giving a complete behind-the-scenes tour of our platform, the education, tools, and how everything works.\n\nNot sure if it's something you'd be interested in, but would you be open to checking it out?",
       "lastModified": "2026-11-11",
       "dateAdded": "2026-11-11",
@@ -43747,7 +43747,16 @@
         "channel": "messenger",
         "campaign": "cold-outreach",
         "sentAt": "2026-11-11T13:22:00-08:00",
-        "idempotencyKey": "1d90bc65-7298-4034-a00d-3769fdd5954c"
+        "idempotencyKey": "1d90bc65-7298-4034-a00d-3769fdd5954c",
+        "edits": [
+          {
+            "idempotencyKey": "58380a42-b88d-4b39-9104-a64cb15c651c",
+            "editedAt": "2026-11-11T22:37:30.689Z",
+            "fields": [
+              "nextFollowUp"
+            ]
+          }
+        ]
       }
     },
     {
@@ -44533,5 +44542,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-11T22:37:24.793Z"
+  "lastUpdated": "2026-11-11T22:37:30.689Z"
 }
