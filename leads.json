@@ -44821,7 +44821,30 @@
         "idempotencyKey": "695db4d3-2fff-4f0f-8949-4ca667530fda",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvrnz7-e5gtlp",
+      "name": "Con Kiparoglou",
+      "email": "kontuna01@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:27:44.035Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:27:44.035Z",
+        "idempotencyKey": "0dbf18da-a3d9-4ff9-a662-5c298782c91b",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:27:37.834Z"
+  "lastUpdated": "2026-11-12T18:27:44.577Z"
 }
