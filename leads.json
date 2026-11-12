@@ -44632,7 +44632,7 @@
       "phone": "",
       "social": "https://facebook.com/agbelcher",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-12",
@@ -44655,6 +44655,13 @@
             "editedAt": "2026-11-12T17:03:00.932Z",
             "fields": [
               "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "8c4da092-2764-44c9-b7b0-5b855dafc9e6",
+            "editedAt": "2026-11-12T23:48:26.942Z",
+            "fields": [
+              "status"
             ]
           }
         ]
@@ -46110,5 +46117,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-12T22:14:14.147Z"
+  "lastUpdated": "2026-11-12T23:48:26.942Z"
 }
