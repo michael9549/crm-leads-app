@@ -45726,7 +45726,30 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "6c198e65-e09d-4d69-a395-92ef90d70c05"
       }
+    },
+    {
+      "id": "muse-mwe0qc6r-f06uh5",
+      "name": "George Foxx",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "Page opener sent Nov 12, 2026 via Michael Angel Page inbox (ManyChat lead, batch 2).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:46:40.179Z",
+      "muse": {
+        "createdAt": "2026-11-12T20:46:40.179Z",
+        "idempotencyKey": "1cbb7183-a6f2-4aef-a4f0-569f1765a8c8",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T20:43:44.714Z"
+  "lastUpdated": "2026-11-12T20:46:40.689Z"
 }
