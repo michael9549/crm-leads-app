@@ -44775,7 +44775,30 @@
         "idempotencyKey": "fbe0fc7d-170f-437b-89dc-36f0fb671ee6",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvre9n-3nu2zg",
+      "name": "Tom Metuariki",
+      "email": "tomimets@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:27:31.450Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:27:31.450Z",
+        "idempotencyKey": "ea52c5a3-ecaf-4af2-9094-f9b3ff38a6d9",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:27:22.871Z"
+  "lastUpdated": "2026-11-12T18:27:31.986Z"
 }
