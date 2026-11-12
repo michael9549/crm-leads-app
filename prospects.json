@@ -2886,10 +2886,13 @@
       "name": "Anthony L Kleinsmith",
       "social": "https://facebook.com/dranthonyk",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T22:03:54.473Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T00:03:54.473Z"
     },
     {
       "id": "prospect-mua64gcf-ibcql8",
@@ -2898,10 +2901,13 @@
       "name": "Anthony Lambe",
       "social": "https://facebook.com/anf.lambe",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T22:03:54.473Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T00:03:54.473Z"
     },
     {
       "id": "prospect-mua64gcf-zbbzqd",
@@ -2910,10 +2916,13 @@
       "name": "Anthony Pintaro",
       "social": "https://facebook.com/AntTheFounder",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T22:03:54.473Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T00:03:54.473Z"
     },
     {
       "id": "prospect-mua64gcf-i3esfb",
@@ -2922,10 +2931,13 @@
       "name": "Anthony Scarbrough",
       "social": "https://facebook.com/tony.scar.395",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T22:03:54.473Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T00:03:54.473Z"
     },
     {
       "id": "prospect-mua64gcf-l5ljxu",
@@ -2934,10 +2946,13 @@
       "name": "Anthony Sciarretta",
       "social": "https://facebook.com/anthony.sciarretta.12",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T22:03:54.473Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T00:03:54.473Z"
     },
     {
       "id": "prospect-mua64gcf-95yka0",
@@ -41868,5 +41883,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T22:03:46.024Z"
+  "lastUpdated": "2026-11-12T22:03:54.473Z"
 }
