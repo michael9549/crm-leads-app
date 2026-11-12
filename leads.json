@@ -44959,7 +44959,30 @@
         "idempotencyKey": "80fb8654-14e4-40ab-9407-50c15cf3eb82",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvsiic-df44z3",
+      "name": "David McCoy",
+      "email": "davidmccoy3530@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:28:23.604Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:28:23.604Z",
+        "idempotencyKey": "33fa816f-06c3-46e9-9785-d05fd962bc77",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:28:14.609Z"
+  "lastUpdated": "2026-11-12T18:28:24.195Z"
 }
