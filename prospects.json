@@ -2886,13 +2886,18 @@
       "name": "Anthony L Holt",
       "social": "https://facebook.com/holt.anthony.1",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
       "notes": "",
       "reservedAt": "2026-11-12T21:58:53.414Z",
       "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-12T23:58:53.414Z"
+      "reservationExpiresAt": "2026-11-12T23:58:53.414Z",
+      "convertedLeadId": "muse-mwe3tjsl-3bv6nj",
+      "convertedAt": "2026-11-12T22:13:08.853Z",
+      "museLastMessageText": "Hey Anthony, I know we don't know each other, but we have some mutual friends, so I figured I'd reach out.\n\nNot sure if you've ever considered learning how to trade Forex or futures, or maybe you've already explored trading a little.\n\nWe've built a trading education community that's been together for almost 10 years, and I'm hosting a live webinar where I'll be giving a complete behind-the-scenes tour of our platform, the education, tools, and how everything works.\n\nNot sure if it's something you'd be interested in, but would you be open to checking it out?",
+      "museLastSentAt": "2026-11-12T14:12:00-08:00",
+      "museIdempotencyKey": "95d84ff1-1495-47ff-bb2d-848212a13b6d"
     },
     {
       "id": "prospect-mua64gcf-cwz1p1",
@@ -41898,5 +41903,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T22:11:22.957Z"
+  "lastUpdated": "2026-11-12T22:13:08.853Z"
 }
