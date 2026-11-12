@@ -2711,10 +2711,13 @@
       "name": "Anthony Alberti",
       "social": "https://facebook.com/anthony.alberti.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T16:55:19.159Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-12T18:55:19.159Z"
     },
     {
       "id": "prospect-mua64gcf-cf3wl3",
@@ -2723,10 +2726,13 @@
       "name": "Anthony Argirakis",
       "social": "https://facebook.com/9999999999999999999999999999999999999999999999999z",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T16:55:19.159Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-12T18:55:19.159Z"
     },
     {
       "id": "prospect-mua64gcf-fkp6rp",
@@ -2735,10 +2741,13 @@
       "name": "Anthony Barnes",
       "social": "https://facebook.com/anastasiia.baranova.39589",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T16:55:19.159Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-12T18:55:19.159Z"
     },
     {
       "id": "prospect-mua64gcf-aktwqe",
@@ -2747,10 +2756,13 @@
       "name": "Anthony Belcher",
       "social": "https://facebook.com/agbelcher",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T16:55:19.159Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-12T18:55:19.159Z"
     },
     {
       "id": "prospect-mua64gcf-viytla",
@@ -2759,10 +2771,13 @@
       "name": "Anthony Chávez",
       "social": "https://facebook.com/anthony.chavez.3720",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-12T16:55:19.159Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-12T18:55:19.159Z"
     },
     {
       "id": "prospect-mua64gcf-ismumd",
@@ -41813,5 +41828,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-11T21:22:41.283Z"
+  "lastUpdated": "2026-11-12T16:55:19.159Z"
 }
