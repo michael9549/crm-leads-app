@@ -44936,7 +44936,30 @@
         "idempotencyKey": "00a8a184-2a4d-434a-807f-863a594034b1",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvsb5a-4dxfkh",
+      "name": "Daniel Whiting",
+      "email": "whiting2026@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:28:14.061Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:28:14.061Z",
+        "idempotencyKey": "80fb8654-14e4-40ab-9407-50c15cf3eb82",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:28:09.374Z"
+  "lastUpdated": "2026-11-12T18:28:14.609Z"
 }
