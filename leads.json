@@ -44913,7 +44913,30 @@
         "idempotencyKey": "7dde02f4-24b9-452a-9b30-17792e48f742",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvs73b-rup0sk",
+      "name": "Justin Masters",
+      "email": "mastersljustin@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:28:08.807Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:28:08.807Z",
+        "idempotencyKey": "00a8a184-2a4d-434a-807f-863a594034b1",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:28:03.722Z"
+  "lastUpdated": "2026-11-12T18:28:09.374Z"
 }
