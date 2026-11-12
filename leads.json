@@ -45841,7 +45841,30 @@
         "idempotencyKey": "34a26642-551c-48fd-a563-00e990ab2f45",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwe0qqf5-oz3oec",
+      "name": "Virgil Dixon",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "Page opener sent Nov 12, 2026 via Michael Angel Page inbox (ManyChat lead, batch 2).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:46:58.624Z",
+      "muse": {
+        "createdAt": "2026-11-12T20:46:58.624Z",
+        "idempotencyKey": "2011f5ac-ef78-40b7-8950-c1e548b6c401",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T20:46:56.553Z"
+  "lastUpdated": "2026-11-12T20:46:59.283Z"
 }
