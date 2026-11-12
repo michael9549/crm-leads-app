@@ -44867,7 +44867,30 @@
         "idempotencyKey": "f47886d3-793f-470a-8b94-f04d9a8978d0",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvryg7-lz5m2j",
+      "name": "Sean Spicer",
+      "email": "spicersean030@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:27:57.607Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:27:57.607Z",
+        "idempotencyKey": "913cd1ad-945c-4114-82f0-592480fd9733",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:27:52.396Z"
+  "lastUpdated": "2026-11-12T18:27:58.141Z"
 }
