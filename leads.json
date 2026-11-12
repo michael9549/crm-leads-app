@@ -45772,7 +45772,30 @@
         "idempotencyKey": "12e545af-a781-4db5-b149-a4d7db497128",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwe0qjgs-z5ec2g",
+      "name": "Rob Cramer",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "Page opener sent Nov 12, 2026 via Michael Angel Page inbox (ManyChat lead, batch 2).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:46:49.612Z",
+      "muse": {
+        "createdAt": "2026-11-12T20:46:49.612Z",
+        "idempotencyKey": "3911004e-b1ae-437d-8657-53cd1e9889ab",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T20:46:47.493Z"
+  "lastUpdated": "2026-11-12T20:46:50.251Z"
 }
