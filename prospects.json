@@ -2846,13 +2846,18 @@
       "name": "Anthony Hughes",
       "social": "https://facebook.com/anthony.hughes.624926",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
       "notes": "",
       "reservedAt": "2026-11-12T21:58:53.414Z",
       "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-12T23:58:53.414Z"
+      "reservationExpiresAt": "2026-11-12T23:58:53.414Z",
+      "convertedLeadId": "muse-mwe3oz6i-ry1jcf",
+      "convertedAt": "2026-11-12T22:09:35.514Z",
+      "museLastMessageText": "Hey Anthony, I know we don't know each other, but we have some mutual friends, so I figured I'd reach out.\n\nNot sure if you've ever considered learning how to trade Forex or futures, or maybe you've already explored trading a little.\n\nWe've built a trading education community that's been together for almost 10 years, and I'm hosting a live webinar where I'll be giving a complete behind-the-scenes tour of our platform, the education, tools, and how everything works.\n\nNot sure if it's something you'd be interested in, but would you be open to checking it out?",
+      "museLastSentAt": "2026-11-12T14:09:00-08:00",
+      "museIdempotencyKey": "e4e944d4-190d-4990-97eb-07ee1db9e1af"
     },
     {
       "id": "prospect-mua64gcf-pky4o2",
@@ -41888,5 +41893,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-12T22:06:37.073Z"
+  "lastUpdated": "2026-11-12T22:09:35.514Z"
 }
