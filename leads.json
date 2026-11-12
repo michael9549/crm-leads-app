@@ -45818,7 +45818,30 @@
         "idempotencyKey": "fd026a29-65e1-4ad9-b5bc-cd590555963c",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwe0qoa1-tfu2ga",
+      "name": "Kevin Burns",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "Page opener sent Nov 12, 2026 via Michael Angel Page inbox (ManyChat lead, batch 2).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:46:55.849Z",
+      "muse": {
+        "createdAt": "2026-11-12T20:46:55.849Z",
+        "idempotencyKey": "34a26642-551c-48fd-a563-00e990ab2f45",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T20:46:53.777Z"
+  "lastUpdated": "2026-11-12T20:46:56.553Z"
 }
