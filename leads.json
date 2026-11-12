@@ -45749,7 +45749,30 @@
         "idempotencyKey": "1cbb7183-a6f2-4aef-a4f0-569f1765a8c8",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwe0qhbx-e4tfch",
+      "name": "Qqate Aroni",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "Page opener sent Nov 12, 2026 via Michael Angel Page inbox (ManyChat lead, batch 2).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:46:46.845Z",
+      "muse": {
+        "createdAt": "2026-11-12T20:46:46.845Z",
+        "idempotencyKey": "12e545af-a781-4db5-b149-a4d7db497128",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T20:46:40.689Z"
+  "lastUpdated": "2026-11-12T20:46:47.493Z"
 }
