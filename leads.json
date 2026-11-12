@@ -45887,7 +45887,30 @@
         "idempotencyKey": "7d45f6d1-a9c8-4409-9c3e-c90eb12af34d",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwe0qum5-9m5vvs",
+      "name": "M.o. BIz",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "Page opener sent Nov 12, 2026 via Michael Angel Page inbox (ManyChat lead, batch 2).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T20:47:04.060Z",
+      "muse": {
+        "createdAt": "2026-11-12T20:47:04.060Z",
+        "idempotencyKey": "45fc31c5-c6b2-4dd2-b49a-08ac28650b8c",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T20:47:01.906Z"
+  "lastUpdated": "2026-11-12T20:47:04.717Z"
 }
