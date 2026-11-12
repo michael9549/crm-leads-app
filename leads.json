@@ -44752,7 +44752,30 @@
         "idempotencyKey": "f075ac16-1d08-4fa5-844c-44b46b4fb7ab",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvr6im-7m4u2g",
+      "name": "Guiseppe Rios",
+      "email": "gshockfx743@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:27:21.406Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:27:21.406Z",
+        "idempotencyKey": "fbe0fc7d-170f-437b-89dc-36f0fb671ee6",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:27:14.475Z"
+  "lastUpdated": "2026-11-12T18:27:22.871Z"
 }
