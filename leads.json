@@ -44844,7 +44844,30 @@
         "idempotencyKey": "0dbf18da-a3d9-4ff9-a662-5c298782c91b",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvru0q-f8672k",
+      "name": "Shane Neavin",
+      "email": "neavin00@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:27:51.866Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:27:51.866Z",
+        "idempotencyKey": "f47886d3-793f-470a-8b94-f04d9a8978d0",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:27:44.577Z"
+  "lastUpdated": "2026-11-12T18:27:52.396Z"
 }
