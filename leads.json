@@ -44798,7 +44798,30 @@
         "idempotencyKey": "ea52c5a3-ecaf-4af2-9094-f9b3ff38a6d9",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mwdvrioq-05vw55",
+      "name": "Frank Veress",
+      "email": "ferencveress@yahoo.se",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-12",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-12",
+      "dateAdded": "2026-11-12",
+      "addedAt": "2026-11-12T18:27:37.178Z",
+      "muse": {
+        "createdAt": "2026-11-12T18:27:37.178Z",
+        "idempotencyKey": "695db4d3-2fff-4f0f-8949-4ca667530fda",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-12T18:27:31.986Z"
+  "lastUpdated": "2026-11-12T18:27:37.834Z"
 }
