@@ -3078,13 +3078,18 @@
       "name": "Antonio Chan",
       "social": "https://facebook.com/antonio.chan.902",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Converted",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
       "notes": "",
       "reservedAt": "2026-11-13T16:57:41.759Z",
       "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-13T18:57:41.759Z"
+      "reservationExpiresAt": "2026-11-13T18:57:41.759Z",
+      "convertedLeadId": "muse-mwf9hho7-60texw",
+      "convertedAt": "2026-11-13T17:39:30.103Z",
+      "museLastMessageText": "Hey Antonio, I know we don't know each other, but we have some mutual friends, so I figured I'd reach out.\n\nNot sure if you've ever considered learning how to trade Forex or futures, or maybe you've already explored trading a little.\n\nWe've built a trading education community that's been together for almost 10 years, and I'm hosting a live webinar where I'll be giving a complete behind-the-scenes tour of our platform, the education, tools, and how everything works.\n\nNot sure if it's something you'd be interested in, but would you be open to checking it out?",
+      "museLastSentAt": "2026-11-13T09:39:00-08:00",
+      "museIdempotencyKey": "b939eea0-27a5-4d3e-8bb4-0b786aa809ea"
     },
     {
       "id": "prospect-mua64gcf-la0zvv",
@@ -41943,5 +41948,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T17:37:36.415Z"
+  "lastUpdated": "2026-11-13T17:39:30.103Z"
 }
