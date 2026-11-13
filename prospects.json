@@ -2986,10 +2986,13 @@
       "name": "Anthony Shump",
       "social": "https://facebook.com/anthony.shump.2025",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:37.071Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:37.071Z"
     },
     {
       "id": "prospect-mua64gcf-pifeiz",
@@ -2998,10 +3001,13 @@
       "name": "Anthony Vinole",
       "social": "https://facebook.com/vinole",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:37.071Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:37.071Z"
     },
     {
       "id": "prospect-mua64gcf-5to0nn",
@@ -3010,10 +3016,13 @@
       "name": "Anthony Woo",
       "social": "https://facebook.com/anthony.woo.77",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:37.071Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:37.071Z"
     },
     {
       "id": "prospect-mua64gcf-ui22c9",
@@ -3022,10 +3031,13 @@
       "name": "Antonina Durol",
       "social": "https://facebook.com/antonina.durol",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:37.071Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:37.071Z"
     },
     {
       "id": "prospect-mua64gcf-gv1u9v",
@@ -3034,10 +3046,13 @@
       "name": "Antonio Brutus",
       "social": "https://facebook.com/antonio.brutus.9",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:37.071Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:37.071Z"
     },
     {
       "id": "prospect-mua64gcf-5xjkcj",
@@ -41908,5 +41923,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T16:57:03.832Z"
+  "lastUpdated": "2026-11-13T16:57:37.071Z"
 }
