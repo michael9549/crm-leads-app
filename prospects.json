@@ -3061,10 +3061,13 @@
       "name": "Antonio Chan",
       "social": "https://facebook.com/antonio.chan.902",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:41.759Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:41.759Z"
     },
     {
       "id": "prospect-mua64gcf-la0zvv",
@@ -3073,10 +3076,13 @@
       "name": "Antwan Leonard",
       "social": "https://facebook.com/antwan.leonard",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:41.759Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:41.759Z"
     },
     {
       "id": "prospect-mua64gcf-c2om8e",
@@ -3085,10 +3091,13 @@
       "name": "Apia Financial Group LLC",
       "social": "https://facebook.com/ApiaFinancialGroup",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:41.759Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:41.759Z"
     },
     {
       "id": "prospect-mua64gcf-f9q3an",
@@ -3097,10 +3106,13 @@
       "name": "April Reynolds Elias",
       "social": "https://facebook.com/april.elias",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:41.759Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:41.759Z"
     },
     {
       "id": "prospect-mua64gcf-zwyfah",
@@ -3109,10 +3121,13 @@
       "name": "April Zeng",
       "social": "https://facebook.com/april.zeng",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "Unprocessed",
+      "status": "In Progress",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": ""
+      "notes": "",
+      "reservedAt": "2026-11-13T16:57:41.759Z",
+      "reservedBy": "muse",
+      "reservationExpiresAt": "2026-11-13T18:57:41.759Z"
     },
     {
       "id": "prospect-mua64gcf-ua2asb",
@@ -41923,5 +41938,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T16:57:37.071Z"
+  "lastUpdated": "2026-11-13T16:57:41.759Z"
 }
