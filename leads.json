@@ -47259,7 +47259,30 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "83556c86-0644-4504-ba77-9e69b8d66387"
       }
+    },
+    {
+      "id": "muse-mwffexfs-av59hs",
+      "name": "Ryan Johnson",
+      "email": "team@mytraderpro.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-13",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-13",
+      "dateAdded": "2026-11-13",
+      "addedAt": "2026-11-13T20:25:28.246Z",
+      "muse": {
+        "createdAt": "2026-11-13T20:25:28.246Z",
+        "idempotencyKey": "3ecb4a15-dd85-45c8-ab49-533f5e94fa7a",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-13T20:07:10.307Z"
+  "lastUpdated": "2026-11-13T20:25:28.753Z"
 }
