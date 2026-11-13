@@ -2751,13 +2751,10 @@
       "name": "Anthony Barnes",
       "social": "https://facebook.com/anastasiia.baranova.39589",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "In Progress",
+      "status": "Unprocessed",
       "uploadedDate": "2026-09-20",
       "uploadedAt": "2026-09-20T18:47:07.455Z",
-      "notes": "",
-      "reservedAt": "2026-11-13T16:57:03.832Z",
-      "reservedBy": "muse",
-      "reservationExpiresAt": "2026-11-13T18:57:03.832Z"
+      "notes": ""
     },
     {
       "id": "prospect-mua64gcf-aktwqe",
@@ -41938,5 +41935,5 @@
       "notes": ""
     }
   ],
-  "lastUpdated": "2026-11-13T16:57:41.759Z"
+  "lastUpdated": "2026-11-13T16:58:49.108Z"
 }
