@@ -47762,7 +47762,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "74bd94f0-9437-47ea-85da-3be448cfda97"
       }
+    },
+    {
+      "id": "muse-mwgtiowf-ujoysz",
+      "name": "Donald Adkison",
+      "email": "dnld_dksn@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T19:48:04.623Z",
+      "muse": {
+        "createdAt": "2026-11-14T19:48:04.623Z",
+        "idempotencyKey": "a7fbdb90-c30e-46c3-a861-472d41a89d3d",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4a9f9a9e-3e32-48b1-8b15-d89e6eaff7db"
+      }
+    },
+    {
+      "id": "muse-mwgtiowg-uuqa82",
+      "name": "Johnnie Teal",
+      "email": "jteal523@hotmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T19:48:04.624Z",
+      "muse": {
+        "createdAt": "2026-11-14T19:48:04.624Z",
+        "idempotencyKey": "25714d5a-955e-4d39-89b3-dff396989ea4",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4a9f9a9e-3e32-48b1-8b15-d89e6eaff7db"
+      }
+    },
+    {
+      "id": "muse-mwgtiowh-k4iy7h",
+      "name": "Antonio Gandy",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T19:48:04.625Z",
+      "muse": {
+        "createdAt": "2026-11-14T19:48:04.625Z",
+        "idempotencyKey": "c80e0ae1-dc2d-4a34-bea6-cd6bbc51835c",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4a9f9a9e-3e32-48b1-8b15-d89e6eaff7db"
+      }
+    },
+    {
+      "id": "muse-mwgtiowh-11ojgq",
+      "name": "Denzel D. Burnside III",
+      "email": "Denzelburnside3@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T19:48:04.625Z",
+      "muse": {
+        "createdAt": "2026-11-14T19:48:04.625Z",
+        "idempotencyKey": "5e105954-efac-44e0-8a5c-caadcdce0c6d",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4a9f9a9e-3e32-48b1-8b15-d89e6eaff7db"
+      }
+    },
+    {
+      "id": "muse-mwgtiowh-vohv2o",
+      "name": "Melvin Richardson",
+      "email": "melvin.richardson21@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T19:48:04.625Z",
+      "muse": {
+        "createdAt": "2026-11-14T19:48:04.625Z",
+        "idempotencyKey": "70ebacae-01a2-4732-8173-4def931feac6",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4a9f9a9e-3e32-48b1-8b15-d89e6eaff7db"
+      }
     }
   ],
-  "lastUpdated": "2026-11-14T19:38:34.297Z"
+  "lastUpdated": "2026-11-14T19:48:04.626Z"
 }
