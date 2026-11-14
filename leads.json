@@ -47882,7 +47882,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "4a9f9a9e-3e32-48b1-8b15-d89e6eaff7db"
       }
+    },
+    {
+      "id": "muse-mwgu0a40-x9h40k",
+      "name": "Michael Patterson",
+      "email": "michaeltpattersonjr@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T20:01:45.264Z",
+      "muse": {
+        "createdAt": "2026-11-14T20:01:45.264Z",
+        "idempotencyKey": "4bd99e1d-4422-49d9-98fc-0323aa44fee5",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e997c61f-28ba-49ee-a1ae-7a3e4f9c95ac"
+      }
+    },
+    {
+      "id": "muse-mwgu0a41-bea877",
+      "name": "Lazeric Ross",
+      "email": "Rosslazeric@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T20:01:45.265Z",
+      "muse": {
+        "createdAt": "2026-11-14T20:01:45.265Z",
+        "idempotencyKey": "0f6dc0d6-1d89-4a0d-8709-9fc92c76202c",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e997c61f-28ba-49ee-a1ae-7a3e4f9c95ac"
+      }
+    },
+    {
+      "id": "muse-mwgu0a42-i64rke",
+      "name": "Shaine Fitzgerald",
+      "email": "proclaimja1@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T20:01:45.266Z",
+      "muse": {
+        "createdAt": "2026-11-14T20:01:45.266Z",
+        "idempotencyKey": "f10a63f6-8ae9-44e2-b618-9b75536fd0df",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e997c61f-28ba-49ee-a1ae-7a3e4f9c95ac"
+      }
+    },
+    {
+      "id": "muse-mwgu0a42-812qy1",
+      "name": "Sandra Rice-Gordon",
+      "email": "gordonsandra41@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T20:01:45.266Z",
+      "muse": {
+        "createdAt": "2026-11-14T20:01:45.266Z",
+        "idempotencyKey": "b675eb94-f8e4-472e-b904-9814d995ae2e",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e997c61f-28ba-49ee-a1ae-7a3e4f9c95ac"
+      }
+    },
+    {
+      "id": "muse-mwgu0a42-zmf7m0",
+      "name": "Charles Kim",
+      "email": "Skim2629@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-14",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-14 via Michael Angel Page inbox (ManyChat lead, batch 4).",
+      "lastModified": "2026-11-14",
+      "dateAdded": "2026-11-14",
+      "addedAt": "2026-11-14T20:01:45.266Z",
+      "muse": {
+        "createdAt": "2026-11-14T20:01:45.266Z",
+        "idempotencyKey": "c28c98c4-33d1-4112-ae64-da2b9fb49855",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e997c61f-28ba-49ee-a1ae-7a3e4f9c95ac"
+      }
     }
   ],
-  "lastUpdated": "2026-11-14T19:48:04.626Z"
+  "lastUpdated": "2026-11-14T20:01:45.267Z"
 }
