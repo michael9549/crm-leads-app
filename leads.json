@@ -48251,7 +48251,30 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "16c68804-d435-4140-8083-aa9664200f49"
       }
+    },
+    {
+      "id": "muse-mwi5lxdm-lgor0q",
+      "name": "Erik Presto",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Back in as a JIFU customer (user confirmed Nov 15, 2026).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T18:14:17.146Z",
+      "muse": {
+        "createdAt": "2026-11-15T18:14:17.146Z",
+        "idempotencyKey": "77bb0f92-a00d-40bf-ad69-b1b26140d8aa",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-15T01:47:57.512Z"
+  "lastUpdated": "2026-11-15T18:14:17.648Z"
 }
