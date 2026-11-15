@@ -48402,7 +48402,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "87c4b6a4-062c-489c-bd29-c74fd895c55d"
       }
+    },
+    {
+      "id": "muse-mwi7tc32-832e8j",
+      "name": "Herron Pressure Washing",
+      "email": "mherron64@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:16:02.030Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:16:02.030Z",
+        "idempotencyKey": "88bedafa-587e-4278-bf39-1ed2270a1468",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "7fc4cc7a-9b7c-43f6-823f-a2e4de14db92"
+      }
+    },
+    {
+      "id": "muse-mwi7tc33-58h5by",
+      "name": "Joshua Thomas",
+      "email": "josh19123@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:16:02.031Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:16:02.031Z",
+        "idempotencyKey": "a1a0a0f6-5ff5-4b51-ba39-25d7994b4600",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "7fc4cc7a-9b7c-43f6-823f-a2e4de14db92"
+      }
+    },
+    {
+      "id": "muse-mwi7tc33-ct0ezh",
+      "name": "Homero Castilla",
+      "email": "Homero.castilla1@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:16:02.031Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:16:02.031Z",
+        "idempotencyKey": "e5e64fee-1077-4a8d-b8a8-3f991b1032d5",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "7fc4cc7a-9b7c-43f6-823f-a2e4de14db92"
+      }
+    },
+    {
+      "id": "muse-mwi7tc34-owq9p2",
+      "name": "Vilma Gomez De Santos",
+      "email": "Vilmaseverino691@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:16:02.032Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:16:02.032Z",
+        "idempotencyKey": "e809656e-7e32-4a61-832e-f07cdd8b46bd",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "7fc4cc7a-9b7c-43f6-823f-a2e4de14db92"
+      }
+    },
+    {
+      "id": "muse-mwi7tc34-0ixbk9",
+      "name": "Victor Manis",
+      "email": "1bmfa1@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:16:02.032Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:16:02.032Z",
+        "idempotencyKey": "d56e03ce-a003-47fc-a8d3-29aea3b6d2d9",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "7fc4cc7a-9b7c-43f6-823f-a2e4de14db92"
+      }
     }
   ],
-  "lastUpdated": "2026-11-15T19:08:54.135Z"
+  "lastUpdated": "2026-11-15T19:16:02.033Z"
 }
