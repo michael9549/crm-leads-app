@@ -48618,7 +48618,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "2963b981-36b5-4f25-869e-d4b2736bc654"
       }
+    },
+    {
+      "id": "muse-mwi8hhok-3rtskm",
+      "name": "Nathan Zedlitz",
+      "email": "easttexasfloorcare@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:34:49.028Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:34:49.028Z",
+        "idempotencyKey": "5e2b3749-163d-443a-874c-cde7a812d025",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "27369852-ec03-4b52-a071-5813f3e75426"
+      }
+    },
+    {
+      "id": "muse-mwi8hhol-tn0naa",
+      "name": "Bryan Cariello",
+      "email": "BryanCariello28@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:34:49.029Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:34:49.029Z",
+        "idempotencyKey": "9190c1df-e460-409e-996c-d8613b862761",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "27369852-ec03-4b52-a071-5813f3e75426"
+      }
+    },
+    {
+      "id": "muse-mwi8hhom-nllzhj",
+      "name": "Koi Doh",
+      "email": "4healthhome@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:34:49.030Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:34:49.030Z",
+        "idempotencyKey": "4373720b-dfb7-4ac6-b3cc-994c5bf45d28",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "27369852-ec03-4b52-a071-5813f3e75426"
+      }
+    },
+    {
+      "id": "muse-mwi8hhon-85bbtf",
+      "name": "Catherine Tai",
+      "email": "hsuanface@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:34:49.030Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:34:49.030Z",
+        "idempotencyKey": "afa46f3b-b42f-4951-9470-e9b1e3632ae7",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "27369852-ec03-4b52-a071-5813f3e75426"
+      }
+    },
+    {
+      "id": "muse-mwi8hhon-wnzxuu",
+      "name": "Lontis Nicolae",
+      "email": "madalina_cotarcea@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:34:49.031Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:34:49.031Z",
+        "idempotencyKey": "65adcbe8-458d-4c91-8ea0-ccdb3ab198c1",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "27369852-ec03-4b52-a071-5813f3e75426"
+      }
     }
   ],
-  "lastUpdated": "2026-11-15T19:25:25.723Z"
+  "lastUpdated": "2026-11-15T19:34:49.031Z"
 }
