@@ -48522,7 +48522,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "7fc4cc7a-9b7c-43f6-823f-a2e4de14db92"
       }
+    },
+    {
+      "id": "muse-mwi85f14-6kt2iq",
+      "name": "Fred Palma",
+      "email": "fredpalma@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:25:25.691Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:25:25.691Z",
+        "idempotencyKey": "eaaff0cb-63cd-46f1-90ca-f6b0cd27f368",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2963b981-36b5-4f25-869e-d4b2736bc654"
+      }
+    },
+    {
+      "id": "muse-mwi85f16-jafz4y",
+      "name": "Fred Stanley",
+      "email": "frederickbs@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:25:25.722Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:25:25.722Z",
+        "idempotencyKey": "32290256-9a69-42f1-8346-54edf4db8cb5",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2963b981-36b5-4f25-869e-d4b2736bc654"
+      }
+    },
+    {
+      "id": "muse-mwi85f17-e69fvf",
+      "name": "Chibuike Ndulue",
+      "email": "chikendulue1@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:25:25.722Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:25:25.722Z",
+        "idempotencyKey": "822d1722-6e1e-4dcb-8a70-e921c4f464a2",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2963b981-36b5-4f25-869e-d4b2736bc654"
+      }
+    },
+    {
+      "id": "muse-mwi85f17-dq5rgx",
+      "name": "Jason Terry",
+      "email": "mailslinger71@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:25:25.723Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:25:25.723Z",
+        "idempotencyKey": "d4c92504-d582-4b3d-8290-113f4e2d339f",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2963b981-36b5-4f25-869e-d4b2736bc654"
+      }
     }
   ],
-  "lastUpdated": "2026-11-15T19:16:02.033Z"
+  "lastUpdated": "2026-11-15T19:25:25.723Z"
 }
