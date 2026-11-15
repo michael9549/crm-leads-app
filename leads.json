@@ -48858,7 +48858,151 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "fda22b31-7310-4734-bab3-f4f87a8c0e3f"
       }
+    },
+    {
+      "id": "muse-mwi9c2zk-htfz1z",
+      "name": "Mark Weakley",
+      "email": "Mweakley@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:58:36.319Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:58:36.319Z",
+        "idempotencyKey": "19557940-44fc-4103-b3bd-b211bb968633",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "93a8b7a7-81cb-45d0-93a5-969a582384e2"
+      }
+    },
+    {
+      "id": "muse-mwi9c2zl-73z5r1",
+      "name": "Joe Jenners",
+      "email": "jjenners71@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:58:36.320Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:58:36.320Z",
+        "idempotencyKey": "1367671b-1869-47ed-9259-2a4ef4869c8a",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "93a8b7a7-81cb-45d0-93a5-969a582384e2"
+      }
+    },
+    {
+      "id": "muse-mwi9c2zl-sf1rqo",
+      "name": "John Johnson",
+      "email": "shamarrkam16@hotmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:58:36.321Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:58:36.321Z",
+        "idempotencyKey": "2ba611c6-e902-4bc7-893d-5ca316717ead",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "93a8b7a7-81cb-45d0-93a5-969a582384e2"
+      }
+    },
+    {
+      "id": "muse-mwi9c2zl-oz2uf0",
+      "name": "Giovonni Rojas",
+      "email": "giovonni744@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:58:36.321Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:58:36.321Z",
+        "idempotencyKey": "5de15e02-d749-407d-976a-6abfe4505045",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "93a8b7a7-81cb-45d0-93a5-969a582384e2"
+      }
+    },
+    {
+      "id": "muse-mwi9c2zm-6e5lgx",
+      "name": "Abu A Zaidan",
+      "email": "admedia@dhaka.net",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:58:36.322Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:58:36.322Z",
+        "idempotencyKey": "af65be67-9b54-47de-8406-d2ecb6ea0207",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "93a8b7a7-81cb-45d0-93a5-969a582384e2"
+      }
+    },
+    {
+      "id": "muse-mwi9c2zm-eiq4n8",
+      "name": "Tanner Bland",
+      "email": "tannerbland89@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-15",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-15 via Michael Angel Page inbox (ManyChat lead, batch 5).",
+      "lastModified": "2026-11-15",
+      "dateAdded": "2026-11-15",
+      "addedAt": "2026-11-15T19:58:36.322Z",
+      "muse": {
+        "createdAt": "2026-11-15T19:58:36.322Z",
+        "idempotencyKey": "6e01ddf3-badf-48cb-86fa-f7c6793f8033",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "93a8b7a7-81cb-45d0-93a5-969a582384e2"
+      }
     }
   ],
-  "lastUpdated": "2026-11-15T19:45:12.163Z"
+  "lastUpdated": "2026-11-15T19:58:36.322Z"
 }
