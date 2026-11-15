@@ -46167,13 +46167,13 @@
       "phone": "",
       "social": "https://facebook.com/AntTheFounder",
       "source": "Facebook Friends Upload - 2026-09-20",
-      "status": "New Lead",
+      "status": "Not Interested",
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-13",
       "nextFollowUp": null,
       "notes": "Muse outreach sent 2026-11-13T09:17:08-08:00: Hey Anthony, I know we don't know each other, but we have some mutual friends, so I figured I'd reach out.\n\nNot sure if you've ever considered learning how to trade Forex or futures, or maybe you've already explored trading a little.\n\nWe've built a trading education community that's been together for almost 10 years, and I'm hosting a live webinar where I'll be giving a complete behind-the-scenes tour of our platform, the education, tools, and how everything works.\n\nNot sure if it's something you'd be interested in, but would you be open to checking it out?",
-      "lastModified": "2026-11-13",
+      "lastModified": "2026-11-15",
       "dateAdded": "2026-11-13",
       "addedAt": "2026-11-13T17:18:37.962Z",
       "videoSent": false,
@@ -46189,6 +46189,14 @@
             "idempotencyKey": "7f14491d-1cf1-4c92-9a9b-49bf7640b109",
             "editedAt": "2026-11-13T17:19:35.411Z",
             "fields": [
+              "nextFollowUp"
+            ]
+          },
+          {
+            "idempotencyKey": "a751ff41-13bb-45eb-bb41-0bd55761433e",
+            "editedAt": "2026-11-15T19:06:23.234Z",
+            "fields": [
+              "status",
               "nextFollowUp"
             ]
           }
@@ -48276,5 +48284,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-15T18:14:17.648Z"
+  "lastUpdated": "2026-11-15T19:06:23.234Z"
 }
