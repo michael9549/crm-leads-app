@@ -50211,7 +50211,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "ada2ddc8-d37a-48f5-8652-4d2a27874417"
       }
+    },
+    {
+      "id": "muse-mwl4sedn-vmll03",
+      "name": "Deandre Swain",
+      "email": "deandreswain33@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:14:38.000Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:14:38.000Z",
+        "idempotencyKey": "e7553d47-68b0-4e25-bd0e-51f2d6879a30",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "560b3660-44d6-4b63-9a8d-b3ade351c3e5"
+      }
+    },
+    {
+      "id": "muse-mwl4sedp-0pftdn",
+      "name": "David Jones",
+      "email": "iamdwinner@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:14:38.029Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:14:38.029Z",
+        "idempotencyKey": "248a4d11-6f45-41d2-8595-fa9b4c54d7bc",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "560b3660-44d6-4b63-9a8d-b3ade351c3e5"
+      }
+    },
+    {
+      "id": "muse-mwl4sedq-o2n7vs",
+      "name": "Terriveo George",
+      "email": "blackhole-maz--fkwqd8hvh9vmkdmrc37kuorgebus-srhnu9xiqno-1620010253@devnull.facebook.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:14:38.029Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:14:38.029Z",
+        "idempotencyKey": "6fdadc9f-d80b-462a-8e78-e6a7f740a4ab",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "560b3660-44d6-4b63-9a8d-b3ade351c3e5"
+      }
+    },
+    {
+      "id": "muse-mwl4sedq-i88kll",
+      "name": "Kelvin Smith Sr.",
+      "email": "k5andre@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:14:38.030Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:14:38.030Z",
+        "idempotencyKey": "d19b5fb5-d327-427a-9e22-38196ee8d174",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "560b3660-44d6-4b63-9a8d-b3ade351c3e5"
+      }
+    },
+    {
+      "id": "muse-mwl4sedq-rvwefw",
+      "name": "Terrell Guy",
+      "email": "ttguy@bellsouth.net",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:14:38.030Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:14:38.030Z",
+        "idempotencyKey": "5c47705c-a326-4783-8515-3897c0e7b805",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "560b3660-44d6-4b63-9a8d-b3ade351c3e5"
+      }
     }
   ],
-  "lastUpdated": "2026-11-16T20:30:14.449Z"
+  "lastUpdated": "2026-11-17T20:14:38.030Z"
 }
