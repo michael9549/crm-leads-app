@@ -50691,7 +50691,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "6a18a8da-6fb7-4a85-aabc-fd6fac9b709c"
       }
+    },
+    {
+      "id": "muse-mwl4uysk-pzybvp",
+      "name": "Lajuwon Landers",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:16:37.796Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:16:37.796Z",
+        "idempotencyKey": "283297e1-1dfb-4df6-a940-d9c7688cd05a",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113b6d7-65a5-408c-82c0-c477fa2f7add"
+      }
+    },
+    {
+      "id": "muse-mwl4uysl-v3imjj",
+      "name": "Humble Fisherman",
+      "email": "serious_business7@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:16:37.797Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:16:37.797Z",
+        "idempotencyKey": "f23b129f-83a9-422e-a621-dd97526d5dad",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113b6d7-65a5-408c-82c0-c477fa2f7add"
+      }
+    },
+    {
+      "id": "muse-mwl4uysm-wgqujh",
+      "name": "Eddie Garza",
+      "email": "thundere88@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:16:37.797Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:16:37.797Z",
+        "idempotencyKey": "447e0d95-3465-4515-a6c9-eb90db78019b",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113b6d7-65a5-408c-82c0-c477fa2f7add"
+      }
+    },
+    {
+      "id": "muse-mwl4uysm-cnzgm3",
+      "name": "Terri Evans",
+      "email": "t.evansbusiness@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:16:37.798Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:16:37.798Z",
+        "idempotencyKey": "09468a91-2dcd-456f-884c-6872d792d575",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113b6d7-65a5-408c-82c0-c477fa2f7add"
+      }
+    },
+    {
+      "id": "muse-mwl4uysm-2jj4ip",
+      "name": "Alejandro Espinoza",
+      "email": "Ripalex.850@icloud.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-17T20:16:37.798Z",
+      "muse": {
+        "createdAt": "2026-11-17T20:16:37.798Z",
+        "idempotencyKey": "9c95972c-41eb-44b0-99f5-190320e5c8aa",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113b6d7-65a5-408c-82c0-c477fa2f7add"
+      }
     }
   ],
-  "lastUpdated": "2026-11-17T20:16:23.624Z"
+  "lastUpdated": "2026-11-17T20:16:37.798Z"
 }
