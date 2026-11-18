@@ -51171,7 +51171,30 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "a4dc95bb-d1f8-43b7-867f-7e417ee66563"
       }
+    },
+    {
+      "id": "muse-mwlk6ijy-ienebo",
+      "name": "Ross Boyer",
+      "email": "printerguy911@gmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-17",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-17",
+      "dateAdded": "2026-11-17",
+      "addedAt": "2026-11-18T03:25:30.834Z",
+      "muse": {
+        "createdAt": "2026-11-18T03:25:30.834Z",
+        "idempotencyKey": "fc876212-ecc2-4814-9fbb-8db245cdcbfc",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-17T20:17:46.846Z"
+  "lastUpdated": "2026-11-18T03:25:31.327Z"
 }
