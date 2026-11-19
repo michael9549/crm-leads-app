@@ -52262,7 +52262,7 @@
       "social": "facebook.com",
       "source": "Facebook Page",
       "status": "New Lead",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-19",
@@ -52275,7 +52275,16 @@
         "createdAt": "2026-11-19T20:44:17.842Z",
         "idempotencyKey": "4eb8ea1b-0a20-4e11-a822-dad1da6d9bde",
         "createdBy": "muse",
-        "batchIdempotencyKey": "e1cc1f96-6c6e-4a5c-88ee-e6b2c8b21e08"
+        "batchIdempotencyKey": "e1cc1f96-6c6e-4a5c-88ee-e6b2c8b21e08",
+        "edits": [
+          {
+            "idempotencyKey": "manee-video-82ffdd2c2a83",
+            "editedAt": "2026-11-19T20:47:35.399Z",
+            "fields": [
+              "videoSent"
+            ]
+          }
+        ]
       }
     },
     {
@@ -53383,5 +53392,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-19T20:45:31.412Z"
+  "lastUpdated": "2026-11-19T20:47:35.400Z"
 }
