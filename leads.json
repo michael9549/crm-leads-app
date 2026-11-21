@@ -55448,7 +55448,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "e7f15898-70c1-4a05-83a7-99daee222ec9"
       }
+    },
+    {
+      "id": "muse-mwqw3o28-slkioq",
+      "name": "Franek Rumak",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:58:04.304Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:58:04.304Z",
+        "idempotencyKey": "6028b143-b755-4a12-9a40-35432afac231",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e5582e37-8ed8-4c95-b082-bad60ee21678"
+      }
+    },
+    {
+      "id": "muse-mwqw3o28-86rm4i",
+      "name": "Sony Brains",
+      "email": "Sonybrains23@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:58:04.304Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:58:04.304Z",
+        "idempotencyKey": "8e7ddf18-3c9e-4964-929c-6f59bf17d9a6",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e5582e37-8ed8-4c95-b082-bad60ee21678"
+      }
+    },
+    {
+      "id": "muse-mwqw3o29-hiq3kb",
+      "name": "Eric La",
+      "email": "bebo082292@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:58:04.305Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:58:04.305Z",
+        "idempotencyKey": "5213eb33-b541-4239-b4b6-c66ae4afd30a",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e5582e37-8ed8-4c95-b082-bad60ee21678"
+      }
+    },
+    {
+      "id": "muse-mwqw3o2a-at5nfm",
+      "name": "Christopher Barnaby",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:58:04.306Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:58:04.306Z",
+        "idempotencyKey": "7cfe04f0-f6c0-4f8f-9afe-5bbfeb2ab4b8",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "e5582e37-8ed8-4c95-b082-bad60ee21678"
+      }
     }
   ],
-  "lastUpdated": "2026-11-21T20:57:57.447Z"
+  "lastUpdated": "2026-11-21T20:58:04.306Z"
 }
