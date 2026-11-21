@@ -55784,7 +55784,31 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "0c0d9020-28ef-4746-8835-db8b7f67a568"
       }
+    },
+    {
+      "id": "muse-mwqw43e0-amdv2y",
+      "name": "Nelson Akong",
+      "email": "AKONGNELSON@YAHOO.COM",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:58:24.168Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:58:24.168Z",
+        "idempotencyKey": "3c2177fc-563c-40c2-ae60-10769b9150f3",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "d53f9928-66c6-4843-887f-6cd60bc1c7d1"
+      }
     }
   ],
-  "lastUpdated": "2026-11-21T20:58:16.973Z"
+  "lastUpdated": "2026-11-21T20:58:24.169Z"
 }
