@@ -54848,7 +54848,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "68b0f99a-c1c6-4657-aecf-6a4e7b2e195c"
       }
+    },
+    {
+      "id": "muse-mwqw2x7u-zimwpu",
+      "name": "Betty Moody",
+      "email": "bettymoody66@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:57:29.514Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:57:29.514Z",
+        "idempotencyKey": "25241118-2f72-4d85-ab0b-4f6afac23d42",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2f390852-2b00-473f-82b7-76ae1d2bcaa3"
+      }
+    },
+    {
+      "id": "muse-mwqw2x7w-9xrkd8",
+      "name": "Yolanda Ballou Sumlin",
+      "email": "ysumlin@ymail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:57:29.515Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:57:29.515Z",
+        "idempotencyKey": "5c06a9b8-05d6-4a8d-92bb-18a5c8c80519",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2f390852-2b00-473f-82b7-76ae1d2bcaa3"
+      }
+    },
+    {
+      "id": "muse-mwqw2x7x-9v3xvc",
+      "name": "Paul Butts",
+      "email": "pboptionstrader@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:57:29.517Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:57:29.517Z",
+        "idempotencyKey": "0d01f7ab-24c1-4f3c-b691-bcac4834aa42",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2f390852-2b00-473f-82b7-76ae1d2bcaa3"
+      }
+    },
+    {
+      "id": "muse-mwqw2x7y-m8wcrt",
+      "name": "Bruno Francisco",
+      "email": "investorlifestyle@outlook.pt",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:57:29.517Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:57:29.517Z",
+        "idempotencyKey": "b8d6dcb4-278c-44db-8c1e-7dc4e9d21885",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2f390852-2b00-473f-82b7-76ae1d2bcaa3"
+      }
+    },
+    {
+      "id": "muse-mwqw2x7y-c1cmg1",
+      "name": "Josh Irish",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-21 via Michael Angel Page inbox (ManyChat lead, batch 11).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-21T20:57:29.518Z",
+      "muse": {
+        "createdAt": "2026-11-21T20:57:29.518Z",
+        "idempotencyKey": "e6ce56ae-3be2-4bdd-a50b-d4c9828e714e",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "2f390852-2b00-473f-82b7-76ae1d2bcaa3"
+      }
     }
   ],
-  "lastUpdated": "2026-11-21T20:57:22.276Z"
+  "lastUpdated": "2026-11-21T20:57:29.518Z"
 }
