@@ -55974,7 +55974,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "7604cd0f-18d0-4c51-a09e-908a03574907"
       }
+    },
+    {
+      "id": "muse-mwsbophn-i7t932",
+      "name": "Wilfred Pereira",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:06.347Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:06.347Z",
+        "idempotencyKey": "2a3b61ea-2211-4bfc-8d3d-1c263a86af22",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "33eb2b97-b71f-4c2d-9a43-c3bf521c401e"
+      }
+    },
+    {
+      "id": "muse-mwsbopho-grxtae",
+      "name": "Luljeta Ahmeti",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:06.348Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:06.348Z",
+        "idempotencyKey": "0024f6ab-4f8d-4edc-9693-4fa1704bb604",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "33eb2b97-b71f-4c2d-9a43-c3bf521c401e"
+      }
+    },
+    {
+      "id": "muse-mwsbophq-65vh3d",
+      "name": "Laxmikant Mishra",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:06.349Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:06.349Z",
+        "idempotencyKey": "dec09e3e-de19-4a08-a089-540813e37593",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "33eb2b97-b71f-4c2d-9a43-c3bf521c401e"
+      }
+    },
+    {
+      "id": "muse-mwsbophq-ifhqt7",
+      "name": "Brian Higgins",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:06.350Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:06.350Z",
+        "idempotencyKey": "56239aca-65f1-4b7d-80e4-d82be16ed362",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "33eb2b97-b71f-4c2d-9a43-c3bf521c401e"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T21:01:58.465Z"
+  "lastUpdated": "2026-11-22T21:02:06.350Z"
 }
