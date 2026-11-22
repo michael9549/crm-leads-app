@@ -56190,7 +56190,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "f4c9ca0b-59b9-4731-a5f1-66fec5198af9"
       }
+    },
+    {
+      "id": "muse-mwsbozoo-ziwcbk",
+      "name": "Boris Sapundjiev",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:19.560Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:19.560Z",
+        "idempotencyKey": "d8178db0-e699-485f-a2f0-edba2007387d",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "ae3f85a4-4122-4c2f-8041-c2abd8c41ac3"
+      }
+    },
+    {
+      "id": "muse-mwsbozoo-eq6eqi",
+      "name": "Shylo Przybylski",
+      "email": "smprzy@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:19.560Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:19.560Z",
+        "idempotencyKey": "48320edf-0ef4-4121-97a2-b5116f5c763e",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "ae3f85a4-4122-4c2f-8041-c2abd8c41ac3"
+      }
+    },
+    {
+      "id": "muse-mwsbozop-zbc130",
+      "name": "Glynn Copland",
+      "email": "glynncopland@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:19.561Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:19.561Z",
+        "idempotencyKey": "7e121dd7-089f-4f64-8a99-4093429f8af7",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "ae3f85a4-4122-4c2f-8041-c2abd8c41ac3"
+      }
+    },
+    {
+      "id": "muse-mwsbozoq-7izkzt",
+      "name": "Laurence Nelson",
+      "email": "lnelson73@hotmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:19.562Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:19.562Z",
+        "idempotencyKey": "7fe9b11b-d602-444d-9421-100e3ecffe5d",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "ae3f85a4-4122-4c2f-8041-c2abd8c41ac3"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T21:02:12.780Z"
+  "lastUpdated": "2026-11-22T21:02:19.562Z"
 }
