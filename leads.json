@@ -56286,7 +56286,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "ae3f85a4-4122-4c2f-8041-c2abd8c41ac3"
       }
+    },
+    {
+      "id": "muse-mwsbp4hx-k5bmjg",
+      "name": "Michael Hawkins",
+      "email": "Lilmotown662@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:25.797Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:25.797Z",
+        "idempotencyKey": "17baddb8-1d4f-4153-a159-ecf9ead369b9",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bb69f5d2-652c-409a-b08e-9f6ca6840baa"
+      }
+    },
+    {
+      "id": "muse-mwsbp4hy-1ywhkp",
+      "name": "Mark Horan",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:25.798Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:25.798Z",
+        "idempotencyKey": "4ba0e1b8-5bfb-4f49-a41e-5fbdd2ebe136",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bb69f5d2-652c-409a-b08e-9f6ca6840baa"
+      }
+    },
+    {
+      "id": "muse-mwsbp4hy-4czfzr",
+      "name": "Chad Brady",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:25.798Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:25.798Z",
+        "idempotencyKey": "a325c2f2-1156-42b3-8694-190b2b39b841",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bb69f5d2-652c-409a-b08e-9f6ca6840baa"
+      }
+    },
+    {
+      "id": "muse-mwsbp4hz-cixsud",
+      "name": "Kingsley Amaechi",
+      "email": "Obiaba1982@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:25.798Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:25.798Z",
+        "idempotencyKey": "3744abff-4bf3-46be-86a4-bcbd09b42f4c",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bb69f5d2-652c-409a-b08e-9f6ca6840baa"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T21:02:19.562Z"
+  "lastUpdated": "2026-11-22T21:02:25.799Z"
 }
