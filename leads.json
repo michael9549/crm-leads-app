@@ -56982,7 +56982,79 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "d09c0f2b-b243-47d8-b46c-26019651e2ed"
       }
+    },
+    {
+      "id": "muse-mwsbq17i-dw9dom",
+      "name": "Roger Hensley",
+      "email": "achievingsuccess365@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:03:08.189Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:03:08.189Z",
+        "idempotencyKey": "a18e0b54-3665-4497-8051-a3962e423b00",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "d95e9605-f0bb-4e89-8ea8-9227c3807f65"
+      }
+    },
+    {
+      "id": "muse-mwsbq17i-hqn0vd",
+      "name": "B XW Ventura",
+      "email": "benj_eugene@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:03:08.190Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:03:08.190Z",
+        "idempotencyKey": "8d599383-31a7-4644-bf61-a621bfab2d2e",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "d95e9605-f0bb-4e89-8ea8-9227c3807f65"
+      }
+    },
+    {
+      "id": "muse-mwsbq17k-i63ygk",
+      "name": "Zsolt DrSebestyén",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:03:08.192Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:03:08.192Z",
+        "idempotencyKey": "215348fb-31ae-48dc-a6af-0a0312e3af9e",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "d95e9605-f0bb-4e89-8ea8-9227c3807f65"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T21:03:01.162Z"
+  "lastUpdated": "2026-11-22T21:03:08.193Z"
 }
