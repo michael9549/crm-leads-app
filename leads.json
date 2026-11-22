@@ -56622,7 +56622,127 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "e95518d1-4950-4803-b48b-6f796affc334"
       }
+    },
+    {
+      "id": "muse-mwsbpkx9-dmb26p",
+      "name": "Bojana Dosic",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:47.085Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:47.085Z",
+        "idempotencyKey": "968d5812-25cb-4a2f-8a1f-b1c3fc837a48",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b82ff4aa-11bd-43f3-8488-97265acf8e7b"
+      }
+    },
+    {
+      "id": "muse-mwsbpkxa-tvcadt",
+      "name": "Duncan Norton",
+      "email": "duncanorton@yahoo.co.uk",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:47.085Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:47.085Z",
+        "idempotencyKey": "81125cec-bece-4e9b-93b1-d7e054ed2dd4",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b82ff4aa-11bd-43f3-8488-97265acf8e7b"
+      }
+    },
+    {
+      "id": "muse-mwsbpkxl-t9biaf",
+      "name": "Charles Cawv Thoj",
+      "email": "ixysco@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:47.097Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:47.097Z",
+        "idempotencyKey": "72df6cc2-bd7a-4a53-bed3-d74389fc1208",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b82ff4aa-11bd-43f3-8488-97265acf8e7b"
+      }
+    },
+    {
+      "id": "muse-mwsbpkxm-9daco0",
+      "name": "Osazuwa Kelvin Idehen",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:47.098Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:47.098Z",
+        "idempotencyKey": "7ebf89ae-8453-4b72-ad55-5361eab81e8e",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b82ff4aa-11bd-43f3-8488-97265acf8e7b"
+      }
+    },
+    {
+      "id": "muse-mwsbpkxn-kfn1z8",
+      "name": "Gunna Zungwe",
+      "email": "Odion4real09@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-22 via Michael Angel Page inbox (ManyChat lead, batch 12).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T21:02:47.099Z",
+      "muse": {
+        "createdAt": "2026-11-22T21:02:47.099Z",
+        "idempotencyKey": "80abecf4-d1a9-46d1-9676-225aa97db0ce",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b82ff4aa-11bd-43f3-8488-97265acf8e7b"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T21:02:40.077Z"
+  "lastUpdated": "2026-11-22T21:02:47.099Z"
 }
