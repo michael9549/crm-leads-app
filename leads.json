@@ -55831,7 +55831,30 @@
         "idempotencyKey": "282fa91b-36e0-43b9-866f-af3692cb99fc",
         "createdBy": "muse"
       }
+    },
+    {
+      "id": "muse-mws4tafv-fkla5t",
+      "name": "Jose Santos",
+      "email": "santosgrt33@hotmail.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-22",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-22",
+      "dateAdded": "2026-11-22",
+      "addedAt": "2026-11-22T17:49:42.784Z",
+      "muse": {
+        "createdAt": "2026-11-22T17:49:42.784Z",
+        "idempotencyKey": "810d524e-4d56-43a7-a53b-8bc986e3a864",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T00:47:13.328Z"
+  "lastUpdated": "2026-11-22T17:49:43.301Z"
 }
