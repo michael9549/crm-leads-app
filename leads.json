@@ -55808,7 +55808,30 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "d53f9928-66c6-4843-887f-6cd60bc1c7d1"
       }
+    },
+    {
+      "id": "muse-mwr4ack6-8g1end",
+      "name": "Angela Langlotz",
+      "email": "angela@alanglotz.com",
+      "phone": "",
+      "social": "",
+      "source": "JIFU",
+      "status": "Customer",
+      "videoSent": true,
+      "temperature": "Warm",
+      "lastAction": "Signed up",
+      "lastContact": "2026-11-21",
+      "nextFollowUp": null,
+      "notes": "New JIFU Preferred Customer (auto-detected from JIFU email).",
+      "lastModified": "2026-11-21",
+      "dateAdded": "2026-11-21",
+      "addedAt": "2026-11-22T00:47:12.889Z",
+      "muse": {
+        "createdAt": "2026-11-22T00:47:12.889Z",
+        "idempotencyKey": "282fa91b-36e0-43b9-866f-af3692cb99fc",
+        "createdBy": "muse"
+      }
     }
   ],
-  "lastUpdated": "2026-11-21T20:58:24.169Z"
+  "lastUpdated": "2026-11-22T00:47:13.328Z"
 }
