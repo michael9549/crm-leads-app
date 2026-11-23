@@ -57063,7 +57063,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "d95e9605-f0bb-4e89-8ea8-9227c3807f65"
       }
+    },
+    {
+      "id": "muse-mwtptb08-1230b6",
+      "name": "Kerry Stewart",
+      "email": "kerrystew4@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:25:21.629Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:25:21.629Z",
+        "idempotencyKey": "a1963e28-6e88-4a97-8ca9-944c78238d3b",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "992fb4bd-adba-41f4-aeb3-ab4c3e33c73e"
+      }
+    },
+    {
+      "id": "muse-mwtptb0a-zra5w5",
+      "name": "Zona Manito",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:25:21.658Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:25:21.658Z",
+        "idempotencyKey": "e3f84fd6-9e2b-4150-bed4-6ad7ba72faed",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "992fb4bd-adba-41f4-aeb3-ab4c3e33c73e"
+      }
+    },
+    {
+      "id": "muse-mwtptb0b-ldmanf",
+      "name": "Lina Katoyo",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:25:21.659Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:25:21.659Z",
+        "idempotencyKey": "5a3166e8-40c9-40f5-b505-30c6923b6635",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "992fb4bd-adba-41f4-aeb3-ab4c3e33c73e"
+      }
+    },
+    {
+      "id": "muse-mwtptb0b-fezqg1",
+      "name": "Fel Acq",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:25:21.659Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:25:21.659Z",
+        "idempotencyKey": "170c0b27-3fa6-4242-9668-6fc8bcb4bfa2",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "992fb4bd-adba-41f4-aeb3-ab4c3e33c73e"
+      }
     }
   ],
-  "lastUpdated": "2026-11-22T21:06:17.371Z"
+  "lastUpdated": "2026-11-23T20:25:21.659Z"
 }
