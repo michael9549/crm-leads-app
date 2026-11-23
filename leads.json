@@ -57711,7 +57711,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "494f0ee7-00d1-4995-9f02-801bc8ff9c0a"
       }
+    },
+    {
+      "id": "muse-mwtpuhvm-2nuywt",
+      "name": "Александр Удовика",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:17.217Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:17.217Z",
+        "idempotencyKey": "e1828b0c-1a9b-4604-9c52-811fa3ac5960",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bc205c40-2ea1-41b4-8354-c0afe520aa7b"
+      }
+    },
+    {
+      "id": "muse-mwtpuhvm-w137wu",
+      "name": "Amit Desai",
+      "email": "amitdesai2000@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:17.218Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:17.218Z",
+        "idempotencyKey": "3a12e92d-bc2c-43f1-9361-020275c57deb",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bc205c40-2ea1-41b4-8354-c0afe520aa7b"
+      }
+    },
+    {
+      "id": "muse-mwtpuhvn-nufg7n",
+      "name": "Jarrod Albers",
+      "email": "dooballs72@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:17.219Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:17.219Z",
+        "idempotencyKey": "74fd9fed-17de-4594-bd94-065f084a6148",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bc205c40-2ea1-41b4-8354-c0afe520aa7b"
+      }
+    },
+    {
+      "id": "muse-mwtpuhvr-q58yni",
+      "name": "Adis Aleta",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:17.223Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:17.223Z",
+        "idempotencyKey": "16788cfe-5b31-413e-b206-6a12317a4255",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "bc205c40-2ea1-41b4-8354-c0afe520aa7b"
+      }
     }
   ],
-  "lastUpdated": "2026-11-23T20:26:08.086Z"
+  "lastUpdated": "2026-11-23T20:26:17.223Z"
 }
