@@ -58017,7 +58017,7 @@
       "social": "facebook.com",
       "source": "Facebook Page",
       "status": "New Lead",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-23",
@@ -58030,7 +58030,16 @@
         "createdAt": "2026-11-23T20:26:41.819Z",
         "idempotencyKey": "eca57775-8401-47b3-8d29-c7ee779aa508",
         "createdBy": "muse",
-        "batchIdempotencyKey": "65f26c37-bfc8-48e6-a209-9f6c208247f6"
+        "batchIdempotencyKey": "65f26c37-bfc8-48e6-a209-9f6c208247f6",
+        "edits": [
+          {
+            "idempotencyKey": "3587bf11-58b2-4d74-b295-ffd4a06a237e",
+            "editedAt": "2026-11-23T23:56:17.090Z",
+            "fields": [
+              "videoSent"
+            ]
+          }
+        ]
       }
     },
     {
@@ -58274,5 +58283,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-23T21:25:45.138Z"
+  "lastUpdated": "2026-11-23T23:56:17.091Z"
 }
