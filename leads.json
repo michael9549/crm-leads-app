@@ -57807,7 +57807,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "bc205c40-2ea1-41b4-8354-c0afe520aa7b"
       }
+    },
+    {
+      "id": "muse-mwtpuocw-ry76jm",
+      "name": "Ben Garvey",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:25.616Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:25.616Z",
+        "idempotencyKey": "9c749373-5b3d-4ce8-9345-9704c912b251",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "dc77ce29-dd7a-4b53-baba-67c4a9c34f49"
+      }
+    },
+    {
+      "id": "muse-mwtpuocx-8o6hkf",
+      "name": "Vildana Ramicrosic",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:25.617Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:25.617Z",
+        "idempotencyKey": "2ae35046-00ad-4c05-877d-c28c2eb42afc",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "dc77ce29-dd7a-4b53-baba-67c4a9c34f49"
+      }
+    },
+    {
+      "id": "muse-mwtpuocy-a8a0ye",
+      "name": "Fnan Fiseha",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:25.618Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:25.618Z",
+        "idempotencyKey": "4375cb77-7835-4049-a4b3-977fd15732a2",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "dc77ce29-dd7a-4b53-baba-67c4a9c34f49"
+      }
+    },
+    {
+      "id": "muse-mwtpuocy-2bla7d",
+      "name": "Raul Donuţ",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:25.618Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:25.618Z",
+        "idempotencyKey": "003e5d09-312c-449e-969d-e271e0d875a3",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "dc77ce29-dd7a-4b53-baba-67c4a9c34f49"
+      }
     }
   ],
-  "lastUpdated": "2026-11-23T20:26:17.223Z"
+  "lastUpdated": "2026-11-23T20:26:25.618Z"
 }
