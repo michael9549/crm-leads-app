@@ -58215,7 +58215,55 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "8cb52fba-e046-4349-a5a6-279164117993"
       }
+    },
+    {
+      "id": "muse-mwtpvefo-gv55yb",
+      "name": "Andrei Craciun",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:59.412Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:59.412Z",
+        "idempotencyKey": "18b0c058-8879-4155-8289-a336ed04d87c",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "cbae8cde-73e8-4616-8ded-24a290d8357b"
+      }
+    },
+    {
+      "id": "muse-mwtpvefp-cafrua",
+      "name": "Clyde Garcia",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:59.413Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:59.413Z",
+        "idempotencyKey": "b46bce1e-c9ba-459f-9080-419126532500",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "cbae8cde-73e8-4616-8ded-24a290d8357b"
+      }
     }
   ],
-  "lastUpdated": "2026-11-23T20:26:50.460Z"
+  "lastUpdated": "2026-11-23T20:26:59.413Z"
 }
