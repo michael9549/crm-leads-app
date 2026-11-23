@@ -57903,7 +57903,79 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "dc77ce29-dd7a-4b53-baba-67c4a9c34f49"
       }
+    },
+    {
+      "id": "muse-mwtpuv5r-lphxiz",
+      "name": "Bekim Afuzi",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:34.431Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:34.431Z",
+        "idempotencyKey": "18c8e1f1-be0e-4721-a4e9-a6e2225edbd5",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b49eae4b-2c7f-4caf-8eab-76e3bc6fd46e"
+      }
+    },
+    {
+      "id": "muse-mwtpuv5s-c54yrj",
+      "name": "Euthumios Karras",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:34.431Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:34.431Z",
+        "idempotencyKey": "4fcaa56b-eed6-4dee-a565-5d36f6813f7d",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b49eae4b-2c7f-4caf-8eab-76e3bc6fd46e"
+      }
+    },
+    {
+      "id": "muse-mwtpuv5s-l64de4",
+      "name": "Brian Woody Sr.",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-23",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-23 via Michael Angel Page inbox (ManyChat lead, batch 13).",
+      "lastModified": "2026-11-23",
+      "dateAdded": "2026-11-23",
+      "addedAt": "2026-11-23T20:26:34.432Z",
+      "muse": {
+        "createdAt": "2026-11-23T20:26:34.432Z",
+        "idempotencyKey": "0ba4a2df-e7b2-47cf-b355-a3d1f076b53a",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "b49eae4b-2c7f-4caf-8eab-76e3bc6fd46e"
+      }
     }
   ],
-  "lastUpdated": "2026-11-23T20:26:25.618Z"
+  "lastUpdated": "2026-11-23T20:26:34.432Z"
 }
