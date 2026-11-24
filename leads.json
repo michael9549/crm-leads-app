@@ -58746,7 +58746,79 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "fd4d1ea6-0530-41d5-942a-ba778a44dfc9"
       }
+    },
+    {
+      "id": "muse-mwv4weri-m62m82",
+      "name": "Donna Marie Araujo",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T20:15:26.886Z",
+      "muse": {
+        "createdAt": "2026-11-24T20:15:26.886Z",
+        "idempotencyKey": "d518051c-a3e4-4bfb-8e0e-79a74985a49b",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "ed7916b3-39bb-47aa-8bcf-6edb64a25596"
+      }
+    },
+    {
+      "id": "muse-mwv4werr-h69bft",
+      "name": "Raewyn Johnson",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T20:15:26.919Z",
+      "muse": {
+        "createdAt": "2026-11-24T20:15:26.919Z",
+        "idempotencyKey": "fb3c6ff4-31ff-4893-a14f-78065c485e72",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "ed7916b3-39bb-47aa-8bcf-6edb64a25596"
+      }
+    },
+    {
+      "id": "muse-mwv4wers-r43e0g",
+      "name": "Callum Davison",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T20:15:26.920Z",
+      "muse": {
+        "createdAt": "2026-11-24T20:15:26.920Z",
+        "idempotencyKey": "903b13bb-c151-4c15-a99c-e3b40fd8b65b",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "ed7916b3-39bb-47aa-8bcf-6edb64a25596"
+      }
     }
   ],
-  "lastUpdated": "2026-11-24T19:55:50.619Z"
+  "lastUpdated": "2026-11-24T20:15:26.920Z"
 }
