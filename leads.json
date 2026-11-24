@@ -58290,7 +58290,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "cbae8cde-73e8-4616-8ded-24a290d8357b"
       }
+    },
+    {
+      "id": "muse-mwv2l8ho-ccl6rc",
+      "name": "Ohidul Hoque",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T19:10:46.306Z",
+      "muse": {
+        "createdAt": "2026-11-24T19:10:46.306Z",
+        "idempotencyKey": "0b002442-af18-4382-addf-4919849d282a",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f96242a2-8b41-43e4-bf12-3a996639fe91"
+      }
+    },
+    {
+      "id": "muse-mwv2l8hq-d4dg2b",
+      "name": "Quintin Lawley",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T19:10:46.333Z",
+      "muse": {
+        "createdAt": "2026-11-24T19:10:46.333Z",
+        "idempotencyKey": "8ff64421-a072-4a55-8509-9e654498c7f4",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f96242a2-8b41-43e4-bf12-3a996639fe91"
+      }
+    },
+    {
+      "id": "muse-mwv2l8hq-6uw3m0",
+      "name": "James Bird",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T19:10:46.334Z",
+      "muse": {
+        "createdAt": "2026-11-24T19:10:46.334Z",
+        "idempotencyKey": "c99f2106-137c-41d3-8288-653b288b94f2",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f96242a2-8b41-43e4-bf12-3a996639fe91"
+      }
+    },
+    {
+      "id": "muse-mwv2l8hq-4kurfs",
+      "name": "Leo Fric",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T19:10:46.334Z",
+      "muse": {
+        "createdAt": "2026-11-24T19:10:46.334Z",
+        "idempotencyKey": "6bdd947f-6911-4ab2-9152-835abf4cee35",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f96242a2-8b41-43e4-bf12-3a996639fe91"
+      }
     }
   ],
-  "lastUpdated": "2026-11-24T06:57:16.793Z"
+  "lastUpdated": "2026-11-24T19:10:46.335Z"
 }
