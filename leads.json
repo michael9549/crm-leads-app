@@ -59394,7 +59394,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "179bdc43-6ab8-43f4-b2b0-f27dc82b8c70"
       }
+    },
+    {
+      "id": "muse-mwv73j5w-4n1jd0",
+      "name": "Ioan Calin Ciuta",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:16:58.436Z",
+      "muse": {
+        "createdAt": "2026-11-24T21:16:58.436Z",
+        "idempotencyKey": "a820ba94-42db-4a8c-8c68-5b2479272d27",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "019c4f85-d0b5-4301-b58b-b300f637c2b7"
+      }
+    },
+    {
+      "id": "muse-mwv73j5x-crvxxu",
+      "name": "Michael Scion",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:16:58.437Z",
+      "muse": {
+        "createdAt": "2026-11-24T21:16:58.437Z",
+        "idempotencyKey": "ca7c3f0a-a672-4e2a-8268-98067248ea69",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "019c4f85-d0b5-4301-b58b-b300f637c2b7"
+      }
+    },
+    {
+      "id": "muse-mwv73j5x-az0obq",
+      "name": "Kayla Hoehne",
+      "email": "khoehne10@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:16:58.437Z",
+      "muse": {
+        "createdAt": "2026-11-24T21:16:58.437Z",
+        "idempotencyKey": "d40d77fd-8215-417d-b2b4-ca1af5d5f847",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "019c4f85-d0b5-4301-b58b-b300f637c2b7"
+      }
+    },
+    {
+      "id": "muse-mwv73j5y-am21io",
+      "name": "John Tapson Nyirenda",
+      "email": "nyirendajohntapson@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T21:16:58.437Z",
+      "muse": {
+        "createdAt": "2026-11-24T21:16:58.437Z",
+        "idempotencyKey": "bc790087-acf1-4aeb-b5bb-d1b1042a8827",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "019c4f85-d0b5-4301-b58b-b300f637c2b7"
+      }
     }
   ],
-  "lastUpdated": "2026-11-24T21:09:01.062Z"
+  "lastUpdated": "2026-11-24T21:16:58.438Z"
 }
