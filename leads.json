@@ -59058,7 +59058,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "a78856b6-09d4-4402-a4c8-7acb9825f68e"
       }
+    },
+    {
+      "id": "muse-mwv64gxg-y5ijvr",
+      "name": "Laurent Chauvire",
+      "email": "patisserielaurent@live.co.uk",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T20:49:42.579Z",
+      "muse": {
+        "createdAt": "2026-11-24T20:49:42.579Z",
+        "idempotencyKey": "1db34d51-b5e8-4edd-b69c-9818551b6b68",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "df0726e1-b43e-4e00-9a56-8062c92d2b3c"
+      }
+    },
+    {
+      "id": "muse-mwv64gxg-zsjqgq",
+      "name": "Luís Filipe Santos",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T20:49:42.580Z",
+      "muse": {
+        "createdAt": "2026-11-24T20:49:42.580Z",
+        "idempotencyKey": "3336be2b-c4aa-49dd-bb24-246c53e17f2d",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "df0726e1-b43e-4e00-9a56-8062c92d2b3c"
+      }
+    },
+    {
+      "id": "muse-mwv64gxh-otzatq",
+      "name": "Sandra Phoenix Sherrod",
+      "email": "sanfay321@gmail.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T20:49:42.580Z",
+      "muse": {
+        "createdAt": "2026-11-24T20:49:42.580Z",
+        "idempotencyKey": "057a365d-7101-4de6-8cc8-dd794bbcf1e6",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "df0726e1-b43e-4e00-9a56-8062c92d2b3c"
+      }
+    },
+    {
+      "id": "muse-mwv64gxh-f3cr6q",
+      "name": "Uriel Williams",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-24",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-24 via Michael Angel Page inbox (ManyChat lead, batch 14).",
+      "lastModified": "2026-11-24",
+      "dateAdded": "2026-11-24",
+      "addedAt": "2026-11-24T20:49:42.581Z",
+      "muse": {
+        "createdAt": "2026-11-24T20:49:42.581Z",
+        "idempotencyKey": "9256eeb2-d942-41bb-8ec1-4a910e9035b3",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "df0726e1-b43e-4e00-9a56-8062c92d2b3c"
+      }
     }
   ],
-  "lastUpdated": "2026-11-24T20:38:56.041Z"
+  "lastUpdated": "2026-11-24T20:49:42.581Z"
 }
