@@ -60666,7 +60666,31 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "db866601-621a-45f9-9e25-3ae10c61e06f"
       }
+    },
+    {
+      "id": "muse-mwwmd38u-trwvmw",
+      "name": "Chris Katrivessis",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-25 via Michael Angel Page inbox (ManyChat lead, batch 15).",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T21:12:04.782Z",
+      "muse": {
+        "createdAt": "2026-11-25T21:12:04.782Z",
+        "idempotencyKey": "f8037bf8-7b2c-4336-96c6-654d3443c619",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "1a617e3c-88eb-4428-ade9-cd4e8189815d"
+      }
     }
   ],
-  "lastUpdated": "2026-11-25T21:04:15.398Z"
+  "lastUpdated": "2026-11-25T21:12:04.782Z"
 }
