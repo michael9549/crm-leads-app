@@ -60330,7 +60330,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "871bf3c0-ca12-41e6-b6ec-669a8b647e18"
       }
+    },
+    {
+      "id": "muse-mwwl9vlh-y1p87g",
+      "name": "Israel Omolade",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-25 via Michael Angel Page inbox (ManyChat lead, batch 15).",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T20:41:35.284Z",
+      "muse": {
+        "createdAt": "2026-11-25T20:41:35.284Z",
+        "idempotencyKey": "35b0d0da-66ad-476a-b5fd-7d15660afc5a",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113082d-0921-41fa-8402-240ab0b61877"
+      }
+    },
+    {
+      "id": "muse-mwwl9vlh-qmvjue",
+      "name": "Chris Harris",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-25 via Michael Angel Page inbox (ManyChat lead, batch 15).",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T20:41:35.285Z",
+      "muse": {
+        "createdAt": "2026-11-25T20:41:35.285Z",
+        "idempotencyKey": "20842b09-6eed-470b-91e2-a19f8cfb418f",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113082d-0921-41fa-8402-240ab0b61877"
+      }
+    },
+    {
+      "id": "muse-mwwl9vli-yv2u0o",
+      "name": "Eric Katzenmeier",
+      "email": "Eric@ksinsurancepros.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-25 via Michael Angel Page inbox (ManyChat lead, batch 15).",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T20:41:35.285Z",
+      "muse": {
+        "createdAt": "2026-11-25T20:41:35.285Z",
+        "idempotencyKey": "58b30ba7-8ed6-4225-b1e4-4e90bbde834c",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113082d-0921-41fa-8402-240ab0b61877"
+      }
+    },
+    {
+      "id": "muse-mwwl9vli-grxm86",
+      "name": "Bsfcolony Farmhouse",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-25",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-25 via Michael Angel Page inbox (ManyChat lead, batch 15).",
+      "lastModified": "2026-11-25",
+      "dateAdded": "2026-11-25",
+      "addedAt": "2026-11-25T20:41:35.286Z",
+      "muse": {
+        "createdAt": "2026-11-25T20:41:35.286Z",
+        "idempotencyKey": "9424535b-59c3-4469-91f7-1f3dcd5de405",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "4113082d-0921-41fa-8402-240ab0b61877"
+      }
     }
   ],
-  "lastUpdated": "2026-11-25T20:25:21.038Z"
+  "lastUpdated": "2026-11-25T20:41:35.287Z"
 }
