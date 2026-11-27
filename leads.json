@@ -50838,20 +50838,29 @@
       "social": "facebook.com",
       "source": "Facebook Page",
       "status": "New Lead",
-      "videoSent": false,
+      "videoSent": true,
       "temperature": "Cold",
       "lastAction": "Initial Contact",
       "lastContact": "2026-11-17",
       "nextFollowUp": null,
       "notes": "Page opener sent 2026-11-17 via Michael Angel Page inbox (ManyChat lead, batch 7).",
-      "lastModified": "2026-11-17",
+      "lastModified": "2026-11-27",
       "dateAdded": "2026-11-17",
       "addedAt": "2026-11-17T20:17:01.962Z",
       "muse": {
         "createdAt": "2026-11-17T20:17:01.962Z",
         "idempotencyKey": "1b0a756b-d526-438e-b871-e2b73c4f927f",
         "createdBy": "muse",
-        "batchIdempotencyKey": "58a0e358-dbd6-49a8-9776-22a4f94ed4e6"
+        "batchIdempotencyKey": "58a0e358-dbd6-49a8-9776-22a4f94ed4e6",
+        "edits": [
+          {
+            "idempotencyKey": "3eec823d-e918-4df0-97da-3913d1e5af7f",
+            "editedAt": "2026-11-27T20:55:15.444Z",
+            "fields": [
+              "videoSent"
+            ]
+          }
+        ]
       }
     },
     {
@@ -63110,5 +63119,5 @@
       }
     }
   ],
-  "lastUpdated": "2026-11-27T19:59:09.181Z"
+  "lastUpdated": "2026-11-27T20:55:15.444Z"
 }
