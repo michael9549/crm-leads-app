@@ -62004,7 +62004,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "f4ac36b1-e173-44d9-a5a9-51a0c6fa96f5"
       }
+    },
+    {
+      "id": "muse-mwzeli2s-qnjr3z",
+      "name": "Shan Taylor",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:58.852Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:58.852Z",
+        "idempotencyKey": "e823838b-cbb0-4765-9a07-417281f8b9ff",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "8c811e91-ed67-4f59-b0e1-351ec52f0380"
+      }
+    },
+    {
+      "id": "muse-mwzeli2t-r9djkn",
+      "name": "Chad Winnicki",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:58.853Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:58.853Z",
+        "idempotencyKey": "5b05ec1e-d2ce-41c4-87fa-8cb6e19d1176",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "8c811e91-ed67-4f59-b0e1-351ec52f0380"
+      }
+    },
+    {
+      "id": "muse-mwzeli2u-g9j379",
+      "name": "Sacha Rook",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:58.853Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:58.853Z",
+        "idempotencyKey": "7b61c8de-df3e-4d73-80c2-0f4a2dd51803",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "8c811e91-ed67-4f59-b0e1-351ec52f0380"
+      }
+    },
+    {
+      "id": "muse-mwzeli2u-44xgu2",
+      "name": "Victor Damian Paredes Tolentino",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:58.854Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:58.854Z",
+        "idempotencyKey": "100e22b3-b99d-4e62-a445-bcf8b9697e54",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "8c811e91-ed67-4f59-b0e1-351ec52f0380"
+      }
     }
   ],
-  "lastUpdated": "2026-11-27T19:57:51.281Z"
+  "lastUpdated": "2026-11-27T19:57:58.854Z"
 }
