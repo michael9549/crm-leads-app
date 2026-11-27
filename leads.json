@@ -61908,7 +61908,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "5aa34c9e-ac97-450e-9623-0e4b32eca80d"
       }
+    },
+    {
+      "id": "muse-mwzelc8f-c5d9y7",
+      "name": "Manuel Carreon Abellon",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:51.251Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:51.251Z",
+        "idempotencyKey": "45257c62-fa16-4b5b-8098-911f53f3e1d6",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f4ac36b1-e173-44d9-a5a9-51a0c6fa96f5"
+      }
+    },
+    {
+      "id": "muse-mwzelc8g-wam0on",
+      "name": "Vinny Larich",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:51.280Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:51.280Z",
+        "idempotencyKey": "bfcbc331-c648-4e4a-8ef6-202f15d1af1b",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f4ac36b1-e173-44d9-a5a9-51a0c6fa96f5"
+      }
+    },
+    {
+      "id": "muse-mwzelc8h-0zdgmk",
+      "name": "Attila Szokoly",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:51.281Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:51.281Z",
+        "idempotencyKey": "4fc9ca05-2690-4c30-b145-9b544e973272",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f4ac36b1-e173-44d9-a5a9-51a0c6fa96f5"
+      }
+    },
+    {
+      "id": "muse-mwzelc8h-7cuqxj",
+      "name": "Edwin Kalsakau",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:57:51.281Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:57:51.281Z",
+        "idempotencyKey": "73517eb1-c9c7-41e3-b8a2-180301bc63c5",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f4ac36b1-e173-44d9-a5a9-51a0c6fa96f5"
+      }
     }
   ],
-  "lastUpdated": "2026-11-27T19:29:10.956Z"
+  "lastUpdated": "2026-11-27T19:57:51.281Z"
 }
