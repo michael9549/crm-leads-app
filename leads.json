@@ -62820,7 +62820,79 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "80db5180-a9bf-4702-a557-c907cc64fd46"
       }
+    },
+    {
+      "id": "muse-mwzempgv-ksn997",
+      "name": "Daniel Muzelo",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:58:55.087Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:58:55.087Z",
+        "idempotencyKey": "52cb44df-707c-4fc3-9dd9-d72f55ce217c",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "3c70cf2c-00f5-4c60-abeb-cdf458b4203c"
+      }
+    },
+    {
+      "id": "muse-mwzempgw-clzmwr",
+      "name": "Darrell Freeman",
+      "email": "Defreemanpack@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:58:55.087Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:58:55.087Z",
+        "idempotencyKey": "319d20b1-2470-4f51-a335-d2bf1f340af1",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "3c70cf2c-00f5-4c60-abeb-cdf458b4203c"
+      }
+    },
+    {
+      "id": "muse-mwzempgw-o4c0c2",
+      "name": "Davis Queen",
+      "email": "dqueen0724@aol.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:58:55.088Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:58:55.088Z",
+        "idempotencyKey": "8e21ac25-9e9f-45d2-a7ce-ad01a43ba0b6",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "3c70cf2c-00f5-4c60-abeb-cdf458b4203c"
+      }
     }
   ],
-  "lastUpdated": "2026-11-27T19:58:47.201Z"
+  "lastUpdated": "2026-11-27T19:58:55.089Z"
 }
