@@ -63012,7 +63012,103 @@
         "createdBy": "muse",
         "batchIdempotencyKey": "460eaa1e-8828-4916-89f1-6d3ff145d9ec"
       }
+    },
+    {
+      "id": "muse-mwzen0cb-7tyue3",
+      "name": "Haitham Mokahel",
+      "email": "hmmokahel@yahoo.com",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:59:09.179Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:59:09.179Z",
+        "idempotencyKey": "52bc81d3-0a7e-41b6-be42-4651c1e7a490",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f60b3690-d04c-46c6-a5f9-6d971392b102"
+      }
+    },
+    {
+      "id": "muse-mwzen0cc-ttnxy1",
+      "name": "Bruno Alves",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:59:09.180Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:59:09.180Z",
+        "idempotencyKey": "a6a0a293-640e-438e-8912-a1557a98f979",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f60b3690-d04c-46c6-a5f9-6d971392b102"
+      }
+    },
+    {
+      "id": "muse-mwzen0cc-ff22sz",
+      "name": "Sergii Vlasyk",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:59:09.180Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:59:09.180Z",
+        "idempotencyKey": "eb7875ce-8c6a-4957-b808-792622b39881",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f60b3690-d04c-46c6-a5f9-6d971392b102"
+      }
+    },
+    {
+      "id": "muse-mwzen0cd-6lirm0",
+      "name": "Ryan Gallagher",
+      "email": "",
+      "phone": "",
+      "social": "facebook.com",
+      "source": "Facebook Page",
+      "status": "New Lead",
+      "videoSent": false,
+      "temperature": "Cold",
+      "lastAction": "Initial Contact",
+      "lastContact": "2026-11-27",
+      "nextFollowUp": null,
+      "notes": "Page opener sent 2026-11-27 via Michael Angel Page inbox (ManyChat lead, batch 17).",
+      "lastModified": "2026-11-27",
+      "dateAdded": "2026-11-27",
+      "addedAt": "2026-11-27T19:59:09.180Z",
+      "muse": {
+        "createdAt": "2026-11-27T19:59:09.180Z",
+        "idempotencyKey": "4690e72b-575a-4871-8a79-d56a13be00fa",
+        "createdBy": "muse",
+        "batchIdempotencyKey": "f60b3690-d04c-46c6-a5f9-6d971392b102"
+      }
     }
   ],
-  "lastUpdated": "2026-11-27T19:59:01.356Z"
+  "lastUpdated": "2026-11-27T19:59:09.181Z"
 }
